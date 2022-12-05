@@ -1,0 +1,118 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Godot/L5R_4/Display/StatusPanel.cs" type="Script" id=2]
+
+[node name="StatusPanel" type="Control"]
+margin_right = 120.0
+margin_bottom = 145.0
+rect_min_size = Vector2( 120, 145 )
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+margin_right = 120.0
+margin_bottom = 14.0
+text = "Honneur"
+align = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer"]
+margin_top = 18.0
+margin_right = 120.0
+margin_bottom = 33.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 0
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 5
+
+[node name="HonnorDisplay" type="ProgressBar" parent="VBoxContainer/MarginContainer"]
+margin_left = 20.0
+margin_right = 100.0
+margin_bottom = 10.0
+rect_min_size = Vector2( 0, 10 )
+max_value = 10.0
+step = 1.0
+percent_visible = false
+
+[node name="Label2" type="Label" parent="VBoxContainer"]
+margin_top = 37.0
+margin_right = 120.0
+margin_bottom = 51.0
+text = "Gloire"
+align = 1
+
+[node name="MarginContainer2" type="MarginContainer" parent="VBoxContainer"]
+margin_top = 55.0
+margin_right = 120.0
+margin_bottom = 70.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 0
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 5
+
+[node name="GloryDisplay" type="ProgressBar" parent="VBoxContainer/MarginContainer2"]
+margin_left = 20.0
+margin_right = 100.0
+margin_bottom = 10.0
+rect_min_size = Vector2( 0, 10 )
+max_value = 10.0
+step = 1.0
+percent_visible = false
+
+[node name="Label3" type="Label" parent="VBoxContainer"]
+margin_top = 74.0
+margin_right = 120.0
+margin_bottom = 88.0
+text = "Status"
+align = 1
+
+[node name="MarginContainer3" type="MarginContainer" parent="VBoxContainer"]
+margin_top = 92.0
+margin_right = 120.0
+margin_bottom = 107.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 0
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 5
+
+[node name="StatusDisplay" type="ProgressBar" parent="VBoxContainer/MarginContainer3"]
+margin_left = 20.0
+margin_right = 100.0
+margin_bottom = 10.0
+rect_min_size = Vector2( 0, 10 )
+max_value = 10.0
+step = 1.0
+percent_visible = false
+
+[node name="Label4" type="Label" parent="VBoxContainer"]
+margin_top = 111.0
+margin_right = 120.0
+margin_bottom = 125.0
+text = "Souillure"
+align = 1
+
+[node name="MarginContainer4" type="MarginContainer" parent="VBoxContainer"]
+margin_top = 129.0
+margin_right = 120.0
+margin_bottom = 144.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 0
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 5
+
+[node name="TaintDisplay" type="ProgressBar" parent="VBoxContainer/MarginContainer4"]
+margin_left = 20.0
+margin_right = 100.0
+margin_bottom = 10.0
+rect_min_size = Vector2( 0, 10 )
+max_value = 10.0
+step = 1.0
+percent_visible = false

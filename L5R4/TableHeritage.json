@@ -1,0 +1,677 @@
+[
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0000",
+    "Consequences": [
+      {
+        "Chances": 1,
+        "Tag": "HEC0001",
+        "Name": "BadRonin1",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0002",
+        "Name": "BadRonin2",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0003",
+        "Name": "BadRonin3",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0004",
+        "Name": "BadRonin4",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0005",
+        "Name": "BadRonin5",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 1,
+        "Tag": "HEC0006",
+        "Name": "BadRonin6",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0001",
+    "Name": "Ronin Indigne",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0000",
+    "Consequences": [
+      {
+        "Chances": 1,
+        "Tag": "HEC0007",
+        "Name": "GoodRonin1",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0008",
+        "Name": "GoodRonin2",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0009",
+        "Name": "GoodRonin3",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0010",
+        "Name": "GoodRonin4",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0011",
+        "Name": "GoodRonin5",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 1,
+        "Tag": "HEC0012",
+        "Name": "GoodRonin6",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0002",
+    "Name": "Ronin Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0000",
+    "Consequences": [
+      {
+        "Chances": 1,
+        "Tag": "HEC0013",
+        "Name": "MiddleRonin1",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0014",
+        "Name": "MiddleRonin2",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0015",
+        "Name": "MiddleRonin3",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0016",
+        "Name": "MiddleRonin4",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 2,
+        "Tag": "HEC0017",
+        "Name": "MiddleRonin5",
+        "Description": "TODO"
+      },
+      {
+        "Chances": 1,
+        "Tag": "HEC0018",
+        "Name": "MiddleRonin6",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0003",
+    "Name": "Ronin Mitigé",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0001",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0019",
+        "Name": "BadCrab",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0004",
+    "Name": "Crabe Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0001",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0020",
+        "Name": "GoodCrab",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0005",
+    "Name": "Crabe Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0001",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0021",
+        "Name": "MiddleCrab",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0006",
+    "Name": "Crabe Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0002",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0022",
+        "Name": "BadDragon",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0007",
+    "Name": "Dragon Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0002",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0023",
+        "Name": "GoodDragon",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0008",
+    "Name": "Dragon Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0002",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0024",
+        "Name": "MiddleDragon",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0009",
+    "Name": "Dragon Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0003",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0025",
+        "Name": "BadCrane",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0010",
+    "Name": "Grue Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0003",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0026",
+        "Name": "GoodCrane",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0011",
+    "Name": "Grue Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0003",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0027",
+        "Name": "MiddleCrane",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0012",
+    "Name": "Grue Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0004",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0028",
+        "Name": "BadUnicorn",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0013",
+    "Name": "Licorne Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0004",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0029",
+        "Name": "GoodUnicorn",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0014",
+    "Name": "Licorne Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0004",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0030",
+        "Name": "MiddleUnicorn",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0015",
+    "Name": "Licorne Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0005",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0031",
+        "Name": "BadLion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0016",
+    "Name": "Lion Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0005",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0032",
+        "Name": "GoodLion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0017",
+    "Name": "Lion Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0005",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0033",
+        "Name": "MiddleLion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0018",
+    "Name": "Lion Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0006",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0034",
+        "Name": "BadMantis",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0019",
+    "Name": "Mante Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0006",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0035",
+        "Name": "GoodMantis",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0020",
+    "Name": "Mante Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0006",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0036",
+        "Name": "MiddleMantis",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0021",
+    "Name": "Mante Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0007",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0037",
+        "Name": "BadPhoenix",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0022",
+    "Name": "Phénix Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0007",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0038",
+        "Name": "GoodPhoenix",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0023",
+    "Name": "Phénix Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0007",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0039",
+        "Name": "MiddlePhoenix",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0024",
+    "Name": "Phénix Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0008",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0040",
+        "Name": "BadScorpion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0025",
+    "Name": "Scorpion Honteux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0008",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0041",
+        "Name": "GoodScorpion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0026",
+    "Name": "Scorpion Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0008",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0042",
+        "Name": "MiddleScorpion",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0027",
+    "Name": "Scorpion Trouble",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0009",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0043",
+        "Name": "BadSpider",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0028",
+    "Name": "Né des Ténèbres",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0009",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0044",
+        "Name": "GoodSpider",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0029",
+    "Name": "Déchu",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0009",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0045",
+        "Name": "MiddleSpider",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0030",
+    "Name": "Au Service des Oracles",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0010",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0046",
+        "Name": "BadImperial",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0031",
+    "Name": "Impérial Indigne",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0010",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0047",
+        "Name": "GoodImperial",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0032",
+    "Name": "Impérial Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0010",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0048",
+        "Name": "MiddleImperial",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0033",
+    "Name": "Impérial Mitigé",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0024",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0049",
+        "Name": "BadMonk",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0034",
+    "Name": "Confrère Indigne",
+    "Description": "-"
+  },
+  {
+    "Chances": 5,
+    "Clan_Tag": "CLN0024",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0050",
+        "Name": "GoodMonk",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0035",
+    "Name": "Confrère Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 2,
+    "Clan_Tag": "CLN0024",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0051",
+        "Name": "MiddleMonk",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0036",
+    "Name": "Confrère Mitigé",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0025",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0052",
+        "Name": "BadMinorClan",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0037",
+    "Name": "Ancêtre Indigne",
+    "Description": "-"
+  },
+  {
+    "Chances": 4,
+    "Clan_Tag": "CLN0025",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0053",
+        "Name": "GoodMinorClan",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0038",
+    "Name": "Ancêtre Glorieux",
+    "Description": "-"
+  },
+  {
+    "Chances": 3,
+    "Clan_Tag": "CLN0025",
+    "Consequences": [
+      {
+        "Chances": 0,
+        "Tag": "HEC0054",
+        "Name": "MiddleMinorClan",
+        "Description": "TODO"
+      }
+    ],
+    "Tag": "HER0039",
+    "Name": "Ancêtre Mitigé",
+    "Description": "-"
+  }
+]

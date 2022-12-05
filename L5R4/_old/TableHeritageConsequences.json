@@ -1,0 +1,380 @@
+[
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0001",
+    "Name": "BadRonin1",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0002",
+    "Name": "BadRonin2",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0003",
+    "Name": "BadRonin3",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0004",
+    "Name": "BadRonin4",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0005",
+    "Name": "BadRonin5",
+    "Description": null
+  },
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0001",
+    "Tag": "HEC0006",
+    "Name": "BadRonin6",
+    "Description": null
+  },
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0007",
+    "Name": "GoodRonin1",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0008",
+    "Name": "GoodRonin2",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0009",
+    "Name": "GoodRonin3",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0010",
+    "Name": "GoodRonin4",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0011",
+    "Name": "GoodRonin5",
+    "Description": null
+  },
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0002",
+    "Tag": "HEC0012",
+    "Name": "GoodRonin6",
+    "Description": null
+  },
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0013",
+    "Name": "MiddleRonin1",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0014",
+    "Name": "MiddleRonin2",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0015",
+    "Name": "MiddleRonin3",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0016",
+    "Name": "MiddleRonin4",
+    "Description": null
+  },
+  {
+    "Chances": 2,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0017",
+    "Name": "MiddleRonin5",
+    "Description": null
+  },
+  {
+    "Chances": 1,
+    "TableHeritage_Tag": "HER0003",
+    "Tag": "HEC0018",
+    "Name": "MiddleRonin6",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0004",
+    "Tag": "HEC0019",
+    "Name": "BadCrab",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0005",
+    "Tag": "HEC0020",
+    "Name": "GoodCrab",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0006",
+    "Tag": "HEC0021",
+    "Name": "MiddleCrab",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0007",
+    "Tag": "HEC0022",
+    "Name": "BadDragon",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0008",
+    "Tag": "HEC0023",
+    "Name": "GoodDragon",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0009",
+    "Tag": "HEC0024",
+    "Name": "MiddleDragon",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0010",
+    "Tag": "HEC0025",
+    "Name": "BadCrane",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0011",
+    "Tag": "HEC0026",
+    "Name": "GoodCrane",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0012",
+    "Tag": "HEC0027",
+    "Name": "MiddleCrane",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0013",
+    "Tag": "HEC0028",
+    "Name": "BadUnicorn",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0014",
+    "Tag": "HEC0029",
+    "Name": "GoodUnicorn",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0015",
+    "Tag": "HEC0030",
+    "Name": "MiddleUnicorn",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0016",
+    "Tag": "HEC0031",
+    "Name": "BadLion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0017",
+    "Tag": "HEC0032",
+    "Name": "GoodLion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0018",
+    "Tag": "HEC0033",
+    "Name": "MiddleLion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0019",
+    "Tag": "HEC0034",
+    "Name": "BadMantis",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0020",
+    "Tag": "HEC0035",
+    "Name": "GoodMantis",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0021",
+    "Tag": "HEC0036",
+    "Name": "MiddleMantis",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0022",
+    "Tag": "HEC0037",
+    "Name": "BadPhoenix",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0023",
+    "Tag": "HEC0038",
+    "Name": "GoodPhoenix",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0024",
+    "Tag": "HEC0039",
+    "Name": "MiddlePhoenix",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0025",
+    "Tag": "HEC0040",
+    "Name": "BadScorpion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0026",
+    "Tag": "HEC0041",
+    "Name": "GoodScorpion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0027",
+    "Tag": "HEC0042",
+    "Name": "MiddleScorpion",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0028",
+    "Tag": "HEC0043",
+    "Name": "BadSpider",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0029",
+    "Tag": "HEC0044",
+    "Name": "GoodSpider",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0030",
+    "Tag": "HEC0045",
+    "Name": "MiddleSpider",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0031",
+    "Tag": "HEC0046",
+    "Name": "BadImperial",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0032",
+    "Tag": "HEC0047",
+    "Name": "GoodImperial",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0033",
+    "Tag": "HEC0048",
+    "Name": "MiddleImperial",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0034",
+    "Tag": "HEC0049",
+    "Name": "BadMonk",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0035",
+    "Tag": "HEC0050",
+    "Name": "GoodMonk",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0036",
+    "Tag": "HEC0051",
+    "Name": "MiddleMonk",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0037",
+    "Tag": "HEC0052",
+    "Name": "BadMinorClan",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0038",
+    "Tag": "HEC0053",
+    "Name": "GoodMinorClan",
+    "Description": null
+  },
+  {
+    "Chances": 0,
+    "TableHeritage_Tag": "HER0039",
+    "Tag": "HEC0054",
+    "Name": "MiddleMinorClan",
+    "Description": null
+  }
+]

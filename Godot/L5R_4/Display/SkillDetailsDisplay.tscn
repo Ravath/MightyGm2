@@ -1,0 +1,66 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Godot/L5R_4/Display/SkillDetailsDisplay.cs" type="Script" id=1]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_bottom = -560.0
+rect_min_size = Vector2( 674, 40 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_constants/separation = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AttributeLabel" type="Button" parent="HBoxContainer"]
+margin_top = 4.0
+margin_right = 70.0
+margin_bottom = 34.0
+rect_min_size = Vector2( 70, 30 )
+size_flags_horizontal = 4
+size_flags_vertical = 4
+text = "Agilité"
+
+[node name="MasteryLabel" type="Label" parent="HBoxContainer"]
+margin_left = 73.0
+margin_right = 718.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 300, 0 )
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "- Maitrise 1 : DESC
+- Maitrise 2 : DESC"
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="SpecialtyLabel" type="Label" parent="HBoxContainer"]
+margin_left = 721.0
+margin_right = 921.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_vertical = 3
+text = "- Spe1
+- Spe2"
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RollButton" type="Button" parent="HBoxContainer"]
+margin_left = 924.0
+margin_right = 1024.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 100, 40 )
+size_flags_vertical = 4
+text = "Roll"
+[connection signal="pressed" from="HBoxContainer/RollButton" to="." method="_on_RollButton_pressed"]

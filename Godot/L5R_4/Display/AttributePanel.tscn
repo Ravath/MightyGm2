@@ -1,0 +1,376 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Font/NotoSansCJKjp-Medium.otf" type="DynamicFontData" id=1]
+[ext_resource path="res://Godot/Tools/CircularDisplay.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Godot/Tools/ValueDisplay.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Godot/L5R_4/Display/AttributePanel.cs" type="Script" id=4]
+[ext_resource path="res://Godot/Tools/GaugeDisplay.tscn" type="PackedScene" id=5]
+
+[sub_resource type="DynamicFont" id=1]
+font_data = ExtResource( 1 )
+
+[node name="AttributePanel" type="Control"]
+anchor_right = 0.629
+anchor_bottom = 0.37
+margin_right = -44.096
+margin_bottom = -22.0
+rect_min_size = Vector2( 500, 220 )
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+margin_right = 600.0
+margin_bottom = 180.0
+alignment = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainerLeft" type="VBoxContainer" parent="VBoxContainer/HBoxContainer"]
+margin_left = 56.0
+margin_right = 206.0
+margin_bottom = 180.0
+rect_min_size = Vector2( 150, 0 )
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="AttContainer1" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft"]
+margin_right = 150.0
+margin_bottom = 40.0
+alignment = 2
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer1"]
+margin_left = 28.0
+margin_top = 13.0
+margin_right = 106.0
+margin_bottom = 27.0
+text = "Constitution"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer1" instance=ExtResource( 3 )]
+margin_left = 110.0
+margin_right = 150.0
+
+[node name="AttContainer2" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft"]
+margin_top = 44.0
+margin_right = 150.0
+margin_bottom = 84.0
+alignment = 2
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer2"]
+margin_left = 43.0
+margin_top = 13.0
+margin_right = 92.0
+margin_bottom = 27.0
+text = "Volonté"
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer2" instance=ExtResource( 3 )]
+margin_left = 96.0
+margin_right = 136.0
+
+[node name="Control" type="Control" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer2"]
+margin_left = 140.0
+margin_right = 150.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 10, 0 )
+
+[node name="AttContainer3" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft"]
+margin_top = 88.0
+margin_right = 150.0
+margin_bottom = 128.0
+alignment = 2
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer3"]
+margin_left = 57.0
+margin_top = 13.0
+margin_right = 92.0
+margin_bottom = 27.0
+text = "Force"
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer3" instance=ExtResource( 3 )]
+margin_left = 96.0
+margin_right = 136.0
+
+[node name="Control" type="Control" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer3"]
+margin_left = 140.0
+margin_right = 150.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 10, 0 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AttContainer4" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft"]
+margin_top = 132.0
+margin_right = 150.0
+margin_bottom = 172.0
+alignment = 2
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer4"]
+margin_left = 37.0
+margin_top = 13.0
+margin_right = 106.0
+margin_bottom = 27.0
+text = "Perception"
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerLeft/AttContainer4" instance=ExtResource( 3 )]
+margin_left = 110.0
+margin_right = 150.0
+
+[node name="CenterContainer" type="CenterContainer" parent="VBoxContainer/HBoxContainer"]
+margin_left = 210.0
+margin_right = 390.0
+margin_bottom = 180.0
+rect_min_size = Vector2( 180, 180 )
+
+[node name="RingLabels" parent="VBoxContainer/HBoxContainer/CenterContainer" instance=ExtResource( 2 )]
+position = Vector2( 90, 90 )
+AngularOffset = 1.571
+Radius = 70
+
+[node name="Label" type="Label" parent="VBoxContainer/HBoxContainer/CenterContainer/RingLabels"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -12.5
+margin_right = 25.0
+margin_bottom = 12.5
+custom_fonts/font = SubResource( 1 )
+text = "Vide"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label2" type="Label" parent="VBoxContainer/HBoxContainer/CenterContainer/RingLabels"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -15.5
+margin_right = 25.0
+margin_bottom = 15.5
+custom_fonts/font = SubResource( 1 )
+text = "Eau"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label3" type="Label" parent="VBoxContainer/HBoxContainer/CenterContainer/RingLabels"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -15.5
+margin_right = 25.0
+margin_bottom = 15.5
+custom_fonts/font = SubResource( 1 )
+text = "Terre"
+align = 1
+valign = 1
+
+[node name="Label4" type="Label" parent="VBoxContainer/HBoxContainer/CenterContainer/RingLabels"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -15.5
+margin_right = 25.0
+margin_bottom = 15.5
+custom_fonts/font = SubResource( 1 )
+text = "Air"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label5" type="Label" parent="VBoxContainer/HBoxContainer/CenterContainer/RingLabels"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -15.5
+margin_right = 25.0
+margin_bottom = 15.5
+custom_fonts/font = SubResource( 1 )
+text = "Feu"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RingValues" parent="VBoxContainer/HBoxContainer/CenterContainer" instance=ExtResource( 2 )]
+position = Vector2( 90, 90 )
+AngularOffset = 1.571
+Radius = 40
+
+[node name="Void" parent="VBoxContainer/HBoxContainer/CenterContainer/RingValues" instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -25.0
+margin_right = 25.0
+margin_bottom = 25.0
+
+[node name="Water" parent="VBoxContainer/HBoxContainer/CenterContainer/RingValues" instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -25.0
+margin_right = 25.0
+margin_bottom = 25.0
+
+[node name="Earth" parent="VBoxContainer/HBoxContainer/CenterContainer/RingValues" instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -25.0
+margin_right = 25.0
+margin_bottom = 25.0
+
+[node name="Air" parent="VBoxContainer/HBoxContainer/CenterContainer/RingValues" instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -25.0
+margin_right = 25.0
+margin_bottom = 25.0
+
+[node name="Fire" parent="VBoxContainer/HBoxContainer/CenterContainer/RingValues" instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -25.0
+margin_top = -25.0
+margin_right = 25.0
+margin_bottom = 25.0
+
+[node name="VBoxContainerRight" type="VBoxContainer" parent="VBoxContainer/HBoxContainer"]
+margin_left = 394.0
+margin_right = 544.0
+margin_bottom = 180.0
+rect_min_size = Vector2( 150, 0 )
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="AttContainer1" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerRight"]
+margin_right = 150.0
+margin_bottom = 40.0
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer1" instance=ExtResource( 3 )]
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer1"]
+margin_left = 44.0
+margin_top = 13.0
+margin_right = 98.0
+margin_bottom = 27.0
+text = "Reflexes"
+
+[node name="AttContainer2" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerRight"]
+margin_top = 44.0
+margin_right = 150.0
+margin_bottom = 84.0
+
+[node name="Control" type="Control" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer2"]
+margin_right = 10.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 10, 0 )
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer2" instance=ExtResource( 3 )]
+margin_left = 14.0
+margin_right = 54.0
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer2"]
+margin_left = 58.0
+margin_top = 13.0
+margin_right = 113.0
+margin_bottom = 27.0
+text = "Intuition"
+
+[node name="AttContainer3" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerRight"]
+margin_top = 88.0
+margin_right = 150.0
+margin_bottom = 128.0
+
+[node name="Control" type="Control" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer3"]
+margin_right = 10.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 10, 0 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer3" instance=ExtResource( 3 )]
+margin_left = 14.0
+margin_right = 54.0
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer3"]
+margin_left = 58.0
+margin_top = 13.0
+margin_right = 99.0
+margin_bottom = 27.0
+text = "Agilité"
+
+[node name="AttContainer4" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/VBoxContainerRight"]
+margin_top = 132.0
+margin_right = 150.0
+margin_bottom = 172.0
+
+[node name="AttDisplay" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer4" instance=ExtResource( 3 )]
+
+[node name="AttLabel" type="Label" parent="VBoxContainer/HBoxContainer/VBoxContainerRight/AttContainer4"]
+margin_left = 44.0
+margin_top = 13.0
+margin_right = 120.0
+margin_bottom = 27.0
+text = "Intelligence"
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer"]
+margin_top = 184.0
+margin_right = 600.0
+margin_bottom = 204.0
+rect_min_size = Vector2( 0, 20 )
+custom_constants/margin_right = 200
+custom_constants/margin_left = 200
+
+[node name="GaugeDisplay" parent="VBoxContainer/MarginContainer" instance=ExtResource( 5 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 200.0
+margin_right = 400.0
+margin_bottom = 20.0

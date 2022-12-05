@@ -1,0 +1,1263 @@
+[
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0001",
+    "Name": "Accessoires de pêche",
+    "Description": "Un hameçon, un fil solide, un petit filet et un couteau pour nettoyer le poisson."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0002",
+    "Name": "Accessoires de thé",
+    "Description": "Nécessaires pour accomplir la cérémonie du thé."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0003",
+    "Name": "Aiguilles de tatoueur",
+    "Description": "En acier ou en bambou."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0004",
+    "Name": "Animal domestique",
+    "Description": "Chien, chat, rossignol, singe ou autre."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0005",
+    "Name": "Baguettes",
+    "Description": "Couverts Rokugani."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0006",
+    "Name": "Balle de kemari",
+    "Description": "Une sorte de ballon en cuir utilisé pour jouer au Kemari, un sport populaire."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0007",
+    "Name": "Bol à saké",
+    "Description": "Les invités apportent souvent leur propre bol."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0008",
+    "Name": "Bougie",
+    "Description": "Une simple bougie."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0009",
+    "Name": "Bourse",
+    "Description": "Petit sac facile à dissimuler et destiné à contenir des pièces."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0010",
+    "Name": "Bouteille de saké",
+    "Description": "Vin de riz, une boisson très populaire chez les bushi."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0011",
+    "Name": "Bouteille de shochu",
+    "Description": "Une boisson alcoolique distillée, très forte."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0012",
+    "Name": "Bouteille de teinture",
+    "Description": "Utilisée pour la fabrication des vêtements ou pour colorer les cheveux."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0013",
+    "Name": "Bouteille vide",
+    "Description": "En faïence ou parfois en verre importé, et utilisée pour transporter des liquides."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0014",
+    "Name": "Brasero",
+    "Description": "Récipient destiné à accueillir des substances incandescentes ou pour chauffer des liquides."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0015",
+    "Name": "Canne de marche",
+    "Description": "Une simple canne facilitant la marche. Ne peut pas servir d'arme."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0016",
+    "Name": "Carquois",
+    "Description": "Étui en étoffe recevant les flèches (jusqu'à 60)."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0017",
+    "Name": "Coffre de bois",
+    "Description": "Coffre en bois pourvu d'une serrure pour stocker les objets précieux."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 8,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0018",
+    "Name": "Coffre de métal",
+    "Description": "Coffre en métal pourvu d'une serrure pour stocker les objets précieux."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0019",
+    "Name": "Corde(par 30cm)",
+    "Description": "De qualité variable, en chanvre, cheveux tissés ou soie."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0020",
+    "Name": "Couverture",
+    "Description": "Une couverture grossière adaptée aux voyages. On en utilise souvent plusieurs pour rester au chaud."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 4,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0021",
+    "Name": "Criquet porte-bonheur",
+    "Description": "Un petit criquet dans une cage."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 25,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0022",
+    "Name": "Dés et gobelet",
+    "Description": "Utilisés pour les jeux de hasard."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0023",
+    "Name": "Doigt de jade",
+    "Description": "Rare, et utilisé pour se protéger de l'influence de l'Outremonde."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0024",
+    "Name": "Douceurs (x4)",
+    "Description": "Les en-cas populaires comprennent les petits gâteaux, les sucreries, les petits pains ou le riz au miel."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0025",
+    "Name": "Écritoire",
+    "Description": "La boite sumi-e contient des pinceaux, des pierres à encre, un bol et du sable."
+  },
+  {
+    "CoutMax": 5,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0026",
+    "Name": "Épices (bouteille)",
+    "Description": "Utilisées pour donner du goût à la nourriture lors des voyages, ou pour faire du troc."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0027",
+    "Name": "Grappin",
+    "Description": "Un crochet de fer conçu pour être attaché au bout d'une corde et faciliter l'escalade."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0028",
+    "Name": "Huile de lanterne (fiole)",
+    "Description": "Une fiole contenant suffisamment d'huile pour éclairer 2 heures."
+  },
+  {
+    "CoutMax": 5,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0029",
+    "Name": "Instrument de musique",
+    "Description": "Parmi les plus courants, on peut citer le shamisen, le biwa, la flûte et le tambourin."
+  },
+  {
+    "CoutMax": -1,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0030",
+    "Name": "Jeu de voyage",
+    "Description": "Pièces et plateau de go, de shogi ou autres jeux."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0031",
+    "Name": "Kiseru",
+    "Description": "Une simple pipe à tabac."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0032",
+    "Name": "Kubi bukuro",
+    "Description": "Un filet servant à transporter et à montrer la tête coupée d'un ennemi."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0033",
+    "Name": "Lanterne en papier",
+    "Description": "Utilisée pour la décoration et l'éclairage."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 4,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0034",
+    "Name": "Lanterne en métal",
+    "Description": "Utilisée pour la décoration et l'éclairage."
+  },
+  {
+    "CoutMax": 50,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0035",
+    "Name": "Livre de chevet",
+    "Description": "Petit livre à la reliure grossière traitant généralement de romance, d'aventure ou de poésie."
+  },
+  {
+    "CoutMax": 10,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0036",
+    "Name": "Livres et parchemins",
+    "Description": "Des supports robustes permettant d'écrire un journal ou de rassembler des informations."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0037",
+    "Name": "Marteau de forgeron",
+    "Description": "Nécessaire pour fabriquer des armes et armures."
+  },
+  {
+    "CoutMax": 100,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0038",
+    "Name": "Miroir",
+    "Description": "En verre ou en métal, parfaitement poli."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0039",
+    "Name": "Mortier et pilon",
+    "Description": "Utilisés pour moudre et mélanger les ingrédients."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0040",
+    "Name": "Nécessaire d'archer",
+    "Description": "Utilisé pour l'entretient des arcs et des flèches."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0041",
+    "Name": "Nécessaire de divination",
+    "Description": "Ensemble de pièces ou de bâtonnets sculptés utilisés pour prédire l'avenir."
+  },
+  {
+    "CoutMax": -1,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0042",
+    "Name": "Nécessaire de premiers soins",
+    "Description": "Une aiguille et du fil, des bandages, des plantes désinfectantes."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0043",
+    "Name": "Palanquin",
+    "Description": "Somptueux véhicule de transport personnel porté par des serviteurs."
+  },
+  {
+    "CoutMax": 5,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0044",
+    "Name": "Panier",
+    "Description": "Le récipient le plus répandu, en osier."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0045",
+    "Name": "Papier (5 feuilles)",
+    "Description": "Idéal pour rédiger des parchemins ou des livres."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0046",
+    "Name": "Parapluie",
+    "Description": "En osier ou en soie, permet de se protéger de la pluie."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0047",
+    "Name": "Parchemin et fusain (x10)",
+    "Description": "Une alternative peu coûteuse au pinceau et à l'encre."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 5,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0048",
+    "Name": "Pelle",
+    "Description": "Un simple outil permettant de creuser."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 5,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0049",
+    "Name": "Petit couteau",
+    "Description": "Utilisé pour sculpter ou dans le cadre de la toilette."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0050",
+    "Name": "Petit étendard dorsal",
+    "Description": "Indique le nom, le rang, la famille et le clan du porteur."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0051",
+    "Name": "Petit tabouret pliant",
+    "Description": "Porté par les soldats pour économiser leurs forces."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0052",
+    "Name": "Petite peinture ou sculpture",
+    "Description": "Objet ayant une valeur sentimentale ou destiné à être offert."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0053",
+    "Name": "Petite statue d'une fortune",
+    "Description": "Objet ayant une valeur sentimentale ou faisant office de porte-bonheur."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0054",
+    "Name": "Petite statue d'un ancêtre",
+    "Description": "Objet ayant une valeur sentimentale ou faisant office de porte-bonheur."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0055",
+    "Name": "Petite tente",
+    "Description": "Pour deux personnes."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0056",
+    "Name": "Pierre à aiguiser",
+    "Description": "Utilisée pour aiguiser les armes, mais pas le Katana ou le Wakizashi."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0057",
+    "Name": "Pierre à briquet et aiguisoir",
+    "Description": "Sert à faire des étincelles pour faire un feu."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 15,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0058",
+    "Name": "Pot en fer",
+    "Description": "Utilisé pour faire la cuisine en voyage."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 5,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0059",
+    "Name": "Ration de voyage (repas)",
+    "Description": "Riz ou poisson séché, enveloppé dans du papier."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0060",
+    "Name": "Rouleau de soie ou d'étoffe",
+    "Description": "Utilisé pour raccommoder, envelopper, etc,…"
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0061",
+    "Name": "Sac à dos",
+    "Description": "Les sacs à dos Rokugani se composent d'une structure en osier, ce qui les rend assez rigides."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0062",
+    "Name": "Sac furoshiki",
+    "Description": "Un solide sac en soie refermé par un cordon."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 4,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0063",
+    "Name": "Sceau ou symbole personnel",
+    "Description": "Utiliser pour signer des documents officiels et justifier son identité."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0064",
+    "Name": "Seau",
+    "Description": "Récipient métallique pourvu d'une anse et essentiellement destiné à transporter de l'eau."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0065",
+    "Name": "Support à Daisho",
+    "Description": "Facile à démonter et à transporter, il s'agit d'un présentoir destiné à accueillir un daisho et un tanto."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0066",
+    "Name": "Tapis tatami",
+    "Description": "Utilisé pour s'asseoir ou dormir par terre."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0067",
+    "Name": "Tente chomchog",
+    "Description": "Une grande tente complexe dont se sert le clan de la Licorne."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0068",
+    "Name": "Tente yourte",
+    "Description": "Plus petite que le chomcog, mais plus grande qu'une tente ordinaire. Utilisée par le clan de la Licorne."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 75,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0069",
+    "Name": "Cape de voyage",
+    "Description": "Un épais manteau qu'on porte par-dessus les vêtements lors des voyages."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0070",
+    "Name": "Chapeau de paille à large bord",
+    "Description": "Utilisé pour protéger le visage du soleil."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0071",
+    "Name": "Coiffe de courtisan",
+    "Description": "Coiffe pointue populaire chez les courtisans et les bureaucrates."
+  },
+  {
+    "CoutMax": -1,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 40,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0072",
+    "Name": "Éventail de courtisan",
+    "Description": "Éventail en papier décoré."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 75,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0073",
+    "Name": "Hakama",
+    "Description": "Pantalon s'arrêtant à hauteur des genoux."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 25,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0074",
+    "Name": "Haori",
+    "Description": "Vêtement semblable à une veste et porté par-dessus le kimono."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 40,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0075",
+    "Name": "Kataginu",
+    "Description": "Vêtement porté par-dessus le kimono pour mettre les épaules en valeur."
+  },
+  {
+    "CoutMax": -1,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0076",
+    "Name": "Kimono",
+    "Description": "La robe de base que portent tous les samouraï. Inclut une ceinture/écharpe (obi)."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0077",
+    "Name": "Masque",
+    "Description": "Fait de diverses matières, de la soie au métal(mempo)."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0078",
+    "Name": "Nécessaire de maquillage",
+    "Description": "Poudre pour le visage et maquillage."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0079",
+    "Name": "Netsuke",
+    "Description": "Petit bijou, comme une boucle d'oreille, un anneau, un bracelet."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0080",
+    "Name": "Parfum (petite bouteille)",
+    "Description": "Fabriqué à partir de diverses plantes et substances."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0081",
+    "Name": "Peinture de guerre (fiole)",
+    "Description": "Populaire chez les guerriers du clan du Crabe, de la Licorne et du Lion."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0082",
+    "Name": "Perruque",
+    "Description": "Utilisé pour se déguiser ou attirer l'attention à la cour."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 25,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0083",
+    "Name": "Poche d'obi",
+    "Description": "Une petite poche qui se fixe à la ceinture."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0084",
+    "Name": "Raquettes",
+    "Description": "Chaussures à large bords permettant d'éviter de s’enfoncer dans la neige."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": true,
+    "Cout": {
+      "Value": 50,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0085",
+    "Name": "Sandales",
+    "Description": "Les chaussures les plus simples et les plus répandues."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0086",
+    "Name": "Vêtements Robustes",
+    "Description": "Des vêtements robustes et fonctionnels, faits pour durer et résister à la tâche."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 6,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0087",
+    "Name": "Vêtements Traditionnels",
+    "Description": "Des vêtements dans le plus pur style Rokugani, agréables à porter et à regarder."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0088",
+    "Name": "Vêtements Grossiers",
+    "Description": "Des vêtements utilisés par les voyageurs ou les peu fortunés, plus préoccupés par l'usage de leurs vêtements que par leur apparence."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0089",
+    "Name": "Vêtements Extravagants",
+    "Description": "Des vêtements faits pour être vu. La superbe d'un paon, alliée au talent des hauts couturiers parent le porteur de ces magnifiquent atours. "
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0090",
+    "Name": "Vêtements Discrets",
+    "Description": "Des vêtements noirs et discrets, serrés afin de faciliter les monvements et éviter les froissements."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0091",
+    "Name": "Extraits du Tao",
+    "Description": "Des extraits pleins de la sagesse de Sun Tao, afin de rester toujours à portée de ses paroles immmortelles."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 4,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0092",
+    "Name": "Etui à parchemins",
+    "Description": "Un étui muni d'une sangle, afin de protéger les parchemins lors des transports."
+  },
+  {
+    "CoutMax": null,
+    "Type": "divers",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "OBJ0093",
+    "Name": "Nécessaire de calligraphie",
+    "Description": "Une boîte élégante, contenant toutes les plumes et encres necessaires."
+  },
+  {
+    "CoutMax": null,
+    "Type": "vetement",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 15,
+      "Unit": "zeni"
+    },
+    "Special": [],
+    "Tag": "OBJ0094",
+    "Name": "Robe",
+    "Description": "Une robe sacerdocale ou bureaucratique, signe de votre érudition."
+  },
+  {
+    "CoutMax": null,
+    "Type": "suivant",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 25,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0095",
+    "Name": "Poney Rokugani",
+    "Description": null
+  },
+  {
+    "CoutMax": null,
+    "Type": "suivant",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 75,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0096",
+    "Name": "Cheval Gaijin",
+    "Description": null
+  },
+  {
+    "CoutMax": null,
+    "Type": "suivant",
+    "NecessaireVoyage": false,
+    "Cout": {
+      "Value": 250,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "OBJ0097",
+    "Name": "Destrier Utaku",
+    "Description": null
+  }
+]

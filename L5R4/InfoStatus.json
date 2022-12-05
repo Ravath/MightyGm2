@@ -1,0 +1,217 @@
+[
+  {
+    "Rang": 1,
+    "Value": 10,
+    "Description": "L'Empereur"
+  },
+  {
+    "Rang": 2,
+    "Value": 9.9,
+    "Description": "L'Impératrice"
+  },
+  {
+    "Rang": 3,
+    "Value": 9.5,
+    "Description": "La Voix de l'Empereur"
+  },
+  {
+    "Rang": 4,
+    "Value": 9.4,
+    "Description": "Enfant de l'Empereur"
+  },
+  {
+    "Rang": 5,
+    "Value": 9.3,
+    "Description": "Daimyo des Familles Miya, Otomo, et Seppun"
+  },
+  {
+    "Rang": 6,
+    "Value": 9,
+    "Description": "Champion d'Emeraude, de Jade, Shogun"
+  },
+  {
+    "Rang": 7,
+    "Value": 9,
+    "Description": "Chancelier Impérial, Conseiller Impérial"
+  },
+  {
+    "Rang": 8,
+    "Value": 8,
+    "Description": "Champion de Clan Majeur"
+  },
+  {
+    "Rang": 9,
+    "Value": 7.5,
+    "Description": "Champion de Clan Mineur"
+  },
+  {
+    "Rang": 10,
+    "Value": 7,
+    "Description": "Héraut Impérial"
+  },
+  {
+    "Rang": 11,
+    "Value": 7,
+    "Description": "Trésorier Impérial"
+  },
+  {
+    "Rang": 12,
+    "Value": 7,
+    "Description": "Daimyo des Familles des Clans Majeurs"
+  },
+  {
+    "Rang": 13,
+    "Value": 7,
+    "Description": "Rikugunshokan (commandant d'une armée)"
+  },
+  {
+    "Rang": 14,
+    "Value": 6,
+    "Description": "Hatamoto (Chef des suivants d'un Daimyo)"
+  },
+  {
+    "Rang": 15,
+    "Value": 6,
+    "Description": "Gouverneur Provincial"
+  },
+  {
+    "Rang": 16,
+    "Value": 6,
+    "Description": "Shireikan (commandant de plusieurs légions)"
+  },
+  {
+    "Rang": 17,
+    "Value": 5,
+    "Description": "Gouverneur  d'une Cité"
+  },
+  {
+    "Rang": 18,
+    "Value": 5.5,
+    "Description": "Taisa (Commandant d'une Légion)"
+  },
+  {
+    "Rang": 19,
+    "Value": 5,
+    "Description": "Chui (Commandant d'une compagnie)"
+  },
+  {
+    "Rang": 20,
+    "Value": 5,
+    "Description": "Daimyo d'une Famille Vassale"
+  },
+  {
+    "Rang": 21,
+    "Value": 4.7,
+    "Description": "Karo (Conseiller d'un gouverneur ou d'une famille)"
+  },
+  {
+    "Rang": 22,
+    "Value": 4.5,
+    "Description": "Magistat d'Emeraude ou de Jade"
+  },
+  {
+    "Rang": 23,
+    "Value": 4,
+    "Description": "Magistat de Clan"
+  },
+  {
+    "Rang": 24,
+    "Value": 3,
+    "Description": "Gunso (Commandant d'un Escadron)"
+  },
+  {
+    "Rang": 25,
+    "Value": 3,
+    "Description": "Samurai Standard d'une Famille Impériale"
+  },
+  {
+    "Rang": 26,
+    "Value": 2,
+    "Description": "Diplomate, Gokenin (responsable d'un domaine)"
+  },
+  {
+    "Rang": 27,
+    "Value": 2,
+    "Description": "Shisha (messager impérial)"
+  },
+  {
+    "Rang": 28,
+    "Value": 1.5,
+    "Description": "Nikutai (premier officier d'un Gunso)"
+  },
+  {
+    "Rang": 29,
+    "Value": 1,
+    "Description": "Samurai Standard d'un Clan Majeur ou Mineur"
+  },
+  {
+    "Rang": 30,
+    "Value": 3,
+    "Description": "Hohei (soldat)"
+  },
+  {
+    "Rang": 31,
+    "Value": 1,
+    "Description": "Moine standard de la Confrérie de Shinsei"
+  },
+  {
+    "Rang": 32,
+    "Value": 0.5,
+    "Description": "Ji-Samurai (familles vassales)"
+  },
+  {
+    "Rang": 33,
+    "Value": 0,
+    "Description": "Ronin"
+  },
+  {
+    "Rang": 34,
+    "Value": 0.4,
+    "Description": "Ashigaru (soldat paysan)"
+  },
+  {
+    "Rang": 35,
+    "Value": 0.3,
+    "Description": "Doshin (officier de village)"
+  },
+  {
+    "Rang": 36,
+    "Value": 0.2,
+    "Description": "Budoka (Guerrier paysan)"
+  },
+  {
+    "Rang": 37,
+    "Value": 0.1,
+    "Description": "Artisan, Marchands"
+  },
+  {
+    "Rang": 38,
+    "Value": 0,
+    "Description": "Conscrit, Paysan"
+  },
+  {
+    "Rang": 39,
+    "Value": -1,
+    "Description": "Saltimbanque, Geisha"
+  },
+  {
+    "Rang": 40,
+    "Value": -4,
+    "Description": "Travailleur de Cuir, Boucher"
+  },
+  {
+    "Rang": 41,
+    "Value": -5,
+    "Description": "Bourreau"
+  },
+  {
+    "Rang": 42,
+    "Value": -8,
+    "Description": "Fossoyeur"
+  },
+  {
+    "Rang": 43,
+    "Value": -10,
+    "Description": "Ninja"
+  }
+]

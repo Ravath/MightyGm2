@@ -1,0 +1,863 @@
+[
+  {
+    "Competence_Tag": "CPT0001",
+    "Degradante": false,
+    "Tag": "SPC0001",
+    "Name": "Faveur",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0001",
+    "Degradante": false,
+    "Tag": "SPC0002",
+    "Name": "Recherche de Sorts",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0002",
+    "Degradante": false,
+    "Tag": "SPC0003",
+    "Name": "Code Secret",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0002",
+    "Degradante": false,
+    "Tag": "SPC0004",
+    "Name": "Haut Rokugani",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0004",
+    "Degradante": false,
+    "Tag": "SPC0005",
+    "Name": "Clan",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0004",
+    "Degradante": false,
+    "Tag": "SPC0006",
+    "Name": "Sexe",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0004",
+    "Degradante": false,
+    "Tag": "SPC0007",
+    "Name": "Profession",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0005",
+    "Degradante": false,
+    "Tag": "SPC0008",
+    "Name": "Commérage",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0005",
+    "Degradante": false,
+    "Tag": "SPC0009",
+    "Name": "Manipulation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0005",
+    "Degradante": false,
+    "Tag": "SPC0010",
+    "Name": "Piège Rhétorique",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0006",
+    "Degradante": false,
+    "Tag": "SPC0011",
+    "Name": "Astrologie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0006",
+    "Degradante": false,
+    "Tag": "SPC0012",
+    "Name": "Kawaru",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0007",
+    "Degradante": false,
+    "Tag": "SPC0013",
+    "Name": "Bureaucratie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0007",
+    "Degradante": false,
+    "Tag": "SPC0014",
+    "Name": "Conversation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0007",
+    "Degradante": false,
+    "Tag": "SPC0015",
+    "Name": "Courtoisie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0008",
+    "Degradante": false,
+    "Tag": "SPC0016",
+    "Name": "Fouille",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0008",
+    "Degradante": false,
+    "Tag": "SPC0017",
+    "Name": "Interrogatoire",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0008",
+    "Degradante": false,
+    "Tag": "SPC0018",
+    "Name": "Sens de l'Observation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0009",
+    "Degradante": false,
+    "Tag": "SPC0019",
+    "Name": "Antidotes",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0009",
+    "Degradante": false,
+    "Tag": "SPC0020",
+    "Name": "Créatures non-humaines",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0009",
+    "Degradante": false,
+    "Tag": "SPC0021",
+    "Name": "Herboristerie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0009",
+    "Degradante": false,
+    "Tag": "SPC0022",
+    "Name": "Maladies",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0009",
+    "Degradante": false,
+    "Tag": "SPC0023",
+    "Name": "Traitement des blessures",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0010",
+    "Degradante": false,
+    "Tag": "SPC0024",
+    "Name": "Jeûne",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0010",
+    "Degradante": false,
+    "Tag": "SPC0025",
+    "Name": "Récupération du Vide",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0011",
+    "Degradante": false,
+    "Tag": "SPC0026",
+    "Name": "Honnêteté",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0011",
+    "Degradante": true,
+    "Tag": "SPC0027",
+    "Name": "Tromperie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0012",
+    "Degradante": false,
+    "Tag": "SPC0028",
+    "Name": "Kusarigama",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0012",
+    "Degradante": false,
+    "Tag": "SPC0029",
+    "Name": "Kyoketsu-shogi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0012",
+    "Degradante": false,
+    "Tag": "SPC0030",
+    "Name": "Manrikikusari",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0013",
+    "Degradante": false,
+    "Tag": "SPC0031",
+    "Name": "Bisento",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0013",
+    "Degradante": false,
+    "Tag": "SPC0032",
+    "Name": "Nagamaki",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0013",
+    "Degradante": false,
+    "Tag": "SPC0033",
+    "Name": "Naginata",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0013",
+    "Degradante": false,
+    "Tag": "SPC0034",
+    "Name": "Sasumata",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0013",
+    "Degradante": false,
+    "Tag": "SPC0035",
+    "Name": "Sodegamari",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0014",
+    "Degradante": false,
+    "Tag": "SPC0036",
+    "Name": "Dai tsuchi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0014",
+    "Degradante": false,
+    "Tag": "SPC0037",
+    "Name": "Masakari",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0014",
+    "Degradante": false,
+    "Tag": "SPC0038",
+    "Name": "Ono",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0014",
+    "Degradante": false,
+    "Tag": "SPC0039",
+    "Name": "Tetsubo",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0040",
+    "Name": "D1",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0041",
+    "Name": "Jo",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0042",
+    "Name": "Machi-Kanshisha",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0043",
+    "Name": "Nunchaku",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0044",
+    "Name": "Sang Kauw",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0015",
+    "Degradante": false,
+    "Tag": "SPC0045",
+    "Name": "Tonfa",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0016",
+    "Degradante": false,
+    "Tag": "SPC0046",
+    "Name": "Aiguchi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0016",
+    "Degradante": false,
+    "Tag": "SPC0047",
+    "Name": "Jitte",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0016",
+    "Degradante": false,
+    "Tag": "SPC0048",
+    "Name": "Kama",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0016",
+    "Degradante": false,
+    "Tag": "SPC0049",
+    "Name": "Sai",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0016",
+    "Degradante": false,
+    "Tag": "SPC0050",
+    "Name": "Tanto",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0051",
+    "Name": "Cimeterre",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0052",
+    "Name": "Katana",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0053",
+    "Name": "Ninja-to",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0054",
+    "Name": "No-dachi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0055",
+    "Name": "Parangu",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0018",
+    "Degradante": false,
+    "Tag": "SPC0056",
+    "Name": "Wakizashi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0019",
+    "Degradante": false,
+    "Tag": "SPC0057",
+    "Name": "Dai-Kyu",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0019",
+    "Degradante": false,
+    "Tag": "SPC0058",
+    "Name": "Han-Jyu",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0019",
+    "Degradante": false,
+    "Tag": "SPC0059",
+    "Name": "Yumi",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0020",
+    "Degradante": false,
+    "Tag": "SPC0060",
+    "Name": "Mai Chong",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0020",
+    "Degradante": false,
+    "Tag": "SPC0061",
+    "Name": "Kumade",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0020",
+    "Degradante": false,
+    "Tag": "SPC0062",
+    "Name": "Lance",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0020",
+    "Degradante": false,
+    "Tag": "SPC0063",
+    "Name": "Nage-Yari",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0020",
+    "Degradante": false,
+    "Tag": "SPC0064",
+    "Name": "Yari",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0021",
+    "Degradante": false,
+    "Tag": "SPC0065",
+    "Name": "Sarbacane",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0021",
+    "Degradante": false,
+    "Tag": "SPC0066",
+    "Name": "Shuriken",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0021",
+    "Degradante": false,
+    "Tag": "SPC0067",
+    "Name": "Tsubute",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0022",
+    "Degradante": false,
+    "Tag": "SPC0068",
+    "Name": "Combat de masse",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0022",
+    "Degradante": false,
+    "Tag": "SPC0069",
+    "Name": "Escarmouche",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0023",
+    "Degradante": false,
+    "Tag": "SPC0070",
+    "Name": "Course",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0023",
+    "Degradante": false,
+    "Tag": "SPC0071",
+    "Name": "Escalade",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0023",
+    "Degradante": false,
+    "Tag": "SPC0072",
+    "Name": "Lancer",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0023",
+    "Degradante": false,
+    "Tag": "SPC0073",
+    "Name": "Natation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0024",
+    "Degradante": false,
+    "Tag": "SPC0074",
+    "Name": "Eclaireur",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0024",
+    "Degradante": false,
+    "Tag": "SPC0075",
+    "Name": "Pistage",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0024",
+    "Degradante": false,
+    "Tag": "SPC0076",
+    "Name": "Survie",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0026",
+    "Degradante": false,
+    "Tag": "SPC0077",
+    "Name": "Cheval de selle Gaijin",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0026",
+    "Degradante": false,
+    "Tag": "SPC0078",
+    "Name": "Destrier Utaku",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0026",
+    "Degradante": false,
+    "Tag": "SPC0079",
+    "Name": "Poneu Rokugani",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0027",
+    "Degradante": false,
+    "Tag": "SPC0080",
+    "Name": "Concentration",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0027",
+    "Degradante": false,
+    "Tag": "SPC0081",
+    "Name": "Evaluation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0028",
+    "Degradante": false,
+    "Tag": "SPC0082",
+    "Name": "Armes Improvisées",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0028",
+    "Degradante": false,
+    "Tag": "SPC0083",
+    "Name": "Arts Martiaux",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0028",
+    "Degradante": false,
+    "Tag": "SPC0084",
+    "Name": "Lutte",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0029",
+    "Degradante": false,
+    "Tag": "SPC0085",
+    "Name": "Estimation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0029",
+    "Degradante": false,
+    "Tag": "SPC0086",
+    "Name": "Mathématiques",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0030",
+    "Degradante": false,
+    "Tag": "SPC0087",
+    "Name": "Chiens",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0030",
+    "Degradante": false,
+    "Tag": "SPC0088",
+    "Name": "Chevaux",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0030",
+    "Degradante": false,
+    "Tag": "SPC0089",
+    "Name": "Faucons",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0031",
+    "Degradante": false,
+    "Tag": "SPC0090",
+    "Name": "Construction",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0031",
+    "Degradante": false,
+    "Tag": "SPC0091",
+    "Name": "Siège",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0032",
+    "Degradante": false,
+    "Tag": "SPC0092",
+    "Name": "Noeuds",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0032",
+    "Degradante": false,
+    "Tag": "SPC0093",
+    "Name": "Orientation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0033",
+    "Degradante": false,
+    "Tag": "SPC0094",
+    "Name": "Documents",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0033",
+    "Degradante": false,
+    "Tag": "SPC0095",
+    "Name": "Oeuvres d'art",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0033",
+    "Degradante": false,
+    "Tag": "SPC0096",
+    "Name": "Sceau",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0034",
+    "Degradante": false,
+    "Tag": "SPC0097",
+    "Name": "Embuscade",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0034",
+    "Degradante": false,
+    "Tag": "SPC0098",
+    "Name": "Filature",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0034",
+    "Degradante": false,
+    "Tag": "SPC0099",
+    "Name": "Furtivité",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0034",
+    "Degradante": false,
+    "Tag": "SPC0100",
+    "Name": "Incantation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0035",
+    "Degradante": false,
+    "Tag": "SPC0101",
+    "Name": "Brimades",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0035",
+    "Degradante": false,
+    "Tag": "SPC0102",
+    "Name": "Contrôle",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0035",
+    "Degradante": false,
+    "Tag": "SPC0103",
+    "Name": "Torture",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0036",
+    "Degradante": false,
+    "Tag": "SPC0104",
+    "Name": "Contorsion",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0036",
+    "Degradante": false,
+    "Tag": "SPC0105",
+    "Name": "Dissimulation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0036",
+    "Degradante": false,
+    "Tag": "SPC0106",
+    "Name": "Prestidigitation",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0036",
+    "Degradante": false,
+    "Tag": "SPC0107",
+    "Name": "Vol à la Tire",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0037",
+    "Degradante": false,
+    "Tag": "SPC0108",
+    "Name": "Corruption",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0037",
+    "Degradante": false,
+    "Tag": "SPC0109",
+    "Name": "Séduction",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT0014",
+    "Degradante": false,
+    "Tag": "SPC5501",
+    "Name": "Lames Tsuno",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5201",
+    "Name": "Clan du Crabe",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5202",
+    "Name": "Clan du Dragon",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5203",
+    "Name": "Clan de la Grue",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5204",
+    "Name": "Clan de la Licorne",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5205",
+    "Name": "Clan du Lion",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5206",
+    "Name": "Clan de la Mante",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5207",
+    "Name": "Clan du Phénix",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5208",
+    "Name": "Clan du Scorpion",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5209",
+    "Name": "Clan de l'Araignée",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5210",
+    "Name": "Culture Gaijin",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2020",
+    "Degradante": false,
+    "Tag": "SPC5211",
+    "Name": "Culture non-humaine",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2027",
+    "Degradante": false,
+    "Tag": "SPC5212",
+    "Name": "Shintao",
+    "Description": null
+  },
+  {
+    "Competence_Tag": "CPT2027",
+    "Degradante": false,
+    "Tag": "SPC5213",
+    "Name": "Fortunes",
+    "Description": null
+  }
+]

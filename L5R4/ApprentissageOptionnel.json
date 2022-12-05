@@ -1,0 +1,107 @@
+[
+  {
+    "Tag": "OPA0001",
+    "Name": "AuChoix",
+    "Description": "Choisissez une compétence au choix."
+  },
+  {
+    "Tag": "OPA0002",
+    "Name": "Art",
+    "Description": "Choisissez une compétence d'art."
+  },
+  {
+    "Tag": "OPA0003",
+    "Name": "Connaissance",
+    "Description": "Choisissez une compétence de connnaissance."
+  },
+  {
+    "Tag": "OPA0004",
+    "Name": "Jeu",
+    "Description": "Choisissez une compétence de jeu."
+  },
+  {
+    "Tag": "OPA0005",
+    "Name": "Spectacle",
+    "Description": "Choisissez une compétence de spectacle."
+  },
+  {
+    "Tag": "OPA0006",
+    "Name": "Arme",
+    "Description": "Choisissez une compétence d'arme."
+  },
+  {
+    "Tag": "OPA0007",
+    "Name": "Artisanat",
+    "Description": "Choisissez une compétence d'artisanat."
+  },
+  {
+    "Tag": "OPA0008",
+    "Name": "Noble",
+    "Description": "Choisissez une compétence de la catégorie Noble."
+  },
+  {
+    "Tag": "OPA0009",
+    "Name": "Bugei",
+    "Description": "Choisissez une compétence de la catégorie Bugei."
+  },
+  {
+    "Tag": "OPA0010",
+    "Name": "Marchand",
+    "Description": "Choisissez une compétence de la catégorie Marchand."
+  },
+  {
+    "Tag": "OPA0011",
+    "Name": "Degradante",
+    "Description": "Choisissez une compétence de la catégorie Dégradante."
+  },
+  {
+    "Tag": "OPA0012",
+    "Name": "NobleOuMarchandOuDégradante",
+    "Description": "Choisissez une compétence de la catégorie Noble, Marchand ou Dégradante."
+  },
+  {
+    "Tag": "OPA0013",
+    "Name": "NobleOuBugei",
+    "Description": "Choisissez une compétence de la catégorie Noble ou Bugei."
+  },
+  {
+    "Tag": "OPA0014",
+    "Name": "NobleOuBugeiOuMarchand",
+    "Description": "Choisissez une compétence de la catégorie Noble, Bugei ou Marchand."
+  },
+  {
+    "Tag": "OPA0015",
+    "Name": "BugeiOuDégradante",
+    "Description": "Choisissez une compétence de la catégorie Bugei ou Dégradante."
+  },
+  {
+    "Tag": "OPA0016",
+    "Name": "MarchandOuConnaissance",
+    "Description": "Choisissez une compétence de la catégorie Marchand ou de connaissance."
+  },
+  {
+    "Tag": "OPA0017",
+    "Name": "NobleOuSpectacle",
+    "Description": "Choisissez une compétence de la catégorie Noble ou de spectacle."
+  },
+  {
+    "Tag": "OPA0018",
+    "Name": "ArtOuSpectacle",
+    "Description": "Choisissez une compétence d'art ou de spectacle."
+  },
+  {
+    "Tag": "OPA0019",
+    "Name": "NonDegradante",
+    "Description": "Choisissez une compétence non dégrandante."
+  },
+  {
+    "Tag": "OPA0020",
+    "Name": "Theologie",
+    "Description": "Choisissez une spécialisation de la connaissance Théologie au choix."
+  },
+  {
+    "Tag": "OPA0107",
+    "Name": "Artisanat2",
+    "Description": "Choisissez une compétence d'artisanat au rang 2."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Rang": 1,
+    "Value": 10,
+    "Description": "Héros Légendaire"
+  },
+  {
+    "Rang": 2,
+    "Value": 8,
+    "Description": "Champion d'Emeraude"
+  },
+  {
+    "Rang": 3,
+    "Value": 8,
+    "Description": "Champion de Clan"
+  },
+  {
+    "Rang": 4,
+    "Value": 7,
+    "Description": "Champion de Jade"
+  },
+  {
+    "Rang": 5,
+    "Value": 7,
+    "Description": "Héros de Guerre Renommé"
+  },
+  {
+    "Rang": 6,
+    "Value": 6,
+    "Description": "Fameux Poète, Auteur, Artiste"
+  },
+  {
+    "Rang": 7,
+    "Value": 6,
+    "Description": "Daimyo Familial d'un Clan Majeur"
+  },
+  {
+    "Rang": 8,
+    "Value": 6,
+    "Description": "Fameux Artisan"
+  },
+  {
+    "Rang": 9,
+    "Value": 6,
+    "Description": "Chancelier Impérial"
+  },
+  {
+    "Rang": 10,
+    "Value": 6,
+    "Description": "Héraut Impérial"
+  },
+  {
+    "Rang": 11,
+    "Value": 6,
+    "Description": "Shogun"
+  },
+  {
+    "Rang": 12,
+    "Value": 6,
+    "Description": "Voix de l'Empereur"
+  },
+  {
+    "Rang": 13,
+    "Value": 6,
+    "Description": "Rikugunshokan (commandant d'une armée)"
+  },
+  {
+    "Rang": 14,
+    "Value": 5,
+    "Description": "Shireikan (commandant de plusieurs légions)"
+  },
+  {
+    "Rang": 15,
+    "Value": 5,
+    "Description": "Héros de Guerre Victorieux"
+  },
+  {
+    "Rang": 16,
+    "Value": 4,
+    "Description": "L'Empereur"
+  },
+  {
+    "Rang": 17,
+    "Value": 4,
+    "Description": "L'Impératrice"
+  },
+  {
+    "Rang": 18,
+    "Value": 4,
+    "Description": "Conseiller Impérial"
+  },
+  {
+    "Rang": 19,
+    "Value": 4,
+    "Description": "Champion de Clan Mineur"
+  },
+  {
+    "Rang": 20,
+    "Value": 4,
+    "Description": "Daimyo d'une Famille Impériale"
+  },
+  {
+    "Rang": 21,
+    "Value": 4,
+    "Description": "Taisa (Commandant d'une Légion)"
+  },
+  {
+    "Rang": 22,
+    "Value": 4,
+    "Description": "Héros de Guerre Vaincu (Honorablement)"
+  },
+  {
+    "Rang": 23,
+    "Value": 3,
+    "Description": "Chui (Commandant d'une Compagnie)"
+  },
+  {
+    "Rang": 24,
+    "Value": 3,
+    "Description": "Magistat d'Emeraude, Magistrat de Jade"
+  },
+  {
+    "Rang": 25,
+    "Value": 3,
+    "Description": "Enfant de l'Empereur"
+  },
+  {
+    "Rang": 26,
+    "Value": 3,
+    "Description": "Geisha"
+  },
+  {
+    "Rang": 27,
+    "Value": 3,
+    "Description": "Gunsho (Commandant d'un Escadron)"
+  },
+  {
+    "Rang": 28,
+    "Value": 3,
+    "Description": "Hatamoto (Chef des suivants d'un Daimyo)"
+  },
+  {
+    "Rang": 29,
+    "Value": 3,
+    "Description": "Légionnaire Impérial, légionnaire de Jade"
+  },
+  {
+    "Rang": 30,
+    "Value": 3,
+    "Description": "Gouverneur Provincial"
+  },
+  {
+    "Rang": 31,
+    "Value": 2,
+    "Description": "Gouverneur d'une Cité"
+  },
+  {
+    "Rang": 32,
+    "Value": 2,
+    "Description": "Magistrat de Clan"
+  },
+  {
+    "Rang": 33,
+    "Value": 2,
+    "Description": "Karo (Conseiller d'un gouverneur ou d'une famille)"
+  },
+  {
+    "Rang": 34,
+    "Value": 2,
+    "Description": "Nikutai (premier officier d'un Gunso)"
+  },
+  {
+    "Rang": 35,
+    "Value": 2,
+    "Description": "Messager Impérial"
+  },
+  {
+    "Rang": 36,
+    "Value": 2,
+    "Description": "Daimyo d'une Famille Vassale"
+  },
+  {
+    "Rang": 37,
+    "Value": 1,
+    "Description": "Artiste, Marchand, Diplomate"
+  },
+  {
+    "Rang": 38,
+    "Value": 1,
+    "Description": "Administrateur d'un Domaine, Hohei (soldat)"
+  },
+  {
+    "Rang": 39,
+    "Value": 0.5,
+    "Description": "Soldat, Paysan, Guerrier Paysan"
+  },
+  {
+    "Rang": 40,
+    "Value": 0.5,
+    "Description": "Membre Influent d'un Village, Samurai Vassal"
+  }
+]

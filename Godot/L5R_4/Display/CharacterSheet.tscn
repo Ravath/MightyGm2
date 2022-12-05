@@ -1,0 +1,110 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://Godot/L5R_4/Display/AttributePanel.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Godot/L5R_4/Display/CharacterSheet.cs" type="Script" id=2]
+[ext_resource path="res://Godot/L5R_4/Display/StatusPanel.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Godot/L5R_4/Display/LifePanel.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Godot/L5R_4/Display/DerivedStatsPanel.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Godot/L5R_4/Display/L5R_Title.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Godot/Tools/NamedListDisplay.tscn" type="PackedScene" id=7]
+
+[node name="Sheet" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 1.41418
+margin_right = 1.41418
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxLeft" type="VBoxContainer" parent="."]
+anchor_right = 0.5
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxLeft"]
+margin_right = 512.0
+margin_bottom = 40.0
+alignment = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="NameLabel" parent="VBoxLeft/HBoxContainer" instance=ExtResource( 6 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 223.0
+margin_right = 289.0
+margin_bottom = 40.0
+
+[node name="AttributePanel" parent="VBoxLeft" instance=ExtResource( 1 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_top = 44.0
+margin_right = 512.0
+margin_bottom = 264.0
+
+[node name="HBoxContainer2" type="Control" parent="VBoxLeft"]
+margin_top = 268.0
+margin_right = 512.0
+margin_bottom = 418.0
+rect_min_size = Vector2( 0, 150 )
+
+[node name="StatusPanel" parent="VBoxLeft/HBoxContainer2" instance=ExtResource( 3 )]
+anchor_right = 0.33
+anchor_bottom = 1.0
+margin_right = 0.0
+margin_bottom = 0.0
+
+[node name="DerivedStatsPanel" parent="VBoxLeft/HBoxContainer2" instance=ExtResource( 5 )]
+anchor_left = 0.33
+anchor_right = 0.66
+anchor_bottom = 1.0
+margin_right = 0.0
+margin_bottom = 0.0
+
+[node name="LifePanel" parent="VBoxLeft/HBoxContainer2" instance=ExtResource( 4 )]
+anchor_left = 0.66
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = 1.05945
+margin_right = 0.0
+margin_bottom = 1.05945
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxLeft"]
+margin_top = 422.0
+margin_right = 512.0
+margin_bottom = 600.0
+size_flags_vertical = 3
+custom_constants/margin_right = 10
+custom_constants/margin_top = 10
+custom_constants/margin_left = 10
+custom_constants/margin_bottom = 10
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Description" type="Label" parent="VBoxLeft/MarginContainer"]
+margin_left = 10.0
+margin_top = 10.0
+margin_right = 502.0
+margin_bottom = 168.0
+size_flags_vertical = 3
+autowrap = true
+
+[node name="AttackList" parent="." instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_bottom = 0.33
+
+[node name="CapacityList" parent="." instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_top = 0.33
+anchor_bottom = 0.66
+
+[node name="SkillList" parent="." instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_top = 0.66

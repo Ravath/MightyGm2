@@ -1,0 +1,236 @@
+[
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0001",
+    "Name": "Albinisme",
+    "Description": "Vous avez la peau et les chevaux pâles comme la mort, peut-être même d'un blanc laiteux. Cela vous confère une apparence troublante, mais du maquillage vous permet de dissimuler tout ça. Vous subissez un malus de -1g0 aux Jets de Compétences Sociales lorsqu'on voit votre véritable apparence."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0002",
+    "Name": "Creature de Fu Leng",
+    "Description": "Cette mutation terrible vous prive de votre forme humaine et fait de vous un monstre, habituellement une sorte d'ogre quadrupède ou boursouflé. Cette difformité grave ne peut évidemment pas être cachée et suscite un effet de Peur 3 chez tous ceux qui vous voient."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0003",
+    "Name": "Dépigmentation de la Peau",
+    "Description": "Vous avez la peau particulièrement pâle ou foncée. Vous pouvez l'expliquer par une vie menée dehors ou de rat de bibliothèque, mais vous subissez un malus aux ND de +5 aux Jets de Compétences Sociales."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0004",
+    "Name": "Doigt Supplémentaire",
+    "Description": "Vous avez désormais un doigt ou un orteil en plus. Cette difformité est évidente, mais mineure. Elle ne suggère pas automatiquement la présence de Souillure, mais ceux qui la remarquent deviennent mal à l'aise, au point que vous subissez un malus de -1g0 aux Jets de Compétences Sociales. Si vous coupez le doigt en question, il repousse sous 48 heures."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0005",
+    "Name": "Horrible Dentition",
+    "Description": "Vous avez les dents tordues et/ou décolorées, au point qu'elles semblent inhumaines. Elles peuvent être pointues ou cassées, avoir tout l'air de crocs d'animaux, virer au brun ou au jaune, etc. Pour dissimuler cette mutation lorsque vous parlez ou mangez, vous devez faire un Jet de Comédie/Intuition contre un ND 20."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0006",
+    "Name": "Langue Fourchue",
+    "Description": "Vous avez désormais une longue langue fourchue, semblable à celle d'un serpent. Pour dissimuler cette mutation lorsque vous parlez ou mangez, vous devez faire un Jet de Comédie/Intuition contre un ND de 20."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0007",
+    "Name": "Membres Difformes",
+    "Description": "L'un de vos membres, une jambe ou un bras (à déterminer aléatoirement) est tordu ou déformé et inutilisable. Cette difformité saute aux yeux et vous ne pouvez la cacher que difficilement, mais vous pouvez probablement la mettre sur le compte d'une blessure. Dans le cas d'une Jambe, vous gagnez le Désavantage Estropié. Si c'est un bras, vous subissez un malus de -3g0 aux jets liés à ce bras."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0008",
+    "Name": "Membre Supplémentaire",
+    "Description": "Vous avez désormais un bras ou une jambe en plus. Ce membre donne la preuve de votre Souillure car il souffre de dépigmentation ou se voit doté d'ongles griffus, etc. Il a 50\u00A0% de chances  de ne pas fonctionner et de pendre mollement, auquel cas il en est gênant au point que vous subissez -1g0 aux Jets basés sur l'Agilité ou les Réflexes."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0009",
+    "Name": "Odeur Pestilentielle",
+    "Description": "Vous dégagez une odeur particulièrement putride et repoussante, que nul ne peut ignorer. Ni un bon bain ni des quantités de parfum ne peuvent vous en débarrasser. Vous subissez un malus de -1g0 aux Jets Sociaux."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0010",
+    "Name": "Oeil Supplémentaire",
+    "Description": "Un œil apparait quelque part sur votre corps. Cela vous confère +1g0 aux Jets de Perception et aux Jets basés sur la Perception, mais seulement s'il se trouve à l'air libre. Dans ce cas, il se peut que quelqu'un le remarque."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0011",
+    "Name": "Peau Epaisse",
+    "Description": "Vous avez une peau rêche et dure comme le cuir. On vous croit malade ou affligé d'un mal surnaturel, si bien que vous subissez un malus de -2g0 aux Jets de Compétence Sociales. Toutefois, cette peau vous confère une certaine résistance et une Réduction de 5."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0012",
+    "Name": "Regard Démoniaque",
+    "Description": "Chaque fois que vous êtes dans l'obscurité ou la pénombre, vos yeux brillent d'une lueur bleutée surnaturelle. Cela vous permet de voir dans le noir et malgré certains obstacles (comme la fumée et le brouillard)."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0013",
+    "Name": "Sang de Jigoku",
+    "Description": "Vous avez maintenant un sang noir et nauséabond. Si vous vous blessez, tous les témoins verront là un symptôme évident de la Souillure."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0014",
+    "Name": "Tentacules",
+    "Description": "Vous avez désormais un ou plusieurs tentacules, que vous contrôlez plus ou moins. Vous pouvez vous en servir pour ramasser de petits objets, attaquer avec des armes de petite taille ou entamer une Empoignade. Quiconque voit ces tentacules comprendra aussitôt que vous portez la Souillure en vous."
+  },
+  {
+    "TypePouvoir": "mutation",
+    "Tag": "POT0015",
+    "Name": "Visage de Mort-Vivant",
+    "Description": "Vous avez désormais une apparence de mort-vivant, une peau grise qui semble tomber en lambeaux et des yeux caves. Cette difformité ne saurait être dissimulée et suscite un effet de Peur 3 auprès de tous ceux qui vous voient."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0016",
+    "Name": "Au-dessus des Élements",
+    "Description": "Le pouvoir de Jogoku vous permet de résister à la magie ordinaire (ce qui n'inclut pas la maho). Tous les Sorts élémentaires normaux susceptibles de vous affecter voient leur Jet d'Incantation subir un malus au ND de +10. Toutefois, vous devenez vulnérable au pouvoir des kansen, si bien que les Sorts de Maho vous visant gagnent une Augmentation Gratuite. Un shugenja qui lance Sensation alors que vous vous trouvez à portée réalisera une absence de kami tout autour de vous."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0017",
+    "Name": "Bénédiction du Sombre Seigneur",
+    "Description": "Vous résistez naturellement à la douleur et aux blessures. Augmentez vos Blessures de 3 à chaque Rang de Blessure."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0018",
+    "Name": "Enfant des Ténèbres",
+    "Description": "Le pouvoir de la Souillure vous protège des autres serviteurs de Jigoku. Les créatures de l'Outremonde ne vous attaquent pas, sauf si vous les menacez le premier. Si vous parvenez à communiquer avec elles, elles pourraient vous obéir, surtout si vous vous montrez puissant ou persuasif."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0019",
+    "Name": "Esprit des Ténèbres",
+    "Description": "Vous pouvez étreindre la Souillure pour augmenter vos jets liés aux Traits Mentaux (Intelligence, Vnté, Intuition et Perception) comme vous le faites avec vos Traits Physiques. Si vous rejoignez les Damnés, vous pouvez désormais ajouter votre Rang de Souillure au total des jets faits avec des Traits Mentaux et Physiques."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0020",
+    "Name": "Force Monstrueuse",
+    "Description": "La Souillure imprègne chacun de vos muscles et vous confère une apparence particulièrement impressionnante qui trouble tous ceux qui vous voient. Vous subissez -1g0 aux Jets de Compétences Sociales. En échange, vous gagnez +Xg0 aux Jets de Force, Jets de Compétences liés à la Force et jets de dommages, où X est égal à vos Rangs de Souillure."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0021",
+    "Name": "Griffes Obscures",
+    "Description": "Vous disposez de griffes d'obsidienne dissimulées dans vos doigts et que vous pouvez sortir au prix d'une Action Gratuite. Les griffes confèrent une VD de 2g3 à vos attaques à mains nues (au lieu de l'habituel 0g1) tout en tant d'obsidienne pour passer outre la Rduction et l'Invulnérabilité. Toutefois, vous vous sentez obligé de vous en servir chaque fois que vous vous battez, au point que vous devez réussir un Jet de Volonté contre un ND de 10 chaque fois que vous débutez un combat avec une autre arme."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0022",
+    "Name": "Maitre des Ombres",
+    "Description": "Vous avez une affinité aux ombres et à l'obscurité. Vous gagnez +Xg0 aux Jets de Discrétion, où X représente votre Rang de Souillure. Vous gagnez la Mutation Dépigmentation de la Peau si vous ne l'avez pas déjà, car votre épiderme prend une teinte très ombre."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0023",
+    "Name": "Maitre du Sang",
+    "Description": "Les kansen sont vos mis et talent en matière d'incantation des Sorts de Maho. Vous pouvez les lancer pour une Blessure de moins que la normale et la Souillure que vous gagnez ce faisant est réduite de votre Terre (jusqu'à un minimum de 1 Point de Souillure). Tous les autres Sorts que vous lancez subissent un malus de +10 au ND."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0024",
+    "Name": "Résistance Surnaturelle",
+    "Description": "Vous pouvez vous passer de repos ou de sommeil jusqu'à 3 jours sans subir de malus. Ce pouvoir doit être réactivé au bout de trois jours (auquel cas vous devez refaire un jet pour résister à l'acquisition de Souillure)."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0025",
+    "Name": "Le Sang Appelle le Sang",
+    "Description": "Vous savez où se trouve votre moindre parcelle de sang ou de chair (cheveux et ongles exceptés), où qu'elle se situe. Si vous avez déjà le Pouvoir Domination du Sang (cf plus bas), vous êtes même capable de pister une créature qui a bu votre sang."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0026",
+    "Name": "Sentir le Jade",
+    "Description": "Vous avez un sens redoutable pour la détection des substances sacrées comme le jade. Vous sentez donc la présence du jade, du cristal et de l'obsidienne dans un rayon de 3m x votre Anneay de Terre. Une magie de dissimulation peut contrer ce sens. Vous ne pouvez pas détecter le Thé de Pétales de Jade."
+  },
+  {
+    "TypePouvoir": "mineur",
+    "Tag": "POT0027",
+    "Name": "Vitesse Surnaturelle",
+    "Description": "La Souillure vous confère une vitesse totalement ahurissante pour votre taille et votre force. On considère que votre Anneau d'Eau a  Rangs de plus en ce qui concerne la distance que vous pouvez parcourir ai prix d'une Action de Mouvement Simple ou Complexe. En revanche, vous ne tenez pas en place et ne pouvez rester tranquille plus de quelques minutes d'affilée."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0028",
+    "Name": "Aux Côtés des Ténèbres",
+    "Description": "Vous avez le pouvoir de réprimer temporairement votre Souillure, jusqu'à la rendre impossible à détecter. Si vous méditez sans interruption pendant 2 heures et réussissez un Jet de Méditation/Volonté contre un ND 20, vous pouvez «\u00A0métaboliser\u00A0» votre Souillure pendant 8 heures. Pendant ce temps vous n'êtes plus considéré comme Souillé au regard des règles. Ainsi, les Sorts et Techniques visant les créatures Souillées ne vous affectent pas. Toutefois, les mutations physiques (comme les membres supplémentaires) restent en place. Vous ne pouvez mettre fin à ce pouvoir prématurément. Tant qu'il fait effet, vous ne pouvez pas utiliser vos autres Pouvoirs de l'Outremonde, lancer des Sorts de Maho ou étreindre la Souillure pour améliorer vos jets."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0029",
+    "Name": "Beauté Impie",
+    "Description": "Jigoku voit en vous un espion infiltré au sein de l'Empire. Vous ne subissez pas de signes extérieurs de la Souillure et vos mutations physiques disparaissent. Vous pouvez gagner de nouveaux Pouvoirs de l'Outremonde, mais ils ne s'accompagnent pas de symptômes physiques. Toutefois, l'intérieur de votre corps mute pour compenser le manque de changements extérieurs et présente des organes difformes ou redondants, des tumeurs cancéreuses et autres difformités."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0030",
+    "Name": "Domination du Sang",
+    "Description": "Votre sang véhicule votre volonté et toute créature qui en boit ou en ingère ne serait-ce qu'une cuillerée (l'équivalent d'une blessure) vous obéira. Vous pouvez faire un Jet d'Opposition de Volonté contre une cible pour la forcer à vous obéir pendant un nombre d'heures égal à votre Rang de Souillure. Vous ne pouvez pas l'obliger à se tuer, mais tous les autres ordres (y compris les plus mortels, comme combat cet Oni\u00A0») doivent être exécutés. Si vous ratez le Jet d'Opposition de Volonté, la cible prend conscience de votre tentative et vous ne pouvez pas tenter de lui donner de nouveaux ordres pendant une journée entière."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0031",
+    "Name": "Elu de Fu Leng",
+    "Description": "La Souillure vous confère une force de volonté surnaturelle, et vous permet de repousser les tentatives d'influence mentale. Toute entreprise visant à vous influencer au moyen de Compétences Sociales ou de Techniques, ou encore de vous contrôler au moyen de Sorts, échoue automatiquement."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0032",
+    "Name": "Extraire la Noirceur",
+    "Description": "La Souillure a le pouvoir d'invoquer la Souillure d'autrui, et donc de répandre la contagion. Si vous restez en contact physique avec une autre créature pendant au moins 1 minute, vous pouvez faire un Jet d'Opposition de Volonté. Si vous le remportez, la victime gagne un nombre de Points de Souillure égal à votre Rang de Souillure actuel. En cas d'échec, il ne se passe rien, mais la victime se sentira mal à l'aise, sans doute parcourue de frissons."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0033",
+    "Name": "les Délices de la Chair",
+    "Description": "La Souillure tire se force d'actes surnaturels, notamment du goût du sang et de la viande crue. Vous pouvez entreprendre une Action Simple pour vous nourrir de la chair d'une personne ou créature morte ou incapable de vous résister (Epuisée ou Hors de Combat, ligotée, etc.). Cela lui inflige 1g1 Blessures (si elle vit encore) et vous soigne d'un nombre de Blessures égal à 5 x votre Rang de Souillure."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0034",
+    "Name": "Force de la Folie",
+    "Description": "Vous puisez dans votre propre essence Physique pour bonifier vos actions, un peu comme les humains normaux le font avec le Vide. Un nombre de fois par jour égal à votre Anneau de Terre, vous pouvez subir des Blessures égales à votre Terre pour reproduire la dépense d'un Point de Vide. Ce pouvoir ne permet pas de réduire les dommages, mais n'importe quel autre effet de dépense de Points de Vide peut être dupliqué (dont activer une Technique d'École et gagner +1g1 aux jets)."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0035",
+    "Name": "Force Impie",
+    "Description": "Votre corps ne ressent plus la douleur et fonctionne même quand vous subissez des dommages dévastateurs. Vous ne subissez pas de Malus de Blessure. Quelles que soient les Blessures que vous subissez, vous agissez normalement jusqu'à la mort."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0036",
+    "Name": "Père des Mensonges",
+    "Description": "La Souillure se nourrit de la tromperie et renforce vos efforts visant à duper ou manipuler autrui. Vous gagnez un +0gX aux Jets de Tentation, d'Intimidation ou de Tromperie (Compétence Sincérit), où X représente votre Rang de Souillure."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0037",
+    "Name": "Protection Obscure",
+    "Description": "La Souillure vous confère le pouvoir de résister aux attaques ordinaires. On considère que vous êtes Invulnérable, de la même manière que certaines créatures. Quand vous ignorez des dommages grâce à ce Pouvoir, votre peau luit d'une sorte d'énergie noire et palpitante impossible à dissimuler."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0038",
+    "Name": "Régénération Surnaturelle",
+    "Description": "La Souillure offre à votre corps une horrible vitalité et referme vos plaies en quelques minutes. À chaque Round, au début de votre Tour, vous soignez un nombre de Blessures égal à votre Rang de Souillure. Les plaies soignées ne laissent aucune cicatrice derrière elles et si les membres tranchés ne repoussent pas spontanément, ils se ressoudent si on les maintient en place pendant quelques minutes."
+  },
+  {
+    "TypePouvoir": "majeur",
+    "Tag": "POT0039",
+    "Name": "Les Volontés du Maitre",
+    "Description": "La Souillure ne vous laissera pas mourir car vous êtes trop utile à Jigoku. Si vous mourrez, vous finissez par revenir d'entre les morts sous la forme d'un mort-vivant intelligent. Vous conservez vos Anneaux, Traits, capacités, Techniques d'École et Compétences, mais vous n'avez plus d'Anneau du Vide. Votre corps est mort-vivant et finira par se mettre à se décomposer."
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "force",
+    "Tag": "FAM0001",
+    "Name": "Hida",
+    "Description": "Les descendants du kami Hida comptent parmi les samouraï les plus imposants physiquement de tout l'empire. Il leur incombe la lourde tâche de protéger l'Empire, si bien qu'ils font de redoutables guerriers et d'excellents tacticiens en matière de défense. Souvent, les samurai Hida s'offensent des autres clans qui jouissent de leur protection tout en raillant les Crabe pour leurs mauvaises manières."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0002",
+    "Name": "Hiruma",
+    "Description": "Silencieux et mortels, les Hiruma forment les éclaireurs et yojimbo du Crabe. Leur agilité et leur grâce sont à l'image de la force des Hida, ce qui explique que les guerriers de ces deux familles se complètent merveilleusement. Souvent, les samurai Hiruma doivent partir en reconnaissance dans l'Outremonde, un devoir qui coûte la vie à nombre d'entre eux."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0003",
+    "Name": "Kaiu",
+    "Description": "Travailleurs, les Kaiu ont créé la plupart des plus formidables merveilles d'ingénierie de l'empire. Ce sont des ingénieurs de siège et les architectes du clan du Crabe. Ils se chargent également de l'entretien du grand mur des Bâtisseurs et de ses défenses."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0004",
+    "Name": "Kuni",
+    "Description": "Sinistres en apparence et en actes, les Kuni comptent parmi les familles de shugenja les plus craintes de l'empire. Il y a bien longtemps, les autorités de cette famille s'imaginaient que le seul espoir de vaincre l'Outremonde était encore de le comprendre, ce qui explique certainement que les Kuni disposent de connaissances à rendre fou la plupart des hommes."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "perception",
+    "Tag": "FAM0005",
+    "Name": "Toritaka",
+    "Description": "Jadis on connaissait la minuscule famille Toritaka sous le nom du clan du Faucon, mais une véritable tragédie signa la perte de ce clan Mineur, qui fut alors absorbé par le Crabe pour empêcher la menace de renaître de ses rangs. Les Toritaka viennent d'une région hantée par les esprits et s'y connaissent donc énormément en matière de fantômes de toutes sortes."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0001",
+    "BonusInitial": "reflexes",
+    "Tag": "FAM0006",
+    "Name": "Yasuki",
+    "Description": "En parfaite contradiction avec les autres familles du Crabe, les Yasuki apparaissent comme frêles et minces, et quelque peu retors. Ils faisaient autrefois partie du clan de la Grue, mais ont rejoins le Crabe au IIIe siècle, provoquant ainsi la première grande guerre intestine de l'histoire de Rokugan. Ces marchands et courtisans ne désirent qu'offrir un avantage de taille à leur clan. Ils s'intéressent d'avantage aux bénéfices financiers que les autres représentants de la caste des samurai, au point d'en devenir parfois inconvenants."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0002",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0007",
+    "Name": "Kitsuki",
+    "Description": "Les très perspicaces Kitsuki servent le clan du Dragon en qualité de magistrats, rôle qui leur convient au mieux, mais aussi de représentants à la cour. Les Kitsuki ont notamment le chic pour démêler le vrai du faux, atout considérable pour le clan du Dragon toujours désireux d'affranchir l'Empire de la tromperie et de la duplicité."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0002",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0008",
+    "Name": "Mirumoto",
+    "Description": "Les Mirumoto représentent les épaules sur lesquelles reposent les fardeaux du clan du Dragon. Là où les Togashi recherchent l'illumination, les Mirumoto règnent en quelque sorte sur le clan en supervisant le quotidien tout en constituant l'armée. Regroupant plus de la moitié de la population du clan, les Mirumoto sont les Dragon dont on croise le plus souvent le chemin dans l'Empire."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0002",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0009",
+    "Name": "Tamori",
+    "Description": "Comptant parmi les familles de shugenja les plus militaristes de l'Empire, les Tamori épousent à bras-le-corps des styles de magie uniques, dont l'alchimie, la forge et un mélange d'arts magiques et martiaux. On redoute beaucoup plus les Tamori que les autres shugenja en raison de leur empressement à user de violence là où d'autres prêtres tourneraient les talons."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0002",
+    "BonusInitial": "reflexes",
+    "Tag": "FAM0010",
+    "Name": "Togashi",
+    "Description": "Les Togashi, qui constituent davantage un ordre monastique qu'une véritable famille, acceptent tous ceux qui souhaitent les rejoindre, pourvu qu'ils soient capables d'appréhender les préceptes de l'ordre et d'en supporter les épreuves, ce qui réduit sérieusement le nombre d'élus. Depuis des siècles, les moines de cet ordre utilisent le sang divin du Kami du Dragon pour créer des tatouages mystiques qui leur confèrent des pouvoirs surnaturels parfaitement stupéfiants."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0003",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0011",
+    "Name": "Asahina",
+    "Description": "Calmes et sereins, les Asahina comptent parmi les familles de samurai les plus monastiques. Ils se montrent peut-être aussi les plus pacifistes, plus encore que le clan du Phénix, et abhorrent la violence, cherchant d'autres moyens pour résoudre les conflits. Les Asahina sont également connus pour leur attachement à la philosophie et aux arts."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0003",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0012",
+    "Name": "Daidoji",
+    "Description": "Les soi-disant Grues de Fer forment le bras armé du Clan de la Grue et font en quelque sorte appliquer les volonté des Doji et des Kakita. Ils n'usent pas d'autant de grâce et de style que leurs cousins, préférant de loin la force brute, au point qu'ils s'appuient parfois sur des techniques grossières, voire déshonorantes aux yeux de certains. Daidoji signifie «\u00A0défenseurs des Doji\u00A0» et la famille mérite parfaitement ce nom."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0003",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0013",
+    "Name": "Doji",
+    "Description": "Seigneurs du Clan de la Grue, les Doji règnent en maîtres incontestés sur la culture et la politique dans l'Empire. Cela prouve leur ingéniosité et leur influence, d'autant que le clan est assailli depuis mille ans par des clans beaucoup plus militaristes qui trouvent sa domination à la cour particulièrement pénible."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0003",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0014",
+    "Name": "Kakita",
+    "Description": "Regroupant les cousins directs des Doji, la famille Kakita fut fondée par les enfants de dame Doji et de son époux Kakita à l'aube de l'Empire. Les Kakita sont intimement persuadés que chacun doit exceller dans le domaine de son choix, qu'il s'agisse de guerroyer ou de produire les plus magnifiques œuvres d'art. A l'instar des autres familles du Clan de la Grue, les Kakita possèdent entre autre atout leur beauté physique."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0015",
+    "Name": "Horiuchi",
+    "Description": "La minuscules famille Horiuchi n'a jamais abrité plus de quelques dizaines de membres à la fois. Créés quelques années avant la Guerre des Clans, ces samurai constituent une branche de la famille Iuchi spécialisée en magie défensive. Compatissants, les samurai Horiuchi ont tendance à n'intervenir dans les affaires d'autrui qu'en tant de crise."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "perception",
+    "Tag": "FAM0016",
+    "Name": "Ide",
+    "Description": "Les Ide, Que l'on pourrait appeler en quelque sorte le visage du clan de la Licorne, œuvrent inlassablement pour lutter contre l'impression qu'ont certains que leur Clan n'est qu'un ramassis de barbares et de gaijin. Ils mêlent parfaitement les traditions de leur peuple aux coutumes de l'Empire et cherchent à gagner le respect et l'acceptation des autres clans. Les samurai de la famille Ide apparaissent le plus souvent placides et prêts à nouer des alliances avec autrui, qu'elles soient personnelles ou d'envergure."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0017",
+    "Name": "Iuchi",
+    "Description": "A l'exception des Tamori, la famille Iuchi regroupe sans doute les shugenja les plus militants de l'Empire. Ils servent dans les armées du Clan de la Licorne en grand nombre. S'ils apprécient l'amitié et les débats savants comme tous les prêtres, ils ne fuient pas les conflits qui s'opposent à eux."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0018",
+    "Name": "Moto",
+    "Description": "Les Moto incarnent tous les stéréotypes négatifs auxquels le Clan de la Licorne doit faire face depuis son retour dans l'Empire, il y a des siècles. Plus que toute autre famille, leur sang gaijin saute aux yeux car ils sont petits et trapus. Selon les circonstances, ils peuvent se montrer brusques et tapageurs, si bien qu'ils cadrent rarement avec les samurai d'autres Clans. Toutefois, on les respecte pour leurs traditions martiales."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "reflexes",
+    "Tag": "FAM0019",
+    "Name": "Shinjo",
+    "Description": "Les famille Shinjo a régné sur le Clan de la Licorne pendant la majeure partie de son histoire, mais elle fut démise de ses fonctions par se fondatrice, le Kami Shinjo, en raison de la corruption qui sévissait dans ses rangs. Les Shinjo se montrent affables et travailleurs. Ils s'adaptent facilement aux tâches qu'on leur confie et collaborent parfaitement avec autrui quelle que soit la situation."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0004",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0020",
+    "Name": "Utaku",
+    "Description": "Matriarcale, la famille Utaku est constituée d'individus pieux et honorables aux devoirs soigneusement définis en fonction de leur sexe. Les femmes se chargent généralement de servir au sein de la meilleure unité de cavalerie du monde, les Vierges de Bataille Utaku, tandis que les hommes gèrent le foyer et servent dans les légions de fantassins de l'armée de la Licorne."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0005",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0021",
+    "Name": "Akodo",
+    "Description": "Seigneurs du clan du Lion, les Akodo sont les maîtres incontestés des champs de bataille de l'Empire. On dit que nulle armée menée par un Akodo n'a jamais connu la défaite. Bien qu'il s'agisse là d'une exagération, la vérité s'en rapproche fortement. Les samurai Akodo sont généralement calmes et analytiques, dénués de la férocité si communément associée aux Lions en général."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0005",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0022",
+    "Name": "Ikoma",
+    "Description": "Porte-parole du Clan du Lion, les Ikoma parlent au nom du Clan à la cour et dans les annales historiques. La famille produit non seulement la majorité des courtisans du Clan, mais également ses historiens et conteurs, rôles que le Clan considère de la plus haute importance. Pour chaque Lion parfaitement stoïque qui refuse de se laisser submerger par ses émotions, il y a un barde Ikoma qui pleure sans se cacher en contant les récits des siens."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0005",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0023",
+    "Name": "Kitsu",
+    "Description": "Calmes et réservés, les Kitsu sont les shugenja les plus traditionnels et conservateurs de l'Empire, les plus surannés aux dires de certains. Issus de l'union d'hommes et de Kitsu quasiment anéantis par les Lion à l'aube de l'Empire, les Kitsu abritent plusieurs lignées distinctes aux pouvoirs surnaturels et étranges, comme la faculté de passer du monde des mortels aux royaumes des esprits."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0005",
+    "BonusInitial": "force",
+    "Tag": "FAM0024",
+    "Name": "Matsu",
+    "Description": "Les Matsu constituent la plus vaste famille de tout l'Empire et sont à l'origine de l'image que beaucoup ont des incroyables légions du Clan du Lion. Ils forment aussi le stéréotype tempétueux souvent associé aux Lion, réputation largement fondée. Les Matsu se montrent farouches, soupe au lait et prêts à en découdre en permanence. Leur famille fut fondée par une femme, Matsu, et dispose d'une unité exclusivement constituée de femmes, la Fierté du Lion."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0006",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0025",
+    "Name": "Kitsune",
+    "Description": "Jadis connus sous le nom de Clan du Renard, les Kitsune ont rejoint le Clan de la Mante plusieurs décennies après que les autres familles l'aient fondé. Les Renard se trouvaient proches de l'annihilation et les Yoritomo voulurent bien les sauver en échange de leur allégeance. Les Kitsune, gens simples et discrets, préfèrent communier avec les esprits de la nature dans les forêts plutôt que de parcourir l'Empire."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0006",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0026",
+    "Name": "Moshi",
+    "Description": "Avant que les Mante ne rejoignent les Clans Majeurs, les Moshi constituaient le clan du Mille-pattes. Communauté dévouée et matriarcale, les Moshi se tournent vers le culte du Soleil depuis des siècles et trouvent le rôle qu'ils jouent parmi les autres familles de la Mante quelque peu inconfortable. Cependant, la famille a prêté allégeance aux Yoritomo et refuse de revenir sur sa parole, alors même que ses devoirs entrent en conflit avec sa philosophie."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0006",
+    "BonusInitial": "perception",
+    "Tag": "FAM0027",
+    "Name": "Tsuruchi",
+    "Description": "Ancien Clan de la Guêpe, les Tsuruchi sont de loin les meilleurs archers de l'Empire et font tout pour conserver cette place. Athlétiques et doués d’impressionnantes capacités de perception, ils forment de grands guerriers et des magistrats redoutés."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0006",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0028",
+    "Name": "Yorimoto",
+    "Description": "Les seigneurs de la Mante sont originaires du Clan du Crabe et aussi hardis à leur façon. Maîtres incontestés des océans, ils vivent depuis toujours sur les îles des Épices et de la Soie. Les Yoritomo sont des gens robustes et travailleurs toujours prêts à faire leurs preuves face aux autres Clans Majeurs."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0007",
+    "BonusInitial": "perception",
+    "Tag": "FAM0029",
+    "Name": "Agasha",
+    "Description": "Ancienne famille du Clan du Dragon, les Agasha abandonnèrent leurs maîtres Togashi lorsqu'ils eurent le sentiment que les Dragon s'étaient détournés de leurs devoirs envers l'Empire. En outre, les Phénix ont montré un intérêt certain à leur type de magie. Les Agasha à la curiosité insatiable expérimentent sans cesse, repoussant les frontières connues et de ce qui peut être tenté en toute sécurité en matière de magie."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0007",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0030",
+    "Name": "Asako",
+    "Description": "Discrets et solitaires, les Asako constituent de toute évidence une famille monastique. Ils mènent une vie ascète et érudite qui sied davantage à la confrérie de Shinsei qu'à une famille de samurai. Leurs rangs abritent la majorité des courtisans du Clan du Phénix et l'intégralité des mystérieux moines Henshin. Les Asako, curieux et contemplatifs, n'ont généralement pour seules ambitions que de servir et d'apprendre."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0007",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0031",
+    "Name": "Isawa",
+    "Description": "malgré le présence d'un Champion de Clan Shiba, ce sont bien les Isawa qui règnent sur le Clan du Phénix. Ils constituent d'ailleurs la plus importante, la plus puissante et la plus érudite des familles de shugenja de l'Empire. Malheureusement, ce statut les rend arrogants, si bien que de nombreux Isawa luttent constamment contre leurs propres défauts."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0007",
+    "BonusInitial": "perception",
+    "Tag": "FAM0032",
+    "Name": "Shiba",
+    "Description": "Les Shiba comptent parmi les plus érudits et les moins agressifs des familles de bushi. Ils servent le Clan et les Isawa sans se plaindre ni songer à leurs propres personnes. Bien qu'ils admirent la paix et la compassion, ils ne fuient jamais un combat dès lors que le Clan du Phénix a contracté un engagement."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0008",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0033",
+    "Name": "Bayushi",
+    "Description": "Impitoyables et fourbes, les seigneurs du Clan du Scorpion ont de nombreux talents qu'ils mettent au service de leur Clan et de leur Empereur. Les Bayushi se montrent dangereux, sombres et manipulateurs, évaluant toujours la situation en fonction de ce qu'ils peuvent en tirer pour eux-même et leur Clan."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0008",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0034",
+    "Name": "Shosuro",
+    "Description": "Les Shosuro vivent dans les ombres et se font rarement voir, mais ils ont une influence énorme sur ceux qui les entourent. Secrets et reclus, ils ne parlent pas de leurs projets, mais ne manquent jamais d'obéir à un ordre émanant de leurs seigneurs Bayushi. Quant le Clan du Scorpion souhaite qu'une tâche soit menée à bien sans la moindre complication, on contacte un Shosuro."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0008",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0035",
+    "Name": "Soshi",
+    "Description": "Les Soshi constituent la principale famille de shugenja du Clan du Scorpion fondée aux premières heures du Clan. Ils se spécialisent en magie soutenant les efforts des leurs en matière de politique, de supercherie et de manipulation. Ils collaborent étroitement avec les Shosuro, utilisant leur magie pour accentuer leur nature implacable et soutenir leurs activités secrètes."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0008",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0036",
+    "Name": "Yogo",
+    "Description": "Aucune famille reconnue des Clans Majeurs n'est plus redoutée ou méprisée que les Yogo, la seconde famille de shugenja du Clan du Scorpion. Ils descendent d'un Phénix maudit aux premiers jours de l'Empire pour avoir trahi celle qu'il chérissait le plus. La malédiction s'est transmise de génération en génération au sein de la famille, au point que beaucoup en évitent les membres. Les Yogo ne prêtent aucune attention à leur réputation et mettent leur puissante magie au service des Scorpion, quelle que soit la considération qu'on leur offre."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0009",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0037",
+    "Name": "Chuda",
+    "Description": "Héritiers spirituels de la premières famille Chuda, balayée il y a des siècles, les Chuda regroupent des maho-tsukai ambitieux et affamés de pouvoir qui explorent les secrets de la magie du sang. Leurs allégeances demeurent toujours suspectes car ils ont changé de maîtres en plusieurs occasions dans le passé."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0009",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0038",
+    "Name": "Daigotsu",
+    "Description": "Les seigneurs de l'Araignée constituent de la plus vaste famille du Clan. Un grand nombre de samurai de tous horizons ayant succombé à la Souillure de l'Outremonde ou au culte de Fu Leng embrassent la philosophie et les méthodes du Sombre Seigneur Daigotsu et exécutent ses ordres sans la moindre considération pour leurs anciens parents ou alliés. Tous les Daigotsu ne portent pas la Souillure, mais beaucoup d'entre eux ont senti la sinistre caresse de Jigoku."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0009",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0039",
+    "Name": "Goju",
+    "Description": "Ceux qui portent le nom de Goju n'appartiennent assurément plus au genre humain. Ils servaient jadis l'entité appelée l'Ombre Rampante et n'étaient rien de plus que de simples extensions de sa volonté. Depuis la destruction de cette sinistre entité, ils servent tout naturellement son successeur, le Dragon de l'Ombre, et ont recouvert une partie de leur individualité, même s'il ne s'agit toujours que de monstres sans visage ni âme la plupart du temps."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0009",
+    "BonusInitial": "reflexes",
+    "Tag": "FAM0040",
+    "Name": "Moines de l'araignée",
+    "Description": "Les plus étrange agents du Clan de l'Araignée sont les moines de l'Ordre de l'Araignée. Beaucoup d'entre eux n'ont jamais succombé à la Souillure de l'Outremonde, mais se tournent vers la philosophie du Clan de l'Araignée car elle colle parfaitement avec leur soif de pouvoir personnel et leurs démonstrations de force."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0010",
+    "BonusInitial": "reflexes",
+    "Tag": "FAM0041",
+    "Name": "Miya",
+    "Description": "A l'aube de l'Empire, Miya reçut la tâche de diffuser la nouvelle de la défaite de Fu Leng au travers de Rokugan. Depuis, la famille Miya remplit ce devoir et regroupe de nombreux hérauts et médiateurs de la paix qui œuvrent avec diligence et fierté. Les samurai Miya se montrent généralement graves, calmes et attachés à assumer leurs responsabilités."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0010",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0042",
+    "Name": "Otomo",
+    "Description": "On prononce généralement le nom de la famille Otomo avec un soupçon de peur, un sentiment facile à comprendre à Rokugan. Les Otomo, prédateurs terrifiants des cours de l'Empire, profitent pleinement de l'avantage que leur offre leur position. Manipulateurs et pourvus d'une intelligence diabolique, ils semblent n'avoir aucun remord à anéantir leurs adversaires, que ce soir verbalement ou politiquement. On dit que la cour est le champ de bataille le plus mortel, un adage que les Otomo prouvent avec joie au quotidien. Les membres de la famille royale qui ne montrent pas sur le trône renoncent souvent à leur nom de famille pour rejoindre les Otomo."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0010",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0043",
+    "Name": "Seppun",
+    "Description": "L'un des plus fidèles serviteurs de Hantei se nommait Seppun et sa famille, aujourd'hui encore, se trouve au plus près de la lignée impériale. Les samurai Seppun se consacrent au bien-être de l'Empire et s'acquittent de tous les devoirs nécessaires pour maintenir le statu quo, du point de vue bureaucratique mais aussi au beau milieu des champs de bataille. Les membres de la famille royale qui ne montent pas sur le trône renoncent parfois à leur nom de famille pour rejoindre les Seppun, même s'ils préfèrent le plus souvent rallier les Otomo."
+  },
+  {
+    "FamilleDisparue": true,
+    "Clan_Tag": "CLN0010",
+    "BonusInitial": "vide",
+    "Tag": "FAM0044",
+    "Name": "Hantei",
+    "Description": "Descendants du premier Hantei (quel que soit le nombre de générations les séparants), les membres de la lignée Hantei ont un destin grandiose et excellent dans n’importe quel domaine pourvu qu’ils aient la volonté nécessaire."
+  },
+  {
+    "FamilleDisparue": true,
+    "Clan_Tag": "CLN0010",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0045",
+    "Name": "Toturi",
+    "Description": "Les chefs de la dynastie Toturi récompensèrent leurs plus fidèles héros en leur remettant le nom de Toturi. Ainsi, la famille se compose de tous ceux qui ont fait preuve de courage et de talent. Seuls une douzaine de guerriers portent le nom de Toturi à un même moment, et chacun a le potentiel de devenir l’un des leaders de sa génération."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0011",
+    "BonusInitial": "force",
+    "Tag": "FAM0046",
+    "Name": "Ichiro",
+    "Description": "les Ichiro se montrent impolis et grossiers avec le reste de l'Empire. Ils préfèrent l'action aux belles paroles, le pragmatisme aux mondanités. Généralement trapus, ils doivent à leur vie de montagnard d'accentuer cette caractéristique physique."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0012",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0047",
+    "Name": "Morito",
+    "Description": "L'ambition des samurai de la famille Morito à se faire un nom attira rapidement l'attention du kolat, qui les accepta en son sein au titre de bourreaux et de guerriers. En dehors des terres des Licornes, les Morito n'ont pas d'égal en selle. De plus, ils restent attentifs aux rumeurs qui circulent au sein de la pègre rokugani et cherchent constamment à étendre leur influence."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0013",
+    "BonusInitial": "intelligence",
+    "Tag": "FAM0048",
+    "Name": "Komori",
+    "Description": "Les Komori forment un famille de shugenja réunis sous la bannière du Clan de la Chauve-souris par le fondateur du Clan en personne. Ils sont uniques en ce sens qu'ils ne partagent guère de caractéristiques communes. Toutefois, ils apparaissent avides d'apprendre et veulent se servir avec intelligence de leurs nouveaux pouvoirs."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0014",
+    "BonusInitial": "perception",
+    "Tag": "FAM0049",
+    "Name": "Toritaka (originelle)",
+    "Description": "Les Toritaka ont toujours constitué une petite confrérie vivant près des terres du Crabe. Ces samurai, habituellement imposants, ont leurs muscles gonflés par les années de combats incessants. Mais malgré leurs apparences de brutes, les Toritaka font preuve de calme et se tiennent à l'écart de la société rokugani."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0015",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0050",
+    "Name": "Tonbo",
+    "Description": "La famille Tonbo demeure humble et simple malgré l'importance du rôle qu'elle joue dans l'empire. Travailleurs, la plupart des Tonbo sont des shugenja et les quelques bushi qui viennent de leurs terres usent habituellement de faveurs politiques pour s’entraîner aux côtés de leurs alliés Moritomo. Ils s'adaptent parfaitement à la vie dans les montagnes et s’orientent aussi bien sur les terres des Dragons que les Mirumoto."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0016",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0051",
+    "Name": "Usagi",
+    "Description": "les Usagi ont semble-t-il toujours combattu. Conscients de l'existence de menaces telles que les Adeptes du Sang et le Kolat, ils sont sur le qui-vive et attentifs aux moindres signes de corruption. Malheureusement, la paranoïa guette nombre des anciens de cette famille qui ne font pas confiance aux étrangers. On notera toutefois que les samurai plus jeunes se montrent généralement plus confiants et optimistes."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0016",
+    "BonusInitial": "agilite",
+    "Tag": "FAM0052",
+    "Name": "Ujina",
+    "Description": "Formée sous l'ère chaotique qui suivit le second jour des Tonnerres, la famille Ujina est minuscule et n'abrite généralement pas plus de vingt-cinq membres à la fois. Mais malgré leur nombre, les Ujina éprouvent beaucoup de fierté à porter le nom donné par l'Empereur. Extrêmement pragmatiques, ils n'hésitent pas à se tourner vers les actes de la pire sournoiserie pour que les lièvres parviennent à leurs fins."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0017",
+    "BonusInitial": "force",
+    "Tag": "FAM0053",
+    "Name": "Tsi",
+    "Description": "La relativement modeste famille Tsi se consacre pleinement à l'art de la forge. Peu engageants, les forgerons Tsi semblent parfois hostiles, mais la qualité de leur travail est indéniable. Ils quittent rarement leurs terres et quand cela arrive, ils se rendent habituellement dans les provinces Kaiu pour y observer les maîtres en ingénierie à l’œuvre."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0018",
+    "BonusInitial": "intuition",
+    "Tag": "FAM0054",
+    "Name": "Suzume",
+    "Description": "Les Suzume sont des gens humbles, tenaces et faciles à vivre, mais leurs centres d'intérêt les distinguent des autres Clans Mineurs. Ils apprécient davantage les arts que les samurai ordinaires, et notamment les contes, l'un des divertissements les plus courants sur leurs terres particulièrement pauvres. Les Suzume entretiennent avec la paysannerie un lien beaucoup plus étroit que ne le dicte la bienséance, certains allant jusqu'à travailler aux champs lorsqu'on y réclame des bras supplémentaires (ce qui arrive bien souvent)."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0019",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0055",
+    "Name": "Kitsune (originelle)",
+    "Description": "Les Kitsune préfèrent le calme des forêts à l'agitation de la civilisation. Il s'agit d'une famille aux traditions spirituelles, capable de combattre bec et ongles pour protéger les autochtones de Chikushudo, le Royaume des Animaux. Les Kitsune sont très indépendants, mais aussi pragmatiques. Les héros de la famille font leur maximum pour atteindre leurs buts sons y perdre leur âme."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0020",
+    "BonusInitial": "volonte",
+    "Tag": "FAM0056",
+    "Name": "Heichi",
+    "Description": "Peu de ceux qui bravent les dangers des montagnes du Crépuscule gardent la vie sauve, à part les samurai du Clan du Sanglier qui y vivent depuis des siècles. Il s'agit d'un peuple endurci et amer qui combat avec tout ce qui lui tombe sous la main pour défendre ses terres. Dès lors qu'un Heichi se fixe un objectif, rien ne peut l'en détourner."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0021",
+    "BonusInitial": "constitution",
+    "Tag": "FAM0057",
+    "Name": "Toku",
+    "Description": "Ancien ronin, le fondateur de la famille Toku devint un héros de l'Empire et Capitaine de la Garde Impériale, puis se rendit à Tengoku en qualité de Fortune de la Vertu. Ses descendants partagent le goût pour la vie et la compassion dont il faisait preuve à l'égard de la population de Rokugan. Les samurai Toku sont connus pour leur bonne humeur et leur sens de l'humour très étrange, qu'ils prennent rarement soin de dissimuler."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0021",
+    "BonusInitial": "perception",
+    "Tag": "FAM0058",
+    "Name": "Fuzake",
+    "Description": "Les Fuzake ont gagné leur nom de famille pour service rendus à la lignée Impériale. Il s'agit là d'une famille de shugenja particulièrement intelligents et très curieux des choses de la vie. Les étrangers voient les membre de cette famille comme des individus fantasques et écervelés, mais les Fuzake ont souvent démontré leur vaillance et leur fiabilité."
+  },
+  {
+    "FamilleDisparue": true,
+    "Clan_Tag": "CLN0022",
+    "BonusInitial": "force",
+    "Tag": "FAM0059",
+    "Name": "Chuda (originelle)",
+    "Description": "Isawa Chuda possédait sagesse et conviction, et sa famille reproduisit cette pureté pendant des générations. Les Chuda étaient parfaitement loyaux à Rokugan et haïssaient les noires forces qui menaçaient ses frontières. Leur haine des maho-tsukai était notoire et le Clan du Serpent traquait souvent avec zèle les cultes prohibés."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0023",
+    "BonusInitial": "perception",
+    "Tag": "FAM0060",
+    "Name": "Kasuga",
+    "Description": "Les Kasuga n'ont guère d'ambition, car la reconnaissance de l'Empereur les dispense de se tailler une réputation. Ils sont pragmatiques mais aussi quelque peu amers en raison d'années de lutte pour la cause en compagnie des pires canailles de l'Empire. Contrebandiers, voleurs et souvent brutes, ils peuvent cependant montrer une grande diplomatie quand les circonstances l'exigent."
+  },
+  {
+    "FamilleDisparue": false,
+    "Clan_Tag": "CLN0024",
+    "BonusInitial": "vide",
+    "Tag": "FAM9001",
+    "Name": "Moine",
+    "Description": null
+  }
+]

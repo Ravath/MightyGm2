@@ -1,0 +1,1514 @@
+[
+  {
+    "Ecole_Tag": "ECO0001",
+    "Rang": 2,
+    "Tag": "TEC0002",
+    "Name": "Impassibilité de la montagne",
+    "Description": "Les Bushi Hida sont connus pour leur extraordinaire ténacité, au point qu'ils survivent à des blessures qui tueraient le commun des mortels. Vous gagnez une Réduction égale à votre Anneau de Terre."
+  },
+  {
+    "Ecole_Tag": "ECO0001",
+    "Rang": 3,
+    "Tag": "TEC0003",
+    "Name": "Deux pinces, Un esprit",
+    "Description": "Le Bushi Hida est infatigable. Vous pouvez effectuer des attaques au prix d'une Action Simple et non d'une Action Complexe quand vous vous servez d'Armes Lourdes ou d'armes accompagnées du mot-clef Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0001",
+    "Rang": 4,
+    "Tag": "TEC0004",
+    "Name": "Coup dévastateur",
+    "Description": "Un Hida ne recule devant rien pour terrasser ses ennemis une fois sa colère provoquée. Une fois par rencontre, vous pouvez porter un coup parfaitement calculé à un ennemi sous réserve que vous maniiez une Arme Lourde. Diminuez la Réduction de l'ennemi en question de 4 dans le cadre de cette attaque. En cas de réussite, vous Hébétez la cible. Cette dernière peut annuler cette Condition en réussissant un Jet de Terre contre un ND égal à votre jet de dommages lors de l'étape de Réactions. Elle a droit à une tentative par Round et le ND décroît de 5 à chaque fois qu'elle rate un jet."
+  },
+  {
+    "Ecole_Tag": "ECO0001",
+    "Rang": 5,
+    "Tag": "TEC0005",
+    "Name": "Eternité de la montagne",
+    "Description": "Rien ne peut empêcher un guerrier Hida d'accomplir son devoir, pas même la menace de la mort. Vous pouvez dépenser un Point de Vide lors de l'étape de Réactions. A votre Tour suivant, vous pouvez entreprendre des actions comme si vous étiez au Rang de Blessure Indemne. Par ailleurs, vous ignorez les Conditions Hébété, Fatigué et Étourdit. Les bénéfices de cette Technique valent jusqu'à l’Étape de Réactions suivante."
+  },
+  {
+    "Ecole_Tag": "ECO0002",
+    "Rang": 1,
+    "Tag": "TEC0006",
+    "Name": "Contemplation des ténèbres",
+    "Description": "Les Kuni étudient de très près nombre des adversaires les plus sinistres et ont appris à les combattre. Vous gagnez un bonus de +1g0 au total de vos jets d'incantation quand la cible est une créature non-humaine. Par ailleurs, tout sort infligeant des dommages inflige +1g1 dommages quand il cible une créature ayant la souillure de l'Outremonde. Enfin, vous gagnez une augmentation gratuite aux sorts accompagnés du mot-clef Jade."
+  },
+  {
+    "Ecole_Tag": "ECO0003",
+    "Rang": 1,
+    "Tag": "TEC0007",
+    "Name": "La voie de la carpe",
+    "Description": "Les Yasuki sont les maîtres du commerce et le pratiquent bien plus ouvertement que les autres familles de samurai, sans doute parce qu'ils ne voient pas là de manquement à l'étiquette\u00A0. Vous gagnez une augmentation gratuite à la compétence commerce et ne perdez ni Gloire ni Honneur quant vous l'utilisez en public. Par ailleurs, les Yasuki apprennent très tôt à jauger leurs clients potentiels. Lorsque vous parlez avec quelqu'un, vous pouvez faire un test opposé de Commerce/Perception contre Étiquette/Intuition pour cerner le bien ou service qu'il désire."
+  },
+  {
+    "Ecole_Tag": "ECO0003",
+    "Rang": 2,
+    "Tag": "TEC0008",
+    "Name": "Faites ce qu'on vous dit",
+    "Description": "En matière de commerce, les Yasuki font parfois preuve d'une certaine audace. Connus pour leur langue bien pendue et leurs pressions commerciales, ils n'hésitent pas à tromper leurs clients et alliés pour les forcer à faire ce qui les arrange. Un nombre de fois par session égal à votre Rang de Maîtrise, vous pouvez refaire un Jet d'Intimidation ou de Sincérité raté. Vous devez alors conserver le résultat du second jet."
+  },
+  {
+    "Ecole_Tag": "ECO0003",
+    "Rang": 3,
+    "Tag": "TEC0009",
+    "Name": "Les trésors de la carpe",
+    "Description": "Vos contacts dans les cercles marchands et commerciaux de Rokugan vous permettent de mettre la main sur presque tout pour satisfaire aux besoins d'un client. Vous pouvez faire un jet de Commerce/Intuition contre un ND de 20 pour localiser un objet rare ou utile (à la discrétion. du MJ) pour le compte d'autrui. Vous pouvez même tenter de localiser des objets de meilleur qualité ou plus rares encore en prenant des Augmentations."
+  },
+  {
+    "Ecole_Tag": "ECO0003",
+    "Rang": 4,
+    "Tag": "TEC0010",
+    "Name": "Les ruses de la carpe",
+    "Description": "Marchands impitoyables, les Yasuki parviennent également à distinguer entourloupes et flatteries. Tous ceux qui font un Jet de Compétence Sociale dans le but de vous mentir ou de vous tromper voient leur ND augmenter d'un nombre égal à 5x votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0003",
+    "Rang": 5,
+    "Tag": "TEC0011",
+    "Name": "Ce qui est à toi est à moi",
+    "Description": "L'ultime savoir-faire des Yasuki consiste à vous offrir ce que vous désirez le plus. Si vous connaissez un objet dont un individu a besoin et que vous parvenez à vous le procurer, vous gagnez un bonus de +5g0 aux Jets de Compétences Sociales effectués contre cette personne durant les 24 prochaine heures."
+  },
+  {
+    "Ecole_Tag": "ECO0004",
+    "Rang": 2,
+    "Tag": "TEC0013",
+    "Name": "La petite leçon du loup",
+    "Description": "Les Hiruma apprennent à avancer et à se dégager en un seul et même mouvement. Lorsque vous adoptez la Posture d'Attaque, ajouter 5 à votre ND d'Armure chaque fois que vous touchez avec une arme de corps à corps. Ce bonus peut se cumuler un nombre de fois égal à votre Rang de Maîtrise et dure jusqu'à la fin de l'escarmouche en cours."
+  },
+  {
+    "Ecole_Tag": "ECO0004",
+    "Rang": 3,
+    "Tag": "TEC0014",
+    "Name": "Les ailes du colibri",
+    "Description": "Les Hiruma savent que le colibri peut se déplacer dans la direction de son choix et appliquent ce simple truisme à leurs combats. Une fois par Round, vous pouvez activer cette Technique quand un adversaire vous vise au moyen d'une attaque. Vous gagnez un bonus à votre ND d'Armure égal à 2 fois votre Rang de Maîtrise. Ceci se cumule avec tout autre bonus au ND d'Armure, qu'elle qu'en soit la source (comme lorsque vous dépensez un Point de Vide)."
+  },
+  {
+    "Ecole_Tag": "ECO0004",
+    "Rang": 4,
+    "Tag": "TEC0015",
+    "Name": "Le requin reconnaît l'odeur du sang",
+    "Description": "Face à une proie affaiblie, le Bushi Hiruma devient un adversaire terrible. Vous pouvez porter des attaques au prix d'une Action Simple au lieu d'une Action Complexe lorsque vous utilisez une arme accompagnée du mot-clef Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0004",
+    "Rang": 5,
+    "Tag": "TEC0016",
+    "Name": "La lumière ne gaspille aucun mouvement",
+    "Description": "Le bushi apprend à ne pas utiliser plus d'énergie que nécessaire pour tuer son adversaire. Si vous infligez plus de Blessures que nécessaire pour tuer votre cible, vous pouvez appliquer le montant de Blessures supplémentaire aux Blessures infligées à la prochaine cible que vous toucherez. Cette Technique n'active pas deux attaques d'affilée. Enfin, l'effet ne dure pas au-delà de la fin de l'escarmouche en cours."
+  },
+  {
+    "Ecole_Tag": "ECO0005",
+    "Rang": 1,
+    "Tag": "TEC0017",
+    "Name": "La voie du dragon",
+    "Description": "Les initiés de l'école de Bushi Mirumoto doivent maîtriser les grands principes du Niten, la technique de combat à deux sabres créée par Mirumoto en personne. Lorsque vous utilisez un katana dans votre main directrice et un wakizashi dans votre main secondaire, vous ne subissez pas de malus en raison du maniement des deux armes, et vous ajoutez votre Rang de maîtrise à votre ND d'armure (cumulatif avec le bonus normal découlant du maniement de deux armes). Par ailleurs, quand vous êtes la cible d'un sort, vous pouvez augmenter ou réduire le ND du jet d'incantation de ce sort de 5."
+  },
+  {
+    "Ecole_Tag": "ECO0005",
+    "Rang": 2,
+    "Tag": "TEC0018",
+    "Name": "Le calme de la tempête",
+    "Description": "En plus du Kenjutsu, les Mirumoto étudient l'art du duel pour être en mesure de faire face à leurs adversaires traditionnels de la famille Kakita. Lorsque vous adoptez la Posture du Centre, vous gagnez un bonus au total de vos jets de Iaijutsu égal à votre Rang de Kenjutsu."
+  },
+  {
+    "Ecole_Tag": "ECO0005",
+    "Rang": 3,
+    "Tag": "TEC0019",
+    "Name": "Force et rapidité",
+    "Description": "Alors qu'il poursuit sa découverte du Niten, l'élève apprend à submerger ses adversaires sous un déluge de coups tout en se défendant avec brio. Vous effectuez vos attaques au prix d'une Action Simple quand vous utilisez des armes accompagnées du mot-clef «\u00A0Samurai\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0005",
+    "Rang": 4,
+    "Tag": "TEC0020",
+    "Name": "Représailles enragées",
+    "Description": "Dès lors qu'un adversaire constitue une véritable menace, rien ne peut plus empêcher le Mirumoto de lui ôter la vie pour défendre l'honneur de ses préceptes. Lors de l'étape de Réactions, vous pouvez choisir un adversaire qui vous a frappé ou a tenté de le faire un cours du Round. A votre Tour suivant, vous ajoutez +3g0 à vos jets d'attaque contre cette cible."
+  },
+  {
+    "Ecole_Tag": "ECO0005",
+    "Rang": 5,
+    "Tag": "TEC0021",
+    "Name": "Le coeur du dragon",
+    "Description": "Les maîtres de l’École de Bushi Mirumoto semblent frapper de partout à la fois. Si vous attaquez deux fois dans le même Tour alors que vous utilisez un katana dans votre mains directrice et un wakizashi dans votre main secondaire, vous avez droit à une attaque supplémentaire avec votre main secondaire au prix d'une Action Gratuite."
+  },
+  {
+    "Ecole_Tag": "ECO0006",
+    "Rang": 1,
+    "Tag": "TEC0022",
+    "Name": "Chair des éléments",
+    "Description": "Les Tamori apprennent à distiller l'essence de la magie et à l'enfermer dans des objets prévus à cet effet. Vous pouvez mobiliser un emplacement de sort pour y stocker dans une potion un sort que vous connaissez s'il a une zone d'effet «\u00A0une personne\u00A0» ou «\u00A0une créature\u00A0», afin de l'activer plus tard. Le sort ainsi stocké peut être activé instantanément par tout individu qui tient la potion s'il entreprend une action simple pour la boire ou une action complexe pour la jeter (selon la cible du sort) en utilisant Athlétisme(jet)/Agilité. Les sorts stockés peuvent l'être indéfiniment, mais mobilisent des emplacements de sort quotidien tant qu'ils ne sont pas activés. La création d'une telle potion demande un nombre d'heures égal au niveau de maîtrise du sort stocké. Vous gagnez également une augmentation gratuite pour tous les sorts accompagnés du mot-clef «\u00A0Artisanat\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0007",
+    "Rang": 1,
+    "Tag": "TEC0023",
+    "Name": "La méthode de Kitsuki",
+    "Description": "Les Kitsuki sont les maîtres de l'investigation et de la perception, au point qu'ils remarquent les plus infimes détails d'un simple coup d’œil. Vous gagnez une augmentation gratuite à tous vos jets d'enquête. Toutefois, si les Kitsuki suivent une formation en matière d'investigation et de diplomatie, ils ne négligent pas la voie du guerrier contrairement à nombre de courtisans. En cas d'escarmouche, ajoutez votre rang de perception à votre ND d'armure."
+  },
+  {
+    "Ecole_Tag": "ECO0007",
+    "Rang": 2,
+    "Tag": "TEC0024",
+    "Name": "Les enseignements de la brise",
+    "Description": "Comme les Kitsuki remarquent les plus minuscules détails, on ne peut que difficilement se jouer d'eux. Quiconque effectue un jet de compétence sociale dans le but de vous mentir ou de vous tromper, ou encore une manœuvre de feinte ou de désarmement lors d'une escarmouche, doit ajouter +5 à sont ND pour chacun de vos rangs d'école d'enquêteur Kitsuki."
+  },
+  {
+    "Ecole_Tag": "ECO0007",
+    "Rang": 3,
+    "Tag": "TEC0025",
+    "Name": "Connaitre le rythme du coeur",
+    "Description": "Les Kitsuki étudient une méthodologie secrète connue sous le nom de Ichi Miru, ou «\u00A0premier regard\u00A0», qui leur permet de jauger un individu d'un simple coup d’œil. Après avoir parlé avec l'intéressé pendant quelques instants, vous pouvez effectuer un Jet d'Enquête(Sens de l'Observation)/Perception contre un ND égal à l'Intelligence x5 de votre interlocuteur. Une réussite vous dresse un tableau simple et précis de sa personnalité et de ses motivations. Par exemple, vous pouvez tenter de voir si ce ronin très bruyant est un homme calculateur qui tente de se faire passer pour un rustaud."
+  },
+  {
+    "Ecole_Tag": "ECO0007",
+    "Rang": 4,
+    "Tag": "TEC0026",
+    "Name": "Trouver la piste",
+    "Description": "Les Kitsuki apprennent à dénicher les contacts et réseaux de leurs interlocuteurs. Après avoir parlé avec l'intéressé pendant quelques minutes, vous pouvez faire un Jet d'Opposition Enquête(Interrogatoire)/Intelligence contre Étiquette(Courtoisie)/Intelligence pour identifier l'un de ses alliés ou ennemis. Chaque Augmentation réussie vous permet d'identifier un allié ou ennemi de plus (a vous de décider s'il s'agit de l'un ou de l'autre, mais il revient au MJ de vous donner son identité).\nCette Technique peut être utilisée contre une même personne une seule fois par jour."
+  },
+  {
+    "Ecole_Tag": "ECO0007",
+    "Rang": 5,
+    "Tag": "TEC0027",
+    "Name": "Les yeux trahissent le coeur",
+    "Description": "La méthode Kitsuki permet aux maîtres de voir au travers des pires mensonges et ruses. A ce niveau, tout individu qui tente de vous tromper a peu de chances de réussir (attention cependant aux individus qui vous font part de faux renseignements sans en être conscients). Que vous soupçonniez ou non votre interlocuteur de vous mentir, effectuez un Jet d'Opposition d'Enquête(Interrogatoire)/Perception contre Sincérité(Tromperie)/Volonté du menteur. Par ailleurs, si vous savez déjà qu'il vous ment, vous gagnez un bonus de +5g0 aux Jet d'Opposition et pouvez déclarer des Augmentations dans le but de lui faire cracher plus d'informations qu'il ne comptait vous en donner (les renseignements en question restent à la discrétion du MJ)."
+  },
+  {
+    "Ecole_Tag": "ECO0008",
+    "Rang": 1,
+    "Tag": "TEC0028",
+    "Name": "Sang des Kami",
+    "Description": "Le sang du Kami coule dans les veines de la lignée dirigeante de l'ordre de Togashi. Les frères qui servent le clan du Dragon en qualité de vassaux Togashi reçoivent quand à eux le sang mystique sous la forme de tatouages uniques. Vous gagnez deux tatouages à ce rang."
+  },
+  {
+    "Ecole_Tag": "ECO0008",
+    "Rang": 2,
+    "Tag": "TEC0029",
+    "Name": "Corps de pierre",
+    "Description": "La maîtrise du corps est la première étape du périple du moine vers l'illumination. Les arts martiaux deviennent les outils parfaits pour que le corps et l'esprit soient en harmonie. Vous gagnez un bonus de +1g1 au total de vos jets d'attaque et de dommages à mains nues."
+  },
+  {
+    "Ecole_Tag": "ECO0008",
+    "Rang": 3,
+    "Tag": "TEC0030",
+    "Name": "Bénédiction des Kami",
+    "Description": "Alors que l'ise zumi poursuit son voyage de la découverte de soi et accumule de nouvelles expériences, il finit par être jugé digne de bénéficier de nouveaux tatouages. Vous gagnez deux tatouages supplémentaires."
+  },
+  {
+    "Ecole_Tag": "ECO0008",
+    "Rang": 4,
+    "Tag": "TEC0031",
+    "Name": "Volonté de pierre",
+    "Description": "La maîtrise de la chair indique que l'âme arrive au bout de son voyage. Vous pouvez effectuer des attaques à mains nues au prix d'une action simple au lieu d'une action complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0008",
+    "Rang": 5,
+    "Tag": "TEC0032",
+    "Name": "Contact du Kami",
+    "Description": "La révélation de la véritable nature de l'univers récompense l'âme qui cherche la maîtrise de l'esprit. Vous gagnez deux tatouages supplémentaires."
+  },
+  {
+    "Ecole_Tag": "ECO0009",
+    "Rang": 1,
+    "Tag": "TEC0033",
+    "Name": "La voie de la Grue",
+    "Description": "L'étude du sabre démontre les nombreuses façons dont l'art de la technique Kakita peut s'appliquer. Ajoutez deux fois votre rang de Iaijutsu aux jets d'initiative. Vous gagnez également un bonus de +1g1 plus votre rang de maîtrise au total de vos jets d'attaque et de concentration lorsque vous adoptez la posture du centre. Ce bonus s'applique aussi lors du round de combat qui suit celui où vous avez adopté la posture du centre."
+  },
+  {
+    "Ecole_Tag": "ECO0009",
+    "Rang": 2,
+    "Tag": "TEC0034",
+    "Name": "Vitesse de l'éclair",
+    "Description": "Les ennemis trop lents ou trop faibles d'esprit sont condamnés à l'échec. Vous gagnez un bonus de +2g0 au total de vos jets d'attaque contre tous ceux qui ont une initiative inférieure à la votre."
+  },
+  {
+    "Ecole_Tag": "ECO0009",
+    "Rang": 3,
+    "Tag": "TEC0035",
+    "Name": "Un coup et un seul",
+    "Description": "Les Bushi Kakita sont craints dans tout l'Empire, notamment parce qu'ils observent les très anciennes et vénérables traditions du duel. Vous pouvez Frapper le premier en duel si vous remportez le Jet de Iaijutsu/Vide d'au moins 3 points. Par ailleurs, vous gagnez une Augmentation Gratuite sur votre Frappe pour chaque tranche supplémentaire de 3 points (au lieu de 5 habituellement)."
+  },
+  {
+    "Ecole_Tag": "ECO0009",
+    "Rang": 5,
+    "Tag": "TEC0037",
+    "Name": "Frapper sans penser",
+    "Description": "Le véritable élève Kakita n'a pas à réfléchir à deux fois avant de porter le coup parfait et compte avant tout sur son instinct. Vous pouvez entreprendre une Action Simple par Tour lorsque vous adoptez la posture du Centre. Vous en gagnez aussitôt les avantages (sans attendre le tour suivant) et pouvez la maintenir aussi longtemps que vous le souhaitez. L'Action Simple entreprise peut être une Action de Mouvement (ce qui vous permet de passer outre la restriction qui pèse habituellement sur la Posture du Centre)."
+  },
+  {
+    "Ecole_Tag": "ECO0010",
+    "Rang": 1,
+    "Tag": "TEC0038",
+    "Name": "La grâce de l'âme",
+    "Description": "Les Asahina domptent la puissance des kami non pas pour guerroyer, mais pour se livrer à des expériences artistiques. Vous pouvez dépenser un point de Vide pour réduire le total des jets de dommages infligés par vos adversaires dans un rayon de 6 mètres de 0g1 pendant un nombre de rounds égal à votre rang de maîtrise (utiliser à nouveau cette technique avant la fin de sa durée permet de rallonger cette dernière, mais en aucun cas ne permet de cumuler les réductions de dommages). Vous gagnez aussi une augmentation gratuite aux sorts accompagnés du mot-clef «\u00A0défense\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0011",
+    "Rang": 1,
+    "Tag": "TEC0039",
+    "Name": "L'âme de l'honneur",
+    "Description": "Les apprentis courtisans Doji apprennent à compter avant tout sur leur Honneur quand ils ont affaire à autrui, imprégnant ainsi chacun de leurs mots et gestes d'une grande pureté, mais aussi à se constituer un réseau d'alliés en cernant les besoins de leur prochain dans le but de les satisfaire. Tant que vous disposez d'un rang d'Honneur d'au moins 6.0, vous gagnez une augmentation gratuite aux jets de courtisan, sincérité et étiquette. Par ailleurs, en discutant avec un individu pendant quelques minutes, vous pouvez faire un jet d'opposition de Courtisan(Manipulation) contre l’Étiquette(Courtoisie)/Intuition de la cible pour voir si elle a besoin d'aide ou de quelque faveur (il peut s'agir des papiers de voyage nécessaires pour se rendre dans une autre province, par exemple)."
+  },
+  {
+    "Ecole_Tag": "ECO0011",
+    "Rang": 2,
+    "Tag": "TEC0040",
+    "Name": "Parler en silence",
+    "Description": "Cette Technique apprend au Doji la Modulation, l'art de communiquer en usant de gestes subtils et de langage corporel. Cela lui confère un avantage énorme à la cour puisqu'il peut transmettre des informations sans que ses rivaux ne s'en aperçoivent. Vous pouvez faire un Jet de Courtisan/Intelligence contre un ND de 15 pour communiquer des idées et instructions simples (des choses comme «\u00A0distrayez-les\u00A0», «\u00A0cela nous avantage\u00A0» ou encore «\u00A0interceptez cet individu\u00A0») à toute autre Grue de l’École de Courtisan Doji ou ayant au moins 5 Rangs en Courtisan. Pour communiquer des idées un peu plus complexes, il est nécessaire de déclarer des Augmentations, mais la Modulation a de toute façon ses limites (fixées par le MJ)."
+  },
+  {
+    "Ecole_Tag": "ECO0011",
+    "Rang": 3,
+    "Tag": "TEC0041",
+    "Name": "La présent parfait",
+    "Description": "Les Doji bâtissent leurs réseaux d'alliances en se fondant sur le désintéressement, offrant à leur prochain ce dont il a besoin afin de gagner son aide par la suite. Chaque fois que vous vous trouvez dans une cour ou une zone urbaine, vous pouvez faire un Jet de Courtisan/Intuition contre un ND de 20 afin de trouver un présent approprié ou une faveur politique pour quelqu'un. Si l'on accepte votre présent ou la faveur en question, vous pouvez prendre l'individu pour une Relation accompagnée de 1 point de Dévouement, sans que cela ne vous coûte de PE (vous devez cependant avoir l'autorisation du MJ)."
+  },
+  {
+    "Ecole_Tag": "ECO0011",
+    "Rang": 4,
+    "Tag": "TEC0042",
+    "Name": "La voix de l'honneur",
+    "Description": "Le Doji a désormais bien appris l'art des manœuvres politiques. Ses opinions et arguments deviennent synonyme d'Honneur, au point que tous ceux qui ne sont pas de son avis adoptent une posture déshonorante. Dans un débat ou une discussion, vous pouvez faire un Jet d'Opposition de Courtisan(Manipulation)/Intuition contre l’Étiquette(Courtoisie)/Intuition de la cible. En cas de réussite, l'adversaire est obligé d'admettre que son opinion va à l'encontre de l'Honneur et du Bushido. S'il persiste néanmoins dans la voie empruntée, il enfreint l'étiquette (selon les circonstances, il appartient au MJ de décider s'il s'agit d'une faute minime ou de taille)."
+  },
+  {
+    "Ecole_Tag": "ECO0011",
+    "Rang": 5,
+    "Tag": "TEC0043",
+    "Name": "Le don de la dame",
+    "Description": "Enfin, le Doji apprend l'art d'influencer les émotions d'autrui, se faisant des amis et alliés de tous ceux qui l'entourent, y compris de ses pires ennemis. En discutant avec quelqu'un pendant quelques minutes vous pouvez faire un Jet d'Opposition Courtisan(Manipulation)/Intuition contre Étiquette(Courtoisie)/Volonté de la cible. Si cette dernière est une relation, vous gagnez un bonus de +5g0 au total du jet. En cas de réussite, vous modifiez les émotions de la cible à votre avantage et la persuadez d'écouter vos conseils. Le MJ reste l'ultime arbitre en la matière, mais d'une manière générale, la cible agréera a l'ensemble de vos suggestions, du moins si elles n'entrent pas en contradiction avec ses allégeances."
+  },
+  {
+    "Ecole_Tag": "ECO0012",
+    "Rang": 1,
+    "Tag": "TEC0044",
+    "Name": "La force de l'honneur",
+    "Description": "Le Guerrier de Fer Daidoji est le bouclier de son clan. Il protège l'Honneur et les demeures des Grue. Vous pouvez ajouter votre rang d'Honneur (arrondi à l'entier inférieur) moins 4  à vos blessures à chaque rang de blessure (minimum 1 blessure). Ainsi avec 6.5 Honneur, un guerrier de fer gagnera 2 Blessures à chaque rang de blessure. Par ailleurs, vous gagnez un bonus de +1g0 au total de vos jets d'attaque lorsque vous adoptez la posture d'attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0012",
+    "Rang": 2,
+    "Tag": "TEC0045",
+    "Name": "Le bouclier de la foi",
+    "Description": "Le Guerrier de Fer est persuadé que son travail sert un but des plus nobles. Quand il exécute la Manœuvre de Garde, le bénéfice dure un Round supplémentaire. Par ailleurs, le bonus au ND d'Armure de cette Manœuvre augmente de 5 (ce bonus s'applique à votre ND d'Armure ainsi qu'à celui de votre cible\u00A0; vous ne subissez donc pas de malus au ND lorsque vous Gardez, et votre cible ajoute +15 à son ND d'Armure au lieu de +10)."
+  },
+  {
+    "Ecole_Tag": "ECO0012",
+    "Rang": 3,
+    "Tag": "TEC0046",
+    "Name": "Frappe sous le voile",
+    "Description": "Les Daidoji sont des adversaires déterminés prêts à agir en toutes circonstances. Vous pouvez porter des attaques de corps à corps au prix d'une action simple au lieu d'une action complexe quand vous adopter la posture d'attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0012",
+    "Rang": 4,
+    "Tag": "TEC0047",
+    "Name": "Vigilance de l'esprit",
+    "Description": "Le Guerrier de Fer vit en permanence sur le qui-vive. Vous pouvez dépenser un Point de Vide lors de l'étape de Réactions pour viser un adversaire qui a tenté de vous frapper, vous ou la cible de votre Manœuvre de Garde au cours du Round. Vous ajoutez un bonus de +2g1 au total de tous vos jets d'attaque et de dommages contre cet adversaire au cours du Round suivant."
+  },
+  {
+    "Ecole_Tag": "ECO0012",
+    "Rang": 5,
+    "Tag": "TEC0048",
+    "Name": "Fouler l'épée",
+    "Description": "Quand le Guerrier de Fer combat pour défendre son protégé, il semble invincible. Vous pouvez dépenser deux Points de Vide au prix d'une Action Gratuite lorsque quelqu'un vous annonce une action contre la cible de votre Manœuvre de Garde. Vous devenez alors la cible de l'action en question (du moins s'il s'agit d'une action valide, à la discrétion. du MJ). Par ailleurs, vous gagnez une Action Gratuite utilisable sur-le-champ dans le seul but de vous déplacer vers la cible de votre Manœuvre de Garde. Si vous ne pouvez atteindre la cible, cette Technique devient sans effet."
+  },
+  {
+    "Ecole_Tag": "ECO0013",
+    "Rang": 1,
+    "Tag": "TEC0049",
+    "Name": "La voie de la Licorne",
+    "Description": "Le style de combat sauvage des Moto intimide énormément. Vous pouvez manier d'une seule main tout arme à deux mains (à l'exception des arcs). Vous ajoutez +1g0 aux jets de dommages lorsque vous êtes à cheval ou utilisez une arme de corps à corps à deux mains (pas de cumul entre les deux bonus). Les cimeterres s'accompagnent du mot-clef samurai en ce qui vous concerne."
+  },
+  {
+    "Ecole_Tag": "ECO0013",
+    "Rang": 2,
+    "Tag": "TEC0050",
+    "Name": "Le sourire de Shinsei",
+    "Description": "Le style de combat sauvage des Moto intimide énormément. Vous pouvez manier d'une seule main tout arme à deux mains (à l'exception des arcs). Vous ajoutez +1g0 aux jets de dommages lorsque vous êtes à cheval ou utilisez une arme de corps à corps à deux mains (pas de cumul entre les deux bonus). Les cimeterres s'accompagnent du mot-clef samurai en ce qui vous concerne."
+  },
+  {
+    "Ecole_Tag": "ECO0013",
+    "Rang": 3,
+    "Tag": "TEC0051",
+    "Name": "Frappe du vent du désert",
+    "Description": "Puissance et précision ont autant de valeur aux yeux des Moto. Vous pouvez porter des attaques au prix d'une action Simple au lieu d'une action complexe lorsque vous vous servez d'une arme de corps à corps."
+  },
+  {
+    "Ecole_Tag": "ECO0013",
+    "Rang": 4,
+    "Tag": "TEC0052",
+    "Name": "La charge de la folie",
+    "Description": "L'implacable style de combat Moto permet de passer d'un adversaire à l'autre en toute facilité. Une fois par escarmouche, si vous parvenez à faire tomber votre cible au Niveau de Blessure Hors de Combat, vous pouvez effectuer une attaque supplémentaire au prix d'une Action Gratuite. Cette attaque ne peut pas viser la même cible que l'attaque qui a activé cette Technique. Vous ne pouvez pas déclarer d'Augmentations sur cette attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0013",
+    "Rang": 5,
+    "Tag": "TEC0053",
+    "Name": "Les moto ne se rendent pas",
+    "Description": "Un Moto ne se rend jamais. Une fois par escarmouche, lorsque vous êtes à cheval ou adoptez une Posture d'Assaut, vous pouvez dépenser un Point de Vide au prix d'une Action Gratuite. Pour le reste du Round, vous gardez un nombre de dés de dommages supplémentaires égal à la moitié de votre Force (arrondir à l'entier inférieur). Vous ne gagnez ce bonus que si vous maniez une arme à deux mains ou une arme accompagnée du mot-clef Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0014",
+    "Rang": 1,
+    "Tag": "TEC0054",
+    "Name": "L'esprit du vent",
+    "Description": "Les Iuchi domptent le pouvoir des éléments pour conférer la rapidité des flots à autrui. Au prix d'une action Complexe, vous pouvez sacrifier un emplacement de sort de l'élément de votre choix pour conférer une action de mouvement simple à une cible. Cette action simple vient en plus des actions normales du round de la cible. L'action supplémentaire doit être utilisée au tour suivant de la cible, sans quoi elle est perdue. Vous gagnez aussi une augmentation gratuite aux sorts accompagnés du mot-clef «\u00A0Voyage\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0015",
+    "Rang": 1,
+    "Tag": "TEC0055",
+    "Name": "Le coeur parle",
+    "Description": "Les Ide apprennent à s'adapter aux nouvelles coutumes et nuances sociales, ce qui leur permet de ne froisser personne dans les cours les plus dangereuses et hostiles. En outre, comme ils ont souvent affaire à des étrangers susceptibles de très mal réagir aux mensonges et à la manipulation, ils apprennent à faire preuve d'honnêteté tout en usant du style direct quand cela s'avère possible. Lorsque vous offensez quelqu'un par inadvertance, qu'il s'agisse d'un accident ou d'une forme d'ignorance (par exemple, vous ne saviez pas qu'un sujet de conversation précis avait le chic de rendre ce daimyo fou de rage), vous pouvez faire un jet d'étiquette (Courtoisie)/Intuition contre un ND 20 pour éviter le faux-pas. Vous gagnez une augmentation gratuite aux jets de Sincérité (Honnêteté), mais à chaque fois que vous faites un jet de Sincérité (Tromperie), votre ND augmente de +5."
+  },
+  {
+    "Ecole_Tag": "ECO0015",
+    "Rang": 3,
+    "Tag": "TEC0057",
+    "Name": "Le coeur écoute",
+    "Description": "Les courtisans de la famille Ide apprennent à développer l'amitié et de bonnes relations personnelles pour réussir leurs entreprises diplomatiques. Vous pouvez tenter de modifier le comportement de quelqu'un afin qu'il vous soit un peu plus favorable. Tout commence par 10 minutes de conversation, puis vous faites un Jet d’Opposition de Sincérité(Honnêteté)/Intuition contre l’Étiquette(Courtoisie)/Volonté de la cible. En cas de succès, vous modifiez son attitude à votre avantage (un individu hostile deviendra neutre, un individu indécis deviendra amical, etc). Si vous prenez au moins deux Augmentations, la cible vous verra comme une Relation pour le reste de la journée (à la discrétion du MJ).\nCette Technique ne peut s'utiliser face à un Ennemi Juré, et il appartient au MJ de décider si elle fonctionne face à des cibles inhabituelles, comme des êtres inhumains."
+  },
+  {
+    "Ecole_Tag": "ECO0015",
+    "Rang": 4,
+    "Tag": "TEC0058",
+    "Name": "Répondre au coeur",
+    "Description": "A ce niveau, le Ide deviennent de véritables maîtres de la médiation, capables de discerner toutes les supercheries et façades diplomatiques, mais également de trouver la solution à n'importe quel problème. Quand vous utilisez vos Techniques de Rang 2 ou de Rang 3, vous pouvez jeter un nombre de dés lancés (mais non gardés) supplémentaires égal à votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0015",
+    "Rang": 5,
+    "Tag": "TEC0059",
+    "Name": "L'impassible main de la paix",
+    "Description": "L'ultime leçon de la famille Ide apprend aux élèves à se conduire en parfaits médiateurs afin qu'aucune personne honorable ne lève la main sur eux. Vous pouvez dépenser un Point de Vide pour faire un Jet d'Opposition de Sincérité(Honnêteté)/Intuition contre l’Étiquette(Courtoisie)/Intuition d'un individu. En cas de succès, la cible ne peut entreprendre aucune action hostile contre vous (physique, sociale ou magique) pendant un nombre d'heures égal au double de votre Rang de Maîtrise, tant que vous même ne montrez pas d'hostilité à son encontre. Cette Technique ne fonctionne pas contre les personnages ayant un Rang d'Honneur inférieur à .0 ou n'en ayant pas du tout (animaux, Oni, etc.)."
+  },
+  {
+    "Ecole_Tag": "ECO0016",
+    "Rang": 1,
+    "Tag": "TEC0060",
+    "Name": "Chevaucher en harmonie",
+    "Description": "Les vierges de bataille Utaku accordent une grande importance à l'honneur. Vous gagnez un bonus égal à votre rang d'honneur au total d'un jet d'attaque par Round. Lorsque vous montez à cheval, vous pouvez au lieu de cela appliquer ce bonus à un jet de dommages si vous le souhaitez. Vous gagnez un bonus égal à votre rang d'Honneur au total de vos jets d'équitation."
+  },
+  {
+    "Ecole_Tag": "ECO0016",
+    "Rang": 2,
+    "Tag": "TEC0061",
+    "Name": "Le vide de la guerre",
+    "Description": "L'Utaku peut sacrifier une partie de sa défense en faveur de sa rapidité si le cours de la bataille l'exige. Lors de l'étape 1 d'un Round de Combat, vous pouvez ajouter 5 à votre Score d'Initiative ou votre ND d'Armure. Ce bonus dure jusqu'à ce que vous réutilisiez cette Technique ou jusqu'à la fin de l'escarmouche."
+  },
+  {
+    "Ecole_Tag": "ECO0016",
+    "Rang": 3,
+    "Tag": "TEC0062",
+    "Name": "Sentir la brise",
+    "Description": "Le simple contact de la selle offre une liberté de mouvement surnaturelle à l'Utaku. Lorsque vous montez à cheval, vous pouvez porter des attaques au prix d'une action Simple au lieu d'une Action Complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0016",
+    "Rang": 4,
+    "Tag": "TEC0063",
+    "Name": "Rien n'arrête le vent",
+    "Description": "Tel le vent qui parcourt le champ de bataille, rien ne peut arrêter la charge de l'Utaku. Lorsque vous vous trouvez à cheval, vous pouvez piétiner votre ennemi en dépensant un Point de Vide. Vous entreprenez une Action Simple pour charger votre ennemi et l'attaquer à la fin de votre déplacement (le déplacement et l'attaque se font bien dans le cadre d'une même Action Simple\u00A0; si vous êtes à cheval, cette Action s'appuie sur la vitesse de votre monture). En cas de succès, vous gagnez un bonus de +2g1 au total de tous vos jets de dommages du Tour."
+  },
+  {
+    "Ecole_Tag": "ECO0016",
+    "Rang": 5,
+    "Tag": "TEC0064",
+    "Name": "Bénédiction d'Otaku",
+    "Description": "L'Utaku brandit l'honneur de son fondateur tel un bouclier. Au début de votre Tour, vous pouvez dépenser un Point de Vide au prix d'une Action Gratuite pour activer cette Technique. Vous ajoutez votre Rang d'Honneur au total de vos jets de dommages et Jets de Compétences de Bugei du Tour. Ce bonus se cumule avec ceux de Chevaucher en Harmonie."
+  },
+  {
+    "Ecole_Tag": "ECO0017",
+    "Rang": 1,
+    "Tag": "TEC0065",
+    "Name": "La voie du Lion",
+    "Description": "Les bushi Akodo affûtent leur rage jusqu'à ce qu'elle devienne aussi tranchante que leur sabre. Vous pouvez ignorer la partie du ND d'armure provenant de l'armure de l'adversaire, ou gagner une augmentation gratuite en l'attaquant (mais vous devez tenir compte de la réduction de l'armure si votre choix se reporte sur la première option). Par ailleurs, vous ajoutez un bonus de +1g0 au total des jets d'attaque de votre première attaque de corps à corps en cas d'escarmouche, ou encore face à un adversaire qui a pris une augmentation sur une attaque contre vous depuis votre dernier tour. Vous ajoutez un total de 1g0 pour un ennemi qui a pris des augmentations contre vous, quel que soit leur nombre."
+  },
+  {
+    "Ecole_Tag": "ECO0017",
+    "Rang": 2,
+    "Tag": "TEC0066",
+    "Name": "La force de la pureté",
+    "Description": "Les guerriers Akodo, connus pour leur dévouement envers le Bushido, apprécient tout particulièrement de vaincre des adversaires déshonorants. En cas d'escarmouche, vous pouvez ajouter votre Rang d'Honneur au total d'un jet à votre Tour. Vous ne pouvez cependant pas augmenter les jets de dommages ainsi, ni exploiter cette Technique si vous adoptez la Posture du Centre."
+  },
+  {
+    "Ecole_Tag": "ECO0017",
+    "Rang": 3,
+    "Tag": "TEC0067",
+    "Name": "Par la force de mes ancêtres",
+    "Description": "Le bushi Akodo attaque deux fois, pour lui puis pour ses ancêtres. Vous pouvez porter des attaques au prix d'une action simple au lieu d'une action complexe quand vous utilisez une arme accompagnée du mot-clef «\u00A0samurai\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0017",
+    "Rang": 4,
+    "Tag": "TEC0068",
+    "Name": "Le triomphe avant la bataille",
+    "Description": "Aucun adversaire ne se trouve hors de portée des très dévoués guerriers Lion. Une fois par escarmouche, vous pouvez désigner un adversaire lors de l’Étape de Réactions. Vous pouvez ignorer les bonus au ND d'Armure que la cible tire de sa Posture durant le round suivant."
+  },
+  {
+    "Ecole_Tag": "ECO0017",
+    "Rang": 5,
+    "Tag": "TEC0069",
+    "Name": "L'ultime leçon d'Akodo",
+    "Description": "La maîtrise de l’École de Bushi Akodo confère une foi inébranlable en la victoire. Quand vous prenez des Augmentations sur un jet de compétences de Bugei, si vous obtenez un résultat supérieur ou égal au ND d'origine (sans Augmentations) sans pour autant atteindre le ND modifié, vous l'emportez, mais ne profitez pas des bénéfices des Augmentations."
+  },
+  {
+    "Ecole_Tag": "ECO0018",
+    "Rang": 1,
+    "Tag": "TEC0070",
+    "Name": "Les yeux des ancêtres",
+    "Description": "Les Kitsu descendent de créatures mystiques et parviennent à franchir le voile entre les mondes, mais également  à communiquer avec leurs ancêtres. Vous pouvez effectuer un jet d'incantation (comme s'il s'agissait d'un sort d'eau) contre la Volonté x 5 d'une cible. En cas de succès, vous découvrez tous les avantages ou désavantages spirituels de l'individu en question. En dépensant un point de Vide, vous pouvez annuler un avantage spirituel de votre adversaire pendant un nombre de minutes égal à votre rang de maîtrise. Vous gagnez aussi une augmentation gratuite sur tout sort accompagné du mot-clef «\u00A0art de la guerre\u00A0»,"
+  },
+  {
+    "Ecole_Tag": "ECO0019",
+    "Rang": 2,
+    "Tag": "TEC0072",
+    "Name": "le coeur du lion",
+    "Description": "Les Ikoma se chargent de communiquer les émotions que le reste du Clan dissimule derrière une rectitude empreinte de stoïcisme. Vous ne perdez pas d'Honneur ni de Gloire lorsque vous dévoilez vos émotions en public tant que vous le faites pour e compte d'un autre Lion ou d'une cause honorable qui vous dépasse de loin (comme votre Clan, l'Empire ou le code du Bushido). En même temps, votre compréhension des émotions et de l'honneur renforce votre âme contre la tentation. Quiconque tente d'influencer vos sentiments en usant des Compétences Intimidation ou Tentation doit ajouter +5 à son ND pour chacun de vos Rangs de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0019",
+    "Rang": 3,
+    "Tag": "TEC0073",
+    "Name": "La voix des ancêtres",
+    "Description": "Les Ikoma sont les aboyeurs du Clan du Lion qui galvanisent les soldats au champ de bataille en leur faisant le récit des exploits de leurs ancêtres. Avant une bataille ou une escarmouche, vous pouvez vous aussi galvaniser vos alliés en prenant la parole pendant quelques minutes et en effectuant un jet de Spectacle:Éloquence/Intuition contre un ND de 15 + 5 par personne galvanisée. Les cibles n'appartenant pas au Clan du Lion font chacune augmenter le ND de 5. En cas de réussite, chaque personne galvanisée peut ajouter son Rang d'Honneur au total d'un Jet de Compétence au choix lors de la bataille ou de l'escarmouche (si cet avantage n'est pas utilisé au terme de l'affrontement, il est perdu)."
+  },
+  {
+    "Ecole_Tag": "ECO0019",
+    "Rang": 4,
+    "Tag": "TEC0074",
+    "Name": "La force de la tradition",
+    "Description": "Les diatribes endiablées de Ikoma s'appuient sur les exemples de nobles ancêtres pour imprégner leurs alliés d'une force dont ils ne soupçonnaient même pas l'existence. Un nombre de fois par session égal à vote Rang de Maîtrise, vous pouvez au prix d'une Action Simple encourager un allié en lui faisant le récit d'exploits du passé, et faites un jet de Spectacle:Art du Conteur/Intuition contre un ND 25. En cas de réussite, si l'allié en question rate un jet dans la même journée, il peut le refaire en y ajoutant un nombre de dés lancés (mais non gardés) égal à votre Rang d'Honneur. Toutefois, s'il rate ce second jet, vous perdez 2 Points d'Honneur."
+  },
+  {
+    "Ecole_Tag": "ECO0019",
+    "Rang": 5,
+    "Tag": "TEC0075",
+    "Name": "Chaque Lion est ton frêre",
+    "Description": "La famille Ikoma a une parfaite compréhension du Bushido, de l'histoire, des sentiments et de la nature humaine, ce qui lui donne un avantage certain à la cour et insuffle leurs arguments du pouvoir de générations de nobles Lion, en faisant notamment appel à mille ans de précédents. Cinq fois par session, lorsque vous faites un Jet d'Opposition Sociale Contre un adversaire, vous pouvez citer un précédent historique pour étayer votre point de vue et jeter un nombre de dés lancés (mais non gardés) supplémentaires égal à votre Rang en Spectacle:Art du Conteur. Si vous citez une histoire inadéquate ou étrange, le MJ a le dernier mot quant à l'usage de cette Technique."
+  },
+  {
+    "Ecole_Tag": "ECO0020",
+    "Rang": 1,
+    "Tag": "TEC0076",
+    "Name": "Le rugissement du Lion",
+    "Description": "Les guerriers de l'école Matsu respectent les facultés de commandement de leurs cousins Akodo, mais savent qu'un assaut enragé permet bien souvent de balayer l'ennemi. Vous ajoutez votre Rang d'Honneur aux jets de dommages. Quand vous adoptez la posture d'assaut, vous pouvez vous déplacer de 1,5m supplémentaires par Tour en plus du bonus découlant de la posture (dans la limite de votre déplacement maximal par tour)."
+  },
+  {
+    "Ecole_Tag": "ECO0020",
+    "Rang": 2,
+    "Tag": "TEC0077",
+    "Name": "La fureur de Matsu",
+    "Description": "La cible de la fureur d'un Matsu a peu de chances de victoire. Quand vous adoptez la Posture d'Assaut, choisissez un adversaire situé dans un rayon de 9M. Si vous le touchez ce tour-ci, la cible se retrouve paralysée de terreur et ne peut effectuer d'actions de mouvement pour quitter l'endroit où elle se trouve. Lors de l'étape de Réactions, un adversaire affecté peut effectuer un Jet de Volonté contre un ND gal à la quantité de dommages infligée par votre dernière attaque pour annuler les effets de cette Technique (l'adversaire ne subit pas de malus découlant de son Rang de Blessure dans le cadre de ce jet). En cas d'échec, les effets de cette Technique s'achèvent lors de l'étape de Réactions suivante (la seconde après qu'il ait été touché).\nLes ennemis immunisés contre la Peur ne sauraient être affectés par cette Technique."
+  },
+  {
+    "Ecole_Tag": "ECO0020",
+    "Rang": 3,
+    "Tag": "TEC0078",
+    "Name": "La charge du Lion",
+    "Description": "Quand un Lion frappe, il a de bonnes chances de terrasser son adversaire. Vous pouvez effectuer des attaques de corps à corps au prix d'une action simple au lieu d'une action complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0020",
+    "Rang": 4,
+    "Tag": "TEC0079",
+    "Name": "Le courage de Matsu",
+    "Description": "La mort n'est rien comparée à la perte d'honneur, et aucun Matsu ne renonce avant de pousser son dernier souffle. Vous ignorez des malus au ND des Rangs de Blessures égaux à vote Rang d'Honneur, ou au double de votre Rang d'Honneur quand vous adoptez la Posture d'Assaut."
+  },
+  {
+    "Ecole_Tag": "ECO0020",
+    "Rang": 5,
+    "Tag": "TEC0080",
+    "Name": "La victoire du Lion",
+    "Description": "La mort d'un adversaire reste la seule victoire possible pour un Matsu. Une fois par rencontre, après avoir lancé les dommages de l'attaque, vous pouvez dépenser un Point de Vide au prix d'une Action Gratuite pour activer cette Technique. Vous éventrez votre adversaire, ou du moins aggravez ses blessures. Tous les dés que vous décidez de garder deviennent ouverts, si bien que vous les relancez et ajoutez leur résultat au total."
+  },
+  {
+    "Ecole_Tag": "ECO0021",
+    "Rang": 1,
+    "Tag": "TEC0081",
+    "Name": "La voie de la Mante",
+    "Description": "Les bushi Yoritomo apprennent à combattre sur le pont des navires et à se servir de tout ce qui leur tombe sous la main. Vous ne subissez pas de malus aux déplacements et attaques en raison d'un terrain médiocre ou difficile. Vous ne perdez pas de gloire ni d'honneur lorsque vous vous servez d'armes improvisées ou accompagnées du mot-clef «\u00A0Paysan\u00A0» en combat. Vous ne subissez pas de malus lorsque vous maniez une arme petite ou moyenne à l'aide de votre main non-directrice si elle s'accompagne du mot-clef\u00A0«\u00A0Paysan\u00A0». Enfin, vous gagnez +1g0 à tous vos jets d'attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0021",
+    "Rang": 2,
+    "Tag": "TEC0082",
+    "Name": "La voix de la tempête",
+    "Description": "Vos attaques violentes et déchainées perturbent votre adversaire pour vous offrir des ouvertures. Chaque fois que vous touchez un adversaire au corps à corps, son ND d'Armure est réduit de 5. Ce malus ne vaut que pour vos attaques et dure 2 Rounds. Cette Technique est cumulative (un nombre de fois égal à votre Rang de Maîtrise) et sa durée repart de 0 à chaque application."
+  },
+  {
+    "Ecole_Tag": "ECO0021",
+    "Rang": 3,
+    "Tag": "TEC0083",
+    "Name": "La frappe de la Mante",
+    "Description": "Le Yoritomo frappe aussi vite que la tempête et avec autant de fureur. Vous pouvez effectuer des attaques au prix d'une action simple au lieu d'une action complexe lorsque vous vous servez d'armes accompagnées du mot-clef «\u00A0Paysan\u00A0» ou «\u00A0Samurai\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0021",
+    "Rang": 4,
+    "Tag": "TEC0084",
+    "Name": "La déferlante",
+    "Description": "Le Bushi Yoritomo réagit en fonction de la tournure de la bataille, esquivant les coups tout en frappant sa cible. Si vous vous déplacez d'au moins 1,50m, vous bénéficiez d'un bonus de +10 an ND d'Armure jusqu'à votre Tour suivant. Vous pouvez sacrifier ce bonus à votre Tour avant d'effectuer une attaque pour gagner deux Augmentations Gratuites utilisables uniquement pour accomplir la Manœuvre de Renversement."
+  },
+  {
+    "Ecole_Tag": "ECO0021",
+    "Rang": 5,
+    "Tag": "TEC0085",
+    "Name": "La main d'Osano-Wo",
+    "Description": "Le Bushi Yoritomo frappe avec force et plonge son arme dans le corps de sa cible. Vous pouvez activer cette Technique en dépensant un Point de Vide au prix d'une Action Gratuite. Vous gardez alors un nombre de dés supplémentaires égal à votre Force lors des jets de dommages du Round. Si ces attaques touchent une cible Au Sol, ajoutez un bonus de +0g2 au total de vos jets de dommages contre celle-ci."
+  },
+  {
+    "Ecole_Tag": "ECO0022",
+    "Rang": 1,
+    "Tag": "TEC0086",
+    "Name": "Faveur du soleil",
+    "Description": "Aucune famille n'a davantage respecté les différentes incantations du Soleil au fil de son histoire, et cette piété lui a valu une grande faveur dans les cieux. De jour, vous gagnez une affinité supplémentaire aux sorts de feu. Cet avantage est perdu cependant la nuit. Vous gagnez aussi une augmentation gratuite aux sorts accompagnés du mot-clef «\u00A0Tonnerre\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0023",
+    "Rang": 1,
+    "Tag": "TEC0087",
+    "Name": "Le devoir avant l'honneur",
+    "Description": "A l'instar des Yasuki, les courtisans de la Mante sont des marchands et des diplomates, par contre ils cultivent un style très personnel bâti sur l'intimidation plutôt que sur l'amitié. En outre, ils passent le plus clair de leur temps à l'écart de la cour, en compagnie de certains des personnages les plus équivoques de Rokugan. Vous ne perdez ni Gloire ni Honneur lorsque vous vous servez de la compétence commerce en public, et vous ne perdez pas d'Honneur lorsque vous utilisez la compétence Intimidation(Contrôle). Chaque fois que vous faites un Jet de compétence Sociale contre des ronins, des bandits, des membres de gang, des mercenaires, des pirates et autres individus sans foi ni loi, vous gagnez un nombre d'augmentations gratuites égal à votre rang de maîtrise. Le personnage utilise Volonté au lieu d'Intuition pour tous ses jets d'Intimidation."
+  },
+  {
+    "Ecole_Tag": "ECO0023",
+    "Rang": 2,
+    "Tag": "TEC0088",
+    "Name": "Coeur de la tempête",
+    "Description": "Quand vient le temps d'intervenir à la cour, les Yoritomo se détournent des discours éloquents des Doji et des piques subtiles des Scorpions en faveur des brimades ouvertes, intimidant alors amis et ennemis pour qu'ils adoptent leur point de vue. Quand vous adoptez la compétence Intimidation-Contrôle), votre Volonté est considérée comme ayant 1 Rang de plus. Quand vous utilisez la compétence Intimidation(Contrôle) contre un samurai ayant un Rang de Statut inférieur au vôtre, votre Volonté est alors considérée comme ayant 2 Rangs de plus."
+  },
+  {
+    "Ecole_Tag": "ECO0023",
+    "Rang": 3,
+    "Tag": "TEC0089",
+    "Name": "Maître des vents",
+    "Description": "Les Mante apprennent à appuyer leurs paroles à la cour avec des manières grossières et agressives, d'où la difficulté de savoir s'ils mentent ou non. Un nombre de fois par session égal à votre Rang de Maîtrise, si vous avez rat un Jet de Compétence Sociale de Sincérité, vous pouvez relancer les dés en faisant à la place un Jet de Compétence Sociale d'Intimidation(Contrôle). Vous devez alors tenir compte du résultat du Jet d'Intimidation."
+  },
+  {
+    "Ecole_Tag": "ECO0023",
+    "Rang": 5,
+    "Tag": "TEC0091",
+    "Name": "De la force en toute chose",
+    "Description": "A ce Rang, la volonté de fer et les facultés d'intimidation du courtisan atteignent la perfection, ce qui lui permet de triompher de ses adversaires et même de rire de menaces qui rendraient blême un Bushi Hida. Chaque fois que vous tentez de vous servir de la compétence Intimidation contre quelqu'un, ou encore que vous faites un jet pour résister à la Peur, vous gagnez un bonus de +5g0 au jet."
+  },
+  {
+    "Ecole_Tag": "ECO0024",
+    "Rang": 1,
+    "Tag": "TEC0092",
+    "Name": "Sois toujours prêt",
+    "Description": "L'archer Tsuruchi doit être prêt à affronter ses ennemis en permanence. Vous ajoutez un bonus de +1g0 au total de vos jets d'attaque quand vous utilisez un arc. Par ailleurs, vous gagnez un bonus de +3 à votre Score d'initiative."
+  },
+  {
+    "Ecole_Tag": "ECO0024",
+    "Rang": 2,
+    "Tag": "TEC0093",
+    "Name": "La flèche connaît le chemin",
+    "Description": "Un Tsuruchi ne vise pas, mais laisse son trait suivre sa propre voie. Vous gagnez une augmentation gratuite  utilisable uniquement lorsque vous entreprenez la manœuvre de coup précis. Par ailleurs, vous gagnez un bonus de +2g0 au total de vos jets de dommage quand vous utilisez un arc."
+  },
+  {
+    "Ecole_Tag": "ECO0024",
+    "Rang": 3,
+    "Tag": "TEC0094",
+    "Name": "Le dard de la guêpe",
+    "Description": "Cette technique Tsuruchi permet de développer une vitesse surnaturelle. Vous pouvez porter des attaques au prix d'une action simple et non d'une action complexe quand vous utilisez un arc."
+  },
+  {
+    "Ecole_Tag": "ECO0024",
+    "Rang": 4,
+    "Tag": "TEC0095",
+    "Name": "L'envol du non-esprit",
+    "Description": "Un véritable archer ne se soucie pas de sa flèche et se contente de tirer. Une fois par escarmouche, vous pouvez dépenser un Point de Vide au prix d'une action Complexe pour tirer une flèche qui saura exactement où aller. Cette attaque ignore tous les effets d'armure ainsi que les pénalités dues aux Rangs de Blessure et la visibilité. Vous pouvez déclarer des Augmentations, mais ne pouvez entreprendre la Manœuvre d'Attaque Supplémentaire sur cette attaque.\nCette Technique ne vous permet pas de toucher une cible située au-delà de la portée habituelle de votre arc."
+  },
+  {
+    "Ecole_Tag": "ECO0024",
+    "Rang": 5,
+    "Tag": "TEC0096",
+    "Name": "L'oeil de tsuruchi",
+    "Description": "La dernière leçon de Tsuruchi enseigne qu'il n'y a pas un ennemi qui ne puisse être abattu à l'aide d'une simple flèche. Vous pouvez effectuer une attaque à distance au prix d'une Action Complexe pour gagner un bonus de +4g1 au total de vos jets d'attaque et de dommages. Vous ne pouvez pas utiliser cette technique conjointement avec l'Envol du Non-Esprit."
+  },
+  {
+    "Ecole_Tag": "ECO0025",
+    "Rang": 1,
+    "Tag": "TEC0097",
+    "Name": "La voie du Phénix",
+    "Description": "Les bushi Shiba se déplacent sur le champ de bataille comme le Vide parcours les éléments. Quand vous dépensez un point de Vide pour gagner +1g1 sur un jet, vous pouvez si vous le désirez dépenser 2 points de Vide (pour gagner +2g2) à la place. Vous pouvez effectuer une manœuvre de Garde au prix d'une action gratuite. Toutefois, la cible n'ajoute alors que +5 à son ND d'Armure au lieu de +10."
+  },
+  {
+    "Ecole_Tag": "ECO0025",
+    "Rang": 2,
+    "Tag": "TEC0098",
+    "Name": "La danse des éléments",
+    "Description": "Les bushi Shiba sont en parfaite harmonie avec les shugenja qu'ils protègent et complètent à merveille leurs Sorts, tout en rendant ceux des adversaires moins efficaces. Quand vous adoptez votre Posture pour le Round, vous pouvez choisir une cible située dans un rayon de 10m. Quand votre cible lance un Sort ou se trouve elle-même la cible d'un Sort, vous pouvez augmenter ou réduire le ND du Sort en question de 5. Par ailleurs, quand vous êtes la cible d'un Sort, vous pouvez aussi augmenter ou réduire le ND du Sort en question de 5."
+  },
+  {
+    "Ecole_Tag": "ECO0025",
+    "Rang": 3,
+    "Tag": "TEC0099",
+    "Name": "En harmonie avec le vide",
+    "Description": "Au combat, les Shiba trouvent aisément leur place en ce monde. Cette Technique s'active automatiquement lors de l'étape de Réaction si un autre personnage a dépensé un Point de Vide lors de ce Round. Vous regagnez un Point de Vide, qui peut vous permettre de dépasser votre maximum, même si les éventuels Points de Vide en excès sont perdus une fois le combat terminé. Vous ne savez rien de la source du Point de Vide ni de la façon dont il a été dépensé. Cette Technique ne s'active que deux fois par escarmouche."
+  },
+  {
+    "Ecole_Tag": "ECO0025",
+    "Rang": 4,
+    "Tag": "TEC0100",
+    "Name": "En hamonie avec l'univers",
+    "Description": "La sérénité suscite la certitude, qui elle-même apporte la vitesse. Vous pouvez porter des attaques au prix d'une action simple au lieu d'une action complexe quand vous utilisez une arme d'hast, une lance ou une arme accompagnée du mot-clef «\u00A0samurai\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0025",
+    "Rang": 5,
+    "Tag": "TEC0101",
+    "Name": "Caresse du vide",
+    "Description": "Les maîtres du style Shiba arrivent à lever le voile pour agir en parfaite harmonie avec l'univers. Pour chaque Point de Vide que vous dépensez, vous en profitez comme si vous en aviez dépensé deux, du moins si cela est applicable. Par ailleurs, vous pouvez désormais dépenser deux Points de Vide par Tour (au lieu d'un) pour les effets d'amélioration."
+  },
+  {
+    "Ecole_Tag": "ECO0026",
+    "Rang": 1,
+    "Tag": "TEC0102",
+    "Name": "Le don d'Isawa",
+    "Description": "Les Isawa sont les maîtres absolus de la tradition des shugenja. Vous gagnez une augmentation gratuite aux jets d'incantation des sorts de l'élément que vous avez pour Affinité."
+  },
+  {
+    "Ecole_Tag": "ECO0027",
+    "Rang": 1,
+    "Tag": "TEC0103",
+    "Name": "Le temple de l'âme",
+    "Description": "Les Asoko, historiens et érudits, font des études nettement plus longues que celles des autres familles de l'empire. Ils s'enorgueillissent de leurs connaissances en de nombreux domaines. Ils partagent aussi le dévouement du clan du phénix en matière de paix et de courtoisie. Ils affectent donc de la distinction pour régler les problèmes. Vous gagnez une augmentation gratuite aux jets de connaissance. Chaque fois que vous dépensez un point de vide dans le cadre d'un jet d'étiquette, vous gagnez un bonus de +3g1 au total du jet, et non l'habituel +1g1."
+  },
+  {
+    "Ecole_Tag": "ECO0027",
+    "Rang": 2,
+    "Tag": "TEC0104",
+    "Name": "L'enseignement des cendres",
+    "Description": "Les Maîtres du Savoir étudient de très près les nombreux événements historiques, ce qui leur permet de cerner les grandes lignes comportementales à la cour, des courants généralement invisibles pour leurs rivaux des autres Clans. Après avoir passé au moins une journée à observer les événements agitant une cour précise, vous pouvez faire un Jet de Connaissance:Histoire/Perception contre un ND 20 pour gagner un bonus de +2g0 au total de vos Jets de Compétences Sociales durant les deux journées suivantes tant que vous restez au sein de cette cour. L'effet de cette Technique peut être réactivé en faisant un nouveau Jet de Compétence, mais il n'est pas nécessaire de passer de nouveaux jours d'observation tant que vous restez à cette cour précise."
+  },
+  {
+    "Ecole_Tag": "ECO0027",
+    "Rang": 3,
+    "Tag": "TEC0105",
+    "Name": "La voix de l'univers",
+    "Description": "La formation de l'Asako se poursuit et il découvre des faits historiques obscurs qui lui permettent de prodiguer des conseils utiles à ses alliés. Vous pouvez passer une heure à discuter avec un ami ou un allié et faire un Jet de Connaissance:Histoire/Intelligence contre un ND de 25. En cas de réussite, l'allié en question peur ajouter votre Rang de Compétence Connaissance:Histoire au total de ses Jets de Compétences Sociales effectués dans les 4 heures suivantes. Vous pouvez déclarer deux Augmentations pour affecter un allié (et un seul) en plus tant que celui-ci participe lui aussi à la conversation. Cette Technique ne peut pas être réutilisée sur une même personne tant que ses effets n'ont pas expiré."
+  },
+  {
+    "Ecole_Tag": "ECO0027",
+    "Rang": 4,
+    "Tag": "TEC0106",
+    "Name": "Esprit invincible",
+    "Description": "Instruit et cultivé, l'Asako voit au travers des jeux, ruses et tromperies du monde matériel. Chaque fois que vous ratez un Jet d'Opposition de Compétence Sociale pour résister à quelqu’un qui tente d'influencer vos émotions, votre opinion ou votre comportement (avec, par exemple, les compétences Courtisan, Tentation ou Intimidation), vous pouvez le refaire en utilisant votre Intelligence à la place du Trait d'origine. Vous devez alors conserver le résultat du second jet. Cette Technique ne peut cependant pas être utilisée pour résister à la Peur."
+  },
+  {
+    "Ecole_Tag": "ECO0027",
+    "Rang": 5,
+    "Tag": "TEC0107",
+    "Name": "Sagesse des âges",
+    "Description": "A ce Rang, l'Asako démontre que la sagesse du Phénix est éternelle. Chaque fois que vous faites un jet de Compétence de Connaissance (y compris dans le cadre des autres Techniques de votre École), vous gagnez un bonus de +5g0 au total du jet."
+  },
+  {
+    "Ecole_Tag": "ECO0028",
+    "Rang": 1,
+    "Tag": "TEC0108",
+    "Name": "Tous sont un",
+    "Description": "Les Agasha saisissent mieux les interactions élémentaires que les autres familles. Quand vous lancez un sort, vous pouvez dépenser un point de Vide pour utiliser un Anneau différent de votre choix plutôt que l'anneau associé au sort en question. Ce sort utilise alors un emplacement de sort de l'anneau utilisé. Vous gagnez aussi une augmentation gratuite aux sorts accompagnés du mot-clef «\u00A0artisanat\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0029",
+    "Rang": 1,
+    "Tag": "TEC0109",
+    "Name": "La voie du Scorpion",
+    "Description": "Les bushi Scorpion ont toujours l'air d'avoir une longueur d'avance sur leurs adversaires. Vous ajoutez +1g1 à vos jets d'initiative. Vous ajoutez aussi +5 à votre ND d'armure contre les adversaires ayant une initiative inférieure à la votre."
+  },
+  {
+    "Ecole_Tag": "ECO0029",
+    "Rang": 2,
+    "Tag": "TEC0110",
+    "Name": "Les pinces et le dard",
+    "Description": "Les célèbres ruses des Scorpions ont coûté la vie à de nombreux samurai intrépides. Vous pouvez entreprendre la manœuvre de feinte pour une Augmentation et non deux."
+  },
+  {
+    "Ecole_Tag": "ECO0001",
+    "Rang": 1,
+    "Tag": "TEC0001",
+    "Name": "La voie du crabe",
+    "Description": "Le Bushi Hida est l'incarnation du fantassin lourd. Il peut encaisser des coups violents et continuer de porter des attaques dévastatrices. Vous pouvez ignorer les malus au ND découlant du port d'une armure lourde pour toutes les compétences, à l'exception de discrétion. Lorsque vous utilisez une armure lourde, vous bénéficiez d'un bonus de +1g0 au total de vos jets de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0004",
+    "Rang": 1,
+    "Tag": "TEC0012",
+    "Name": "La flamme de la torche vacille",
+    "Description": "Le bushi Hiruma apprend à porter des coups tout en se protégeant, perfectionnant son pouvoir de pénétration sans sacrifier sa défense. Lorsque vous adoptez la posture d'attaque, vous gagnez un bonus de +1g0 à tous vos jets d'attaque. Vous êtes doué en matière de survie, si bien que les rations de nourriture, d'eau et de jade durent deux fois plus longtemps pour un nombre de personnes égal à votre rang de classe."
+  },
+  {
+    "Ecole_Tag": "ECO0009",
+    "Rang": 4,
+    "Tag": "TEC0036",
+    "Name": "Un coup, deux entailles",
+    "Description": "En portant le coup parfait, l’élève de la technique Kakita frappe deux fois son adversaire. Vous pouvez porter des attaques au prix d'une Action Simple au lieu d'une Action Complexe quand vous vous servez d'armes accompagnées du mot-clef Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0029",
+    "Rang": 4,
+    "Tag": "TEC0112",
+    "Name": "Frapper de dessus et d'en dessous",
+    "Description": "La rapidité du Scorpion lui permet de terrasser ses adversaires avant même qu'ils ne comprennent avoir été attaqués. Vous pouvez porter des attaques de corps à corps au prix d'une action simple au lieu d'une action complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0029",
+    "Rang": 5,
+    "Tag": "TEC0113",
+    "Name": "les pinces retiennent, le dard frappe",
+    "Description": "Pour parvenir à la victoire, le Scorpion doit commencer par trouver le point faible de son adversaire. Une fois par rencontre, vous pouvez dépenser un Point de Vide au prix d'une Action Complexe pour attaquer votre adversaire avec une arme de corps à corps. En cas de réussite, la cible se retrouve Étourdie. Lors de l’Étape de Réactions, un adversaire affecté peut tenter un Jet de Terre contre un ND égal à la quantité de dommages infligés pour tenter de mettre fin à l’Étourdissement. S'il échoue ou ne tente tout simplement pas le jet, l’Étourdissement. s'achève lors de l’Étape de Réactions suivante (la seconde après qu'il ait été touché)."
+  },
+  {
+    "Ecole_Tag": "ECO0030",
+    "Rang": 1,
+    "Tag": "TEC0114",
+    "Name": "Le murmure des Kami",
+    "Description": "Les Soshi lancent leurs sorts aussi discrètement que les Kami. Vous pouvez sacrifier un emplacement de sort supplémentaire quand vous lancez un sort qui n'inflige pas de dommages pour éliminer tous les signes visibles censés en découler. Tous les effets du sort ont lieu normalement, mais il n'y a aucun signe extérieur de ce qui s'est passé. Vous gagnez une augmentation gratuite aux sorts accompagnés du mot-clef «\u00A0Illusion\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0031",
+    "Rang": 1,
+    "Tag": "TEC0115",
+    "Name": "La faiblesse est ma force",
+    "Description": "Les Bayushi n'ont pas leur pareil pour dénicher puis exploiter les faiblesses et échecs d'autrui. Sans même connaître la nature exacte du secret d'un rival, le simple fait de savoir qu’il cache quelque chose peut amplement suffire. Quand vous effectuez un jet d'opposition social contre quelqu'un, vous gagnez une augmentation gratuite au jet pour chaque tranche de 3 points de désavantages mentaux ou sociaux (arrondi à l'entier inférieur) qu'il possède. Les désavantages qui n'ont pas coûté de points d'expérience comptent eux aussi dans le cadre de cette technique, qui ne peut cependant octroyer plus de 5 augmentations gratuites.\nLes Bayushi oscillent toujours entre vérité et mensonges, au point qu'on ne peut que difficilement faire la part des deux pour tout ce sort de leur bouche. Vous gagnez une augmentation gratuite quand vous utilisez la compétence Courtisan pour propager une rumeur, et n'avez pas besoin de déclarer d'augmentation pour cacher le fait que vous en êtes la source."
+  },
+  {
+    "Ecole_Tag": "ECO0031",
+    "Rang": 2,
+    "Tag": "TEC0116",
+    "Name": "Eaux troubles",
+    "Description": "Les Scorpions jaugent parfaitement leurs adversaires et cernent leurs faiblesses pour mieux les abattre. En discutant avec quelqu'un pendant quelques minutes, vous pouvez faire un Jet d'Opposition d'Enquête/Intuition contre Étiquette/Intuition. En cas de succès, vous apprenez son identité, ainsi que les Rangs de son Trait Mental le plus bas et de sa Compétence Sociale accompagnée d'au moins un Rang la plus basse (en cas d'égalité, c'est au MJ de choisir). Vous pouvez aussi dépenser un Point de Vide pour découvrir le Trait Mental et la Compétence Sociale suivants les plus bas."
+  },
+  {
+    "Ecole_Tag": "ECO0031",
+    "Rang": 3,
+    "Tag": "TEC0117",
+    "Name": "Les secrets sont comme des marques",
+    "Description": "A ce Rang, le Scorpion devient tellement fort pour découvrir des secrets qu'il peut pousser son interlocuteur à en révéler un lors d'une simple conversation. En parlant avec quelqu'un pendant quelques minutes, vous pouvez faire un Jet d'Opposition de Courtisan(Manipulation)/Intuition contre Étiquette(Courtoisie)/Intuition de la cible afin de l'obliger à dévoiler l'un de ses Désavantages Mentaux ou Sociaux. S'il n'en a pas, il révèle alors u de ses Avantages Mentaux ou Sociaux. Notez toutefois que seul le nom du Désavantage ou de l'Avantage est révélé, pas la nature précise du secret. Par exemple, vous apprenez que la cible a un Sombre Secret, rien de plus. Si le jet vous permet de découvrir un Désavantage, vous pouvez (avec l'aval du MJ) prendre l'Avantage Chantage à 2 points contre l'individu en question, sans que cela ne vous coûte de Points d'Expérience."
+  },
+  {
+    "Ecole_Tag": "ECO0031",
+    "Rang": 4,
+    "Tag": "TEC0118",
+    "Name": "La douce piqûre de la critique",
+    "Description": "A ce Rang, le Courtisan Bayushi devient capable d'exploiter tous les renseignements réunis pour briser très subtilement ses ennemis en sapant chacun de leurs mots et gestes. Chaque fois que vous faites un Jet d'Opposition de Compétence Sociale contre un individu sur lequel vous exercez un Chantage, ses dés ne peuvent plus être ouverts. Par ailleurs, chaque fois que vous faites un Jet d'Opposition de Compétence Sociale contre quelqu'un (que vous exerciez ou non un Chantage sur lui), vous pouvez dépenser un Point de Vide pour l'obliger à utiliser un Trait Mental de votre choix (au lieu du Trait habituellement associé au jet)."
+  },
+  {
+    "Ecole_Tag": "ECO0031",
+    "Rang": 5,
+    "Tag": "TEC0119",
+    "Name": "Bas les masques",
+    "Description": "La dernière leçon de l’École Bayushi consiste à obliger le reste de la cour à voir le monde corrompu et déshonorant qui lui est si familier, brisant ainsi la réputation de ceux auxquels il s'adresse Un nombre de fois par session égal à votre Rang de Maîtrise, vous pouvez faire un jet d'Opposition Sociale de Courtisan(Commérage)/Intuition contre un Jet d’Étiquette(Courtoisie)/Intuition d'un adversaire. Si vous exercez un Chantage sur la cible de cette Technique, vous gagnez un bonus de +5g0 au total du jet. En cas de succès, vous infligez un des Désavantages suivants à la cible\u00A0: Désavantage Social, Ennemi Juré ou Obligation (envers la personne de votre choix). Le Désavantage dure un mois, sauf si le MJ estime que la cible a fait le nécessaire pour s'en débarrasser avant (cette Technique ne peut pas être réutilisée sur une même cible tant que l’effet n'a pas expiré)."
+  },
+  {
+    "Ecole_Tag": "ECO0032",
+    "Rang": 1,
+    "Tag": "TEC0120",
+    "Name": "La voie des ombres",
+    "Description": "La première leçon de l'infiltrateur consiste à dissimuler les signes de sa véritable nature. Vous ne perdez pas d'Honneur lorsque vous utilisez une compétence dégradante ou d'arme de Ninjutsu au service du clan du Scorpion (à l'appréciation du MJ). Vous gagnez un bonus de +2g0 au total de vos jets de Discrétion."
+  },
+  {
+    "Ecole_Tag": "ECO0032",
+    "Rang": 2,
+    "Tag": "TEC0121",
+    "Name": "Coup depuis les ténèbres",
+    "Description": "Un élève des Techniques Shosuro ne manque jamais d'exploiter un avantage que lui offre un adversaire. Quand vous annoncez une attaque contre un adversaire non conscient de votre présence jusqu'au moment de l'attaque en question, vos Augmentations ne sont pas limitées par votre Vide et vous lancez un nombre de dés supplémentaires égal à votre Rang de Maîtrise au jet d'attaque. Vous lancez aussi (sans les garder) la moitié de ces dés sur un jet d'attaque contre un adversaire victime d'une Condition (comme Étourdit. ou Fatigué). Ces deux effets ne se cumulent pas. Si les deux sont applicables, vous devez en choisir un des deux (par exemple, vous n'ajoutez pas une fois et demi votre Rang de Maîtrise à jet d'attaque contre un adversaire aveuglé et inconscient de votre présence)."
+  },
+  {
+    "Ecole_Tag": "ECO0032",
+    "Rang": 3,
+    "Tag": "TEC0122",
+    "Name": "De l'acier dans la soie",
+    "Description": "Un véritable guerrier de l'ombre frappe vite et fort. Quand vous tendez un guet-apens (comme indiqué ci-dessus), ou quand vous utilisez des armes de ninjutsu (les armes avec le mot-clef «\u00A0Ninjutsu\u00A0»), vous pouvez porter une attaque de corps à corps (ou encore une attaque à distance si vous utilisez un shuriken ou un tsubute) au prix d'une Action Simple au lieu d'une Action Complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0032",
+    "Rang": 4,
+    "Tag": "TEC0123",
+    "Name": "Murmure d'acier",
+    "Description": "Un maître assassin frappe depuis l'ombre sans jamais dévoiler sa présence. Même après avoir attaqué une cible, vos adversaires et autres passants doivent réussir un Jet d'Opposition d'Enquête(Sens de l'Observation)/Perception contre Discrétion/Agilité pour vous remarquer. Vous ne pouvez utiliser cette Technique que si vous n'effectuez qu'une seule attaque par Round. (Le MJ pourra décréter que cette Technique ne fonctionne pas dans les lieux où il est impossible de se cacher)."
+  },
+  {
+    "Ecole_Tag": "ECO0032",
+    "Rang": 5,
+    "Tag": "TEC0124",
+    "Name": "Le silence final",
+    "Description": "Un véritable assassin n'a besoin de porter qu'un coup. Après avoir effectué le jet de dommages découlant de votre attaque, vous pouvez dépenser un Point de Vide pour passer le résultat de deux dés au choix à 10. Toutefois, les dés concernés ne sont pas ouverts. Vous pouvez dépenser plusieurs Points de Vide de cette façon, chacun affectant le résultat d'un ou deux dés de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0033",
+    "Rang": 2,
+    "Tag": "TEC0126",
+    "Name": "Aura de sang",
+    "Description": "La simple présence d’un Bushi Daigotsu trouble ceux non préparés à y faire face. Vous pouvez dépenser un Point de Vide au prix d’une Action Simple pour activer cette Technique. Tant qu’elle est active, vous et vos alliés situés dans un rayon de 9m ajoutez +2g0 au total de vos jets de dommages. Cela dure un nombre de Rounds égal à votre Rang de Souillure + votre Rang de Force. Ce bonus ne peut se cumuler à d’autres applications d’Aura de Sang. Le fait d’utiliser cette Technique alors qu’elle vous affecte encore vous permet de remettre les compteurs à 0 pour la durée du bonus."
+  },
+  {
+    "Ecole_Tag": "ECO0033",
+    "Rang": 3,
+    "Tag": "TEC0127",
+    "Name": "Ailes d'Ashura",
+    "Description": "Le Bushi Daigotsu se déplace et frapper aussi vite que la cendre portée par le vent. Vous pouvez effectuer des attaques de corps à corps au prix d’une Action Simple au lieu d’une Action Complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0033",
+    "Rang": 4,
+    "Tag": "TEC0128",
+    "Name": "Colère dévorante",
+    "Description": "Par la puissance de Fu Leng, le bushi se nourrit de la force de ses ennemis. Chaque fois que vous touchez un adversaire au corps à corps, vous regagnez aussitôt 5 Blessures. Vous pouvez ainsi vous retrouver avec des Blessures supplémentaires dépassant votre maximum habituel, mais ce bonus se limite à 20 Blessures. Les Blessures en excès sont perdues à la fin de l’escarmouche."
+  },
+  {
+    "Ecole_Tag": "ECO0033",
+    "Rang": 5,
+    "Tag": "TEC0129",
+    "Name": "Asaut inhmain",
+    "Description": "La colère d’un Bushi Daigotsu s’apparente à celle d’une bête déchaînée\u00A0; Une fois par escarmouche, vous pouvez porter une volée de coups fracassants en effectuant une attaque de corps à corps au prix d’une Action Complexe. Cette attaque ignore les bonus et effets de l’armure (dont sa Réduction) et tout Posture qu’adopte la cible. Si le coup touche, la cible ne peut jouir des bonus d’armure ou de Posture à son ND d’Armure pendant un nombre de Rounds égal à votre Rang de Souillure + votre Rang de Force. Si votre adversaire adopte la Posture d’Assaut, il subit bel et bien le malus au ND d’Armure de -10."
+  },
+  {
+    "Ecole_Tag": "ECO0034",
+    "Rang": 1,
+    "Tag": "TEC0130",
+    "Name": "Sang dilué",
+    "Description": "Les Chuda existent depuis des siècles, cachés parmi la population Rokugani et dissimulant la véritable nature de leur magie noire.Quand vous lancez un Sort de Maho, vous pouvez déclarer une Augmentation pour cacher la nature corrompue de la magie. Le Sort fonctionne tout à fait normalement, mais rien n’indique qu’il ne relève pas d’une magie élémentaire traditionnelle.Vous pouvez déclarer une seconde Augmentation pour réduire à un Point la Souillure de l’Outremonde normalement acquise à cause d’un Sort de Maho, quel que soit son niveau de Maîtrise. Si vous préférez, vous pouvez aussi sacrifier un Point d’Honneur pour réduire à un Point la Souillure de l’Outremonde normalement acquise à cause du Sort."
+  },
+  {
+    "Ecole_Tag": "ECO0035",
+    "Rang": 1,
+    "Tag": "TEC0131",
+    "Name": "Murmures insidieux",
+    "Description": "Les Courtisans Daigotsu parviennent à dissimuler leur vraie nature à la perfection afin que nul ne puisse découvrir leurs véritables intentions et leur éventuelle Souillure. Vous gagnez une Augmentation Gratuite lorsque vous utilisez Sincérité(Tromperie). Les jets visant à détecter votre Souillure (comme les Techniques de Chasseur de Sorcières Kuni) voient leur ND augmenter d’un nombre égal à 5x votre Rang de Maîtrise. Quand quelqu’un tente d’évaluer votre Rang d’Honneur, vous y ajoutez votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0035",
+    "Rang": 2,
+    "Tag": "TEC0132",
+    "Name": "Des fissures dans le mur",
+    "Description": "Le Courtisan Daigotsu apprend à livrer de subtiles et banales informations qui lui permettent de détourner l’attention. Chaque fois que vous vous livrez à une conversation, vous pouvez dépenser un Point de Vide et faire un Jet de Courtisan(Manipulation)/Intuition (au prix d’une Action Simple) contre un ND de 25 pour imposer à tous les individus situés dans un rayon de 6m un malus de -1g1 à tous leurs Jets d’Étiquette et de Spectacle durant l’heure qui suit. Les cibles ne sont pas conscientes de l’origine de leur baisse de concentration. Cet effet ne peut être utilisé plusieurs fois de suite."
+  },
+  {
+    "Ecole_Tag": "ECO0035",
+    "Rang": 3,
+    "Tag": "TEC0133",
+    "Name": "Nul ne piège les ténèbres",
+    "Description": "A ce Rang, le Courtisan Daigotsu apprend à détourner l’attention et les accusations en propageant une forme de discorde tout autours de lui. Chaque fois que vous êtes la cible de méfiance ou de suspicion, vous pouvez dépenser un Point de Vide au prix d’une Action Simple pour reporter la faute sur un individu présent au moment de l’accusation. Vous devez faire un jet d’Opposition de Sincérité(Tromperie)/Intuition contre la Sincérité(Honnêteté)/Intuition de la malheureuse cible pour que votre ruse fonctionne (si votre tentative semble déplacée ou injustifiée, le MJ pourra accorder un bonus à la cible). En cas de réussite, tous ceux qui vous entendent penseront la cible coupable, du moins jusqu’à ce qu’on leur prouve le contraire.\nCette Technique ne peut être utilisée pour se sortir de situations dans lesquelles vous êtes de toute évidence coupable (comme, par exemple, si vous vous tenez au-dessus du corps d’un magistrat avec un couteau couvert de sang dans la main), ni reporter l’accusation sur un individu absent."
+  },
+  {
+    "Ecole_Tag": "ECO0035",
+    "Rang": 4,
+    "Tag": "TEC0134",
+    "Name": "La caresse du péché",
+    "Description": "A ce niveau d’entraînement, votre niveau de manipulation et de désinformation vous permet d’agir sur les pensées de vos interlocuteurs pour les pousser temporairement vers la faiblesse, l’agressivité et la confusion. Un nombre de fois par session égal à votre Rang de Maîtrise, vous pouvez parler avec quelqu’un pendant quelques minutes et faire un Jet d’Opposition de Courtisan(Manipulation)/Volonté contre l’Étiquette(Courtoisie)/Volonté de la cible. En cas de réussite, elle acquiert l’un des sept Désavantages Rongé par le Shourido (de votre choix) pour un nombre d’heures égal à votre Rang de Maîtrise. En prenant deux Augmentations, vous pouvez même lui imposer un second Désavantage Rongé par le Shourido (de votre choix) qui dure aussi longtemps. Vous ne pouvez cependant pas utiliser cette Technique sur une même personne deux fois dans la même journée."
+  },
+  {
+    "Ecole_Tag": "ECO0035",
+    "Rang": 5,
+    "Tag": "TEC0135",
+    "Name": "L'étreinte des ténèbres",
+    "Description": "La dernière leçon de l’École de Courtisan Daigotsu apprend aux élèves à pousser leurs ennemis sur la voie de l’agressivité et de la violence. En conversant avec quelqu’un pendant au moins 15 minutes, vous pouvez faire un jet d’Opposition de Sincérité(Tromperie)/Intuition contre Étiquette(Courtoisie)/Perception. Si votre cible a un Désavantage Rongé par le Shourido, vous gagnez un bonus de +5g0 au jet. En cas de réussite, vous pouvez convaincre la cible de traiter une personne, un groupe, une institution ou un Clan comme un ennemi. La Technique ne permet cependant pas de retourner quelqu’un contre son seigneur ou l’Empereur. Sujette à cette limitation, la cible croira à cette inimitié jusqu’à preuve du contraire.\nCette Technique ne peut être utilisée contre une même personne qu’une seule fois par mois."
+  },
+  {
+    "Ecole_Tag": "ECO0036",
+    "Rang": 1,
+    "Tag": "TEC0136",
+    "Name": "La voie Noire",
+    "Description": "L’Ordre de l’Araignée enseigne force et maîtrise de soi, y compris celles des ténèbres qui se cachent au plus profond de l’âme. Vous gagnez un bonus de +1g0 au total de vos jets d’attaque effectués à mains nues ou avec une arme d’hast. Vous ajoutez aussi le double de votre Rang de Maîtrise à votre ND d’Armure contre les attaques de corps à corps."
+  },
+  {
+    "Ecole_Tag": "ECO0036",
+    "Rang": 2,
+    "Tag": "TEC0137",
+    "Name": "Attirer le coup",
+    "Description": "La maîtrise du corps marque une étape vers la voie du pouvoir, et cette maîtrise offre une endurance considérable. Vous pouvez choisir un Anneau autre que le Vide. Vous gagnez une Réduction égale à cet Anneau, auquel vous ajoutez votre Rang de Souillure de l’Outremonde, le cas échéant."
+  },
+  {
+    "Ecole_Tag": "ECO0036",
+    "Rang": 3,
+    "Tag": "TEC0138",
+    "Name": "Rapidité des ténèbres",
+    "Description": "L’alignement du corps et de l’esprit offre une vitesse exceptionnelle. Quand vous vous servez d’une arme d’hast ou d’une attaque à mains nues, vous pouvez effectuer des attaques de corps à corps au prix d’Actions Simples plutôt que d’actions Complexes."
+  },
+  {
+    "Ecole_Tag": "ECO0036",
+    "Rang": 4,
+    "Tag": "TEC0139",
+    "Name": "Protégé par le Chi",
+    "Description": "Après la maîtrise du corps vient la maîtrise de l’âme. Avec cette Technique, vous pouvez choisir un Anneau autre que le Vide. Ajoutez le double de votre Rang dans cet Anneau, ainsi que votre éventuel Rang de Souillure de l’Outremonde, au ND des Sorts lancés contre vous. Vous pouvez réprimer cet effet si vous le désirez."
+  },
+  {
+    "Ecole_Tag": "ECO0037",
+    "Rang": 1,
+    "Tag": "TEC0141",
+    "Name": "La voix de l'Empereur",
+    "Description": "Les Miya apprennent les us de l’Empire afin de diffuser la parole de l’Empereur aux quatre coins du pays, mais aussi l’art de la non-violence afin que leur verbe soit entendu de tous ceux qui respectent le monarque. Dans les frontières de l’Empire, vous pouvez dépenser un Point de Vide pour gagner l’Avantage Grand Voyageur pour la province dans laquelle vous vous trouvez alors (l’effet dure jusqu’à votre prochain sommeil). Par ailleurs, les Rokugani qui révèrent l’Empereur et qui vous attaquent délibérément perdent automatiquement un nombre de Points d’Honneur égal au double de votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0037",
+    "Rang": 2,
+    "Tag": "TEC0142",
+    "Name": "Les yeux de l'empereur (Miya)",
+    "Description": "Les Miya, médiateurs de paix et messagers, arrangent des traités entre les factions en guerre de l’Empire et apprennent à rester impartiaux quelle que soit la pression subie. Vous pouvez ajouter votre Rang d’Honneur aux jets d’Étiquette(Courtoisie) faits dans le but de résister aux tentatives d’influence d’autrui."
+  },
+  {
+    "Ecole_Tag": "ECO0037",
+    "Rang": 3,
+    "Tag": "TEC0143",
+    "Name": "La main de l'Empereur",
+    "Description": "L’aura de paix et de non-violence des Miya prend des proportions telles que les adversaires honorables ont maintenant du mal à s’attaquer à lui. Au début d’une escarmouche, ou lors de la Phase de Réaction d’un Round ultérieur de l’escarmouche, vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour empêcher les Rokugani qui révèrent l’Empereur de vous faire du mal avant la prochaine Phase de Réaction (rien ne les empêche cependant de vous capturer ou de vous maîtriser tant qu’ils ne vous blessent pas). Cette Technique ne peut s’utiliser que si le Miya ne participe pas à l’escarmouche ou à un duel."
+  },
+  {
+    "Ecole_Tag": "ECO0037",
+    "Rang": 4,
+    "Tag": "TEC0144",
+    "Name": "La bénédiction de l'Empereur",
+    "Description": "A ce Rang, le Miya a développé une personnalité assez forte pour imposer ses exigences de paix aux individus violents qui l’entourent, ce qui ne représente finalement qu’une forme très spécialisée d'Obiesaseru Otomo. Vous pouvez y recourir un nombre de fois par session égal à votre Rang de Maîtrise, mais vous ne pouvez utiliser cette Technique que face à des samurai honorables (Rang d’Honneur de 1.0 ou plus) qui révèrent l’Empereur. Criminels, bandits, Damnés et créatures inhumaines sont donc immunisées contre ses effets. Pour user de cette Technique, vous devez entreprendre une Action Complexe pour faire un pas en avant et exiger de mettre fin aux violences (au nom de l’Empereur, ces enfantillages ont assez duré\u00A0!\u00A0»). Vous faites un Jet d’Opposition de Courtisan (Rhétorique)/Intuition contre l’Étiquette(Courtoisie)/Volonté de toutes les personnes affectées à portée de voix. Tous ceux qui ratent le jet cessent aussitôt toute action agressive et ne peuvent attaquer ou lancer de sorts offensifs jusqu’à ce qu’ils subissent des dommages ou que vous leur donniez la permission de se battre. Ils peuvent toutefois utiliser des capacités défensives et adopter la Posture de Défense ou d’Esquive. L’effet dure 1 minute, et la Technique peut être réutilisée sur les mêmes cibles si elles y résistent ou que le délai expire. Cette Technique affecte les ennemis autant que les alliés."
+  },
+  {
+    "Ecole_Tag": "ECO0037",
+    "Rang": 5,
+    "Tag": "TEC0145",
+    "Name": "La gloire de l'Empereur",
+    "Description": "Le héraut devient désormais un véritable maître de la non-violence et de la diplomatie. Quand vous faites un jet de Courtisan ou d’Étiquette contre une cible ayant un Honneur d’au moins 1.0, vous pouvez ajouter un bonus de +5g0 au jet."
+  },
+  {
+    "Ecole_Tag": "ECO0038",
+    "Rang": 1,
+    "Tag": "TEC0146",
+    "Name": "La voix du Ciel",
+    "Description": "Les Otomo croient que rien de ce qui se fait au nom de l'Empereur et de l'autorité impériale ne peut être véritablement déshonorant. Leur rôle, qu'ils tiennent sans la moindre hésitation au sein de l'Empire, consiste à provoquer des conflits entre les Clans afin qu'ils ne puissent s'unir contre le pouvoir impérial. Vous ne perdez pas d'Honneur lorsque vous utilisez la compétence Intimidation(Contrôle). Chaque fois que vous vous entretenez avec un membre des Clans (Majeurs ou Mineurs), vous pouvez faire un jet d'opposition de Courtisan (Manipulation)/Intuition contre Étiquette(Courtoisie)/Intuition pour susciter un désaccord ou une dispute entre l'intéressé et une personne de votre choix d'un autre Clan ou faction."
+  },
+  {
+    "Ecole_Tag": "ECO0038",
+    "Rang": 2,
+    "Tag": "TEC0147",
+    "Name": "La destinée n'a pas de secrets",
+    "Description": "Les Otomo disposent de réseaux de renseignements qui rivalisent avec ceux des Scorpions et peuvent compter sur ces réseaux dans presque toutes les régions de l'Empire. Si vous avez le loisir de vous mettre en quête de l'un de vos contacts, vous pouvez dépenser un point de Vide pour faire un jet de Courtisan/Intuition contre un ND 25 pour apprendre une information extrêmement utile (au choix du MJ)."
+  },
+  {
+    "Ecole_Tag": "ECO0038",
+    "Rang": 3,
+    "Tag": "TEC0148",
+    "Name": "La voix de mon maître",
+    "Description": "un Otomo parle avec l’autorité directe de l’Empereur et les plus expérimentés d’entre eux maîtrisent l’art connu sous le nom d’Obiesaseru, profitant de l’autorité du Fils des Cieux pour abasourdir leurs adversaires. Vous ne pouvez utiliser cette Technique que contre des samurai honorables (Rang d’Honneur de 1.0 ou plus) qui révèrent l’Empereur. Criminels, bandits, Damnés et créatures inhumaines sont donc immunisées contre ses effets. Pour user d’Obiesaseru, vous devez entreprendre une Action Complexe le temps de faire appel à toute votre volonté et de crier un ordre approprié (comme «\u00A0Arrêtez, au nom de l’Empereur\u00A0!\u00A0»). Vous faites un Jet d’Opposition de Compétence Sociale d’Intimidation(Contrôle)/Volonté contre l’Étiquette(Courtoisie)/Volonté de la cible (Si cette dernière croit sincèrement agit honorablement, elle gagne une Augmentation Gratuite au jet). En cas de succès, la cible ne peut se déplacer à son Tour suivant, ni attaquer ni lancer de Sorts ou exécuter quelque autre action qui vous gênerait ou vous menacerait, vous ou vos amis proches et alliés (au MJ de voir quels sont exactement vos alliés). Toutefois, elle peut s’en prendre à toute autre personne, et peut dans tous les cas adopter la Posture de Défense ou d’Esquive."
+  },
+  {
+    "Ecole_Tag": "ECO0038",
+    "Rang": 4,
+    "Tag": "TEC0149",
+    "Name": "La protection de l'Empereur",
+    "Description": "Au titre d’élus chéris du pouvoir impérial, les Otomo bénéficient d’une Protection spéciale et peuvent aisément écraser ceux qui expriment en public leur désaccord avec eux. Chaque fois que vous participez à une discussion ou un débat avec une personne, vous pouvez dépenser un Point de Vide pour faire un Jet d’Opposition de Courtisan(Manipulation)/Intuition. En cas de succès, votre interlocuteur doit convenir de la justesse de votre point  de vue sous peine de perdre 5 Points d’Honneur."
+  },
+  {
+    "Ecole_Tag": "ECO0038",
+    "Rang": 5,
+    "Tag": "TEC0150",
+    "Name": "Les vertus du commandement",
+    "Description": "L'Otomo devient maintenant capable d'imposer la toute-puissance de l'autorité Impériale à ceux qui le mécontentent. Quand vous faites un jet d'opposition Social contre quelqu'un qui révère l'autorité impériale, vous gagnez un bonus de +5g0 au jet."
+  },
+  {
+    "Ecole_Tag": "ECO0039",
+    "Rang": 1,
+    "Tag": "TEC0151",
+    "Name": "Jamais dans les ténèbres",
+    "Description": "L’honneur des Seppun reste inébranlable et rien ne peut les écarter de leur devoir\u00A0; Chaque fois que vous faites un jet dans le but de résister à une Compétence Sociale susceptible de vous tenter ou de vous éloigner de votre devoir (comme Tentation, Intimidation, voire Courtisan), vous lancez (sans les garder) un nombre de dés supplémentaires égal à votre Rang de Maîtrise. Vous gagnez un bonus de +1g1 chaque fois que vous faites un Jet d’Enquête pour déceler une embuscade ou une attaque surprise."
+  },
+  {
+    "Ecole_Tag": "ECO0039",
+    "Rang": 2,
+    "Tag": "TEC0152",
+    "Name": "Les nuages se dissipent",
+    "Description": "Les coups du Seppun témoignent de son dévouement pour la cause de l’Empereur. Au début de votre Tour, vous pouvez dépenser un Point de Vide pour ajouter votre Rang d’Honneur au total de vos jets d’attaque et de dommages jusqu’à votre prochain Tour."
+  },
+  {
+    "Ecole_Tag": "ECO0039",
+    "Rang": 3,
+    "Tag": "TEC0153",
+    "Name": "La lumière du soleil apparaît",
+    "Description": "Le dévouement du Garde Seppun lui permet désormais de voir au travers de toutes sortes de supercherie, y compris celles de nature magique. Chaque fois que vous le souhaitez, vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour faire un Jet d’Enquête(Sens de l’Observation)/perception contre un ND de 25. En cas de réussite, vous percez à jour les déguisements et illusions qui vous entourent, qu’elles soient de nature normale ou magique. Si vous vous trouvez en présence de l’Empereur, de sa famille proche ou d’un officiel impérial de premier plan (chancelier, shogun,…), vous n’avez pas besoin de dépenser de Point de Vide pour activer cette Technique. Dès lors que vous percez à jour un déguisement ou une illusion, il ne vous affecte plus (mais ceux auxquels vous pourriez être confrontés par le suite fonctionneront normalement)."
+  },
+  {
+    "Ecole_Tag": "ECO0039",
+    "Rang": 4,
+    "Tag": "TEC0154",
+    "Name": "La vitesse du ciel",
+    "Description": "Le bras du Seppun est investi de la puissance des Cieux, ce qui lui permet de frapper à une vitesse surprenante. Vous pouvez désormais attaquer au prix d’une Action Simple lorsque vous utilisez une arme accompagnée du mot-clef Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0039",
+    "Rang": 5,
+    "Tag": "TEC0155",
+    "Name": "Le ciel ne tombe jamais",
+    "Description": "Un véritable garde Seppun n’est jamais pris au dépourvu et peut défendre sa charge même en étant surpris ou sérieusement handicapé. Chaque fois que vous vous situez dans un rayon de 6m d’une personne que vous gardez, vous pouvez dépenser un Point de Vide pour bondir en travers du chemin d’un coup ou d’un Sort la visant. On vous applique les dommages automatiquement en lieu et place de la cible. Si vous tenez encore debout (ni Épuisé, ni Hors de Combat) après avoir subi ces dommages, vous pouvez aussitôt entreprendre une Action Simple, utilisable comme vous le souhaitez, y compris pour attaquer\u00A0; Vous pouvez utiliser cette Technique même en étant Aveuglé, au Sol, Étourdi, Hébété, Enchevêtré ou au Rang de Blessure Épuisé (mais pas en étant Empoigné ou au Rang de Blessure Hors de Combat)."
+  },
+  {
+    "Ecole_Tag": "ECO0040",
+    "Rang": 1,
+    "Tag": "TEC0156",
+    "Name": "A la défense du trône",
+    "Description": "La Garde Cachée a pour seul but de protéger l’Empereur et regroupe de terribles adversaires pour ceux qui souhaitent s’en prendre aux Fils des Cieux. Vous gagnez une Augmentation Gratuite aux Sorts lancés dans le but de protéger la vie, les biens personnels, la famille ou la réputation de l’Empereur, tant que l’action en question ne vous fait pas perdre d’Honneur. Cela inclut les membres des Familles Impériales (mais pas vous). Vous gagnez aussi une Augmentation Gratuite aux Sorts connus des seules Familles Impériales."
+  },
+  {
+    "Ecole_Tag": "ECO0041",
+    "Rang": 1,
+    "Tag": "TEC0157",
+    "Name": "Transcender la montagne",
+    "Description": "Les bushi du Clan du Blaireau vivent et s’entraînent sur les terres déchiquetées de la Grande Muraille du Nord. A leurs yeux, la force mesure le talent d’un guerrier, car ce dernier peut compter sur la puissance de ses poings en dernier recours. Vous pouvez relancer tout Jet de Compétence ou de Trait s’appuyant sur la Force, mais devez alors conserver le résultat du second jet. Vous ne subissez pas de malus de déplacement ou de combat liés à un terrain médiocre, et la moitié seulement du malus normal découlant d’un terrain difficile."
+  },
+  {
+    "Ecole_Tag": "ECO0041",
+    "Rang": 2,
+    "Tag": "TEC0158",
+    "Name": "La force du blaireau",
+    "Description": "Avec de l’entraînement, le Blaireau apprend à faire appel à sa force pour écraser ses adversaires. Un nombre de fois par session égal à votre Rang de Force, vous pouvez relancer un jet de dommages et garder le résultat de votre choix."
+  },
+  {
+    "Ecole_Tag": "ECO0041",
+    "Rang": 3,
+    "Tag": "TEC0159",
+    "Name": "Coup écrasant",
+    "Description": "Que ce soit à mains nues ou avec une arme, le Blaireau expérimenté apprend à porter des coups d’une puissance terrifiante capables de pulvériser chair et os malgré la protection d’une armure. Vous pouvez ignorer les effets d’armure du ND d’Armure d’un adversaire. Vos attaques à mains nues ignorent 1 Rang de la Réduction de votre cible."
+  },
+  {
+    "Ecole_Tag": "ECO0041",
+    "Rang": 4,
+    "Tag": "TEC0160",
+    "Name": "Pluie de pierre",
+    "Description": "Les samurai Ichiro apprennent à frapper avec la rapidité d’une avalanche. Vos attaques à mains nues et attaques avec des armes accompagnées du mot-clé Samurai sont considérées comme des Actions Simples."
+  },
+  {
+    "Ecole_Tag": "ECO0041",
+    "Rang": 5,
+    "Tag": "TEC0161",
+    "Name": "Contrecoup",
+    "Description": "Selon la dernière leçon qu’enseignent le dojo du Clan du Blaireau, les coups les plus efficaces ne sont pas forcément les plus rapides, mais les plus durement portés. Au début d’une escarmouche, avant que ne soit lancée l’Initiative, vous pouvez décider de réduire la votre de 20 points pour la durée de l’escarmouche. En échange, vous lancez (sans les garder) un nombre de dés supplémentaires égal à votre Rang de Force à vos jets d’attaque et de dommages des deux premiers rounds de combat."
+  },
+  {
+    "Ecole_Tag": "ECO0042",
+    "Rang": 1,
+    "Tag": "TEC0162",
+    "Name": "Héritage des quatres vents",
+    "Description": "Le guerrier du Bœuf combat comme un seul homme avec son cheval. Au début du combat, vous pouvez ajouter +1g0 à votre Initiative si vous êtes Monté. Par ailleurs, ajoutez +1g0 aux jets d’attaque si vous êtes monté."
+  },
+  {
+    "Ecole_Tag": "ECO0042",
+    "Rang": 3,
+    "Tag": "TEC0164",
+    "Name": "De tonnerre et de fureur",
+    "Description": "Le Bushi Morito frappe avec la rapidité d’un cheval au galop. Vous pouvez effectuer des attaques au prix d’une Action Simple au lieu d’une action Complexe si vous êtes Monté."
+  },
+  {
+    "Ecole_Tag": "ECO0042",
+    "Rang": 4,
+    "Tag": "TEC0165",
+    "Name": "La lame vole sur le vent",
+    "Description": "Le Bushi Morito peut se précipiter de l’avant en se déplaçant plus vite que ses adversaires ne l’imaginent. Une fois par escarmouche, vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour que votre score d’Initiative soit égal à celui d’un autre protagoniste de la bataille (il peut s’agit d’un allié ou d’un ennemi). Toutefois, après avoir utilisé cette Technique, votre score d’Initiative se réduit de 5 lors de l’étape de Réactions de chaque Round jusqu’à la fin de la rencontre.\nVous n’avez droit qu’à un Tour par Round, même si votre Score d’Initiative tombe sous votre Score d’Initiative actuel."
+  },
+  {
+    "Ecole_Tag": "ECO0042",
+    "Rang": 5,
+    "Tag": "TEC0166",
+    "Name": "Vif et furieux",
+    "Description": "Le Bushi Morito charge au combat, piétinant ceux qui ne s’écartent pas de son chemin. Quand vous attaquez un adversaire ayant une Initiative inférieure à la vôtre, vous ajoutez +2g2 aux jets d’attaque et de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0043",
+    "Rang": 1,
+    "Tag": "TEC0167",
+    "Name": "Les murmures de Kami",
+    "Description": "Les Komori pratiquent les rituels des esprits koumori dont descend leur fondateur et portent des messages grâce aux kami. Vous pouvez utiliser un emplacement de Sort pour envoyer un message chuchoté à un individu à un individu de votre connaissance. Ce message ne peut durer plus de 30 secondes par Rang de Maîtrise, et peut être porté à une distance maximale égale à votre Rang de Maîtrise x 150km."
+  },
+  {
+    "Ecole_Tag": "ECO0044",
+    "Rang": 1,
+    "Tag": "TEC0168",
+    "Name": "Les yeux du faucon",
+    "Description": "Le Toritaka doit être conscient de son environnement en permanence, car ses ennemis peuvent surgir de n’importe  où. Vous ajoutez +1g0 à vos Jets de Compétence et de Trait liés à la Perception. Par ailleurs, quand vous frappez une créature originaire d’un autre Royaume des Esprits (dont les Oni de Jigoku et les morts affamés de Gaki-do), vous ajoutez +1g0 à tous vos jets de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0044",
+    "Rang": 2,
+    "Tag": "TEC0169",
+    "Name": "Le faucon prend son envol",
+    "Description": "Grâce à son entraînement, le Toritaka sent les émanations des esprits proches qui entrent dans le royaume des mortels. Vous pouvez tenter de détecter la présence de créatures des autres Royaumes des Esprits en réussissant u jet de Perception contre un ND égal à l’Anneau d’Air de la créature x5."
+  },
+  {
+    "Ecole_Tag": "ECO0044",
+    "Rang": 3,
+    "Tag": "TEC0170",
+    "Name": "Les ailes du faucon",
+    "Description": "Le Toritaka frappe avec précision et tente constamment de tenir son ennemi à distance. Vous pouvez porter des attaques au prix d’une Action Simple au lieu d’une Action Complexe quand vous utilisez une lance ou une arme accompagnée du mot-clé Samurai."
+  },
+  {
+    "Ecole_Tag": "ECO0044",
+    "Rang": 4,
+    "Tag": "TEC0171",
+    "Name": "Vigilant et puissant",
+    "Description": "Les monstres usent parfois de ruses pour tromper leurs ennemis, mais les Toritaka apprennent à discerner les faits malgré les illusions. Vous pouvez dépenser un Point de Vide pour annuler les malus liés à l’obscurité ou à l’Aveuglement. Cet effet dure jusqu’à l’étape de Réactions se déroulant deux Rounds plus tard."
+  },
+  {
+    "Ecole_Tag": "ECO0044",
+    "Rang": 5,
+    "Tag": "TEC0172",
+    "Name": "Les serres du faucon",
+    "Description": "Rien ne peut empêcher le Toritaka de toucher sa cible. Vos attaques ignorent 5 points de Réduction. Contre les créatures des autres Royaumes des Esprits, vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour diminuer leur réduction de 10 pendant un Round (cela ne se cumule pas avec les autres effets annulant la Réduction."
+  },
+  {
+    "Ecole_Tag": "ECO0045",
+    "Rang": 1,
+    "Tag": "TEC0173",
+    "Name": "Guidé par le destin",
+    "Description": "Les Tonbo se sentent à l’aise à la cour et connaissent la voie du shugenja. En outre, ils servent d’intermédiaires au Clan du Dragon quasiment depuis leur création. Les chuchotements des kami peuvent se révéler très utiles à la cour. Vous pouvez utiliser un emplacement de Sort pour gagner un bonus de +1g0 sur un Jet de Compétence Sociale. Vous ne pouvez jamais utiliser plus d’emplacements de Sort pour gagner un bonus de +1g0 sur un jet de Compétence Sociale. Vous ne pouvez jamais utiliser plus d’emplacements de Sorts que votre Rang de Maîtrise pour augmenter un même jet. Vous gagnez une Augmentation Gratuite aux Sorts accompagnés du mot-clé Divination."
+  },
+  {
+    "Ecole_Tag": "ECO0046",
+    "Rang": 1,
+    "Tag": "TEC0174",
+    "Name": "La vitesse du lièvre",
+    "Description": "On connaît les lièvres pour leur faculté de combattre avec une vitesse et une agilité qui ne sont pas sans rappeler celles de l’animal dont leur Clan tire son nom. Dans toute situation où vous avez la place nécessaire pour esquiver, sauter ou tout simplement manœuvrer (à la discrétion du MJ), vous pouvez ajouter votre Rang d’Athlétisme à votre ND d’Armure, sauf si vous adoptez la Posture d’Assaut ou de Centre. On considère que votre Anneau d’Eau augmente de 1 en ce qui concerne la distance que vous êtes en mesure de parcourir au moyen d’Actions de Mouvement."
+  },
+  {
+    "Ecole_Tag": "ECO0046",
+    "Rang": 2,
+    "Tag": "TEC0175",
+    "Name": "Le saut du lièvre",
+    "Description": "Le Bushi Lièvre apprend à frapper en profitant d’une défense incroyable qui surprend de nombreux adversaires. Si vous adoptez la Posture d’Assaut, vous pouvez faire un bond en avant et attaquer un adversaire situé dans un rayon de 4,5m sans entreprendre d’Action de Mouvement. Toutes vos attaques du Tour doivent cependant viser cet adversaire."
+  },
+  {
+    "Ecole_Tag": "ECO0046",
+    "Rang": 3,
+    "Tag": "TEC0176",
+    "Name": "Rapide comme l'éclair",
+    "Description": "La rapidité et la souplesse du Lièvre lui permettent de frapper avec une vitesse redoutable. Vos attaques à mains nues, au couteau ou avec des armes accompagnées du mot-clé Samurai sont considérées comme des Action Simples."
+  },
+  {
+    "Ecole_Tag": "ECO0046",
+    "Rang": 4,
+    "Tag": "TEC0177",
+    "Name": "Le coup de pied du lièvre",
+    "Description": "Le Lièvre apprend non seulement à frapper avec rapidité, mais également à esquiver et à éviter les coups de ses adversaires. Vous pouvez désormais utiliser votre Technique de Rang 2 lorsque vous adoptez la Posture d’Attaque et non d’Assaut. Si vous recourez à cette Technique en adoptant la Posture d’Assaut, vous pouvez effectuer votre seconde attaque du Round contre un autre adversaire situé dans un rayon de 4,5m du premier."
+  },
+  {
+    "Ecole_Tag": "ECO0046",
+    "Rang": 5,
+    "Tag": "TEC0178",
+    "Name": "Le style de Reichin",
+    "Description": "La dernière leçon de l’École du Lièvre prend la forme d’un véritable tourbillon de sauts, de feintes et d’attaques frappant l’adversaire de partout, ce qui a pour effet de le désorienter. Vous pouvez effectuer la Manœuvre de Feinte pour 1 Augmentation seulement. En cas de réussite, le bonus aux dommages qui en découle n’est plus limité à votre Rang de Réputation x 5."
+  },
+  {
+    "Ecole_Tag": "ECO0047",
+    "Rang": 1,
+    "Tag": "TEC0179",
+    "Name": "Outils de fortune",
+    "Description": "Le forgeron Tsi consacre sa vie à atteindre la perfection dans la chaleur de son fourneau. En ce qui vous concerne, on considère toutes les Compétences d’Artisanat comme des Compétences d’École pour les effets qui visent ces dernières. Quand vous faites un jet de Compétence d’Artisanat, vous gagnez 1 Point de Gloire en cas de réussite, et 1 Point de plus par tranche de 5 dont vous dépassez le ND. Cet effet ne s’applique qu’aux jets faits contre un ND égal ou supérieur à 10 + votre Rang de Maîtrise x5."
+  },
+  {
+    "Ecole_Tag": "ECO0047",
+    "Rang": 3,
+    "Tag": "TEC0181",
+    "Name": "Le dévouement de l'artisan",
+    "Description": "Le Forgeron Tsi connaît parfaitement la valeur de tout ce qu’il produit, y compris des années après que l’objet en question ait quitté sa forge. Quand vous créez, le prix de l’objet produit est réduit de moitié en ce qui concerne la durée nécessaire à sa fabrication. Quand un individu en votre présence utilise un objet de votre création, vous pouvez entreprendre une Action Complexe pour lui conférer un bonus de +Xg0 (où X est égal à votre Rang de Maîtrise) au Jet de Compétence correspondant. Par exemple, Kenjutsu pour un Katana, Défense pour une armure, ou Étiquette pour un kimono."
+  },
+  {
+    "Ecole_Tag": "ECO0047",
+    "Rang": 4,
+    "Tag": "TEC0182",
+    "Name": "Connaissances exhaustives",
+    "Description": "Tous les Forgerons Tsi doivent affiner le poids, l’équilibre et l’efficacité de leurs créations. Vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour effectuer des attaques avec une arme de votre création au prix d’Actions Simples Simples au lieu d’Actions Complexes. Cet effet dure un nombre de Rounds égal à votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0047",
+    "Rang": 5,
+    "Tag": "TEC0183",
+    "Name": "Acier étoilé",
+    "Description": "Les objets des Loriots sont de toute évidence les égaux de ceux qui sortent des Forges Kaiu. Une fois par jour, après avoir produit une arme, vous pouvez dépenser tous vos Points de Vide afin de créer une Arme Sacrée (Cf Avantage éponyme). On qualifie l’œuvre ainsi créée d’arme Tsi (sabre Tsi, tetsubo Tsi, …) qui peut alors alors disposer de l’une des qualités suivantes\u00A0: Équilibrée (le porteur gagne un bonus de +1g0 aux jets d’attaque effectués avec l’arme en question), Preste (le porteur gagne un bonus de +5 en Score d’Initiative quand il manie l’arme) ou Incassable (l’arme ne peut être brisée). A la discrétion du MJ, un Forgeron Tsi particulièrement doué pourra aussi produire une arme Radiante (considérez la en jade pour le fait de blesser les créatures Invulnérables)."
+  },
+  {
+    "Ecole_Tag": "ECO0048",
+    "Rang": 1,
+    "Tag": "TEC0184",
+    "Name": "Chaque chose en son temps",
+    "Description": "Le Suzume observe la tournure du combat pour trouver le moment parfait où frapper. Au début du Round de Combat, avant que le premier personnage n’ait entrepris son Tour, vous pouvez réduire votre Score d’Initiative de 5 pour ajouter +1g0 à vos jets d’attaque et de dommages du Round."
+  },
+  {
+    "Ecole_Tag": "ECO0048",
+    "Rang": 2,
+    "Tag": "TEC0185",
+    "Name": "La pureté du Chi",
+    "Description": "Le corps même du Suzume traite avec dédain ceux qui succombent aux tentations allant à l’encontre des préceptes du Bushido. Vous ajoutez +5 à votre ND d’Armure contre les créatures et contre les adversaires humains ayant un Honneur inférieur au vôtre."
+  },
+  {
+    "Ecole_Tag": "ECO0048",
+    "Rang": 3,
+    "Tag": "TEC0186",
+    "Name": "La sagesse est la meilleure arme",
+    "Description": "Le Suzume excelle dans l’art du conte et captive son public au moyen de simples mots. Vous pouvez dépenser un Point de Vide pour ajouter Votre Rang d’Honneur à tout jet de Compétence de Connaissance ou de Spectacle."
+  },
+  {
+    "Ecole_Tag": "ECO0048",
+    "Rang": 4,
+    "Tag": "TEC0187",
+    "Name": "L'esprit calme, la lame sûre",
+    "Description": "La sérénité du Moineau passe souvent pour de la complaisance, mais ce n’est pas le cas. Vous pouvez porter des attaques de corps à corps au prix d’une Action Simple au lieu d’une Action Complexe lorsque vous adoptez la Posture d’Attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0048",
+    "Rang": 5,
+    "Tag": "TEC0188",
+    "Name": "Lent et mortel",
+    "Description": "Le Suzume frappe quand son adversaire s’y attend le moins, même s’il doit subir le pire des attaques de son ennemi. Au Round qui suit la mise en place de votre Posture du Centre, vous ajoutez +10 à vos Jets d’Attaque et de dommages. Vous ne profitez cependant pas de cet avantage durant les duels de Iaijutsu."
+  },
+  {
+    "Ecole_Tag": "ECO0049",
+    "Rang": 1,
+    "Tag": "TEC0189",
+    "Name": "Essence de Chikushudo",
+    "Description": "Nul dans l’Empire n’est plus proche de la nature que le simple Kitsune qui vit dans les régions sauvages. Vous pouvez vous servir des Sorts Sensation, Communion et Invocation pour affecter des esprits animaux de Chikushudo et les kami (l’utilisation d’Invocation fera apparaître un esprit animal plutôt que de la matière élémentaire). Les esprits animaux se montrent généralement plus directs que les kami et perçoivent le monde différemment, mais ne comprennent pas davantage le sens des actions des hommes. Vous gagnez une Augmentation Gratuite aux Sorts n’infligeant pas de dommages lancés sur les animaux."
+  },
+  {
+    "Ecole_Tag": "ECO0050",
+    "Rang": 1,
+    "Tag": "TEC0190",
+    "Name": "La charge du sanglier",
+    "Description": "Le sanglier attaque généralement sans crier gare. Si vous adoptez la Posture d’Assaut, vous pouvez apprêter une arme moyenne ou une lance au prix d’une Action Gratuite. Quand vous maniez une lance au combat, vous gagnez un bonus au jet de dommages de +0g1."
+  },
+  {
+    "Ecole_Tag": "ECO0050",
+    "Rang": 2,
+    "Tag": "TEC0191",
+    "Name": "Force d'opposition",
+    "Description": "L’École du Sanglier se spécialise dans l’utilisation des lances, et notamment du Mai Chong, pour agripper l’adversaire par ses vêtements ou son armure et l’immobiliser. Vous pouvez déclarer deux Augmentations pour Enchevêtrer un adversaire avec un Mai Chong, ou trois Augmentations pour l’enchevêtrer avec une autre Arme de la catégorie des lances."
+  },
+  {
+    "Ecole_Tag": "ECO0050",
+    "Rang": 3,
+    "Tag": "TEC0192",
+    "Name": "La vitesse du sanglier",
+    "Description": "Le bushi Ichiro apprend à frapper à la vitesse ahurissante de l’animal dont il tire son nom. Vous pouvez attaquer au prix d’une Action Simple quand vous utilisez une lance."
+  },
+  {
+    "Ecole_Tag": "ECO0050",
+    "Rang": 4,
+    "Tag": "TEC0193",
+    "Name": "La colère du sanglier",
+    "Description": "Le bushi Sanglier continue à se battre même grièvement blessé. Vous pouvez dépenser un Point de Vide lors de l’étape de Réactions pour réduire votre Malus de Blessure d’un Rang de Blessure (les Blessures sont bel et bien présentes, mais la douleur se fait moins pressante). Cette effet dure jusqu’à la fin de l’escarmouche."
+  },
+  {
+    "Ecole_Tag": "ECO0050",
+    "Rang": 5,
+    "Tag": "TEC0194",
+    "Name": "Par-delà les montagnes",
+    "Description": "A ce Rang, le Sanglier contrôle sa rage et la canalise lorsqu’on s’y attend le moins, même s’il semble être sur la défensive. Si vous adoptez la Posture d’Esquive, vous pouvez porter une attaque normale avec une lance ou une arme accompagnée du mot-clé Samurai au prix d’une Action Gratuite, en ignorant la restriction de la Posture d’Esquive. Cette attaque s’accompagne d’un bonus de +2g0 au jet d’attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0051",
+    "Rang": 1,
+    "Tag": "TEC0195",
+    "Name": "La leçon de Toku",
+    "Description": "Les bushi Singe ont l’art de l’emporter quelles que soient les circonstances. Vous ajoutez +1g0 à vos Jets de Compétences accompagnés d’un ND de 25 ou plus (cela inclut les jets d’attaque) Par ailleurs, tous vos Malus de Blessure se réduisent d’un nombre égal à votre Volonté + le double de votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0051",
+    "Rang": 2,
+    "Tag": "TEC0196",
+    "Name": "La force d'un seul homme",
+    "Description": "En tant que membre d’un Clan Mineur très modeste, le bushi Toku est habitué à combattre contre des forces supérieures. Lorsque vous vous trouvez face à plusieurs adversaires ou à un ennemi ayant un Rang de Réputation supérieur au vôtre, vous ajoutez +1g1 à vos jets d’attaque et de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0051",
+    "Rang": 3,
+    "Tag": "TEC0197",
+    "Name": "Le courage par-dessus tout",
+    "Description": "Le bushi Toku fait appel au courage du Fondateur de son Clan pour augmenter le nombre de ses attaques. Vous pouvez porter des attaques au corps à corps au prix d’une Action Simple au lieu d’une Action Complexe."
+  },
+  {
+    "Ecole_Tag": "ECO0051",
+    "Rang": 4,
+    "Tag": "TEC0198",
+    "Name": "Forge ton propre destin",
+    "Description": "Le bushi Toku apprend à esquiver le pire d’une attaque. Vous pouvez dépenser un Point de Vide quand vous subissez des Blessures pour obliger votre adversaire à renoncer aux deux dés les plus élevés de son jet de dommages, même si cela doit réduire au passage le nombre de dés gardés. Toutefois, cela ne permet pas de réduire les dommages à moins de 1g1."
+  },
+  {
+    "Ecole_Tag": "ECO0051",
+    "Rang": 5,
+    "Tag": "TEC0199",
+    "Name": "La fortune sourit aux mortels",
+    "Description": "Le simple ténacité du Bushi Toku lui vaut une véritable bénédiction. Une fois par Round, vous pouvez dépenser un Point de Vide pour relancer n’importe quel jet. Vous ajoutez +2g1 au nouveau jet. Vous pouvez conserver le nouveau résultat ou le premier."
+  },
+  {
+    "Ecole_Tag": "ECO0052",
+    "Rang": 1,
+    "Tag": "TEC0200",
+    "Name": "Punition du félon",
+    "Description": "Isawa Chuda persécutait sans relâche l’Outremonde et ses Techniques s’incarnent dans ceux qui portent son nom. Vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour annuler tout ou partie de la Réduction d’une cible à hauteur de votre niveau de Maîtrise. Vous ajoutez aussi votre Niveau de Maîtrise au total des jets de dommages lancés contre les cibles dotées de la Souillure de l’Outremonde."
+  },
+  {
+    "Ecole_Tag": "ECO0053",
+    "Rang": 1,
+    "Tag": "TEC0201",
+    "Name": "La voie de la Tortue",
+    "Description": "Les Tortues frayent bien souvent avec les pires racailles de la société rokugani et passent beaucoup de temps dans les ports étrangers à faire des affaires avec des gaijin, des pirates et autres scélérats. Bref, ils se livrent à toutes sortes d’activités répugnantes aux yeux de la plupart des samurai. Effet secondaire incontournable de la «\u00A0profession\u00A0» de contrebandier, ils font aussi d’habiles marchands. A la création de personnages, vous apprenez une langue gaijin supplémentaire gratuitement pour chaque achat de l’Avantage Langue. Vous ne perdez pas de Points d’Honneur lorsque vous utilisez des Compétences Dégradantes, ni de Gloire lorsque vous utilisez des Compétences de Commerce en public, du moins si vous le faites dans le cadre de votre devoir envers votre Clan. Lorsque vous avez affaire à des heimin ou hinin, comme les paysans, les marchands ou les eta, vous gagnez un bonus de +2g0 aux Jets de Compétences Sociales."
+  },
+  {
+    "Ecole_Tag": "ECO0053",
+    "Rang": 2,
+    "Tag": "TEC0202",
+    "Name": "la carapace de la Tortue",
+    "Description": "la plupart  des samurai de Rokugan méprisent les Tortues pour leur attitude répugnante et leurs liens avec des roturiers et gaijin, mais tous savent aussi que le Clan a la bénédiction de l’Empereur. Tout samurai de Clan ou Impérial qui vous attaque physiquement ou vous calomnie ouvertement sans provocation de votre part (à la discrétion du MJ) perd aussitôt un nombre de Points d’Honneur égal au double de votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0053",
+    "Rang": 4,
+    "Tag": "TEC0204",
+    "Name": "Main dans la main",
+    "Description": "Les Tortues collaborent étroitement avec les gens du peuple de Rokugan, des gens que les autres samurai ignorent royalement. Cela leur donne accès à des réseaux de renseignement dont aucun autre samurai ne dispose. Une fois par session, si vous avez accès aux heimin ou hinin locaux, vous pouvez faire un jet de Connaissance:Pègre/Intuition contre un ND de 25 pour apprendre un renseignement utile (au choix du MJ) que vous ne pouvez découvrir d’aucune autre façon."
+  },
+  {
+    "Ecole_Tag": "ECO0053",
+    "Rang": 5,
+    "Tag": "TEC0205",
+    "Name": "La tortue sourit",
+    "Description": "Une fois son entraînement achevé, le Contrebandier Tortue transcende ses propres limites à la recherche des objectifs tortueux de son Clan et sert l’Empereur sans contrainte. Quand vous faites un Jet de Compétence avec l’une de vos sept Compétences d’École, vos Augmentation possibles ne sont pas limitées par votre Vide. Un nombre de fois par session égal à votre Anneau du Vide, vous pouvez gagner un bonus de +5g0 lorsque vous faites un jet avec l’une de vos Compétences d’École. Ce bonus peut se cumuler avec le bonus de la Technique de Rang 3."
+  },
+  {
+    "Ecole_Tag": "ECO0054",
+    "Rang": 1,
+    "Tag": "TEC0206",
+    "Name": "La main du destin",
+    "Description": "les méthodes ésotériques de l’Ordre permettent le passage du chi d’un moine à un autre sans grande difficulté. Vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour conférer un bonus de +1g1 à un jet réalisé par un allié qui n’a pas encore entrepris son Tour ce Round-ci. Vous ne pouvez cependant pas améliorer un jet ne pouvant habituellement bénéficier de l’usage de Points de Vide (comme un jet de dommages, par exemple)."
+  },
+  {
+    "Ecole_Tag": "ECO0055",
+    "Rang": 1,
+    "Tag": "TEC0207",
+    "Name": "Esprit de civilité",
+    "Description": "Les frères de quatre temples ont l’habitude de s’entretenir avec des visiteurs extrêmement importants ou même se voir invités en de très influentes cours. Quand vous dépensez un Point de Vide pour améliorer un jet de Compétence Noble ou Sociale, vous gagnez +2g2 au lieu du +1g1 habituel."
+  },
+  {
+    "Ecole_Tag": "ECO0056",
+    "Rang": 1,
+    "Tag": "TEC0208",
+    "Name": "Marcher avec le prophète",
+    "Description": "Les frères de ce sanctuaire s’attachent à un élément en particulier. Vos 3 Kiho initiaux doivent être choisis au sein du même élément. On considère que votre Rang de Réputation a 1 point de plus pour atteindre le Niveau de Maîtrise des Kiho de cet élément."
+  },
+  {
+    "Ecole_Tag": "ECO0057",
+    "Rang": 1,
+    "Tag": "TEC0209",
+    "Name": "La voie de la Pureté",
+    "Description": "Votre âme vit en un lieu de sagesse et de sérénité, et pratiquement rien ne peut susciter votre colère, quelles que soient les circonstances. Lorsque vous effectuez un Jet d’Opposition de Compétence Sociale initié par votre adversaire, vous pouvez vous servir de n’importe quel Anneau à la place du Trait normalement utilisé (l’Intuition, en règle générale) dans le cadre de ce jet."
+  },
+  {
+    "Ecole_Tag": "ECO0058",
+    "Rang": 1,
+    "Tag": "TEC0210",
+    "Name": "La voie de la Pureté (Tonnerre)",
+    "Description": "L’attachement des moines du Tonnerre à la pureté du combat à mains nues tombe sous le sens pour tous ceux dont ils croisent la route. Vous gagnez un bonus de +0g1 aux jets de dommages découlant des attaques à mains nues. Cet effet est cumulatif avec les autres effets vous permettant de lancer et de garder des dés supplémentaires aux dommages à mains nues."
+  },
+  {
+    "Ecole_Tag": "ECO0059",
+    "Rang": 1,
+    "Tag": "TEC0211",
+    "Name": "Les milles formes",
+    "Description": "Il n’y a pas de limites à la diversité des bénédictions que leurs divinités confèrent aux membres fidèles de la Confrérie. Vous commencez le jeu avec 4 Kiho (et non 3) qui ne comptent pas dans le nombre de Kiho supplémentaires que vous pouvez acheter avec des Points d’Expérience (opération à laquelle vous pouvez procéder tout à fait normalement)."
+  },
+  {
+    "Ecole_Tag": "ECO0060",
+    "Rang": 1,
+    "Tag": "TEC0212",
+    "Name": "La volonté du peuple",
+    "Description": "Ceux guidés par leur honneur investissent leurs actes de la force du peuple de Rokugan. Quand vous dépensez un Point de Vide pour ajouter un bonus de +1g1 à un jet de Compétence ou de Trait, vous pouvez aussi ajouter votre Rang d’Honneur au total de ce jet."
+  },
+  {
+    "Ecole_Tag": "ECO0061",
+    "Rang": 1,
+    "Tag": "TEC0213",
+    "Name": "Le regard de Tsun Tao",
+    "Description": "Les disciples de Sun Tao comprennent la relation qui lie l’honneur au savoir-faire. Vous pouvez ajouter votre Rang d’Honneur au total de vos Jets de Iaijutsu."
+  },
+  {
+    "Ecole_Tag": "ECO0062",
+    "Rang": 1,
+    "Tag": "TEC0214",
+    "Name": "La malédiction du ciel",
+    "Description": "La brutalité aveugle du style de combat des Justiciers de Tengoku rappelle celle des Tueurs de la Forêt. Quand vous surprenez un adversaire dans une escarmouche, vous pouvez doubler votre Force pour déterminer le nombre de dés de dommage que vous lancez sur cette attaque."
+  },
+  {
+    "Ecole_Tag": "ECO0063",
+    "Rang": 1,
+    "Tag": "TEC0215",
+    "Name": "La force de la forêt",
+    "Description": "Les Tueurs de la Forêt constituent un groupe formidable qui ne recrute que les plus coriaces de guerriers. Vous gagnez un nombre de Blessures supplémentaires par Rang de Blessure égal à votre Constitution. Vous pouvez aussi ajouter votre Constitution au total des jets de dommages de vos attaques de corps à corps."
+  },
+  {
+    "Ecole_Tag": "ECO0064",
+    "Rang": 1,
+    "Tag": "TEC0216",
+    "Name": "les plis de l'éventail de fer",
+    "Description": "Peu de personnes à Rokugan parviennent à maîtriser toutes les facettes de l’éventail en fer avec autant d’aisance que les Tessen. Quand vous maniez un éventail de guerre de votre main non-directrice, vous ne subissez pas de malus aux attaques portées avec cette main. Vous ajoutez aussi votre Rang d’Éventails de Guerre au total de votre ND d’Armure lorsque vous maniez un éventail de guerre."
+  },
+  {
+    "Ecole_Tag": "ECO0015",
+    "Rang": 2,
+    "Tag": "TEC0056",
+    "Name": "Percer le voile",
+    "Description": "Pour avoir traité avec les autochtones imprévisibles et parfois violents des Terres Brûlées pendant des siècles, les Ide ont développé une faculté quasi surnaturelle leur permettant de lire les émotions de leurs interlocuteurs, de reconnaître leurs véritables sentiments et ainsi d'éviter les ennuis. Vous pouvez tenter de lire les véritables émotions d'autrui en situation sociale en réussissant un Jet d'Opposition Social Étiquette/Intuition contre l’Étiquette/Volonté de la cible. En cas de succès, vous vous faites une idée générale de ses vrais sentiments, ce qui peut être utile s'ils ne correspondent pas à ses actes. Vous pouvez déclarer des Augmentations pour affiner le résultat (à la discrétion. du MJ). Par exemple, deux Augmentations vous révéleront\u00A0: «\u00A0le Doji espère en fait que tu vas l'emporter contre le Dragon\u00A0»."
+  },
+  {
+    "Ecole_Tag": "ECO0019",
+    "Rang": 1,
+    "Tag": "TEC0071",
+    "Name": "Le héraut de la gloire",
+    "Description": "Les Ikoma sont des historiens et des conteurs chargés d'archiver les glorieux exploits d'autrui à la postérité, afin que leurs accomplissements les plus courageux et honorables ne soient jamais oubliés. Vous gagnez l'avantage Excellente Mémoire sans que cela vous coûte de points d'expérience (si vous avez déjà cet avantage, vous en regagnez les points d'expérience). Vous pouvez utiliser la compétence Spectacle\u00A0: Art du conteur afin de vous livrer à de véritables fanfaronnades publiques pour le compte d'autrui. Si vous citez des actions nobles ou héroïques exécutées par cette personne et que vous réussissez un jet de Spectacle\u00A0: Art du conteur/Intuition contre un ND 20, celle-ci gagne un nombre de points de gloire égal à votre rang de maîtrise. Ce peut être fait un nombre de fois par personne et par mois égal à votre rang de maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0023",
+    "Rang": 4,
+    "Tag": "TEC0090",
+    "Name": "Les exigences de la tempête",
+    "Description": "Un Mante expérimenté apprend à briser et démoraliser ses adversaires à la cour de sa simple présence. Quand vous entamez une conversation avec quelqu'un, vous pouvez faire un Jet d'Opposition Intimidation(Contrôle)/Volonté contre son Étiquette(Courtoisie)/Volonté. Si vous l'emportez, il ne peut dépenser de Points de Vide contre vous durant l'heure suivante. En outre, il subit pendant ce laps de temps un malus de -3g0 aux Jets de Compétence Sociales vous visant (cette Technique ne peut être utilisée tant que ses effets ont cours)."
+  },
+  {
+    "Ecole_Tag": "ECO0029",
+    "Rang": 3,
+    "Tag": "TEC0111",
+    "Name": "Frapper avec la queue",
+    "Description": "Bushi Scorpions s’efforcent de déstabiliser leurs ennemis, de bloquer leurs attaques et de les ralentir. Quand vous adoptez une Posture au début de votre Tour, vous pouvez choisir une cible située dans un rayon de 9m. Si vous la touchez à votre Tour, elle est Fatiguée. Lors de l’Étape de Réactions, un adversaire affecté peut tenter un Jet de Terre de ND 25 pour résister aux effets de cette Technique. En cas d'échec, les effets de cette Technique s'achèvent lors de l'étape de Réactions suivante (la seconde après qu'il ait été touché)."
+  },
+  {
+    "Ecole_Tag": "ECO0033",
+    "Rang": 1,
+    "Tag": "TEC0125",
+    "Name": "La voie de l'Araignée",
+    "Description": "Le Bushi Daigotsu doit arpenter la ligne très mince qui sépare l’utilisation de la Souillure pour nourrir son corps et les stigmates qu’une telle utilisation provoque. Au début de chaque Round, vous pouvez décider de réduire les Malus de Blessure de votre Rang de Force + votre Rang de Souillure jusqu’à la fin du Round, ou d’augmenter vos jets de dommages du même chiffre\u00A0; Par ailleurs, le ND des jets visant à détecter la présence ou les effets de la Souillure de l’Outremonde sur vous augmente de 10."
+  },
+  {
+    "Ecole_Tag": "ECO0036",
+    "Rang": 5,
+    "Tag": "TEC0140",
+    "Name": "Les ténèbres déchaînées",
+    "Description": "La véritable maîtrise de soi consiste à puiser dans les ténèbres intérieures. Vous gagnez un nombre de Points de Vide supplémentaires égal à votre Rang de Souillure de L'Outremonde ou votre Anneau de Terre, au choix. Vous pouvez vous en servir comme vos Points de Vide habituels, mais aussi les dépenser pour ajouter un bonus de +1g1 au total de vos jets de dommages."
+  },
+  {
+    "Ecole_Tag": "ECO0042",
+    "Rang": 2,
+    "Tag": "TEC0163",
+    "Name": "Partout souffle le vent",
+    "Description": "Le Bushi Morito connaît toutes les facettes de la guerre. Au début d’un combat, vous pouvez annoncer un nombre de Compétences de Bugei égal à votre Rang de Maîtrise. Vous ajoutez +1g0 aux jets liés aux compétences choisies."
+  },
+  {
+    "Ecole_Tag": "ECO0047",
+    "Rang": 2,
+    "Tag": "TEC0180",
+    "Name": "Bénédiction de Tsi Xing Guo",
+    "Description": "Le Forgeron Tsi tente de reproduire les œuvres de la Fortune d’Acier. Quand vous maniez ou utilisez l’une de vos créations (comme une arme au combat ou un kimono sophistiqué à la cour), vous gagnez un bonus de +2g1 par Point de Vide dépensé aux Jets de Compétence Adéquats, contre +1g1 habituellement. Par ailleurs, lorsqu’on donne une de vos créations en cadeau à un membre de la caste des samurai, vous et le donneur gagnez un montant de Points de Gloire égal à votre Rang de Maîtrise."
+  },
+  {
+    "Ecole_Tag": "ECO0053",
+    "Rang": 3,
+    "Tag": "TEC0203",
+    "Name": "Les yeux de l'empereur",
+    "Description": "Les Tortues sont les espions et agents de l’Empereur, et ils connaissent les techniques les plus incongrues\u00A0; Lorsque vous agissez pour le compte de votre Clan, vous pouvez lancer un nombre de dés supplémentaires (sans les garder toutefois) égal à votre Rang de Maîtrise sur toutes les Compétences Dégradantes dans lesquelles vous avez au moins 1 Rang. Cela inclut les compétences d’École qui ne fonctionnent que sur le principe de Compétences Dégradantes lorsque vous les utilisez de certaines façons (comme Sincérité, accompagnée de la Spécialisation Tromperie). Cela ne fonctionne cependant pas avec les Avantages et Techniques simulant des Rangs de Compétence (comme l’Avantage Ingénieux)."
+  }
+]

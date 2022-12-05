@@ -1,0 +1,1030 @@
+[
+  {
+    "Type": "chaine",
+    "VD": {
+      "Roll": 0,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "poids;0k1",
+        "Model_Tag": "SPO0016"
+      }
+    ],
+    "Tag": "ARM0001",
+    "Name": "Kusarigama",
+    "Description": "Arme à chaîne la plus répandue, le kusarigama a gagné sa popularité chez les samurai du Clan de la Mante. Il s'agit essentiellement d'un kama (voir Couteaux) relié par son manche à une chaîne d'environ 1,50 à 1,80m. L'autre extrémité de la chaîne est attachée à un poids, généralement un cylindre ou une sphère de métal."
+  },
+  {
+    "Type": "chaine",
+    "VD": {
+      "Roll": 0,
+      "Keep": 1
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 9,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0002",
+    "Name": "Kyotetsu-shogi",
+    "Description": "Le kyoketsu-shogi tient plus de l'outil que de l'arme, mais il peut aisément servir à attaquer. Populaire chez les ninja et autres criminels, cette arme se compose d'un grappin relié à une chaîne ou, plus fréquemment, à une corde en soie. On a pris soin de lester l'autre extrémité de la corde afin qu'elle reste immobile pendant que l'utilisateur grimpe jusqu'au point où le grappin s'est fixé."
+  },
+  {
+    "Type": "chaine",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0003",
+    "Name": "Manrikikusari",
+    "Description": "Cette arme peu coûteuse se compose d'une chaîne avec des poids aux extrémités. Traditionnellement, il s'agissait de poids cylindriques de taille moyenne, mais dans les terres du Clan de Crabe, on a récemment commencé à les remplacer par de grands poids sphériques."
+  },
+  {
+    "Type": "fleche",
+    "VD": {
+      "Roll": 0,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0006"
+      }
+    ],
+    "Tag": "ARM0004",
+    "Name": "Boule sifflante",
+    "Description": "Ces flèches, pourvues d'une extrémité non perforante en forme de boule, produisent une puissant sifflement quand on les tire. On les utilise pour donner l'alarme ou un signal, et n'infligent généralement que for peu de dégats."
+  },
+  {
+    "Type": "fleche",
+    "VD": {
+      "Roll": 2,
+      "Keep": 3
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0008"
+      }
+    ],
+    "Tag": "ARM0005",
+    "Name": "Déchireuse",
+    "Description": "Ces flèches, pourvues de pointes plus larges, infligent de cruelles blessures aux cibles dépourvues d'armure. Quasiment inutiles contre des adversaires protégés par une armure, elles ne portent pas aussi loin qu'une feuille de saule standard, mais contre leur cible de prédilection, elles font montre d'une efficacité dévastatrice."
+  },
+  {
+    "Type": "fleche",
+    "VD": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [],
+    "Tag": "ARM0006",
+    "Name": "Feuille de saule",
+    "Description": "La feuille de saule, aussi appelée ya, est la flèche standard dont se servent les meilleurs archers de tout l'Empire. Mais on l'utilise aussi pour enseigner le tir à l'arc aux samurai dès leur enfance. Les trois quarts des flèches que transporte un archer type sont des feuilles de saule."
+  },
+  {
+    "Type": "fleche",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0009"
+      }
+    ],
+    "Tag": "ARM0007",
+    "Name": "Perce-armure",
+    "Description": "On a équipé la point de ces flèches d'une point effilée destinée à perforer les plaques d'armure. Effectivement efficaces en ce sens, les dégats qu'elles occasionnent sont cependant amoindris."
+  },
+  {
+    "Type": "fleche",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0010"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0008"
+      }
+    ],
+    "Tag": "ARM0008",
+    "Name": "Tranche-corde",
+    "Description": "Ces flèches ont une pointe en forme de croissant de lune destiné à couper les cordes ou les ficelles, par exemple celles des étendards."
+  },
+  {
+    "Type": "arc",
+    "VD": {
+      "Roll": 0,
+      "Keep": 0
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 25,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "3",
+        "Model_Tag": "SPO0029"
+      },
+      {
+        "Complement": "4",
+        "Model_Tag": "SPO0030"
+      },
+      {
+        "Complement": "150",
+        "Model_Tag": "SPO0026"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0011"
+      }
+    ],
+    "Tag": "ARM0009",
+    "Name": "Dai-Kyu",
+    "Description": "Conçu pour être utilisé à dos de cheval, le dai-kyu se compose de plusieurs couches de bois, de corne ou de tendons assemblés à l'aide de colle. De loin, les plus puissants arcs ordinaires qu'utilisent les armées de Rokugan, pour les archers, ils ont autant de valeur que leur katana."
+  },
+  {
+    "Type": "arc",
+    "VD": {
+      "Roll": 0,
+      "Keep": 0
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 6,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "30",
+        "Model_Tag": "SPO0026"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "SPO0030"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0012"
+      }
+    ],
+    "Tag": "ARM0010",
+    "Name": "Han-Kyu",
+    "Description": "Plus petit que le yumi, donc généralement plus facile à utiliser et à transporter, le han-kyu est un arc très populaire chez les magistrats itinérants et les éclaireurs qui misent sur la vitesse et la discrétion. Un han-kyu se compose généralement d'un morceau de bois ou de corne unique."
+  },
+  {
+    "Type": "arc",
+    "VD": {
+      "Roll": 0,
+      "Keep": 0
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "75",
+        "Model_Tag": "SPO0026"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPO0030"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0012"
+      }
+    ],
+    "Tag": "ARM0011",
+    "Name": "Yumi",
+    "Description": "Il s'agit de l'arc typique utilisé par les archers de l'infanterie et les samurai qui ne voyagent pas au sein d'une armée ou d'un autre groupe important. Il s'agit d'un arc puissant, mais un peu moins que le dai-kyu. Sa courbure le rend très difficile à utiliser à cheval."
+  },
+  {
+    "Type": "hast",
+    "VD": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 12,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0012",
+    "Name": "Bisento",
+    "Description": "Un bisento est une hampe en bois à l'extrémité de laquelle on a fixé une lourde lame de sabre. Cette lame bien plus lourde que celle d'un katana ou d'un nagamaki, peut gandereusement déséquilibrer l'arme entre les mains de celui qui n'a pas appris à la manier efficacement. Arme populaire ai sein de certaines sectes de sohai, ces moines guerriers, on la rencontre rarement ailleurs."
+  },
+  {
+    "Type": "hast",
+    "VD": {
+      "Roll": 2,
+      "Keep": 3
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 8,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0013",
+    "Name": "Nagamaki",
+    "Description": "Le nagamaki se compose d'une lame de sabre (bien plus grossière que celle d'un katana) reliée à une courte hampe de bois. Sa conception en fait une arme plus légère, qu'on manie d'une main et qui associe les avantages du sabre à la force de levier d'une arme d'hast."
+  },
+  {
+    "Type": "hast",
+    "VD": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": true,
+    "Cout": {
+      "Value": 10,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0014",
+    "Name": "Naginata",
+    "Description": "Le naginata, l'armed'hast  la plus respectée de Rokugan, jouit d'une grande popularité chez les samurai-ko et les guerriers du Clan du Phénix. Il ressemble au bisento dans la mesure où il s'agit d'une lame de sabre fixée au bout de la hampe d'une lance. Plus léger que le bisento, il set généralement plus long que le nagamaki."
+  },
+  {
+    "Type": "hast",
+    "VD": {
+      "Roll": 0,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 6,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0013"
+      }
+    ],
+    "Tag": "ARM0015",
+    "Name": "Sasumata",
+    "Description": "Le sasumata est surnommé «\u00A0l'attrape-homme\u00A0» en raison de l'usage pour lequel il a été conçu: retenir l'adversaire sans trop le blesser. Cette arme se compose d'une hampe de bois de 1,20m de long terminée par une lame barbelée en croissant de lune. Cette extrémité sert à plaquer l'adversaire au sol ou contre un mur sans lui infliger trop de dégats s'il ne se débat pas. Les magistrats et leurs adjoints utilisent le sasumata pour immobiliser les samurai turbulents ou ivres."
+  },
+  {
+    "Type": "hast",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 6,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0013"
+      }
+    ],
+    "Tag": "ARM0016",
+    "Name": "Sodegarami",
+    "Description": "Si le sasumata est conçu pour capturer l'ennemi en le clouant au sol, le soderagami sert à le maintenir en s'accrochant à ses vêtements. Sa hampe de 1,20m se termine par une tête en métal pourvue de crochets et de barbelures en forme de T, ce qui permet d'agripper les vêtements de l'ennemi et de l'immobiliser."
+  },
+  {
+    "Type": "ninjutsu",
+    "VD": {
+      "Roll": 0,
+      "Keep": 0
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 8,
+      "Unit": "zeni"
+    },
+    "Special": [
+      {
+        "Complement": "flechettes;4,5",
+        "Model_Tag": "SPO0028"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPO0007"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0014"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0015"
+      }
+    ],
+    "Tag": "ARM0017",
+    "Name": "Sarbacane",
+    "Description": "La sarbacane est très populaire chez les ninja, car elle est peu coûteuse, facile à utiliser, et peut être utilisée hors des combats pour respirer sous l'eau (une situation plus courante qu'on ne l'imagine pour un ninja). On charge dans le tube de petites fléchettes que l'on projette en soufflant fortement. Ces projectiles n'infligent presque aucun dégât, mais le fait d'être empoisonnées constitue le véritable point fort de la sarbacane. Ces armes ont une portée de 4,5m."
+  },
+  {
+    "Type": "ninjutsu",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "7.5",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0018",
+    "Name": "Shuriken",
+    "Description": "Le shuriken représente sans doute l'outil indispensable pour le ninja, et l'identifie immanquablement comme tel. Un shuriken est un petit disque de métal au bord aiguisé ou pourvu de pointes en étoile. Il est facile à fabriquer, à dissimuler ou à faire passer pour un objet anodin, jetable et simple à produire en grande quantité. Les shuriken peuvent être enduits de poison, ce qui s'avère souvent être le cas. En raison de leur taille, on n'ajoute pas la Force de celui qui les lance à leur VD quand on les utilise comme arme à distance, et leurs dés de dommages ne sont pas ouverts."
+  },
+  {
+    "Type": "ninjutsu",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "9",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0019",
+    "Name": "Tsubute",
+    "Description": "Le tsubute, l'opposé du shuriken sur bien des points, est une petite pierre émoussée en forme de disque conçue pour être lancée. Les ninja passés maîtres dans l'art de projeter des tsubute peuvent facilement en improviser un s'ils n'en ont pas: n'importe quelle pierre plus ou moins ronde fait l'affaire. Les tsubute ne sont guère efficaces en tant qu'arme offensives, et servent plutôt à détourner l'attention et harceler l'adversaire. En raison de leur taille, on n'ajoute pas la Force de celui qui les lance à leur VD quand on les utilise comme arme à distance, et leurs dés de dommages ne sont pas ouverts."
+  },
+  {
+    "Type": "lourde",
+    "VD": {
+      "Roll": 5,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 15,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0020",
+    "Name": "Dai-tsuchi",
+    "Description": "Énorme marteau de guerre à deux mains populaire parmi le Clan du Crabe, le dai-tsuchi est l'un des instruments les plus efficaces dont disposent les samurai de Rokugan contre les immenses créatures à la peau dure qui surgissent régulièrement de l'Outremonde pour menacer l'Empire. Entre les mains d'un expert, le dai-tsuchi concentre la puissance des coups sur une petite zone, fracassant les armures et déchirant aisément le cuir épais des démons."
+  },
+  {
+    "Type": "lourde",
+    "VD": {
+      "Roll": 2,
+      "Keep": 3
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 8,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0021",
+    "Name": "Masakari",
+    "Description": "Le masakari, une hache à une main, s'apparente à celles qu'utilisent les bûcherons dans tout l'Empire. Bien plus petit que les autres armes lourdes, le masakari s'utilise toutefois de la même manière, d'où son apparition dans cette catégorie."
+  },
+  {
+    "Type": "lourde",
+    "VD": {
+      "Roll": 0,
+      "Keep": 4
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0022",
+    "Name": "Ono",
+    "Description": "L'ono est une grande hache à deux mains qu'on peut facilement utiliser pour abattre des arbres ou trancher des membres. La force brute qu'on peut concentrer dans le fil de la lame d'une hache en portant un coup de haut en bas en fait sans doute l'arme personnelle la plus dévastatrice qui soit entre les mains d'un guerrier expérimenté."
+  },
+  {
+    "Type": "lourde",
+    "VD": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0023",
+    "Name": "Tetsubo",
+    "Description": "Le tetsubo a été l'arme caractéristique de bien des grands héros du Clan du Crabe, en particulier pendant la Guerre des Clans, et part conséquent devenu un symbole important pour bien des aspirants guerriers de la famille Hida. Un tetsubo est en réalité un gourdin de métal (ou de jade dans certains cas rarissimes) incrusté sur toute sa longueur de clous d'acier. Cette arme de conception élémentaire n'a pas son pareil pour fracasser les armures et autres cibles résistantes."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 1,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 2,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0024",
+    "Name": "Bo",
+    "Description": "Le plus simple et le plus répandu des bâtons dans l'Empire s'appelle le bo, simple hampe de bois de 1,50 à 1,80m de long. Il sert de bâton de marche aux voyageurs et aux moines, et se transforme en arme entre les mains de ceux qui ont assez d'audace pour s'en servir. Comme la plupart des bâtons, le bo devient quasiment inutile contre une armure."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 0,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0025",
+    "Name": "Jo",
+    "Description": "Le jo est une sorte de demi-bo, petit bâton d'environ 90cm de long. On en manie souvent deux en même temps pour pour porter toute une série de coups rapides et violents."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 0,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0026",
+    "Name": "Machi-kanshisha",
+    "Description": "Cette arme des plus curieuses est en réalité une sorte de pipe à tabac en métal. Sa taille et sa forme en font une arme efficace, tube de métal d'environ 90cm de long. En plus de servir à fumer, elle permet d'assommer un adversaire en lui donnant un bon coup sur la tête. Les membres de la famille Kaeru, qui gouverne la Cité de la Grenouille Riche, sont quasiment les seuls à utiliser les machi-kanshisha."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 1,
+      "Keep": 2
+    },
+    "Taille": "petite",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0027",
+    "Name": "Nunchaku",
+    "Description": "Le nunchaku était à l'origine un outil agricole permettant de battre les blés. Il est facile à fabriquer et d'une surprenante efficacité. Il se compose de deux bâtons de 60cm reliés par une chaîne de 30cm de long. Le nunchaku ne montre l'étendue de ses possibilités qu'entre les mains d'un utilisateur averti, auquel cas le spectacle des séries de coups enchaînés relève de l'art pur et simple."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 1,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "bouclier;2k1",
+        "Model_Tag": "SPO0016"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0028",
+    "Name": "Sang kauw - croissant de lune & bouclier",
+    "Description": "On ne voit cette curieuse arme que chez ceux qui ont choisi d'étudier les arts martiaux exotiques. Il s'agit d'un bâton de 90cm à 1,20m de long dont les deux extrémités possèdent une pointe. Le sang-kauw en croissant de lune possède en son centre une lame recourbée que l'on peut utiliser pour repousser les assaillants tandis que le sang-kauw bouclier a un bouclier de métal pour protéger son porteur."
+  },
+  {
+    "Type": "baton",
+    "VD": {
+      "Roll": 0,
+      "Keep": 3
+    },
+    "Taille": "moyenne",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPO0007"
+      }
+    ],
+    "Tag": "ARM0029",
+    "Name": "Tonfa",
+    "Description": "A l'origine, le tonfa était une poignée de meule de paysan. Il se compose d'un bâton de la longueur de l'avant-bras, et muni d'une poignée qui permet de le porter le long du bras. Il s'agit alors d'un outil défensif efficace, qui peut se transformer en arme offensive quand on le fait pivoter."
+  },
+  {
+    "Type": "couteau",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "6",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0030",
+    "Name": "Aiguchi & tanto",
+    "Description": "L'aiguchi et le tanto sont tous les deux des couteaux de base très simples. La seule différence entre les deux réside dans la garde de l'aiguchi alors que le tanto n'en a pas. Beaucoup de samurai portent un tanto en tant qu'accessoire quotidien."
+  },
+  {
+    "Type": "couteau",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 1,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "6",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0031",
+    "Name": "Jitte & sai",
+    "Description": "Le jitte et le sai, adaptés d'outils agricoles issus des origines de l'Empire, ont peu à peu été acceptés par la caste des samurai. Le jitte en particulier se confond avec le statut de magistrat. Tous deux sont constitués d'un cylindre en acier de 30 cm de long qui jaillit d'une poignée et qui s'effile jusqu'à son extrémité épointée. Sur les flancs du cylindre apparaissent des quillons au niveau de la séparation entre la lame et la poignée. Le jitte n'en n'a qu'un et le sai en a deux, symétriques et opposés. Le jitte et le sai ont peu à peu été acceptés par les samurai car ils représentent les armes idéales pour désarmer quelqu'un sans lui infliger trop de dégâts."
+  },
+  {
+    "Type": "couteau",
+    "VD": {
+      "Roll": 0,
+      "Keep": 2
+    },
+    "Taille": "petite",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "6",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0032",
+    "Name": "Kama",
+    "Description": "Le kama est une adaptation de la faucille. D'ailleurs, la grande majorité des kama de l'Empire sont encore utilisés dans les champs par les fermiers pour la récolte. Toutefois, le kama a peu à peu acquis le statut d'arme caractéristique d'un grand nombre de samurai du Clan de la Mante, en particulier au sein de la famille Yoritomo. On le considère donc comme une arme, même si un paysan peu en posséder un."
+  },
+  {
+    "Type": "eventail",
+    "VD": {
+      "Roll": 0,
+      "Keep": 1
+    },
+    "Taille": "petite",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0033",
+    "Name": "Eventail de guerre",
+    "Description": "Il existe toutes sortes d'éventails de guerre, qu'on appelle aussi tessen, et qu'on retrouve dans tout l'Empire. Les différents styles sont plus ou moins populaires en fonction des Clans, mais les provinces des Clans du Lion et de la Grue en utilisent plus souvent. Certains ne sont que des petites tiges de métal avec des feuilles métalliques reliées, aussi ne ressemblent-ils guère à des éventails traditionnels."
+  },
+  {
+    "Type": "lance",
+    "VD": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "Taille": "grande",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "25",
+        "Model_Tag": "SPO0017"
+      }
+    ],
+    "Tag": "ARM0034",
+    "Name": "Kumade",
+    "Description": "Même les samurai du Clan de la Mante ne se sont pas entièrement convertis à l'usage du Kumade en tant qu'arme. Il s'agit en fait d'une sorte de râteau composé d'un manche en bois dont une extrémité possède une pointe en métal et l'autre une série de crochets métalliques. Le bout aux crochets sert à arracher les souches ou les mauvaises herbes tandis que le côté en forme de lance permet d'écarter ou de transpercer tout ce qui gêne pour le rassembler plus tard. La piètre facture des kumade explique pourquoi les membres de la famille Yoritomo ne l'ont pas adopté en tant qu'arme."
+  },
+  {
+    "Type": "lance",
+    "VD": {
+      "Roll": 3,
+      "Keep": 4
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "30",
+        "Model_Tag": "SPO0017"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0019"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0020"
+      }
+    ],
+    "Tag": "ARM0035",
+    "Name": "Lance d'arçon",
+    "Description": "La lance d'arçon provient des cultures gaijin, et on ne la rencontre quasiment jamais en dehors des clans de la Licorne et du Boeuf. Cette arme ne s'utilise qu'à dos de cheval, calée sous l'épaule du cavalier avec la pointe en avant. Le cheval est alors lancé au galop, la pointe de la longue hampe de bois dirigée vers la cible. L'effet peut en être dévastateur, même si la plupart des lances d'arçon se fracassent à l'impact. Cette arme, fort peu adaptée à autre chose qu'une charge, se révèle quasiment inutile dans d'autres situations de combat."
+  },
+  {
+    "Type": "lance",
+    "VD": {
+      "Roll": 0,
+      "Keep": 3
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "7.5",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0036",
+    "Name": "Mai chong",
+    "Description": "Le mai-chong est une arme insolite conçue et utilisée presque exclusivement par les samurai du Clan du Sanglier, dans les profondeurs des Montagnes du Crépuscule. Une poignée de voyageurs qui ont visité les terres du Clan du Sanglier ont adopté cette arme et enseigné leur usage à leurs enfants ou à leurs élèves. Il arrive parfois de croiser des samurai maniant le mai-chong hors des provinces du Clan du Sanglier, mais cela reste relativement rare. Le-mai chong se compose d'une hampe de 2,40m pourvue d'une extrémité métallique de 30cm. Cette tête a trois pointes, l'une pointée vers l'avant et les autres à angle droit par rapport à celle-ci. Deux autres pointes sortent de part et d'autre de l'extrémité de l'arme, permettant des attaques d'estoc et de taille."
+  },
+  {
+    "Type": "lance",
+    "VD": {
+      "Roll": 1,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 3,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "15",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0037",
+    "Name": "Nage-yari",
+    "Description": "Le nage-yari est une sorte de javeline, version raccourcie mais plus lourde du yari. Il mesure entre 90cm et 1,20m de long, et se dote d'une pointe en métal. On peut l'utiliser efficacement au combat au corps à corps ou le projeter sur une courte distance."
+  },
+  {
+    "Type": "lance",
+    "VD": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "9",
+        "Model_Tag": "SPO0027"
+      },
+      {
+        "Complement": "1g2",
+        "Model_Tag": "SPO0021"
+      }
+    ],
+    "Tag": "ARM0038",
+    "Name": "Yari",
+    "Description": "Le yari est une lance standard mesurant entre 1,80 et 2,40m de long. On l'utilise à deux mains lorsqu'on se trouve à pied, et à une main à dos de cheval. On confie généralement les yari aux membres des légions d'ashigaru et aux troupes destinées à stopper la cavalerie. Comme les nage-yari, on peut les projeter à courte distance avec une certaine précision."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 2,
+      "Keep": 3
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 20,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0039",
+    "Name": "Cimeterre",
+    "Description": "Lourde lame incurvée venue d'au-delà des frontières de l'Empire d'Émeraude, le cimeterre fut rapporté à Rokugan par le Clan de la Licorne après ses huit siècles d'errance dans le vaste monde. Très rarement composé d'acier plié, sa robustesse n'égale jamais celle du katana. Seuls les samurai du Clan de la Licorne s'en servent, essentiellement au sein de la famille Moto."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": true,
+    "Cout": {
+      "Value": -1,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0022"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0023"
+      }
+    ],
+    "Tag": "ARM0040",
+    "Name": "Katana",
+    "Description": "Le katana est l'arme du samurai par excellence. Il représente l'âme de celui qui le porte, et si les bushi et ceux formés à son utilisation sont généralement les seuls à les porter sur eux en permanence, tous les samurai en possèdent un, même s'ils le laissent dans leur demeure. Les shugenja et courtisans ne portent généralement pas de katana sur eux, car cela impliquerait qu'ils savent s'en servir, donc censés pouvoir se défendre seuls. Chaque katana se garde généralement au sein d'une famille pour être transmis de génération en génération. L'aîné des enfants d'une génération donnée reçoit le sabre de son grand-père. Toutefois, un samurai qui sert fidèlement son seigneur peut posséder plusieurs katana: non seulement celui de son grand-père, mais aussi un autre qui lui a été attribué pour ses bons et loyaux services, un autre qui symbolise sa nomination au poste de magistrat impérial, etc."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 5,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "40",
+        "Model_Tag": "SPO0017"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0024"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0025"
+      }
+    ],
+    "Tag": "ARM0041",
+    "Name": "Ninja-to",
+    "Description": "Aussi méprisé que le katana est respecté, le ninja-to est l'arme de prédilection des ninja. Les ninja ont d'obscurs usages pour leurs sabres, et s'en servent par exemple pour faciliter l'escalade. Contrairement aux autres sabres, les ninja-to sont de facture grossière, plutôt laids, et se cassent facilement. Un ninja qui perd son arme peut facilement la remplacer sans se ruiner."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Taille": "grande",
+    "Paysan": false,
+    "Samurai": false,
+    "Cout": {
+      "Value": 30,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARM0042",
+    "Name": "No-dachi",
+    "Description": "Le no-dachi est sans doute l'arme la plus grande que manient couramment les samurai. Il ressemble à bien des égards au katana, excepté qu'il mesure de 1,50m à 2,10m de long. Il s'agissait à l'origine d'une arme utilisée contre la cavalerie, et il excelle à cet usage. Les bushi agressifs ou extrêmement entraînés peuvent toutefois s'en servir au corps à corps, une technique difficile mais d'une redoutable efficacité quand on la maîtrise."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": true,
+    "Samurai": false,
+    "Cout": {
+      "Value": 10,
+      "Unit": "bu"
+    },
+    "Special": [
+      {
+        "Complement": "30",
+        "Model_Tag": "SPO0017"
+      }
+    ],
+    "Tag": "ARM0043",
+    "Name": "Parangu",
+    "Description": "Le parangu s'apparente à une machette, une fine lame faite d'acier non replié et conçue pour couper les broussailles ou la végétation d'un geste vif, qu'il soit utilisé par les fermiers ou pour se déplacer dans une jungle, voire une forêt dense. Le parangu jouit d'une popularité dans les navires du Clan de la Mante où il sert à couper les cordes ou les étoffes sans avoir à craindre pour son katana. Les parangu sont généralement fabriqués à partir de rebuts de métal et ont de grandes chances de se briser lors d'un combat contre une lame noble."
+  },
+  {
+    "Type": "sabre",
+    "VD": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "Taille": "moyenne",
+    "Paysan": false,
+    "Samurai": true,
+    "Cout": {
+      "Value": 15,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": "6",
+        "Model_Tag": "SPO0027"
+      }
+    ],
+    "Tag": "ARM0044",
+    "Name": "Wakizashi",
+    "Description": "Si le katana représente l'âme du samurai, le wakizashi symbolise son honneur. Chaque membre de la caste des samurai, jusqu'aux plus pieux des shugenja ou au plus subtil des artisans, possède un wakizashi représentant son statut. On ne porte pas toujours son wakizashi, mais il ne se trouve jamais bien loin  et on l'emporte toujours en voyage. Étant le symbole de l'honneur de son propriétaire, on se sert de lui pour mener à bien le rituel de seppuku."
+  }
+]

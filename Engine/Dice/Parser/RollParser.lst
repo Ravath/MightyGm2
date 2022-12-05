@@ -1,0 +1,59 @@
+
+// ==========================================================================
+//  GPPG error listing for yacc source file <Parser.y - 01/10/2018 18:22:41>
+// ==========================================================================
+//  Version:  1.5.2
+//  Machine:  EHLION-GTX
+//  DateTime: 01/10/2018 18:22:44
+//  UserName: Ehlion
+// ==========================================================================
+
+
+// ==========================================================================
+//  GPPG definition file
+// ==========================================================================
+//  Version:  1.0.0
+//  Machine:  EHLION-MSI
+//  DateTime: 01/10/2018 16:37:27
+//  UserName: Ehlion
+// ==========================================================================
+%{
+	int digit;
+	int stack;
+%}
+
+%start MAIN
+%partial
+%output-Parser.cs
+//----^^^^^^^^^^^
+// Error: Syntax error, unexpected filePath, expecting '='
+// -------------------------------------------------------
+%namespace Roll.Parser
+%visibility internal
+
+%union { public int iVal; }
+
+%token <iVal> DIGIT
+%type <iVal> NUMBER
+%type <iVal> OPERATION
+
+%%
+//=====================MAIN=====================
+MAIN
+	:   /*empty */
+	|  	OPERATION { Console.Out.Write(" $1 "); }
+	|   MAIN error '\n' { yyerrok(); }
+	;	
+//=====================TOKENS=====================
+NUMBER
+	: DIGIT { $$ = $1; }
+	| NUMBER DIGIT { $$ = $1 * 10 + $2; }
+	;
+OPERATION
+	: NUMBER { $$ = $1; }
+	| OPERATION '+' NUMBER { $$ = $1 + $3; }
+	| OPERATION '-' NUMBER { $$ = $1 - $3; }
+	| OPERATION '*' NUMBER { $$ = $1 * $3; }
+	| OPERATION '/' NUMBER { $$ = $1 / $3; }
+	;// ==========================================================================
+

@@ -1,0 +1,60 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Godot/Schema/SchemaDot.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Godot/Schema/SchemaBox.cs" type="Script" id=2]
+
+[node name="Control" type="Control"]
+margin_left = 220.315
+margin_top = 94.1804
+margin_right = 702.315
+margin_bottom = 452.18
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Content" type="MarginContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 1
+
+[node name="TopLeftCorner" parent="." instance=ExtResource( 1 )]
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = -10.0
+margin_top = -10.0
+margin_right = 3.05176e-05
+margin_bottom = 3.05176e-05
+
+[node name="TopRightCorner" parent="." instance=ExtResource( 1 )]
+anchor_left = 1.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 0.0
+margin_left = 3.05176e-05
+margin_top = -10.0
+margin_right = 10.0001
+margin_bottom = 3.05176e-05
+
+[node name="BottomLeftCorner" parent="." instance=ExtResource( 1 )]
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = -10.0
+margin_top = 3.05176e-05
+margin_right = 3.05176e-05
+margin_bottom = 10.0001
+
+[node name="BottomRightCorner" parent="." instance=ExtResource( 1 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 3.05176e-05
+margin_top = 3.05176e-05
+margin_right = 10.0001
+margin_bottom = 10.0001
+[connection signal="gui_input" from="." to="." method="_on_Control_gui_input"]

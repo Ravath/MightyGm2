@@ -1,0 +1,583 @@
+[
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0001",
+    "Tag": "MAI0001",
+    "Name": "ArtMagie5",
+    "Description": "Le personnage bénéficie d'un bonus de +1g0 aux jets d'incantation."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0002",
+    "Tag": "MAI0002",
+    "Name": "Calligraphie5",
+    "Description": "Votre personnage reçoit un bonus de +10 quand il tente de décrypter un code secret."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0003",
+    "Tag": "MAI0003",
+    "Name": "CérémonieThé5",
+    "Description": "Tous les participants récupèrent 2 points de Vide au lieu de 1."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0004",
+    "Tag": "MAI0004",
+    "Name": "Comédie3",
+    "Description": "Le ND pour se déguiser est réduit de 5."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0004",
+    "Tag": "MAI0005",
+    "Name": "Comédie5",
+    "Description": "Le ND pour se déguiser est réduit de 10 (non cumulatif)."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0004",
+    "Tag": "MAI0006",
+    "Name": "Comédie7",
+    "Description": "Le ND pour se déguiser est réduit de 15 (non cumulatif)."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0005",
+    "Tag": "MAI0007",
+    "Name": "Courtisan3",
+    "Description": "Le personnage bénéficie d'un bonus de +3 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0005",
+    "Tag": "MAI0008",
+    "Name": "Courtisan5",
+    "Description": "Le personnage bénéficie d'un bonus de +1g0 au total de tous les jets d'opposition recourant à Courtisan."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0005",
+    "Tag": "MAI0009",
+    "Name": "Courtisan7",
+    "Description": "Le personnage bénéficie d'un bonus de +7 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence (Ce bonus s'ajoute à celui conféré au rang 3)."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0006",
+    "Tag": "MAI0010",
+    "Name": "Divination5",
+    "Description": "Un second jet de divination devient possible sans dépenser de point de Vide. Toutes les autres conditions requises au second jet de compétence s'appliquent normalement."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0007",
+    "Tag": "MAI0011",
+    "Name": "Etiquette3",
+    "Description": "Le personnage bénéficie d'un bonus de +3 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0007",
+    "Tag": "MAI0012",
+    "Name": "Etiquette5",
+    "Description": "Le personnage bénéficie d'un bonus de +1g0 au total de tous les jets d'opposition recourant à Etiquette."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0007",
+    "Tag": "MAI0013",
+    "Name": "Etiquette7",
+    "Description": "Le personnage bénéficie d'un bonus de +7 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence (Ce bonus s'ajoute à celui conféré au rang 3)."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0008",
+    "Tag": "MAI0014",
+    "Name": "Enquête3",
+    "Description": "Un second jet recourant à la spécialisation fouille peut être retenté sans que le ND soit augmenté."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0008",
+    "Tag": "MAI0015",
+    "Name": "Enquête5",
+    "Description": "Le personnage gagne un bonus de +5 au total de tous les jets d'opposition recourant à Enquête."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0008",
+    "Tag": "MAI0016",
+    "Name": "Enquête7",
+    "Description": "Une troisième tentative recourant à la spécialisation fouille peut être faite quand le deuxième jet échoue."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0009",
+    "Tag": "MAI0017",
+    "Name": "Médecine5",
+    "Description": "La quantité de blessures soignées en cas de jet de médecine réussi augmente de +1g0."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0010",
+    "Tag": "MAI0018",
+    "Name": "Méditation3",
+    "Description": "Un jet réussit de méditation fait récupérer jusqu'à 2 points de Vide,"
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0010",
+    "Tag": "MAI0019",
+    "Name": "Méditation5",
+    "Description": "Le ND de tous les jets de Méditation(jeûne) est réduit de 5."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0010",
+    "Tag": "MAI0020",
+    "Name": "Méditation7",
+    "Description": "Un jet réussit de méditation fait récupérer jusqu'à 3 points de Vide."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0011",
+    "Tag": "MAI0021",
+    "Name": "Sincérité5",
+    "Description": "Le personnage bénéficie d'un bonus de +5 au total de tous les jets d'opposition recourant à Sincérité."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0012",
+    "Tag": "MAI0022",
+    "Name": "ArmesChaines3",
+    "Description": "Les armes à chaînes peuvent être utilisées pour déclencher une empoignade."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0012",
+    "Tag": "MAI0023",
+    "Name": "ArmesChaines5",
+    "Description": "Les personnages qui utilisent une arme à chaine reçoivent un bonus de +1g0 aux jets d'opposition contre des adversaires Enchevêtrés ou placés en situation d'empoignade à cause de la chaîne."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0012",
+    "Tag": "MAI0024",
+    "Name": "ArmesChaines7",
+    "Description": "Le recours à une chaîne confère une augmentation gratuite dans le cadre des manœuvres de désarmement et de  renversement ."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0013",
+    "Tag": "MAI0025",
+    "Name": "ArmesHast3",
+    "Description": "Durant le premier round d'une escarmouche, le personnage qui attaque avec une arme d'hast reçoit un bonus de +5 à son score d'initiative, avantage qui ne dure pas après le premier round."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0013",
+    "Tag": "MAI0026",
+    "Name": "ArmesHast5",
+    "Description": "Les jets de dommages contre des adversaires montés ou de taille significativement supérieure augmentent de +1g0."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0013",
+    "Tag": "MAI0027",
+    "Name": "ArmesHast7",
+    "Description": "Les armes d'Hast peuvent être apprêtées au prix d'une action gratuite."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0014",
+    "Tag": "MAI0028",
+    "Name": "ArmesLourdes3",
+    "Description": "Les adversaires dotés d'une valeur de réduction voient celle-ci diminuer de 2 lors d'une attaque par une arme lourde."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0014",
+    "Tag": "MAI0029",
+    "Name": "ArmesLourdes5",
+    "Description": "L'utilisation d'une arme lourde confère une augmentation gratuite dans le cadre de la manœuvre de renversement."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0014",
+    "Tag": "MAI0030",
+    "Name": "ArmesLourdes7",
+    "Description": "Les dés de dommages sont ouverts sur un résultat de 9 ou 10 quand le personnage attaque avec une arme lourde."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0015",
+    "Tag": "MAI0031",
+    "Name": "Bâtons3",
+    "Description": "Le bonus d'armure des adversaires n'est plus doublé contre les attaques au bâton."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0015",
+    "Tag": "MAI0032",
+    "Name": "Bâtons5",
+    "Description": "Attaquer avec un bâton confère une augmentation gratuite dans le cadre d'une manœuvre de renversement."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0015",
+    "Tag": "MAI0033",
+    "Name": "Bâtons7",
+    "Description": "Les bâtons de grande taille peuvent être apprêtés au prix d'une action simple. Les bâtons de petite taille bénéficient d'un bonus de +1g0 aux jets de dommages."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0016",
+    "Tag": "MAI0034",
+    "Name": "Couteaux3",
+    "Description": "Les malus de main non-directrice ne s'appliquent pas avec un couteau."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0016",
+    "Tag": "MAI0035",
+    "Name": "Couteaux5",
+    "Description": "L'emploi d'un sai ou d'un jitte confère une augmentation gratuite dans le cadre d'une manœuvre de désarmement."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0016",
+    "Tag": "MAI0036",
+    "Name": "Couteaux7",
+    "Description": "L'emploi de tout couteau confère une augmentation gratuite dans le cadre d'une manœuvre d'attaque supplémentaire."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0017",
+    "Tag": "MAI0037",
+    "Name": "EventailsGuerre3",
+    "Description": "Les malus de main non-directrice ne s'appliquent pas quand le personnage attaque avec un éventail de guerre."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0017",
+    "Tag": "MAI0038",
+    "Name": "EventailsGuerre5",
+    "Description": "Quand il se bat avec un éventail de guerre, le porteur voit son ND d'armure augmenter de +1."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0017",
+    "Tag": "MAI0039",
+    "Name": "EventailsGuerre7",
+    "Description": "Quand il se bat avec un éventail de guerre, le porteur voit son ND d'armure augmenter de +3."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0018",
+    "Tag": "MAI0040",
+    "Name": "Kenjutsu3",
+    "Description": "Le total de tous les jets de dommages à l'épée augmente de 1g0."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0018",
+    "Tag": "MAI0041",
+    "Name": "Kenjutsu5",
+    "Description": "Une épée peut s'apprêter par une action Gratuite au lieu d'une action simple."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0018",
+    "Tag": "MAI0042",
+    "Name": "Kenjutsu7",
+    "Description": "Les dès de dommages sont ouverts sur un résultat de 9 ou 10 quand le personnage attaque avec une épée."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0019",
+    "Tag": "MAI0043",
+    "Name": "Kyujutsu3",
+    "Description": "Garnir un arc d'une corde demande une action simple au lieu d'une action complexe."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0019",
+    "Tag": "MAI0044",
+    "Name": "Kyujutsu5",
+    "Description": "La portée maximale de tous les arcs augmente de 50\u00A0%."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0019",
+    "Tag": "MAI0045",
+    "Name": "Kyujutsu7",
+    "Description": "La force de tout arc utilisé augmente de 1."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0020",
+    "Tag": "MAI0046",
+    "Name": "Lances3",
+    "Description": "Durant le premier round d'une escarmouche, le personnage qui attaque avec une arme lance peut passer outre 3 points de réduction contre un adversaire au corps à corps."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0020",
+    "Tag": "MAI0047",
+    "Name": "Lances5",
+    "Description": "Les attaques à distance faites à la lance voient leur portée maximale augmenter de 1,5m."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0020",
+    "Tag": "MAI0048",
+    "Name": "Lances7",
+    "Description": "On peut apprêter une lance au prix d'une action gratuite."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0021",
+    "Tag": "MAI0049",
+    "Name": "Ninjutsu3",
+    "Description": "Les dés de dommages des armes de Ninjutsu augmentent de +1g0."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0021",
+    "Tag": "MAI0050",
+    "Name": "Ninjutsu5",
+    "Description": "Les dommages de toutes les armes de Ninjutsu deviennent ouverts."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0021",
+    "Tag": "MAI0051",
+    "Name": "Ninjutsu7",
+    "Description": "Les dés de dommages des armes de Ninjutsu augmentent de +0g1."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0022",
+    "Tag": "MAI0052",
+    "Name": "ArtGuerre5",
+    "Description": "Dans le cadre d'une escarmouche, le personnage ajoute son rang d'art de la guerre à son score d'initiative."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0023",
+    "Tag": "MAI0053",
+    "Name": "Athlétisme3",
+    "Description": "Les terrains médiocres n'affectent plus les déplacements du personnage, tandis que les terrains difficiles réduisent son anneau d'eau de 1 et non de 2."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0023",
+    "Tag": "MAI0054",
+    "Name": "Athlétisme5",
+    "Description": "Le personnage ne subit plus de malus de déplacement, quel que soit le terrain."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0023",
+    "Tag": "MAI0055",
+    "Name": "Athlétisme7",
+    "Description": "Le personnage peut ajouter 1,5m au total d'une action de mouvement par round (cela n'augmente en rien son déplacement maximal par round."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0024",
+    "Tag": "MAI0056",
+    "Name": "Chasse5",
+    "Description": "Le personnage reçoit un bonus de +1g0 au total de tous les jets de discretion effectués dans un environnement sauvage."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0025",
+    "Tag": "MAI0057",
+    "Name": "Défense3",
+    "Description": "Le personnage peut garder le résultat d'un précédent jet de défense/Réflexes plutôt que de le relancer, s'il maintient la manœuvre d'esquive durant les rounds suivants."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0025",
+    "Tag": "MAI0058",
+    "Name": "Défense5",
+    "Description": "Le ND d'armure du personnage est considéré comme supérieur de +3 quand il adopte la manoeuvre de défense ou d'esquive"
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0025",
+    "Tag": "MAI0059",
+    "Name": "Défense7",
+    "Description": "Le personnage peut entreprendre une action simple quand il adopte la manœuvre d'esquive (pas d'attaque possible)."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0026",
+    "Tag": "MAI0060",
+    "Name": "Equitation3",
+    "Description": "Le personnage peut recourir à la manœuvre d'esquive quand il monte un cheval."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0026",
+    "Tag": "MAI0061",
+    "Name": "Equitation5",
+    "Description": "Enfourcher un cheval demande une action simple au lieu d'une action complexe, tandis que descendre de cheval demande une action gratuite au lieu d'une action simple."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0026",
+    "Tag": "MAI0062",
+    "Name": "Equitation7",
+    "Description": "Enfourcher un cheval demande une action gratuite au lieu d'une action simple."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0027",
+    "Tag": "MAI0063",
+    "Name": "Iaijutsu3",
+    "Description": "Apprêter un katana de mande une action gratuite au lieu d'une action simple."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0027",
+    "Tag": "MAI0064",
+    "Name": "Iaijutsu5",
+    "Description": "Au cours d'un duel Iaijutsu, le personnage reçoit une augmentation gratuite à son jet de Iaijutsu(Concentration)/Vide durant l'étape de concentration."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0027",
+    "Tag": "MAI0065",
+    "Name": "Iaijutsu7",
+    "Description": "Durant l'étape d'évaluation d'un duel de Iaijutsu, le personnage reçoit un bonus de +2g2 (au lieu du +1g1 habituel) au total de tous ses jets de concentration à condition que son jet d'évaluation dépasse celui de son adversaire d'au moins 10."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0028",
+    "Tag": "MAI0066",
+    "Name": "Jiujutsu3",
+    "Description": "les dommages de toutes les attaques à mains nues augmentent de +1g0."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0028",
+    "Tag": "MAI0067",
+    "Name": "Jiujutsu5",
+    "Description": "Le recours à Jiujutsu confère une augmentation gratuite quand on déclenche une empoignade."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0028",
+    "Tag": "MAI0068",
+    "Name": "Jiujutsu7",
+    "Description": "Les dommages de toutes les attaques à mains nues augmentent de +0g1."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0029",
+    "Tag": "MAI0069",
+    "Name": "Commerce5",
+    "Description": "Le personnage peut faire augmenter ou diminuer le prix d'un objet qu'il achète ou vend (Jusqu'à 20%)."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0030",
+    "Tag": "MAI0070",
+    "Name": "Elevage3",
+    "Description": "Les animaux domestiques les plus courants, tels que les chiens, les chevaux et les faucons peuvent être dressés pour servir d'autres personnes."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0030",
+    "Tag": "MAI0071",
+    "Name": "Elevage5",
+    "Description": "Les animaux dressés se trouvant avec leur maitre peuvent attaquer la cible de son choix. L'animal se sauvera s'il est grièvement blessé, quelque soient les ordres reçus."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0030",
+    "Tag": "MAI0072",
+    "Name": "Elevage7",
+    "Description": "Les animaux dressés par le personnage peuvent recevoir des instructions non-verbales."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0031",
+    "Tag": "MAI0073",
+    "Name": "Ingénierie5",
+    "Description": "Le personnage reçoit un bonus de +5 au total de tout jet d'Ingénierie intervenant dans un jet coopératif ou cumulatif de compétence."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0032",
+    "Tag": "MAI0074",
+    "Name": "Navigation5",
+    "Description": "Le personnage reçoit un bonus de +5 au total de tout jet de Navigation intervenant dans un jet coopératif ou cumulatif de compétence."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0033",
+    "Tag": "MAI0075",
+    "Name": "Contrefaçon3",
+    "Description": "Le personnage reçoit un bonus de +1g0 à son jet de contrefaçon pour déterminer le ND des jets d'Enquête/Perception visant à déceler une fraude."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0033",
+    "Tag": "MAI0076",
+    "Name": "Contrefaçon5",
+    "Description": "Le personnage reçoit un bonus de +1g0 à tout jet visant à déceler une contrefaçon réalisée par quelqu'un d'autre."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0033",
+    "Tag": "MAI0077",
+    "Name": "Contrefaçon7",
+    "Description": "Le personnage reçoit un bonus de +0g1 à son jet de contrefaçon pour déterminer le ND des jets d'Enquête/Perception visant à déceler une fraude."
+  },
+  {
+    "RangRequis": 3,
+    "Competence_Tag": "CPT0034",
+    "Tag": "MAI0078",
+    "Name": "Discretion3",
+    "Description": "Les actions simples de mouvement du personnage quand il recourt à discrétion lui permettent de se déplacer d'une distance égale à son Eau x 1,5m."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0034",
+    "Tag": "MAI0079",
+    "Name": "Discretion5",
+    "Description": "Les actions simples de mouvement du personnage quand il recourt à discrétion lui permettent de se déplacer d'une distance égale à son Eau x3m."
+  },
+  {
+    "RangRequis": 7,
+    "Competence_Tag": "CPT0034",
+    "Tag": "MAI0080",
+    "Name": "Discretion7",
+    "Description": "Le personnage peut recourir à Discretion pour effectuer normalement des actions gratuites de mouvement."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0035",
+    "Tag": "MAI0081",
+    "Name": "Intimidation5",
+    "Description": "Le personnage reçoit un bonus de +5 au total de tous les jets d'opposition recourant à Intimidation."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0036",
+    "Tag": "MAI0082",
+    "Name": "Passe-passe5",
+    "Description": "Le personnage peut employer la spécialisation Dissimulation pour cacher des petites armes."
+  },
+  {
+    "RangRequis": 5,
+    "Competence_Tag": "CPT0037",
+    "Tag": "MAI0083",
+    "Name": "Tentation5",
+    "Description": "Le personnage reçoit un bonus de +5 au total de tous les jets d'opposition recourant à Tentation."
+  }
+]

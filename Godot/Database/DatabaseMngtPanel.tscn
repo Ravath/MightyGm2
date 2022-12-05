@@ -1,0 +1,148 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Godot/Database/DatabaseMngtPanel.cs" type="Script" id=1]
+[ext_resource path="res://Godot/Database/DatabaseImportPanel.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Godot/Database/PreviewPanel.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Godot/Database/ResourceFileSearchPanel.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Pictures/picto_DB_inactive.png" type="Texture" id=5]
+[ext_resource path="res://Pictures/picto_DB_active.png" type="Texture" id=6]
+[ext_resource path="res://Godot/Database/AudioPanel.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Godot/Database/FilePropertiesPanel.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Godot/Database/TagList.tscn" type="PackedScene" id=9]
+
+[node name="DatabaseMngtPanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+activeDb = ExtResource( 6 )
+inactiveDb = ExtResource( 5 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TabContainer" type="TabContainer" parent="HBoxContainer"]
+margin_right = 208.0
+margin_bottom = 600.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DB" type="VBoxContainer" parent="HBoxContainer/TabContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 4.0
+margin_top = 32.0
+margin_right = -4.0
+margin_bottom = -4.0
+rect_min_size = Vector2( 200, 0 )
+
+[node name="DatabaseList" type="ItemList" parent="HBoxContainer/TabContainer/DB"]
+margin_right = 200.0
+margin_bottom = 540.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+select_mode = 1
+allow_rmb_select = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DbPopupMenu" type="PopupMenu" parent="HBoxContainer/TabContainer/DB/DatabaseList"]
+margin_right = 20.0
+margin_bottom = 20.0
+items = [ "Set Used", null, 1, true, false, 0, 0, null, "", false, "Set Unused", null, 0, false, false, 1, 0, null, "", false, "DB Properties", null, 0, false, false, 2, 0, null, "", false, "Remove Db", null, 0, false, false, 3, 0, null, "", false ]
+
+[node name="AddNewDbButton" type="Button" parent="HBoxContainer/TabContainer/DB"]
+margin_top = 544.0
+margin_right = 200.0
+margin_bottom = 564.0
+text = "Add New DB"
+
+[node name="TagList" parent="HBoxContainer/TabContainer" instance=ExtResource( 9 )]
+visible = false
+margin_left = 4.0
+margin_top = 32.0
+margin_right = -4.0
+margin_bottom = -4.0
+rect_min_size = Vector2( 200, 0 )
+
+[node name="SearchPanel" parent="HBoxContainer" instance=ExtResource( 4 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 212.0
+margin_right = 616.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer"]
+margin_left = 620.0
+margin_right = 1024.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+
+[node name="AudioPanel" parent="HBoxContainer/VBoxContainer" instance=ExtResource( 7 )]
+anchor_right = 0.0
+margin_right = 404.0
+margin_bottom = 50.0
+rect_min_size = Vector2( 0, 50 )
+
+[node name="PreviewPanel" parent="HBoxContainer/VBoxContainer" instance=ExtResource( 3 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_top = 54.0
+margin_right = 404.0
+margin_bottom = 396.0
+size_flags_horizontal = 1
+size_flags_vertical = 3
+
+[node name="PropertiesPanel" parent="HBoxContainer/VBoxContainer" instance=ExtResource( 8 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_top = 400.0
+margin_right = 404.0
+margin_bottom = 600.0
+rect_min_size = Vector2( 0, 200 )
+
+[node name="DbImportDialog" type="ConfirmationDialog" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -473.5
+margin_top = -268.0
+margin_right = 473.5
+margin_bottom = 268.0
+rect_min_size = Vector2( 400, 300 )
+window_title = "Import a Database"
+resizable = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DatabaseImportPanel" parent="DbImportDialog" instance=ExtResource( 2 )]
+margin_left = 8.0
+margin_top = 8.0
+margin_right = -8.0
+margin_bottom = -36.0
+
+[node name="DefaultConfirmationDialog" type="ConfirmationDialog" parent="."]
+margin_right = 200.0
+margin_bottom = 70.0
+window_title = "Veuillez confirmer…"
+[connection signal="item_rmb_selected" from="HBoxContainer/TabContainer/DB/DatabaseList" to="." method="_on_DatabaseList_item_rmb_selected"]
+[connection signal="focus_exited" from="HBoxContainer/TabContainer/DB/DatabaseList/DbPopupMenu" to="." method="_on_DbPopupMenu_focus_exited"]
+[connection signal="index_pressed" from="HBoxContainer/TabContainer/DB/DatabaseList/DbPopupMenu" to="." method="_on_DbPopupMenu_index_pressed"]
+[connection signal="pressed" from="HBoxContainer/TabContainer/DB/AddNewDbButton" to="." method="_on_AddNewDbButton_pressed"]
+[connection signal="TagActivated" from="HBoxContainer/TabContainer/TagList" to="." method="_on_TagList_TagActivated"]
+[connection signal="ResourceActivated" from="HBoxContainer/SearchPanel" to="." method="_on_SearchPanel_ResourceActivated"]
+[connection signal="ResourceSelected" from="HBoxContainer/SearchPanel" to="." method="_on_SearchPanel_ResourceSelected"]
+[connection signal="confirmed" from="DbImportDialog" to="." method="_on_DbImportDialog_confirmed"]
+[connection signal="confirmed" from="DefaultConfirmationDialog" to="." method="_on_DefaultConfirmationDialog_confirmed"]

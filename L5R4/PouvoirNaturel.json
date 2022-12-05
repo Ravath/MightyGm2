@@ -1,0 +1,162 @@
+[
+  {
+    "Tag": "SPE0001",
+    "Name": "Énorme",
+    "Description": "Il est impossible d'empoigner les créatures énormes en raison de leur taille et de leur masse immenses, ou parfois à cause de leurs membres multiples ou de leur forme monstrueuse. Une créature énorme ne peut être ni empoignée ni être la cible de la manœuvre de renversement, de même elle ne peut empoigner ses adversaires à moins de posséder de rangs dans la compétence Jiujutsu."
+  },
+  {
+    "Tag": "SPE0002",
+    "Name": "Esprit",
+    "Description": "Une créature dotée de la capacité esprit vient des royaumes des esprits situés hors de Ningen-do, et en tant que telle, présente une résistance particulière aux armes et aux effets issus du monde des mortels. Les esprits qui vivent en Ningen-do ne subissent que la moitié des dommages issus des armes ou des attaques physiques portées à l'aide d'autres matériaux que le jade, le cristal ou l'obsidienne, ainsi que les sorts ou effets magiques qui n'ont pas le mot-clef jade ou cristal."
+  },
+  {
+    "Tag": "SPE0003",
+    "Name": "Invulnérabilité",
+    "Description": "Une créature dotée de l'invulnérabilité devient très difficile à blesser par des attaques ordinaires. On retrouve souvent cette capacité chez les Oni, mais elle caractérise également bien d'autres puissantes créatures de l'Outremonde, ainsi que les plus dangereux des damnés. Une créature dotée d'invulnérabilité ne subit de dommages que de la part des sorts, des nemuranai et des armes faites de jade, de cristal ou d'obsidienne. Toutes les autres attaques ne leur infligent qu'une seule blessures, aussi puissant que soit le coup."
+  },
+  {
+    "Tag": "SPE0004",
+    "Name": "Invulnérabilité Partielle",
+    "Description": "Une créature dotée d'invulnérabilité partielle n'est invulnérable qu'à certains types d'attaque. Par exemple une créature peut être invulnérable aux flèches, ou encore au feu. Les attaques issues des sources indiquées ne lui causent que 1 blessure, quel que soit le résultat du jet de dommages."
+  },
+  {
+    "Tag": "SPE0005",
+    "Name": "Invulnérabilité Supérieure",
+    "Description": "Une créature dotée d'invulnérabilité supérieure a tous les avantages de l'invulnérabilité, mais de surcroît elle se montre invulnérable à une ou plusieurs formes d'attaques capables de blesser des êtres invulnérables. Par exemple, elle peut être invulnérable au jade ou aux sorts d'Air."
+  },
+  {
+    "Tag": "SPE0006",
+    "Name": "Mort-Vivant",
+    "Description": "Les mort-vivants ne ressentent pas la douleur et ne subissent donc pas les malus de blessure. Ils demeurent entièrement fonctionnels tant qu'on ne les a pas coupés en morceaux (tant qu'ils ne se retrouvent pas au rang mort). Comme ils sont morts, ils possèdent une immunité contre tous les effets de peur, ainsi que contre tout sort, compétence ou technique qui tente d'influencer leur esprit ou leurs émotions."
+  },
+  {
+    "Tag": "SPE0007",
+    "Name": "Peur",
+    "Description": "Nombre des créatures les plus étranges ou grotesques de Rokugan ont un aspect effroyable. En particulier les puissants monstres de l'Outremonde et les morts-vivants, dont l'existence même représente un blasphème pour les Rokugani. Les créatures dotées de la capacité peur la font immédiatement subir à l'adversaire au début de chaque rencontre (Cf les règles de peur dans le livre de la terre)."
+  },
+  {
+    "Tag": "SPE0008",
+    "Name": "Résistance Magique",
+    "Description": "Cette capacité fonctionne exactement comme l'avantage de même nom, décrit dans le livre du feu."
+  },
+  {
+    "Tag": "SPE0009",
+    "Name": "Vivacité",
+    "Description": "Une créature dotée de Vivacité se déplace plus vite que ses capacités physiques ne devraient le lui permettre. Ce peut être le résultat d'un pouvoir surnaturel, ou tout simplement l'effet de la rage ou de l'énergie. Quand on calcule la distance à laquelle des créatures dotées de vivacité peuvent se déplacer au moyen d'une action gratuite ou simple, on ajoute leur valeur de vivacité à leur anneau d'eau."
+  },
+  {
+    "Tag": "SPE0010",
+    "Name": "Charge Furieuse",
+    "Description": "Un bœuf blessé réagit instantanément de façon furieuse, chargeant tout ce qu'il perçoit comme étant à l'origine de sa douleur. À son premier tour de jeu consécutif à celui où il a été blessé (en supposant qu'il n'a pas été tué), il ne suit aucun malus de blessure et peut ajouter +10 au résultat de son jet d'attaque. Une fois cette fureur passagère éclipsée, il subit l'effet normal de ses malus de blessure."
+  },
+  {
+    "Tag": "SPE0011",
+    "Name": "Odorat",
+    "Description": "la créature bénéficie d'un bonus de +2g1 à tous leurs jets basés sur la perception et impliquant l'odorat."
+  },
+  {
+    "Tag": "SPE0012",
+    "Name": "Charge",
+    "Description": "La créature en posture d'assaut peuvent parcourir une distance inférieure ou égale à (3m x leur Anneau d'Eau) ou moyen d'une action gratuite."
+  },
+  {
+    "Tag": "SPE0013",
+    "Name": "Attaque aux Yeux",
+    "Description": "Quand la créature inflige 10 blessures ou plus en une seule attaque, sa victime devient temporairement aveuglée (à cause du sang et de la douleur) jusqu'à ce que la plaie soit traitée par magie ou à l'aide de la compétence médecine. Si les dommages infligés se montent à 20 blessures ou plus, la créature a crevé l'oeil (infligeant à sa victime le désavantage mauvaise vue)."
+  },
+  {
+    "Tag": "SPE0014",
+    "Name": "Drainage Sanguin(Gaki)",
+    "Description": "Un gaki peut renoncer à infliger des dommages après une attaque réussie pour boire le sang de sa victime et l'absorber par ses doigts translucides. Ceci inflige 12 Blessures à la victime, soignant le Gaki du même montant."
+  },
+  {
+    "Tag": "SPE0015",
+    "Name": "Immortalité(Gaki)",
+    "Description": "Les gaki ne peuvent pas être tués. Si leur forme physique est détruite, ils se reconstituent en Gaki-do."
+  },
+  {
+    "Tag": "SPE0016",
+    "Name": "Invisibilité(Gaki)",
+    "Description": "Un gaki parvient à devenir invisible au moyen d'une action gratuite, et peut également traverser les murs et objets inanimés lorsqu'il se trouve sous cette forme (mais pas les créatures vivantes)."
+  },
+  {
+    "Tag": "SPE0017",
+    "Name": "Métamorphose(Gaki)",
+    "Description": "Tous les gaki peuvent prendre la forme d'un insecte ordinaire au moyen d'une action complexe. Une action simple leur suffit pour retrouver leur forme originelle."
+  },
+  {
+    "Tag": "SPE0018",
+    "Name": "Possession(Gaki)",
+    "Description": "Un shozai-gaki peut posséder un mortel au moyen d'une action complexe en remportant un jet d'opposition de Volonté. La victime souffre alors d'une fièvre brûlante, et son corps s'agite de terribles frissons. Elle subit 1g1 blessures par jour tandis que le gaki se nourrit directement de son essence vitale. Le gaki peut être expulsé hors de sa victime grâce aux sorts Glyphe de Pureté ou Liens de Ningen-do."
+  },
+  {
+    "Tag": "SPE0019",
+    "Name": "Invulnérabilité(Gaki)",
+    "Description": "les Gaki possèdent une immunité contre tous les Sorts d’illusion et tous les Sorts, Techniques et Compétences affectant l’esprit ou les pensées."
+  },
+  {
+    "Tag": "SPE0020",
+    "Name": "Immunité à la Souillure",
+    "Description": "La créature ne gagne jamais de souillure de l'Outremonde, quelle qu'en soit la source, et ne peut pas lancer de sorts de Mahou."
+  },
+  {
+    "Tag": "SPE0021",
+    "Name": "Nom",
+    "Description": "Les hommes-rats accordent une grande importance aux noms, et plus le nom d'un Nezumi montre de «\u00A0force\u00A0», plus il sera puissant et chanceux. En terme de jeu, les hommes rats ont un trait appelé 'Nom' qui fonctionne comme l'Anneau de Vide des humains, y compris lorsqu'il s'agit de penser des points de Nom pour obtenir les mêmes effets que ceux dûs aux points de Vide. Toutefois, les hommes-rats ne peuvent ni méditer ni accomplir la cérémonie du thé pour regagner des points de Nom, et ils ne peuvent pas adopter la posture du centre."
+  },
+  {
+    "Tag": "SPE0022",
+    "Name": "Duperie",
+    "Description": "Le Kappa peut créer des illusions visuelles semblables à celles issues du sort Brumes d'Illusion, et ce trois fois par jour."
+  },
+  {
+    "Tag": "SPE0023",
+    "Name": "Eau Vitale",
+    "Description": "Si on parvient à vider l'eau du bol crânien du Kappa, la créature perd toute sa réduction, et tous ses anneaux ainsi que ses traits tombent à 1 jusqu'à ce qu'elle ait passé une journée entière sous l'eau à recouvrer ses forces."
+  },
+  {
+    "Tag": "SPE0024",
+    "Name": "Immunité aux sorts",
+    "Description": "Tous les Ugulu no Oni sont immunisés contre 2 sorts, ceux-ci variant d'un Ugulu à l'autre."
+  },
+  {
+    "Tag": "SPE0025",
+    "Name": "Immunité aux flèches",
+    "Description": "Les Ugulu no Oni ont une immunité complète à toutes les flèches à l’exception des flèches perce-armure."
+  },
+  {
+    "Tag": "SPE0026",
+    "Name": "Décapitation",
+    "Description": "On ne peut triompher d'un mort animé qu'en le découpant littéralement en morceaux (c'est-à-dire en le réduisant au rang de blessure Mort). Toutefois, il existe la possibilité de les détruire en les décapitant. Cela nécessite de déclarer les augmentations nécessaires à un Coup Précis et d'infliger au moins 18 blessures."
+  },
+  {
+    "Tag": "SPE0027",
+    "Name": "Aquatique",
+    "Description": "Les sorcières des marais nagent à la même vitesse qu'elles se déplacent sur la terre ferme, et n'ont pas besoin d'effectuer un jet de compétence pour ce faire."
+  },
+  {
+    "Tag": "SPE0028",
+    "Name": "Maladie",
+    "Description": "Quiconque reçoit une blessure par les répugnantes et crasseuses griffes d'une sorcière des marais a 1 chance sur 5 de contracter une ignoble maladie. Celle-ci provoque l'apparition de cloques et de furoncles, ainsi qu'une grande faiblesse, réduisant la constitution de la victime de 1 rang par semaine jusqu'à ce qu'elle en meure lorsque sa constitution tombe à 0. La maladie peut être soignée par magie ou en jet de médecine/intelligence ND 30."
+  },
+  {
+    "Tag": "SPE0029",
+    "Name": "Modification d'apparence",
+    "Description": "Une sorcière des marais qui porte la peau de sa victime ressemble trait pour trait à celle-ci de son vivant. Elle acquiert également ses souvenirs et 1 rang dans chacune des compétences que la victime possédait. Les peaux demeurent un nombre de semaines égal à l'anneau de terre de la victime, puis elles commencent à pourrir, révélant le monstre qui se cache en dessous."
+  },
+  {
+    "Tag": "SPE0030",
+    "Name": "Lame Tsuno",
+    "Description": "Les cruelles épées dentelées des Tsuno bénéficient d'un bonus de +1g0 au jet d'attaque contre tout adversaire ayant un rang de souillure, capacité spéciale d'esprit ou l'avantage caresse des royaumes spirituels."
+  },
+  {
+    "Tag": "SPE0031",
+    "Name": "Attaques Spectrales",
+    "Description": "Les attaques naturelles de cette créature ignorent les armures physiques."
+  },
+  {
+    "Tag": "SPE1201",
+    "Name": "Changeforme",
+    "Description": "TODO : see monster manual."
+  }
+]

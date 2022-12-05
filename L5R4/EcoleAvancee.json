@@ -1,0 +1,355 @@
+[
+  {
+    "Clan_Tag": "CLN0001",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0014",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0003"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0011"
+      }
+    ],
+    "Tag": "EAV0001",
+    "Name": "Défenseur de la Muraille",
+    "Description": "Le Clan du Crabe représente la première ligne de défense contre les créatures voraces de l'Outremonde, ce qui explique que nombre de ses styles martiaux soient de nature défensive. Le Défenseur de la Muraille ne cède pas un pouce de terrain face à ses ennemis et encaisse toutes les attaques qui le visent. Il apparaît comme le gardien parfait car il ne laisse passer aucun assaillant."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0001"
+      },
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0005"
+      }
+    ],
+    "Tag": "EAV0002",
+    "Name": "Maître du Sabre",
+    "Description": "Le style à deux sabres du Niten fut fondé sur les terres du Clan du Dragon et l'évolution de cet art martial reste au cœur de l’École de Maître du Sabre du Dragon. Les Maîtres du Sabre tentent d'apprendre tous les aspects de ce style de combat afin de pouvoir s'adapter à n'importe quelle situation sur le champ de bataille. Là où les Kenshinzen du Clan de la Grue se concentrent sur l'art du duel Iaijutsu, les Maîtres du sabre s’intéressent à l'usage pragmatique des sabres au plus fort du combat."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT2004",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0001"
+      },
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0005"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0021"
+      }
+    ],
+    "Tag": "EAV0003",
+    "Name": "Kenshinzen",
+    "Description": "Si les duels de Iaijutsu ont toujours été le domaine du Clan de la Grue, les Kenshinzen en sont les maîtres absolus. En combat singulier,ces véritables monstres dominent leurs adversaires de leur technique sans faille et de leur aura mortelle. Ces guerriers dégainent leur sabre à la vitesse de la lumière tout en recherchant la perfection du coup unique."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0003"
+      },
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0011"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0008"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0022"
+      }
+    ],
+    "Tag": "EAV0004",
+    "Name": "Garde Blanc",
+    "Description": "La garde Blanche rassemble une force de cavalerie lourde d'élite qui sert souvent au centre de l'armée de la Licorne. Elle regroupe les meilleurs guerriers de la famille Moto et soutient les causes chères au cœur de celle-ci. Elle combat aussi les gaijin qui menacent la sécurité de Rokugan et tout ce qui pourrait ternir l'héritage de la famille Moto. La célébrité de ses membres vient de leur dévouement extrême envers les dieux gaijin connus sous le nom des Seigneurs de la Mort, mais aussi au vu de leurs tactiques impitoyables."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0011"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0008"
+      },
+      {
+        "Complement": "6",
+        "Model_Tag": "CON0023"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0027"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0046"
+      }
+    ],
+    "Tag": "EAV0005",
+    "Name": "La Fierté du Lion",
+    "Description": "La Fierté du Lion compte parmi les unités militaires les plus respectées de l'Empire, sans doute parce que chacun redoute sa vaillance sur le champ de bataille et ses très nombreux faits d'armes. Seules les samurai-ko Matsu peuvent l'incorporer. Elles vivent, s'entraînent et combattent ensemble en permanence. Au champ de bataille, la Fierté du Lion tente de repérer les généraux ennemis et de les abattre ,réduisant ainsi considérablement l'efficacité du camp adverse."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Balise": "shugenja",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT2030",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0032",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0001"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0002"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0004"
+      },
+      {
+        "Complement": "AVA0048(W)",
+        "Model_Tag": "CON0031"
+      }
+    ],
+    "Tag": "EAV0006",
+    "Name": "Chevaucheur de Tempête",
+    "Description": "Les Chevaucheurs de Tempête appartiennent aux shugenja d'élite présents au cœur des armadas du Clan de la Mante. Ils consacrent leurs études à l'océan et aux kami de l'eau qui circulent autours des îles de la Mante. Maître incontestés de la mer, ils s'efforcent d'entretenir un lien permanent avec les flots. Les Chevaucheurs de Tempête constituent un précieux atout en cas de bataille navale et leur ombre plane sur tous ceux qui osent remettre en question la domination des océans qu'exerce le Clan de la Mante."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Balise": "shugenja",
+    "CompetencesRequises": [
+      {
+        "Rang": 6,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 6,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0043"
+      }
+    ],
+    "Tag": "EAV0007",
+    "Name": "Garde Élémentaire",
+    "Description": "Les Éléments qui constituent le monde sont aussi uniques et différents que les gens qui peuplent l'Empire. Bien souvent, les shugenja ressentent un lien plus étroit avec les kami d'un aspect précis de la nature. Ces prêtres rejoignent l'une des unités de la Garde Élémentaire, quatre Écoles distinctes qui s'attachent à chacun des quatre principaux éléments."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Balise": "courtisan",
+    "CompetencesRequises": [
+      {
+        "Rang": 6,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0007"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0009"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0010"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0044"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0045"
+      }
+    ],
+    "Tag": "EAV0008",
+    "Name": "Investigateur Scorpion",
+    "Description": "On appelle aussi le Clan du Scorpion le Clan des Secrets, et l'Investigateur Scorpion tente de garder la mainmise en la matière. Ces courtisans suivent une formation très rigoureuse censée leur apprendre à exploiter leurs propres faiblesses jusqu'à ce qu'elles deviennent des forces. L'Investigateur apprend à contrôler le cours d'une conversation afin que nul, y compris les meilleurs enquêteurs, ne remarque ses mensonges. Ses facultés de dissimulation de la vérité troublent bien évidemment ses adversaires."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Balise": "bushi",
+    "CompetencesRequises": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT2029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      }
+    ],
+    "Techniques": [],
+    "Conditions": [
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0003"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0006"
+      },
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0008"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0039"
+      }
+    ],
+    "Tag": "EAV0009",
+    "Name": "Guerrier d'Obsidienne",
+    "Description": "Cette école terrifiante fut créée par un bushi Damné particulièrement meurtrier, mais a depuis été enseignée à de nombreux guerriers Araignée ayant peu ou pas de Souillure, car ses méthodes basées sur la force brute et une grande volonté peuvent être employés par tous les individus assez cruels et implacables pour en maîtriser les Techniques. Selon les rumeurs, la plupart des élèves qui entrent dans les quelques dojo de cette École ne survivent pas à leur entraînement, mais ceux qui s'en sortent comptent parmi les plus formidables guerriers du Clan de l'Araignée capables de vaincre les plus puissants bushi de Rokugan."
+  }
+]

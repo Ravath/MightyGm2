@@ -1,0 +1,49 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Godot/Tools/TwoListSelectPanel.cs" type="Script" id=1]
+
+[node name="TwoListSelectPanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HB" type="HBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="FromList" type="ItemList" parent="HB"]
+margin_right = 498.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+
+[node name="VB" type="VBoxContainer" parent="HB"]
+margin_left = 502.0
+margin_right = 522.0
+margin_bottom = 600.0
+alignment = 1
+
+[node name="AddButton" type="Button" parent="HB/VB"]
+margin_top = 278.0
+margin_right = 20.0
+margin_bottom = 298.0
+text = ">"
+
+[node name="RemoveButton" type="Button" parent="HB/VB"]
+margin_top = 302.0
+margin_right = 20.0
+margin_bottom = 322.0
+text = "<"
+
+[node name="DestList" type="ItemList" parent="HB"]
+margin_left = 526.0
+margin_right = 1024.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+[connection signal="pressed" from="HB/VB/AddButton" to="." method="_on_AddButton_pressed"]
+[connection signal="pressed" from="HB/VB/RemoveButton" to="." method="_on_RemoveButton_pressed"]

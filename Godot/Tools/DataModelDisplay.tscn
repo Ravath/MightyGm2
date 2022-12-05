@@ -1,0 +1,40 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Godot/Tools/DataModelDisplay.cs" type="Script" id=1]
+[ext_resource path="res://Font/NotoSansCJKjp-Regular.otf" type="DynamicFontData" id=2]
+
+[sub_resource type="DynamicFont" id=1]
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 14
+font_data = ExtResource( 2 )
+
+[node name="Displayer" type="VBoxContainer"]
+margin_right = 200.0
+margin_bottom = 60.0
+rect_min_size = Vector2( 200, 60 )
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="NameLabel" type="Label" parent="."]
+margin_right = 200.0
+margin_bottom = 25.0
+custom_fonts/font = SubResource( 1 )
+text = "Name"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DescriptionLabel" type="Label" parent="."]
+margin_top = 29.0
+margin_right = 200.0
+margin_bottom = 60.0
+size_flags_vertical = 3
+custom_fonts/font = SubResource( 2 )
+text = "Description"
+autowrap = true

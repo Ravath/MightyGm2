@@ -1,0 +1,162 @@
+[
+  {
+    "Figurant_Tag": "CRT0001",
+    "Seuil": 20,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0001",
+    "Seuil": 40,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0002",
+    "Seuil": 12,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0002",
+    "Seuil": 24,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0002",
+    "Seuil": 36,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT0003",
+    "Seuil": 16,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0003",
+    "Seuil": 32,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0003",
+    "Seuil": 48,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT0004",
+    "Seuil": 16,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0004",
+    "Seuil": 32,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0005",
+    "Seuil": 12,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0006",
+    "Seuil": 18,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0007",
+    "Seuil": 5,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0008",
+    "Seuil": 12,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT0008",
+    "Seuil": 24,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT0008",
+    "Seuil": 36,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT0009",
+    "Seuil": 18,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1002",
+    "Seuil": 12,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1002",
+    "Seuil": 24,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1003",
+    "Seuil": 9,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1005",
+    "Seuil": 12,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1005",
+    "Seuil": 24,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1005",
+    "Seuil": 36,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT1006",
+    "Seuil": 20,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1006",
+    "Seuil": 40,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1006",
+    "Seuil": 60,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT1007",
+    "Seuil": 32,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1007",
+    "Seuil": 64,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1007",
+    "Seuil": 96,
+    "Malus": 15
+  },
+  {
+    "Figurant_Tag": "CRT1009",
+    "Seuil": 16,
+    "Malus": 5
+  },
+  {
+    "Figurant_Tag": "CRT1009",
+    "Seuil": 32,
+    "Malus": 10
+  },
+  {
+    "Figurant_Tag": "CRT1009",
+    "Seuil": 48,
+    "Malus": 15
+  }
+]

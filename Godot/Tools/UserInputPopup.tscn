@@ -1,0 +1,72 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Godot/Tools/UserInputPopup.cs" type="Script" id=1]
+
+[node name="UserInputPopup" type="ConfirmationDialog"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = -524.0
+margin_bottom = -398.0
+window_title = "Veuillez renseigner le champ…"
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 8.0
+margin_top = 8.0
+margin_right = -8.0
+margin_bottom = -36.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 20
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 50
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+margin_left = 20.0
+margin_top = 20.0
+margin_right = 464.0
+margin_bottom = 112.0
+
+[node name="MessageLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+margin_right = 444.0
+margin_bottom = 44.0
+rect_min_size = Vector2( 0, 20 )
+size_flags_vertical = 3
+text = "Here you can leave a message to the user"
+align = 1
+valign = 1
+autowrap = true
+clip_text = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ErrorLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+margin_top = 48.0
+margin_right = 444.0
+margin_bottom = 88.0
+rect_min_size = Vector2( 0, 40 )
+size_flags_vertical = 1
+custom_colors/font_color = Color( 1, 0, 0, 1 )
+text = "here you can display an error message"
+align = 1
+valign = 2
+autowrap = true
+clip_text = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="InputTextEdit" type="LineEdit" parent="MarginContainer/VBoxContainer"]
+margin_top = 92.0
+margin_right = 444.0
+margin_bottom = 116.0
+[connection signal="confirmed" from="." to="." method="_on_UserInputPopup_confirmed"]
+[connection signal="text_changed" from="MarginContainer/VBoxContainer/InputTextEdit" to="." method="_on_InputTextEdit_text_changed"]

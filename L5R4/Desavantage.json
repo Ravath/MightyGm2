@@ -1,0 +1,902 @@
+[
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0002",
+    "Name": "Amour sincère",
+    "Description": "L'amour véritable peut à Rokugan s'avérer merveilleux, mais il se traduit le plus souvent par un drame, car peu de samurai reçoivent l'autorisation de se marier par amour. Chaque fois que vous êtes en situation de devoir choisir entre l'amour et le devoir, vous devez dépenser un Point de Vide avant d'opter pour le devoir au détriment de l'être aimé."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0003",
+    "Name": "Amputé",
+    "Description": "L'un de vos membres manque, que ce soit le résultat d'une grave blessure ou d'une malformation de naissance. Vous subissez un malus de +10 à tous les ND des jets censés faire intervenir le membre manquant. Manier une arme à deux mains d'un seul bras voit donc tous les ND augmenter de +10, mais ce même personnage ne subit aucun malus aux Jets d'Athlétisme(Course)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0004",
+    "Name": "Ascète",
+    "Description": "Vous n'avez ni goût ni intérêt pour les choses matérielles, attitude minimaliste qui influence la perception d'autrui à votre égard. Votre Équipement d'École ne comprend que les armes, l'armure, les vêtements et les instruments nécessaires à votre profession (comme un étui à parchemin pour un shugenja). Chaque fois que vous pouvez recevoir un gain de Statut pour récompenser vos actes, vous ne gagnez en fait que la moitié de ce qui est prévu. Dans ce cadre, un Moine doté de ce Désavantage ne reçoit que le quart de ce que perçoit un personnage normal. Ce Désavantage donne 3 points pour les personnages du Clan du Dragon et les moines."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 2,
+    "Tag": "DAV0005",
+    "Name": "Asocial",
+    "Description": "La présence d'autrui vous dérange à tel point que ceux qui vous entourent s'en rendent aussitôt compte. Ce penchant solitaire explique votre comportement que l'on pourrait poliment qualifier de grossier. Si vous prenez la version à 2 points de ce Désavantage, vous subissez un malus de -1g0 à tous les Jets de Compétence Sociale. Le malus passe à -1g1 pour la version à 4 points. Ce Désavantage donne 1 point supplémentaire pour les personnages du Clan du Crabe."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0006",
+    "Name": "Aspect dérangeant",
+    "Description": "Quelque chose dans votre aspect pousse les autres à se montrer prudents, voire méfiants. Vous n'êtes pas forcément repoussant, mais quelque chose chez vous dérange. Le ND de tous vos Jets de Compétence Sociale augmente de +5. Ce désavantage donne 4 points aux personnages du Clan de l'Araignée."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0007",
+    "Name": "Aveugle",
+    "Description": "Vous êtes privé du sens de la vue, si ce n'est une vague aptitude à distinguer l'obscurité de la lumière. Vous subissez un malus de -3g3 à tous les jets d'attaques à distance et de -1g1 aux jets d'attaque au corps à corps. Votre Anneau d'Eau est considéré comme inférieur de deux Rangs à la réalité pour déterminer ce que vous pouvez parcourir dans le cadre d'une Action de Mouvement. Vous ne pouvez pas effectuer de Jet de Perception, à moins que votre MJ estime que d'autres sens vous donnent droit à un jet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0008",
+    "Name": "Blessure permanente",
+    "Description": "Certaines blessures ne veulent pas se refermer, quels que soient les soins employés. Votre premier Rang de Blessure est toujours considéré comme plein. Ce Désavantage donne 5 points aux personnages bushi."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0009",
+    "Name": "Brebis galeuse",
+    "Description": "Pour une raison ou une autre, votre famille vous méprise ainsi que vos actes. Vous ne vous en retrouvez pas ronin pour autant, mais on refuse de vous accueillir dans votre propre maison. Vous ne pouvez entretenir de bonnes relations avec un membre de votre famille que par le biais de l'Avantage Relations et, si vous êtes élève de l'une des Écoles de votre Famille, vous ne pouvez espérer améliorer votre Rang de Maîtrise sans vous démener pour trouver un professeur qui consent à vous enseigner."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0010",
+    "Name": "Cancanier",
+    "Description": "Vous ne pouvez résister à la tentation de répandre les rumeurs et d'alimenter les commérages, aussi ridicules et étranges soit-ils. Dès qu'une occasion se présente de propager une rumeur, vous devez pour résister à l'envie de le faire réussir un jet de Volonté assorti d'un ND égal à 5 fois le rang de Gloire le plus haut des personnages impliqués dans l'affaire. Ce désavantage donne 5 points aux personnages courtisans."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0011",
+    "Name": "Caresse du vide",
+    "Description": "Vous avez été touché par l'essence du Vide, ce qui a endommagé votre esprit à tout jamais. Chaque fois que vous puisez dans le Vide, les effets sont puissants au point de pouvoir vous accabler. Lorsque vous dépensez un Point de Vide pour améliorer un jet, vous bénéficiez de +2g1 au lieu de +1g1. En revanche, vous devez également réussir un Jet de Volonté (ND 30) sous peine d'être Hébété pendant un Round. Ce désavantage donne 4 points aux personnages du Clan du Phénix."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0012",
+    "Name": "Chagrin d'amour",
+    "Description": "Vous avez connu l'amour véritable et partagé, mais il s'est depuis envolé. Ce n'était pas forcément une romance, car l'amour familial ou fraternel s'avère tout aussi tragique quand on le perd. Vous sombrez de temps à autre dans la mélancolie lorsque quelque chose vous rappelle cet amour. Quand cela survient, tous vos ND augmentent de 5 jusqu'à ce que vous dépensiez un Point de Vide pour retrouver vos esprits. Cette interruption de votre concentration ne peut intervenir plus de deux fois par jour, et jamais plus d'une fois dans la même heure."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0013",
+    "Name": "Cœur tendre",
+    "Description": "La vie humaine vous est précieuse, à tel point que vous avez du mal à accomplir le devoir de base de la caste des samurai\u00A0: tuer. Lorsque vous avez l'occasion de tuer un être humain, vous devez réussir un Jet de Volonté (ND 20) sans quoi vous ne pourrez vous y résoudre. Si vous tuez quelqu'un, le ND de tous vos jets augmente de +10 pour un jour, tandis que vous vous retrouvez rongé par le remord. Ce malus ne se cumul pas en cas de meurtres multiples. Ce désavantage pourrait également s'appliquer pour la mort de créatures non-humaines, voire de monstres de l'Outremonde, mais il faudrait alors en augmenter la valeur un Points d'Expérience. Ce Désavantage donne 3 points aux personnages du Clan du Phénix."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 2,
+    "Tag": "DAV0014",
+    "Name": "Compulsif",
+    "Description": "Il existe une activité à laquelle vous ne pouvez résister de vous adonner. Le rituel s'ancre à ce point dans vos habitudes qu'y renoncer vous demande un terrible effort de volonté, même quand la situation est désespérée. Il peut s'agir d'un acte illicite ou provoquant une dépendance, comme boire du saké ou jouer de l'agent, ou quelque chose d'aussi inoffensif que de s'arrêter dans chaque grand temple à côté duquel vous passez. Le Désavantage vous demande de réussir un Jet de Volonté (ND 15 pour la version à 2 points\u00A0; 20 pour celle à 3 points\u00A0; 25 pour 4 points) pour surmonter la contrainte."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0015",
+    "Name": "Contrariant",
+    "Description": "Votre force de volonté et votre perception rigide du monde vous poussent non seulement à vous faire une opinion sur tout, mais aussi à la partager à la moindre occasion. Quels que soient la polémique, le débat ou la simple discussion, vous vous sentez obligé d'intervenir pour convaincre les autres d'adopter votre point de vue. Quand la situation devient tendue, vous devez réussir un Jet de Volonté pour éviter d'agir, que ce soit en résolvant un conflit physiquement ou en intervenant dans une discussion. Le ND du jet peut être très variable et reste du ressort du MJ (généralement entre 5 et 25). Ce désavantage donne 4 points aux personnages Impériaux et les courtisans."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0017",
+    "Name": "Crédule",
+    "Description": "Vous faites facilement confiance, surtout quand les gens vous en paraissent dignes, ce qui facilite grandement la tâche de ceux qui cherchent à profiter de votre naïveté. Les adversaires qui recourent à Sincérité(Tromperie) contre vous reçoivent un bonus de +1g1 au total de leur jet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0018",
+    "Name": "Cupide",
+    "Description": "La richesse matérielle vous importe plus que tout le reste, alors même que les samurai devraient ne pas se salir les mains dans les affaires. Les adversaires qui recourent à Tentation(Corruption) contre vous reçoivent un bonus de +1g1 au total de leur jet. Ce désavantage donne 4 points aux personnages du Clan de la Mante."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0019",
+    "Name": "Désavantage social",
+    "Description": "Vous avez connu un glissement au sein de l'Ordre Céleste, ce que reflète votre place dans la société. Vous commencez avec un Rang de Statut 0."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 2,
+    "RangMax": 10,
+    "Tag": "DAV0020",
+    "Name": "Déséquilibre élémentaire",
+    "Description": "Les kami d'un élément vous apprécient particulièrement, à tel point que leurs voix se font parfois plus forte que votre volonté et que vos incantations se traduisent par des résultats s'écartant de vos attentes. Seul un shugenja peut prendre ce Désavantage. Choisissez un élément pour lequel vous n'avez pas de déficience. Chaque fois que vous lancez un sort de cet élément, vous devez réussir un Jet de Volonté assorti d'un ND égal à 15+5 par rang de ce Désavantage. En cas d'échec, il s'ensuit un événement fâcheux. Le Sort peut tout simplement échouer ou prendre une cible différente de celle de vos intentions, ou autre effets déterminés par le MJ."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "DAV0021",
+    "Name": "Déshonoré",
+    "Description": "Vous avez subi une telle disgrâce que votre nom a été retiré des registres familiaux et que la plupart de vos parents vous considèrent comme mort. Malgré tout, le Clan vous laisse l'occasion de laver ce déshonneur en mourant au combat. Cette tradition, que l'on doit au Clan du Lion, s'appelle la tradition des Quêteurs de Mort. Vous disposez d'1 Rang de Statut et ne pouvez acquérir de Statut tant que vous avez ce Désavantage."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0022",
+    "Name": "Douillet",
+    "Description": "Votre aptitude à rester concentré dans la douleur physique se situe en-dessous de la moyenne. Votre malus aux ND que vous subissez selon les Rangs de Blessures augmentent de +5 pour chaque Rang."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0023",
+    "Name": "Ennemi juré",
+    "Description": "Vous vous êtes fait un ennemi qui ne reculera devant rien pour provoquer votre perte, voir votre mort. La version de base de cet Avantage part du principe que votre ennemi se situe à un Rang de Réputation équivalent au vôtre. Pour chaque Rang de Réputation de l'ennemi au-dessus du vôtre, augmentez la valeur de ce Désavantage de 1. Pour 2 points de plus, votre Némésis karmique et vous ne pouvez pas dépenser de Points de Vide quand vous l'affrontez, d'une manière ou d'une autre."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0024",
+    "Name": "Épilepsie",
+    "Description": "Vous êtes affligé d'une maladie rare et mal comprise qui provoque chez vous des crises épisodiques dans lesquelles vous paraissez en transe, agité de convulsions et écumant de bave. Ces crises arrivent à cause d'un grand stress ou d'une lumière intense, comme un feu d'artifice. Quand de telles circonstances se présentent, vous devez réussir un Jet de Volonté (ND 15) pour éviter la crise. En cas d'échec, vous subissez une crise et avez droit à un nouveau Jet de Volonté (ND 10) par minute pour y mettre fin. Ce Désavantage donne 5 points aux personnages du Clan de la Grue."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0025",
+    "Name": "Estropié",
+    "Description": "L'une de vos jambes est atrophiée ou presque invalide, soit de naissance, soit des suites d'une blessure ou d'une maladie. Votre Anneau d'Eau est considéré comme égal à 1 pour vos Actions de Mouvement et tous les Jets d'Agilité ou de Compétences liées à l'Agilité faisant intervenir vos membres inférieurs subissent un malus de +10 au ND."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0026",
+    "Name": "Faible",
+    "Description": "Vous présentez une faiblesse physique ou mentale qui n'a rien d'anodin. Elle est difficile à surmonter, même dans les meilleures conditions. Choisissez un Trait. Ce Trait est considéré comme d'1 Rang inférieur à la réalité pour les jets associés."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0027",
+    "Name": "Faiblesse de caractère",
+    "Description": "Vous avez du mal à vous concentrer, même lorsque vous avez directement affaire à un adversaire. Chaque fois que vous effectuez un Jet d'Opposition recourant à la Volonté, votre adversaire reçoit un bonus de +2g0."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 1,
+    "RangMax": 0,
+    "Tag": "DAV0028",
+    "Name": "Fascination",
+    "Description": "Complètement fasciné par un domaine donné, vous vous sentez prêt à vous démener pour mieux le connaître par l'expérience ou l'érudition. Parmi les sujets qui fascinent les samurai, on compte la musique, les chevaux, la poésie et l'histoire. Cette fascination peut influencer votre jugement et vous pousser à entreprendre des actions déshonorantes, ce qui peut entraîner votre disgrâce si vous manquez de discrétion."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0029",
+    "Name": "Fragile",
+    "Description": "Vous souffrez d'une fragilité chronique qui vous affaiblit et  vous vulnérabilise aux maladies et aux blessures. Votre Anneau de Terre est considéré comme d'un Rang inférieur à la réalité dans le cadre de la détermination de vos Rangs de Blessures et de la résistance aux maladies."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 10,
+    "Tag": "DAV0030",
+    "Name": "Harcèlement",
+    "Description": "Quelqu'un a connaissance d'un sombre secret vous concernant ou d'une terrible indiscrétion que vous avez commise dans un moment de faiblesse. Le pire, c'est qu'il compte vous le faire payer. Le nombre de points rapportés par ce Désavantage est égal à votre Rang de Statut. La personne qui vous fait chanter vous contactera de temps à autres pour vous présenter des exigences. A vous d'estimer si la sauvegarde de votre secret mérite d'accomplir les tâches demandées."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 3,
+    "Tag": "DAV0031",
+    "Name": "Honni",
+    "Description": "Vous avez été accusé d'impiété par un ordre de moines (qui dénonce peut-être même toute votre famille), ce qui suffit généralement à couvrir de honte tout samurai, même le moins religieux. Pour un point, ce Désavantage s'accompagne de la désapprobation d'un seul temple, pour trois points, c'est une cellule importante de la Confrérie de Shinsei qui vous honnit. Les moines correspondants vous perçoivent comme si votre Rang de Gloire était de l'Infamie (Cf Désavantage Infâme)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0032",
+    "Name": "Idéaliste",
+    "Description": "Vous adhérez scrupuleusement au Code du Bushido, peut-être trop, et vous nourrissez une perception désespérément naïve du monde et de son fonctionnement. Vos exigences avec vous-même sont telles que même les plus grands héros ne pourraient espérer les honorer. Chaque fois que vous perdez de l'Honneur, la perte s'accroît d'un point. Ce Désavantage donne 3 points aux personnages du Clan du Lion."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0033",
+    "Name": "Impétueux",
+    "Description": "Vous êtes notoirement colérique et prompt à répondre par l'acier à tout ce que vous percevez comme une menace. Si vous êtes menacé ou insulté, vous devez réussir un Jet de Volonté (en ajoutant votre rang d'Honneur au total) assorti d'un ND de 25 sous peine de devoir aussitôt répondre par une attaque. Ce Désavantage donne 4 points aux personnages du Clan du Dragon."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0034",
+    "Name": "Incapable de mentir",
+    "Description": "Vous êtes psychologiquement incapable de dire le moindre mensonge, peut-être le résultat d'une éducation honorable inculquée par votre famille. Non seulement vous ne pouvez pas mentir, mais si quelqu'un dit un mensonge en votre présence et que vous en avez conscience, vous devez réussir un Jet de Volonté (ND 20) sous peine de devoir aussitôt corriger ses dires. Cela peut engendre des situations très problématiques à la cour, voire vous plonger dans la disgrâce si vous ne vous méfiez pas."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0035",
+    "Name": "Incroyant",
+    "Description": "Vous avez eu une révélation dramatique qui a réduit à néant votre foi en la théologie rokugani. Vous estimez peut-être que les Fortunes se moquent de l'humanité ou que le tao de Shinsei ne renferme que des promesses vides. Si votre manque de foi était dévoilé, tous les gens un tant soit peu pieux vous éviteraient et vous seriez révoqué de tout ordre monastique et de tout temple auquel vous êtes affilié. Votre manque de piété ne  facilite pas vos relations avec les shugenja et les moines, avec lesquels vous voyez le ND de tous les Jets de Compétence Sociale augmenter de +5."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0037",
+    "Name": "Infâme",
+    "Description": "Vous êtes bien connu dans certains cercles, mais pas de la manière dont vous le souhaiteriez. Au lieu d'être célèbre pour votre valeur ou votre courage, on vous connaît pour votre cruauté et le danger que vous représentez. Cette réputation n'a peut-être rien de méritée, mais suffisamment répandue pour que la vérité importe peu. Votre Rang de Gloire de départ est remplacé par un Rang d'Infamie, qui remplit exactement le même rôle, si ce n'est pour la réaction de ceux qui vous reconnaissent."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0038",
+    "Name": "Jaloux",
+    "Description": "Vous êtes obsédé par le fait d'être meilleur qu'une personne donnée pour prouver que vous méritez tout ce qui lui appartient, que vous considérez comme supérieur à ce dont vous disposez. Choisissez un autre PJ ou un PNJ important de la campagne. Il vous faut absolument surpasser cet individu. Une fois que vous vous serez montré meilleur que la cible de votre jalousie, votre nature profonde vous poussera à envie quelqu'un d'autre."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0039",
+    "Name": "Joli cœur",
+    "Description": "Le plaisir charnel constitue l'une de vos faiblesses, et vous y consacrez beaucoup de votre temps. Quand un adversaire effectue un Jet de Tentation(Séduction) contre vous, il reçoit un bonus de +1g1 au total du jet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 10,
+    "Tag": "DAV0040",
+    "Name": "Lien de dépendance",
+    "Description": "Une personne incapable de se défendre compte sur vous pour sa protection. Il peut s'agir d'un parent âgé, d'une épouse ingénue ou d'un enfant. La valeur de ce Désavantage varie selon la vulnérabilité de l'individu et sa récurrence dans la campagne. Un enfant dépendant de vous en toute chose peut valoir 5 ou 6 points, tandis qu'une épouse relativement autonome mais que vous devez prendre en compte pour toutes les décisions importantes pourrait compter pour 2 ou 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 2,
+    "RangMax": 10,
+    "Tag": "DAV0041",
+    "Name": "Malchanceux",
+    "Description": "La Fortune sourit à l'homme mortel… mais pas à vous. Autant de fois par séance que votre rang dans ce Désavantage, le MJ peut vous obliger à rejouer un jet sur-le-champ (et forcément garder le résultat du second jet)."
+  },
+  {
+    "Groupe_Tag": "GAV0010",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0042",
+    "Name": "Malédiction de Sire Lune (3pts)",
+    "Description": "Volonté ND 20"
+  },
+  {
+    "Groupe_Tag": "GAV0010",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "DAV0043",
+    "Name": "Malédiction de Sire Lune (5pts)",
+    "Description": "Volonté ND 25"
+  },
+  {
+    "Groupe_Tag": "GAV0010",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "DAV0044",
+    "Name": "Malédiction de Sire Lune (7pts)",
+    "Description": "Volonté ND 30"
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0045",
+    "Name": "Malédiction des 7 fortunes (Benten)",
+    "Description": "La Fortune de l'Amour Romantique vous délaisse complètement, au point que l'on apprécie guère votre compagnie. Le ND de tous vos jets d'Étiquette augmente de +10."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0046",
+    "Name": "Malédiction des 7 fortunes (Bishamon)",
+    "Description": "La Fortune de la Force trouve que vous insultez son essence divine et vous refuse l'accès à son domaine. Votre Force est considérée d'un Rang inférieure à la réalité pour déterminer les jets de dommages des armes avec lesquelles vous attaquez."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0047",
+    "Name": "Malédiction des 7 fortunes (Daikoku)",
+    "Description": "La Fortune de la Richesse ne vous apprécie guère et toutes vos activités mercantiles en souffrent. Vous subissez un malus de -1g1 aux jets de Commerce et l'Équipement de départ de votre École ne compte qu'un Koku."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0048",
+    "Name": "Malédiction des 7 fortunes (Ebisu)",
+    "Description": "La Fortune du Travail Honnête vous trouve indigne de confiance et une aura de suspicion vous accompagne. Vous subissez un malus de -1g1 aux Jets de Compétence Sociale faisant intervenir des rokugani autres que samurai."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0050",
+    "Name": "Malédiction des 7 fortunes (Hotei)",
+    "Description": "La Fortune du Bonheur vous ignore et fait de vous un misérable. Tout Avantage ou Technique  dont l'activation demande normalement de dépenser un point de Vide exige 2 points dans votre cas."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0051",
+    "Name": "Malédiction des 7 fortunes (Jurojin)",
+    "Description": "La Fortune de la Longévité vous tourne le dos. Vous subissez un malus de -2g0 pour résister aux poisons et aux maladies."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0052",
+    "Name": "Maudit par le royaume (Chikushudo)",
+    "Description": "Vous subissez un malus de -1g1 à tous les jets d'élevage."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0053",
+    "Name": "Maudit par le royaume (Gaki-Do)",
+    "Description": "Tous les gaki et les morts affamés, avides de votre essence vitale, vous attaquent en priorité, quoi qu'il leur en coûte."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0054",
+    "Name": "Maudit par le royaume (Jigoku)",
+    "Description": "Le Royaume du Mal traque votre âme. Tout jet que vous faites pour résister à la Souillure de l'Outremonde subit un malus de -1g1."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0055",
+    "Name": "Maudit par le royaume (Maigo no Musha)",
+    "Description": "Votre existence contrarie la destinée. Tout jet que vous faites contre un esprit d'un genre ou d'un autre subit un malus de -1g1."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0056",
+    "Name": "Maudit par le royaume (Meido)",
+    "Description": "Votre âme est en proie à l'ennui du Royaume de l'Attente. Lorsque vous ne vous trouvez pas en pleine activité physique ou sociale, vous avez tendance à sombrer dans un état de transe qui impose un malus de -1g0 à tous vos jets liés à la Perception."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0057",
+    "Name": "Maudit par le royaume (Sakkaku)",
+    "Description": "Les esprits malicieux vous harcèlent\u00A0; vous êtes victime au moins une fois par mois de quelque farce aussi cruelle que sophistiquée."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0058",
+    "Name": "Maudit par le royaume (Tengoku)",
+    "Description": "Les Cieux vous considèrent comme impur. Chaque fois que vous vous retrouvez dans un temple voué aux cieux (toute Fortune, les Kami, les Dragons Elémentaires, le Soleil et le Lune), le ND de tous vos jets augmente de +10."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0059",
+    "Name": "Maudit par le royaume (Toshigoku)",
+    "Description": "La simple vue d'un adversaire blessé provoque chez vous une frénésie sanguinaire\u00A0; vous devez alors réussir un Jet de Volonté (ND15) sous peine de devoir attaque aussitôt l'adversaire."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0060",
+    "Name": "Maudit par le royaume (Yomi)",
+    "Description": "Vous ne pouvez pas disposer d'Avantage ou de faculté qui fait directement référence à un lien ancestral (Héritage, par exemple)."
+  },
+  {
+    "Groupe_Tag": "GAV0012",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0061",
+    "Name": "Maudit par le royaume (Yume-Do)",
+    "Description": "Vos nuits sont accablées de terribles cauchemars, ce qui ne facilite pas votre sommeil. Il vous faut 10 heures de sommeil (au lieu de 8) pour récupérer des Points de Vide."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0062",
+    "Name": "Mauvaise fortune (Allergie)",
+    "Description": "Une substance courante avec laquelle on entre facilement en contact, comme la soie, le coton ou les sushi, vous incommode. Sa présence provoque chez vous de terribles rougeurs qui n'améliore en rien l'attitude des gens à votre égard."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0063",
+    "Name": "Mauvaise fortune (Amour secret)",
+    "Description": "Quelque part, quelqu'un est éperdument amoureux de vous et fera tout pour contrecarrer vos romances, y compris les mariages arrangés, pour s'assurer que vous restiez disponible."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0064",
+    "Name": "Mauvaise fortune (Coup du sort)",
+    "Description": "Vous allez rater un jet de dés très important, ce qui aura des conséquences désastreuses\u00A0; c'est écrit. Ce sera au MJ de décider à quel moment cela interviendra, sachant que rien ne permettra de l'éviter."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0065",
+    "Name": "Mauvaise fortune (Défiguration)",
+    "Description": "Vous présentez une marque de naissance, qui apparaît sur une partie visible de votre personne. Les gens la perçoivent comme un signe évident de mauvaise fortune (ce qui est bien le cas) et préfèrent vous éviter."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0066",
+    "Name": "Mauvaise fortune (Ennemi mystérieux)",
+    "Description": "Un membre d'un autre Clan vous hait et souhaite votre mort. Vous ne savez pas de qui il s'agit ni pourquoi il vous maudit, mais vous l'apprendrez bien assez tôt."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0067",
+    "Name": "Mauvaise fortune (Malédiction de Moto)",
+    "Description": "Vous montrez une faiblesse spirituelle qui vous rend particulièrement sensible à la Souillure de l'Outremonde. Vous subissez un malus de -1g0 à tout jet visant à résister à l'acquisition de la Souillure. Seuls des membres du Clan de la Licorne peuvent prendre ce Désavantage, pour lequel ils reçoivent 4 points."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0068",
+    "Name": "Mauvaise fortune (Malédiction de Yogo)",
+    "Description": "Vous êtes voué à trahir l'être que vous aimez le plus, à l'instar du premier Yogo, maudit par Fu Leng en personne. Normalement, seuls des membres du Clan du Scorpion peuvent prendre ce Désavantage, pour lequel ils reçoivent 4 points. Le MJ peut s'il le souhaite autoriser des personnages autres que de la lignée Yogo à prendre cette malédiction."
+  },
+  {
+    "Groupe_Tag": "GAV0013",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0069",
+    "Name": "Mauvaise fortune (Mauvais Œil)",
+    "Description": "L'un de vos yeux est décoloré. Les gens évitent de vous regarder dans les yeux, certains allant jusqu'à penser que votre seule présence appelle les mauvais esprits."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0070",
+    "Name": "Mauvaise vue",
+    "Description": "Votre vision est particulièrement mauvaise, résultat d'un problème médical, voire d'un œil manquant. Vous subissez une malus de -1g1 à tous les jets d'attaque à distance et aux jets liés à Perception."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 8,
+    "RangMax": 0,
+    "Tag": "DAV0071",
+    "Name": "Momoku",
+    "Description": "Votre âme est soumise à un déséquilibre spirituel profond que personne ne peut expliquer ou corriger, mais qui a une grave influence sur votre place dans l'univers au point que l'harmonie vous reste inconnue. Vous disposez de Points de Vide, mais ne pouvez les dépenser pour autre chose que les Techniques d'École qui en demandent spécifiquement. Les utilisations de base des Points de Vide que détaille le Livre de la Terre vous restent inaccessibles."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 0,
+    "Tag": "DAV0072",
+    "Name": "Nom gaijin",
+    "Description": "Que ce soit en raison de votre lignée ou de la fascination de vos parents pour une autre culture, votre nom n'est manifestement pas d'origine rokugani. Bien que cela ne se traduise pas par une parte d'honneur, les gens vous considèrent avec circonspection. Vos dés ne peuvent servir qu'une fois par Jet de Compétence Sociale (ce qui veut dire que chaque dé ne peut obtenir au maximum qu'un résultat de 20). Ce Désavantage vaut 2 points pour les personnages du Clan de la Licorne."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0073",
+    "Name": "Obligation mineure",
+    "Description": "Vous êtes redevable à quelqu'un ou vous devez rendre un service important. La nature de votre dette peut être de bien des genres, mais rien d'autre ne compte quand vous devez vous en acquitter. Vous devez l'honorer, même si cela doit causer votre perte. Le premier rang de ce Désavantage correspond à une tâche relativement mineure mais qui n'en demande pas moins toute votre attention."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0074",
+    "Name": "Obligation majeure",
+    "Description": "Vous êtes redevable à quelqu'un ou vous devez rendre un service important. La nature de votre dette peut être de bien des genres, mais rien d'autre ne compte quand vous devez vous en acquitter. Vous devez l'honorer, même si cela doit causer votre perte. Le second rang de ce Désavantage correspond à une obligation beaucoup plus importante qui pourrait nuire à la réputation de votre famille si vous ne consacrez pas le temps et les ressources nécessaires pour la respecter."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0075",
+    "Name": "Obnubilé",
+    "Description": "Vous êtes obsédé par un but et sacrifierez presque tout pour l'atteindre, même votre honneur. La famille, les amis, les biens matériels et le Bushido ne représentent rien par rapport à l'accomplissement de cet objectif, quel qu'il soit."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0076",
+    "Name": "Obtus",
+    "Description": "Bien des subtilités vous échappent. La poésie, l'art, la musique… tout cela n'a aucun sens pour vous. Le coût en Expérience pour améliorer toute compétence Noble autre qu'Enquête ou médecine est doublé. Ce Désavantage donne 4 points pour les personnages du Clan du Crabe et les bushi."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0077",
+    "Name": "Otage",
+    "Description": "Dans le cadre de la résolution d'un différent entre Clans, il arrive souvent que des otages soient échangés en tant qu'\u00A0«\u00A0invités\u00A0» respectifs pour un temps donné. C'est le meilleur moyen de s'assurer le respect de l'accord. Même si l'on vous traite respectueusement comme un hôte sur les terres d'un autre Clan, vous ne pouvez partir sans escorte et vous savez que votre vie serait condamnée si une guerre se déclarait entre votre Clan et celui qui vous accueille."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0079",
+    "Name": "Oublié du Bushido (Courage)",
+    "Description": "Lorsque vous affrontez un adversaire dont le Statut ou la Gloire vous surpasse, ou lorsqu'il s'agit  d'une créature de l'Outremonde, le ND de tous vos jets augmente de +5."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0080",
+    "Name": "Oublié du Bushido (Courtoisie)",
+    "Description": "Chaque fois que vous effectuez un Jet de Compétence Sociale pour vous excuser ou éviter de provoquer un affront, vous devez déclarer une Augmentation supplémentaire sans effet additionnel, sans quoi le jet échoue automatiquement."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0081",
+    "Name": "Oublié du Bushido (Devoir)",
+    "Description": "Vous ne pouvez pas dépenser de points de Vide pour annuler des blessures."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0082",
+    "Name": "Oublié du Bushido (Honnêteté)",
+    "Description": "Vous ne pouvez pas dépenser de points de Vide pour les Jets de Sincérité auxquels la spécialisation Honnêteté pourrait s'appliquer (que vous ayez ou non la spécialisation)."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0083",
+    "Name": "Oublié du Bushido (Honneur)",
+    "Description": "Vous ne pouvez pas ajouter votre Rang d'Honneur à un jet visant à résister à Intimidation ou Tentation."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0084",
+    "Name": "Oublié du Bushido (Sincérité)",
+    "Description": "Chaque fois que vous recourez à Sincérité pour convaincre quelqu'un de vos dires, vous devez déclarer une Augmentation supplémentaire sans effet additionnel, sans quoi le jet échoue automatiquement."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0085",
+    "Name": "Petit",
+    "Description": "Vous êtes bien plus petit que la moyenne des habitants de l'Empire d'Émeraude. Votre Anneau d'Eau est considéré comme d'1 Rang inférieur à la réalité pour déterminer la distance parcourue par vos Actions de Mouvement et vous subissez un malus de -1g0 aux jets de dommages de toutes vos attaques de corps à corps. Vous ne pouvez pas prendre l'Avantage Grand."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0086",
+    "Name": "Peu assuré",
+    "Description": "Quelque chose vous fait remettre votre formation en question, à tel point que vous avez parfois du mal à exécuter certaines actions. Choisissez l'une de vos Compétences d'École. Chaque fois que vous recourez à cette Compétence, vous devez déclarer une Augmentation qui ne confère aucun effet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 1,
+    "RangMax": 3,
+    "Tag": "DAV0087",
+    "Name": "Phobie",
+    "Description": "Vous avez une peur irrationnelle que vous ne pouvez surmonter, malgré tous vos efforts pour vous convaincre qu'il n'y a aucune raison de s'affoler. Lorsque vous vous retrouvez face à l'objet de votre phobie, tous vos ND augmentent de +5 par point du Désavantage."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0088",
+    "Name": "Possédé",
+    "Description": "L'un de vos ancêtres a choisi de se pencher sur votre cas et vous offre sans cesse ses conseils, sans oublier d'énoncer ses exigences. Il se peut qu'il souhaite juste vous voir incarner les idéaux de votre Clan et de votre famille, mais il peut tout aussi bien vouloir que vous acheviez une tâche ou un devoir à sa place. Vous devez montrer à cet ancêtre toute la déférence et le respect qui lui sont dus et faire de votre mieux pour répondre à ses attentes. Si vous échouez dans cette entreprise, sa désapprobation entraînera votre mauvaise fortune\u00A0: tant que vous contrariez votre ancêtre, l'un de vos jets de dés (choisi par le MJ) subira un malus de -1g1 à chaque séance."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0089",
+    "Name": "Présomptueux",
+    "Description": "Votre perception de vos faits et gestes est extrêmement flatteuse et vous vous montrez souvent incapable de reconnaître les situations que vous vous révélez incapable de gérer seul. Lorsque vous vous retrouvez seul face à un ennemi manifestement supérieur en nombre ou en puissance (que ce soit à la cour ou sur le champ de bataille), vous devez réussir un Jet de Perception (ND 20) pour vous en rendre compte et ne pas foncer tête baissée. Ce Désavantage donne 4 points aux personnages du Clan du Lion ou de la Mante."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0090",
+    "Name": "Retraite forcée",
+    "Description": "On vous a forcé à vous retirer avant l'âge dans un monastère, peut être pour des raisons politiques ou à cause d'une disgrâce publique. Vous ne pouvez pas progresser davantage dans votre École. Lorsque vous acquérez un nouveau Rang de Réputation, vous devez (au lieu de le prendre) le convertir en Rang dans une École de Moine non-alignée (cf Livre de l'Eau). Vous n'avez pas besoin d'acheter l'Avantage Écoles Multiples pour prendre ce Désavantage. Vous n'êtes plus considéré comme un membre de votre Clan. Ce personnage vaut 5 points pour les personnages moines."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0091",
+    "Name": "Rongé par le Shourido (Compréhension)",
+    "Description": "Vous cherchez un sens profond en chaque chose, y compris les plus triviales, ce qui vous prive d'une activité normale. Choisissez l'une de vos compétences d'École. Chaque fois que vous recourez à cette Compétence, vous devez réussir un jet de Volonté (ND20) sous peine de vous perdre dans vos pensées en cherchant à extraire l'essence de cette compétence. On peut vous extraire de cette rêverie par la douleur, une secousse, un bruit intense, etc."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0092",
+    "Name": "Rongé par le Shourido (Contrôle)",
+    "Description": "Vous êtes déterminé à contrôler et dominer autrui, quel qu'en soit le prix, et êtes incapable d'admettre que vous avez tort ou que vous avez commis une erreur. Vous subissez un malus de -1g1 à tous les Jets d'Étiquette et de Sincérité."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "DAV0093",
+    "Name": "Rongé par le Shourido (Détermination)",
+    "Description": "Vous êtes convaincu de pouvoir tout faire seul, sans aucune aide ou assistance extérieure, voire puiser dans votre force intérieure. Vous ne pouvez pas dépenser de Points de Vide pour améliorer le résultat d'un jet de dés. La dépense de Points de Vide vous reste possible pour d'autres buts ou amélioration."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "DAV0094",
+    "Name": "Rongé par le Shourido (Force)",
+    "Description": "La force physique brute reste le seul moyen de vaincre l'adversaire. La finesse et la négociation appartiennent aux imbéciles. Vous devez prendre une augmentation supplémentaire (sans effet additionnel) pour pouvoir recourir aux manœuvres de coup précis, de Feinte et de Désarmement en combat, et vous subissez un malus de -1g0 aux Jets d'Étiquette."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "DAV0095",
+    "Name": "Rongé par le Shourido (Perfection)",
+    "Description": "Vous recherchez la perfection dans tout ce que vous faites, même lorsque rien ne l'exige. Chaque fois que vous effectuez un jet de Compétence ou d'Incantation, vous devez déclarer une Augmentation supplémentaire sans effet additionnel, sans quoi le jet échoue automatiquement. Ce désavantage vaut 6 points pour les personnages du Clan de la Grue."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0096",
+    "Name": "Rongé par le Shourido (Savoir)",
+    "Description": "Vous êtes obsédé par l'acquisition de connaissances et la compréhension de chaque chose. Chaque fois qu'un sujet se présente à vous, un domaine de recherche ou une nouvelle idée, aussi ordinaires, scandaleux ou blasphématoires soient-ils, vous devez réussir un Jet de Volonté (ND 25) sous peine de devoir l'étudier."
+  },
+  {
+    "Groupe_Tag": "GAV0015",
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0097",
+    "Name": "Rongé par le Shourido (Volonté)",
+    "Description": "Les choses doivent se passer comme vous le voulez et les autres doivent accéder à tous vos souhaits. Vous n'avez aucun respect pour l'opinion ou les désirs d'autrui. Vous subissez un malus de -1g1 à tous les jets de Courtisan et de Tentation, car votre refus du compromis et votre mépris d'autrui vous rendent socialement inapte."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0098",
+    "Name": "Sombre destin",
+    "Description": "Une destinée d'une grande importance vous attend et elle n'a malheureusement rien d'auguste. Avant de mourir, vous allez provoquer un véritable désastre. Pet-être allez-vous faciliter la transmission de secrets de famille entre des mains ennemies ou laisserez-vous la grande muraille Kaiu aux griffes de l'Outremonde. Les destin protège ceux à qui il réserve de grandes missions, même quand ils n'en souhaitent rien. Une fois par séance de jeu, lorsque vous êtes censé mourir de vos Blessures, vous vous retrouvez en fait réduit à une Blessure."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0099",
+    "Name": "Sombre secret",
+    "Description": "Vous avez un terrible secret qui pourrait non seulement causer votre perte, mais également celle d'autres membres de votre famille. Ce peut être quelque chose que vous avez appris au sujet des vôtres (comme un ancêtre vénéré qui s'adonnait en secret à des activités déshonorantes) ou qui vous concerne plus directement (par exemple vous appartenez au Kolat ou au Gozoku). Si votre secret et révélé au grand jour, il vous faudra probablement faire seppuku, à moins que l'on ne prononce votre exécution. Ce désavantage donne 5 points aux personnages ninja."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0001",
+    "Name": "Amères fiançailles",
+    "Description": "Vous avez été promis à un(e) autre, ou êtes peut-être déjà marié, situation qui vous contrarie tous deux. Votre conjoint vous méprise, mais il ou elle a au moins la décence de bien gérer votre domaine… pour l'essentiel. Cette aversion partagée peut néanmoins s'avérer très problématique pour les tâches domestiques et administratives plus simples. Ce désavantage vaut 3 points pour les personnages Impériaux."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0016",
+    "Name": "Courroux des kami",
+    "Description": "Les esprits d'un élément donné éprouvent une véritable aversion à votre égard. Quand on les invoque pour vous châtier, ils s'attellent à la tâche avec enthousiasme. C'est peut être le résultat d'une imprécation prononcée par un shugenja, d'un affront que vous auriez fait aux Fortunes ou de bien d'autres causes spirituelles. Choisissez un élément à l'achat de ce Désavantage. Les sorts de cet élément confèrent une Augmentation Gratuite au Jet d'Incantation quand on les lance contre vous. Ce Désavantage donne 4 points aux personnages shugenja."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "DAV0036",
+    "Name": "Indifférent",
+    "Description": "Vous vous intéressez avant tout à vous même et aux choses qui vous touchent. Les difficultés d'autrui ne vous importent pas et vous avez du mal à feindre le contraire. Sauf quand cela concerne ceux qui contribuent directement à votre bien-être, comme votre seigneur. Vous devez dépenser un Point de Vide pour prendre des risques pour une autre personne (sauf si cela vous profite aussitôt). Ce Désavantage donne 3 points aux personnages du Clan du Scorpion."
+  },
+  {
+    "Groupe_Tag": "GAV0011",
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0049",
+    "Name": "Malédiction des 7 fortunes (Fukurokujin)",
+    "Description": "La Fortune de la Sagesse vous refuse ses grâces, ce qui ne fait surtout pas de vous un érudit. Lorsque vous effectuez un jet de Connaissance, le ND augmente de +5."
+  },
+  {
+    "Groupe_Tag": "GAV0014",
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "DAV0078",
+    "Name": "Oublié du Bushido (Compassion)",
+    "Description": "Vos devez dépenser un point de Vide pour pouvoir agir à la place d'une personne de moindre Statut ou d'une caste socialement inférieure."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "DAV0100",
+    "Name": "Souillure de l'Outremonde",
+    "Description": "Vous avez connu la caresse des ténèbres, ce qui ne vous a pas laissé sans marques. Vous portez la Souillure de l'Outremonde, ce qui vous rend condamné spirituel aux yeux de tout l'Empire car globalement incurable. Vous avez 0.5 Rangs de Souillure de l'Outremonde. A vous de voir si vous avez conscience de votre condition, car elle n'est pas encore détectable à ce stade."
+  }
+]

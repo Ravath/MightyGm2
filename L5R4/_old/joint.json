@@ -1,0 +1,175 @@
+[
+        {
+            "Specialite_Tag": "SPC0075",
+            "Specialite_Name": "Pistage",
+            "Rang": 3,
+            "Competence_Tag": "CPT0024",
+            "Competence_Name": "Chasse",
+            "FigurantModel_Tag": "CRT0005",
+            "FigurantModel_Name": "Chien"
+        },
+        {
+            "Specialite_Tag": "SPC0075",
+            "Specialite_Name": "Pistage",
+            "Rang": 4,
+            "Competence_Tag": "CPT0024",
+            "Competence_Name": "Chasse",
+            "FigurantModel_Tag": "CRT0006",
+            "FigurantModel_Name": "Chien de guerre"
+        },
+        {
+            "Rang": 2,
+            "Competence_Tag": "CPT0035",
+            "Competence_Name": "Intimidation",
+            "FigurantModel_Tag": "CRT0006",
+            "FigurantModel_Name": "Chien de guerre"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0024",
+            "Competence_Name": "Chasse",
+            "FigurantModel_Tag": "CRT0008",
+            "FigurantModel_Name": "Lion"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT0008",
+            "FigurantModel_Name": "Lion"
+        },
+        {
+            "Rang": 2,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT0009",
+            "FigurantModel_Name": "Loup"
+        },
+        {
+            "Rang": 2,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT1003",
+            "FigurantModel_Name": "Gobelin"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0023",
+            "Competence_Name": "Athlétisme",
+            "FigurantModel_Tag": "CRT1004",
+            "FigurantModel_Name": "Homme-rat"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT1004",
+            "FigurantModel_Name": "Homme-rat"
+        },
+        {
+            "Specialite_Tag": "SPC0073",
+            "Specialite_Name": "Natation",
+            "Rang": 5,
+            "Competence_Tag": "CPT0023",
+            "Competence_Name": "Athlétisme",
+            "FigurantModel_Tag": "CRT1005",
+            "FigurantModel_Name": "Kappa"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT1005",
+            "FigurantModel_Name": "Kappa"
+        },
+        {
+            "Rang": 4,
+            "Competence_Tag": "CPT0004",
+            "Competence_Name": "Comédie",
+            "FigurantModel_Tag": "CRT1009",
+            "FigurantModel_Name": "Sorcière des marais"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discretion",
+            "FigurantModel_Tag": "CRT1009",
+            "FigurantModel_Name": "Sorcière des marais"
+        },
+        {
+            "Specialite_Tag": "SPC0027",
+            "Specialite_Name": "Tromperie",
+            "Rang": 4,
+            "Competence_Tag": "CPT0011",
+            "Competence_Name": "Sincérité",
+            "FigurantModel_Tag": "CRT1009",
+            "FigurantModel_Name": "Sorcière des marais"
+        },
+        {
+            "Specialite_Tag": "SPC0109",
+            "Specialite_Name": "Séduction",
+            "Rang": 4,
+            "Competence_Tag": "CPT0037",
+            "Competence_Name": "Tentation",
+            "FigurantModel_Tag": "CRT1009",
+            "FigurantModel_Name": "Sorcière des marais"
+        },
+        {
+            "Specialite_Tag": "SPC5501",
+            "Specialite_Name": "Lames Tsuno",
+            "Rang": 4,
+            "Competence_Tag": "CPT0014",
+            "Competence_Name": "Armes Lourdes",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 2,
+            "Competence_Tag": "CPT0022",
+            "Competence_Name": "Art de la Guerre",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0023",
+            "Competence_Name": "Athlétisme",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT2023",
+            "Competence_Name": "Connaissance(Outremonde)",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 4,
+            "Competence_Tag": "CPT2025",
+            "Competence_Name": "Connaissance(Royaumes spirituels)",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0025",
+            "Competence_Name": "Défense",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0034",
+            "Competence_Name": "Discrétion",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        },
+        {
+            "Rang": 3,
+            "Competence_Tag": "CPT0028",
+            "Competence_Name": "Jiujutsu",
+            "FigurantModel_Tag": "CRT1010",
+            "FigurantModel_Name": "Guerrier Tsuno"
+        }
+    ]

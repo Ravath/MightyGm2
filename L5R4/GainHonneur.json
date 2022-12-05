@@ -1,0 +1,272 @@
+[
+  {
+    "Acte": "Accepter un pot de vin",
+    "Gain0": 0,
+    "Gain1": 0,
+    "Gain2": -3,
+    "Gain3": -4,
+    "Gain4": -7,
+    "Gain5": -8
+  },
+  {
+    "Acte": "Accepter d\u0027endosser la responsabilit\u00E9 d\u0027un acte d\u00E9shonorant commis par un sup\u00E9rieur",
+    "Gain0": 8,
+    "Gain1": 7,
+    "Gain2": 6,
+    "Gain3": 4,
+    "Gain4": 3,
+    "Gain5": 3
+  },
+  {
+    "Acte": "Reconnaitre la sup\u00E9riorit\u00E9 d\u0027un adversaire",
+    "Gain0": 5,
+    "Gain1": 4,
+    "Gain2": 4,
+    "Gain3": 2,
+    "Gain4": 2,
+    "Gain5": 0
+  },
+  {
+    "Acte": "Venir en aide \u00E0 un ennemi bless\u00E9",
+    "Gain0": 9,
+    "Gain1": 8,
+    "Gain2": 6,
+    "Gain3": 6,
+    "Gain4": 5,
+    "Gain5": 3
+  },
+  {
+    "Acte": "Se rendre complice d\u0027un crime odieux",
+    "Gain0": -1,
+    "Gain1": -4,
+    "Gain2": -8,
+    "Gain3": -12,
+    "Gain4": -16,
+    "Gain5": -20
+  },
+  {
+    "Acte": "Se rendre complice d\u0027un crime mineur",
+    "Gain0": 0,
+    "Gain1": -1,
+    "Gain2": -4,
+    "Gain3": -4,
+    "Gain4": -8,
+    "Gain5": -8
+  },
+  {
+    "Acte": "Manquement \u00E0 l\u0027Etiquette, blasph\u00E9matoire",
+    "Gain0": -1,
+    "Gain1": -6,
+    "Gain2": -10,
+    "Gain3": -10,
+    "Gain4": -16,
+    "Gain5": -20
+  },
+  {
+    "Acte": "Manquement \u00E0 l\u0027Etiquette, majeur",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -2,
+    "Gain3": -2,
+    "Gain4": -6,
+    "Gain5": -6
+  },
+  {
+    "Acte": "Manquement \u00E0 l\u0027Etiquette, mineur",
+    "Gain0": 0,
+    "Gain1": 0,
+    "Gain2": -1,
+    "Gain3": -2,
+    "Gain4": -2,
+    "Gain5": -2
+  },
+  {
+    "Acte": "Se montrer d\u00E9loyal envers son seigneur, son \u00E9pouse, son sup\u00E9rieur",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -6,
+    "Gain3": -10,
+    "Gain4": -14,
+    "Gain5": -18
+  },
+  {
+    "Acte": "Tromp\u00E9 \u00E0 commettre un acte criminel",
+    "Gain0": -1,
+    "Gain1": -4,
+    "Gain2": -8,
+    "Gain3": -12,
+    "Gain4": -16,
+    "Gain5": -18
+  },
+  {
+    "Acte": "Tromp\u00E9 \u00E0 commettre un acte d\u00E9loyal",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -6,
+    "Gain4": -10,
+    "Gain5": -14
+  },
+  {
+    "Acte": "Tromp\u00E9 \u00E0 commettre un acte stupide",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -4,
+    "Gain4": -6,
+    "Gain5": -8
+  },
+  {
+    "Acte": "D\u00E9sob\u00E9ir \u00E0 un ordre de son seigneur",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -2,
+    "Gain3": -6,
+    "Gain4": -6,
+    "Gain5": -10
+  },
+  {
+    "Acte": "Ne pas r\u00E9agir \u00E0 une insulte envers un anc\u00EAtre",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -4,
+    "Gain4": -6,
+    "Gain5": -8
+  },
+  {
+    "Acte": "Ne pas r\u00E9agir \u00E0 une insulte envers soi-m\u00EAme",
+    "Gain0": 2,
+    "Gain1": 2,
+    "Gain2": 2,
+    "Gain3": 0,
+    "Gain4": 0,
+    "Gain5": 0
+  },
+  {
+    "Acte": "Ne pas r\u00E9agir \u00E0 une insulte envers sa famille ou son Clan",
+    "Gain0": 0,
+    "Gain1": 0,
+    "Gain2": -2,
+    "Gain3": -2,
+    "Gain4": -4,
+    "Gain5": -4
+  },
+  {
+    "Acte": "Affronter, au nom de sa famille, un adversaire sup\u00E9rieur",
+    "Gain0": 8,
+    "Gain1": 6,
+    "Gain2": 5,
+    "Gain3": 4,
+    "Gain4": 3,
+    "Gain5": 2
+  },
+  {
+    "Acte": "Fuir une bataille",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -6,
+    "Gain4": -8,
+    "Gain5": -10
+  },
+  {
+    "Acte": "Ob\u00E9ir \u00E0 un ordre en d\u00E9pit de r\u00E9ticences personnelles",
+    "Gain0": 6,
+    "Gain1": 4,
+    "Gain2": 0,
+    "Gain3": 0,
+    "Gain4": -2,
+    "Gain5": -4
+  },
+  {
+    "Acte": "Respecter une promesse en d\u00E9pit de ce que cela peut co\u00FBter",
+    "Gain0": 10,
+    "Gain1": 8,
+    "Gain2": 6,
+    "Gain3": 4,
+    "Gain4": 2,
+    "Gain5": 0
+  },
+  {
+    "Acte": "Rapporter la v\u00E9rit\u00E9 sur un fait en d\u00E9pit de ce que cela peut vous co\u00FBter",
+    "Gain0": 8,
+    "Gain1": 6,
+    "Gain2": 4,
+    "Gain3": 2,
+    "Gain4": 0,
+    "Gain5": 0
+  },
+  {
+    "Acte": "Mentir pour am\u00E9liorer sa r\u00E9putation",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -6,
+    "Gain4": -8,
+    "Gain5": -10
+  },
+  {
+    "Acte": "Mentir \u00E0 un individu pour le pousser \u00E0 commettre un acte d\u00E9shonorable",
+    "Gain0": 0,
+    "Gain1": -2,
+    "Gain2": -4,
+    "Gain3": -6,
+    "Gain4": -8,
+    "Gain5": -10
+  },
+  {
+    "Acte": "Ignorer poliment le comportement d\u00E9shonorant d\u0027un individu",
+    "Gain0": 3,
+    "Gain1": 2,
+    "Gain2": 0,
+    "Gain3": 0,
+    "Gain4": -2,
+    "Gain5": -2
+  },
+  {
+    "Acte": "Prot\u00E9ger les int\u00E9r\u00EAts de son Clan/seigneur/famille face \u00E0 de grands risques",
+    "Gain0": 8,
+    "Gain1": 8,
+    "Gain2": 6,
+    "Gain3": 6,
+    "Gain4": 4,
+    "Gain5": 2
+  },
+  {
+    "Acte": "Se montrer aimable avec un individu de moindre statut",
+    "Gain0": 6,
+    "Gain1": 6,
+    "Gain2": 4,
+    "Gain3": 4,
+    "Gain4": 2,
+    "Gain5": 2
+  },
+  {
+    "Acte": "Se montrer sinc\u00E8rement courtois avec un ennemi ou un rival",
+    "Gain0": 9,
+    "Gain1": 7,
+    "Gain2": 5,
+    "Gain3": 2,
+    "Gain4": 0,
+    "Gain5": 0
+  },
+  {
+    "Acte": "Utiliser une Comp\u00E9tence D\u00E9gradante",
+    "Gain0": 0,
+    "Gain1": -1,
+    "Gain2": -2,
+    "Gain3": -3,
+    "Gain4": -6,
+    "Gain5": -9
+  },
+  {
+    "Acte": "Se montrer faussement courtois pour prendre l\u0027avantage sur un ennemi",
+    "Gain0": 0,
+    "Gain1": 0,
+    "Gain2": -2,
+    "Gain3": -6,
+    "Gain4": -10,
+    "Gain5": -10
+  }
+]

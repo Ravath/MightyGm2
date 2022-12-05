@@ -1,0 +1,1127 @@
+[
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0002",
+    "Name": "Âme d'artiste",
+    "Description": "Votre âme est animée par l'esprit de la créativité. Vous avez le choix entre Compétences d'Art et Compétences d'Artisanat à l'achat de cet avantage. Chaque fois que vous devez effectuer un Jet Sans Compétence lorsque vous recourez à une compétence du type choisi, on considère en fait que vous disposez de 1 Rang dans la compétence en question. Les personnages du Clan de la Grue et les courtisans peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0004",
+    "Name": "Ami des éléments",
+    "Description": "Vous êtes en permanence entouré d'un tourbillon d'esprits d'un élément donné, qui vous portent assistance quand ils le peuvent, même quand vous oubliez leur présence. Choisissez un Anneau à l'achat de cet Avantage. Lorsque vous effectuez un Jet de Trait associé à cet Anneau, vous recevez une Augmentation Gratuite. Les personnages shugenja peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0005",
+    "Name": "Arme sacrée(Araignée)",
+    "Description": "Lame d'Acier Noir\nKatana 4g2\u00A0; tous les dés de dommages ouverts obligent la cible à réussir un Jet de Terre (ND 15) sous peine de recevoir 1 Point de Souillure de l'Outremonde."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0006",
+    "Name": "Arme sacrée(Crabe)",
+    "Description": "Lame Kaiu\nKatana 3g3\u00A0; incassable\u00A0; -2 à la Réduction de la cible."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0007",
+    "Name": "Arme sacrée(Dragon)",
+    "Description": "Lames Jumelles\nDaisho\u00A0; +5 au ND de toutes les Manœuvres de Désarmement contre vous."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0008",
+    "Name": "Arme sacrée(Grue)",
+    "Description": "Lame Kakita\nKatana 4g2\u00A0; peut relancer les dommages une fois par duel Iaijutsu."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0009",
+    "Name": "Arme sacrée(Licorne)",
+    "Description": "Cimeterre Moto\nCimeterre 3g3\u00A0; +3 aux jets de dommages quand vous montez votre cheval."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0010",
+    "Name": "Arme sacrée(Lion)",
+    "Description": "Lame Akodo\nKatana 4g2\u00A0; +1 au rang d'Honneur perçu quand le personnage la ceint."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0011",
+    "Name": "Arme sacrée(Mante)",
+    "Description": "Kama des Tempêtes (paire)\nKama 2g2\u00A0; +1g0 aux jets d'attaque lorsque le personnage porte les deux."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0012",
+    "Name": "Arme sacrée(Phénix)",
+    "Description": "Frappe de l'Inquisiteur\nWakizashi 3g2\u00A0; considéré comme en Jade contre les créatures souillées."
+  },
+  {
+    "Groupe_Tag": "GAV0001",
+    "SousType": "materiel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0013",
+    "Name": "Arme sacrée(Scorpion)",
+    "Description": "Lame Shosuro\nKatana 4g2\u00A0; ajoute +5 au ND pour résister aux poison enduisant la lame."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0014",
+    "Name": "Beauté du diable",
+    "Description": "Vous présentez une certaine qualité physique qui vous rend pratiquement irrésistible pour les membres du sexe opposé, qui succombent facilement à vos manipulations. Vous recevez une bonus de +1g0 au total de tous les Jets de Tentation effectués face à des membres du sexe opposé. Les personnages du Clan du Scorpion peuvent acheter cet Avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0015",
+    "Name": "Bénédiction d'Inari",
+    "Description": "La Fortune du Riz, Fortune mineure, figure néanmoins parmi les entités les plus réservées de Rokugan, notamment parmi les roturiers de l'Empire. Lorsque vous jeûnez ou êtes privé de nourriture, vous ne souffrez pas de l'incapacité de recouvrer les Points de Vide (les autres pénalités s'appliquent normalement)."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0016",
+    "Name": "Bénédiction des 7 fortunes (Benten)",
+    "Description": "(Grue) La Fortune de l'Amour Romantique vous gratifie de sa bénédiction. Chaque fois que vous tentez de convaincre quelqu'un et qu'importe les circonstances, cous recevez un bonus de +0g1 au total du Jet de Compétence Sociale en question. Ce bonus ne s'applique qu'à la persuasion, pas à la coercition."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0017",
+    "Name": "Bénédiction des 7 fortunes (Bishamon)",
+    "Description": "(Crabe, Lion) La Fortune de la Force a remarqué votre puissance et vous fait profiter de sa Grâce. Chaque fois que vous déclarez 3 augmentations et que vous réussissez le jet d'attaque correspondant dans le cadre d'une Manœuvre de Dommages Augmentés, vous recevez une Manœuvre supplémentaire. Les Augmentations Gratuites ne sont pas prises en compte pour activer cet effet. Vous bénéficiez également d'un bonus de +1g0 au total de tous les Jets de Force."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0018",
+    "Name": "Bénédiction des 7 fortunes (Daikoku)",
+    "Description": "(Mante) La Fortune de la Richesse a décidé de vous favoriser et vous excellez dans tous les domaines liés à l'argent et aux activités marchandes. Vous recevez un bonus de +1g1 au total de tous les Jets de Commerce."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0019",
+    "Name": "Bénédiction des 7 fortunes (Ebisu)",
+    "Description": "(Licorne) Vous avez attiré l'attention de la Fortune du Travail Honnête et ses faveurs apparaissent clairement à ceux qui la servent le mieux. Vous recevez un bonus de +1g1 au total de tous les Jets de Compétence Sociale faisant intervenir des rokugani n'appartenant pas à la caste des samurai."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0021",
+    "Name": "Bénédiction des 7 fortunes (Hotei)",
+    "Description": "La Fortune du Bonheur estime que vous représentez une contribution plaisante à son œuvre et vous fait partager se sérénité et sa jovialité. Chaque fois qu'un effet (qu'il s'agisse d'un Sort, d'un Avantage, d'une Technique ou autre) est censé vous faire perdre un ou plusieurs Points de Vide, le responsable doit au préalable remporter un Jet d'Opposition de Vide contre vous. Si l'effet appelle déjà un Jet d'Opposition d'un genre ou d'un autre, le vôtre bénéficie en fait d'un bonus de +10 et on ne procède pas à un Jet d'Opposition de Vide supplémentaire."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0022",
+    "Name": "Bénédiction des 7 fortunes (Jurojin)",
+    "Description": "(Scorpion) La Fortune de la Longévité vous affectionne, au point que cela vous promet une vie longue et saine. Chaque fois que vous faites un jet visant à résister aux effets d'une maladie ou d'un poison, vous recevez un bonus de +2g0 au total du jet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0023",
+    "Name": "Calme",
+    "Description": "Vous faites preuve d'un calme et d'une sérénité qui gênent vos adversaires quant ils tentent de vous harceler, ce qui vous rend plus fort quand votre Honneur est mis à l'épreuve. Lorsque vous ajoutez votre Rang d'Honneur au total d'un jet visant à résister à Intimidation ou Tentation, vous ajoutez un +1g0 supplémentaire au résultat."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0024",
+    "Name": "Caresse des royaumes (Chikushudo)",
+    "Description": "Vous recevez un bonus de +1g1 à tous les jets d'élevage."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0025",
+    "Name": "Caresse des royaumes (Gaki-Do)",
+    "Description": "Lorsque vous réalisez une attaque qui tue un adversaire, vous récupérez aussitôt 5 blessures."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0026",
+    "Name": "Caresse des royaumes (Jigoku)",
+    "Description": "Vous pouvez ajouter votre rang de Souillure à tout jet d'attaque et à tout Jet de Compétence ou de Trait associé à un Trait physique. Si vous êtes un Damné, vous ajoutez le double de votre Rang de Souillure plutôt que le bonus normal. Vous ne pouvez prendre cet Avantage que si vous présentez la souillure de l'Outremonde."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0027",
+    "Name": "Caresse des royaumes (Maigo no Musha)",
+    "Description": "Lorsque vous recevez plus de 3 points de Gloire, vous gagnez un point supplémentaire."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0028",
+    "Name": "Caresse des royaumes (Meido)",
+    "Description": "Vous recevez un bonus de +2g0 aux Jets d'Opposition contre les tentatives visant à vous manipuler dans un cadre mondain (Compétence Courtisan par exemple)."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0029",
+    "Name": "Caresse des royaumes (Sakkaku)",
+    "Description": "Vous recevez un bonus de +1g1 aux Jets de Sincérité(Tromperie)."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0030",
+    "Name": "Caresse des royaumes (Tengoku)",
+    "Description": "Vous recevez un bonus de +2g0 aux Jets de Terre visant à résister à la Souillure de l'Outremonde."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 8,
+    "RangMax": 0,
+    "Tag": "AVA0031",
+    "Name": "Caresse des royaumes (Toshigoku)",
+    "Description": "Lorsque vous effectuez une action de mouvement pour vous retrouver à portée d'attaque d'un adversaire, vous pouvez parcourir 1,5m de plus que normalement. Cet Avantage coûte 8 points au lieu de 5."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0032",
+    "Name": "Caresse des royaumes (Yomi)",
+    "Description": "Choisissez une Compétence d'école. Vous recevez un bonus de +1g0 à tous les Jets de la Compétence en question. Cet Avantage coûte 7 points au lieu de 5."
+  },
+  {
+    "Groupe_Tag": "GAV0003",
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0033",
+    "Name": "Caresse des royaumes (Yume-Do)",
+    "Description": "Vous pouvez recouvrer tous vos Points de Vide dépensés en seulement 4 heures de repos, au lieu de la nuit complète de huit heures de repos normalement nécessaire."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 3,
+    "RangMax": 3,
+    "Tag": "AVA0034",
+    "Name": "Chanceux",
+    "Description": "La Fortune sourit à l'homme mortel. A chaque séance et un nombre de fois égal à votre rang dans cet Avantage, vous pouvez choisir de relancer un jet que vous venez de faire, pour ne garder que le meilleur des deux résultats."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 10,
+    "Tag": "AVA0035",
+    "Name": "Chantage",
+    "Description": "Vous avez connaissance d'un sombre secret concernant un individu et disposez de preuves\u00A0; vous pouvez donc profiter de ces renseignements pour l'obliger à coopérer. Le coût de cet Avantage est égal au Rang de Statut de l'individu que l'on fait chanter. Recourir trop souvent à set Avantage ou avoir des exigences excessives vis-à-vis de la personne peut la penser à penser que votre mort mérite de prendre le risque de voir votre secret exposé, quelles que soient les conséquences. Les personnages du Clan du Scorpion peuvent acheter cet Avantage pour 1 point de moins que le coût normal."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0036",
+    "Name": "Choisi par les oracles",
+    "Description": "Pour des raisons qui dépassent votre entendement, vous avez été remarqué par l'un des Oracles, ces humains animés par la puissance des Dragons Élémentaires. Vous devez choisir un Anneau lorsque vous choisissez cet Avantage. Vous recevez un bonus de +1g1 au total de tous les Jets d'Anneau recouvrant l'Anneau en question."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0037",
+    "Name": "Clairvoyant",
+    "Description": "Vous êtes doué d'un esprit vif et d'une perception acérée qui font que les autres ont bien du mal à vous abuser. Lorsque vous effectuez une Jet d'Opposition contre quelqu'un qui cherche à vous troubler ou vous manipuler d'une manière ou d'une autre, vous recevez un bonus de +1g0 au total de votre jet. Les personnages du Clan du Dragon peuvent acheter cet Avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0038",
+    "Name": "Dessein supérieur",
+    "Description": "Vous consacrez votre à quelque grand projet. Il ne s'agit pas d'une opération ordinaire, mais d'une œuvre qui demandera des années, voire toute votre vie. Quel que soit l'objectif final, vous gagnerez un Point d'Expérience supplémentaire pour chaque séance durant laquelle vous aurez contribué significativement à votre quête (selon votre appréciation et celle du MJ)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0039",
+    "Name": "Dextérité du crabe",
+    "Description": "Vous montrez une affinité naturelle pour les armes de tout type et pouvez vous servir sans difficulté d'une lame que vous ne connaissez pas, même en situation tendue. Chaque fois que vous êtes censé effectuer un Jet sans Compétence lorsque vous recourez à une Compétence d'Armes, on considère en fait que vous disposez de 1 Rang dans la compétence en question. Les personnages du Clan du Crabe et les bushi peuvent acheter cet avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": "GAV0004",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0040",
+    "Name": "Don inné (Contact Spirituel)",
+    "Description": "Vous pouvez tenter un Jet d'Intuition (ND 15) pour voir la dernière personne à avoir touché un objet avec lequel vous êtes en contact."
+  },
+  {
+    "Groupe_Tag": "GAV0004",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0041",
+    "Name": "Don inné (Empathie)",
+    "Description": "Vous recevez un bonus de +1g1 aux Jets de Courtisan visant à déterminer les sentiments/désirs d'autrui."
+  },
+  {
+    "Groupe_Tag": "GAV0004",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0042",
+    "Name": "Don inné (Lucidité)",
+    "Description": "On ne vous prend pas facilement au dépourvu et vous recevez un bonus de +1g0 au total de vos Jets d'Initiative."
+  },
+  {
+    "Groupe_Tag": "GAV0004",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0043",
+    "Name": "Don inné (Prophétie Mineure)",
+    "Description": "Vous faites parfois des songes nébuleux sur l'avenir, comme l'image d'un couteau sanglant avant un meurtre."
+  },
+  {
+    "Groupe_Tag": "GAV0004",
+    "SousType": "spirituel",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0044",
+    "Name": "Don inné (Sens Animal)",
+    "Description": "Vous pouvez d'instinct percevoir l'humeur des animaux\u00A0; les animaux vous considèrent comme amical."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0045",
+    "Name": "École différente",
+    "Description": "Votre famille a sacrifié énormément de ressources et de faveurs pour assurer votre admission dans l’École d'un autre Clan. Lors de la création de personnage, vous pouvez choisir d'intégrer l’École d'un autre clan que le votre. Vous restez toutefois membre de votre clan, ce qui pourrait engendrer un conflit de loyautés (vis-à-vis de votre sensei d'un côté, et de votre seigneur et famille, de l'autre)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 10,
+    "RangMax": 0,
+    "Tag": "AVA0046",
+    "Name": "Écoles multiples",
+    "Description": "Vous avez eu la chance incroyable de pouvoir étudier dans plusieurs dojo, associés chacun à une École majeure différente. Il s'agit là d'une aubaine rare, car s'affranchir de son engagement envers un sensei pour pouvoir recevoir les enseignements d'un autre requiert des circonstances extraordinaires. Cet Avantage ne peut s'acheter qu'en cours de campagne. Une fois cet Avantage pris, le personnage arrête aussitôt sa progression dans son École actuelle. Quand il atteint son prochain Rang de Réputation, il commence l’apprentissage des Techniques de sa nouvelle École au rang 1. Avant de pouvoir apprendre les Techniques d'une École, il faut disposer d'au oins 1 Rang dans toutes les compétences d’École qu'on y enseigne. En aucun cas, un personnage ne pourra prendre des Rangs à la fois dans une école de bushi et dans une école de shugenja\u00A0; les deux formes étant tout bonnement incompatibles sur tous les plans."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0047",
+    "Name": "Excellente mémoire",
+    "Description": "Vous faites preuve d'une aptitude incroyable pour vous rappeler les choses avec précision. Chaque fois que vous avez besoin de vous souvenir avec exactitude de quelque chose, qu'il s'agisse d'un passage écrit ou de détails physiques concernant un individu, vous recevez un bonus de +1g1 à votre Jet d'Intelligence."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0048",
+    "Name": "Faveur élémentaire",
+    "Description": "Vous êtes particulièrement apprécié par les kami d'un élément, même si vous ne savez pas forcément pourquoi. Il en ressort une baisse de 1 du coût de l'amélioration des Traits associés à un Anneau donné. (choisi à l'achat de cet Avantage). Vide ne peut pas être choisi pour cet Avantage. Les personnages du Clan du Phénix peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0049",
+    "Name": "Favori de la cour",
+    "Description": "Au cours d'une récente séance de cour, vous avez fait quelque chose qui vous a fait remarquer de l'hôte, ce qui vous a aussitôt rendu plus important aux yeux de l'assistance. Choisissez une cour, telle que celle de Kyuden Bayushi, celle du district Okura, de Toshi Ranbo, etc. Lorsque vous vous présentez à cette cour, on considère votre Statut comme d'1 Rang supérieur à la réalité, mais uniquement pendant les séances. Les personnages courtisans peuvent acheter cet Avantage pour 1 point. Vous pouvez prendre cet Avantage plusieurs fois, auquel cas il s'applique à différentes cours."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0050",
+    "Name": "Force de la terre",
+    "Description": "On décèle dans votre âme l'esprit des montagnes et la force de la pierre. Vous pouvez surmonter des blessures qui rendraient d'autres hommes infirmes. Les malus au ND que vous subissez en raison des Rangs de Blessures se réduisent de 3. Les personnages bushi peuvent prendre cet Avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 15,
+    "RangMax": 0,
+    "Tag": "AVA0052",
+    "Name": "Gouverneur (Grand Village)",
+    "Description": "Grand village"
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 18,
+    "RangMax": 0,
+    "Tag": "AVA0053",
+    "Name": "Gouverneur (Domaine Unique)",
+    "Description": "Domaine unique (brasserie de sake, fauconnerie, etc.)"
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 20,
+    "RangMax": 0,
+    "Tag": "AVA0054",
+    "Name": "Gouverneur (Bourg)",
+    "Description": "Bourg"
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 25,
+    "RangMax": 0,
+    "Tag": "AVA0055",
+    "Name": "Gouverneur (Ville)",
+    "Description": "Ville"
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 30,
+    "RangMax": 0,
+    "Tag": "AVA0056",
+    "Name": "Gouverneur (Province)",
+    "Description": "Province"
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0057",
+    "Name": "Grand",
+    "Description": "Vous êtes plus grand que la moyenne des Rokugani, votre taille étant comprise entre 1,83 et 1,90m. Vous bénéficiez d'un bonus de +1g0 au total de tous les jets de dommages effectués avec une grande arme de corps à corps. Les personnages du Clan du Crabe peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0058",
+    "Name": "Grand voyageur",
+    "Description": "Vous connaissez une certaine contrée comme votre poche, l'ayant maintes fois parcourue. Choisissez les terres de votre famille, une grande ville ou une région de taille raisonnable. Tant que vous vous trouvez sur ces terres, vous ne pouvez pas vous perdre et vous connaissez la position géographique de toutes les ressources que l'on peut y trouver. Les personnages du Clan de la Licorne peuvent acheter cet Avantage pour 1 point."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0059",
+    "Name": "Grande destinée",
+    "Description": "Le cycle karmique vous réserve de grands projets et l'Ordre Céleste s'efforce de vous garder en vie jusqu'à ce que votre destinée soit accomplie. Une fois par séance, lorsque vous subissez des Blessures qui auraient dû vous tuer, vous vous retrouvez en fait avec 1 Blessure. Cela ne peut arriver qu'une fois par séance de jeu, car même les Cieux sont limités dans leur influence sur les affaires des mortels."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0060",
+    "Name": "La haine au cœur",
+    "Description": "Un Clan s'est attiré votre haine éternelle et rien ne pourra atténuer votre rage. Choisissez un clan ou une autre faction (comme la Confrérie de Shinsei ou l'une des familles impériales) à l'achat de cet Avantage. Vous recevez un bonus de +1g1 au total de tout Jet d'Opposition contre un membre de ce Clan (ou de cette faction). Les personnages du Clan de l'Araignée peuvent acheter cet Avantage pour 4 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0061",
+    "Name": "Héritage",
+    "Description": "Lors de votre cérémonie de gempukku, votre famille vous a honoré d'un bien ayant appartenu à vos ancêtres. L'objet est pour vous des plus précieux et vous préféreriez mourir plutôt que de le voir endommagé ou profané. Vous disposez d'un objet, en plus de l'équipement de départ de votre école. Chaque fois que vous effectuez un Jet de Compétence faisant intervenir l'objet, comme Spectacle:Biwa pour un biwa ou Jeu:Go pour un jeu de Go, ou encore Kenjutsu pour un Katana, vous recevez un bonus de +1g1 au jet. Ce bonus ne s'applique pas aux jets d'attaque ou de dommages, mais seulement aux Jets de Compétence non liés au combat (effectués en dehors d'une escarmouche).\nJoueurs et MJ peuvent convenir d'autoriser l'acquisition d'un objet plus puissant ou rare pour un coût supérieur en Points d'Expérience. Il convient de bien étudier ces cas particuliers à l'avance pour que le jeu reste équitable et équilibré."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0062",
+    "Name": "Héros populaire",
+    "Description": "Même si votre réputation parmi vos pairs n'a rien de forcément supérieure à celle d'un samurai, vos actions ont suscité l'admiration des gens du commun. Lorsque vous avez affaire à des citoyens de Rokugan n'appartenant pas à la caste des samurai, le ND pour qu'ils vous reconnaissent (déterminé par votre Rang de Gloire) est diminué de 10."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0063",
+    "Name": "Heureuses fiançailles",
+    "Description": "Votre mariage a été arrangé et la fortune a voulu que votre amour pour votre époux/épouse soit sincère. Les relations que vous avez pu établir dans le cadre des préparations enthousiastes du mariage vous permettent d’acheter les Avantages suivants pour deux points de moins chacun (minimum de 1 point)\u00A0: Gouverneur, Lien Karmique (uniquement le ou la fiancé(e)), Riche et Statut Social."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 2,
+    "RangMax": 10,
+    "Tag": "AVA0064",
+    "Name": "Honneur apparent",
+    "Description": "Les gens ont du mal à deviner votre véritable nature, ce qui vous aide pour cacher vos actes parfois douteux. Pour chaque rang dont vous disposez pour cet Avantage, on considère votre Honneur comme supérieur d'un Rang entier à la réalité dans le cadre des tentatives visant à le déterminer. Quiconque tente un jet de Connaissance:Bushido/Intuition pour deviner votre Rang d'Honneur trouvera votre Rang simulé au lieu de votre véritable Rang."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0065",
+    "Name": "Illumination",
+    "Description": "Votre voyage spirituel vers l'harmonie totale avec l'univers s'approche de sa destination. Lorsque vous utilisez des points d'Expérience pour augmenter votre Anneau du Vide, le coût total diminue chaque fois de 2 points. Les personnages du Clan du Dragon et les moines peuvent prendre cet Avantage pour 5 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0066",
+    "Name": "Ingénieux",
+    "Description": "Vous savez instinctivement faire des choses que la plupart des gens cherchent à éviter à tout prix. Chaque fois que vous êtes censé effectuer un Jet Sans Compétence lorsque vous recourez à une compétence Dégradante, on considère en fait que vous disposez de 1 Rang dans la compétence en question. Les personnages du Clan du Scorpion, de l'Araignée et les Ninja peuvent acheter cet Avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0067",
+    "Name": "Intègre",
+    "Description": "Votre âme vertueuse se situe au-delà de tout reproche et il est bien difficile, voire impossible, de vous pousser à un quelconque comportement déshonorant. Lorsque vous effectuez un jet d'Opposition face à quelqu'un qui recourt à Tentation, vous recevez un bonus de +1g0 au jet. Les personnages Impériaux peuvent acheter cet Avantage pour 1 point."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 8,
+    "RangMax": 0,
+    "Tag": "AVA0068",
+    "Name": "Ishiken-do",
+    "Description": "Vous jouissez du don le plus rare qu'il soit, la capacité de communier avec le Vide même. Ce talent se compare sur bien des points à la faculté de converser avec les kami, à part qu'il n'existe pas de kami du Vide qui se manifeste naturellement\u00A0; le Vide est une entité vivante, étant à la fois tout et rien. Vous pouvez lancer des Sorts du Vide selon les règles détaillées plus loin dans ce chapitre. Seuls des shugenja peuvent prendre cet Avantage et l'on ne peut lancer des sorts du Vide sans lui. Les personnages du Clan du Phénix peuvent acheter cet Avantage pour 6 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0069",
+    "Name": "Jeune prodige",
+    "Description": "Sommeille en vous le potentiel d'exceller dans un domaine particulier, plus encore peut-être que tout autre âme vivante de l'Empire. Lors de cet achat, associez cet Avantage à une Compétence. Lorsque vous effectuez des Augmentations sur un Jet de la Compétence concernée, vos Augmentations se limitent par votre Rang dans la compétence et non par votre Anneau du Vide (sauf si celui-ci est supérieur, auquel cas vous pouvez suivre la règle normale)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0070",
+    "Name": "Kami amical",
+    "Description": "Un kami s'est lié d'amitié avec vous et reste à proximité en toutes circonstances. Choisissez un élément à l'achat de cet Avantage. Vous recevez un bonus de +1g1 au total de tous les Jets d'Incantation effectués pour lancer Communion, Invocation ou Sensation (uniquement si le Sort est lié à l'élément choisi). Seul un shugenja peut prendre cet Avantage. Vous ne pouvez associé cet Avantage à un élément pour lequel vous êtes déficient."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0072",
+    "Name": "Langue (non-humaine)",
+    "Description": "L'Empire ne connaît qu'une langue déclinée en deux dialectes. En revanche, le monde qui entoure Rokugan compte une grande variété de nations et de cultures avec chacune leur langue. Vous pouvez apprendre une langue non-humaine , comme le Nezumi ou le Naga (le personnage peut alors juste la comprendre et exprimer verbalement les concepts les plus simples)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0073",
+    "Name": "Leader né",
+    "Description": "Vous présentez un véritable don pour mener et inspirer les hommes au combat. Une fois par Round durant l'étape de Réactions d'une escarmouche, vous pouvez ajouter votre Rang d’École plus 1g1 à la valeur d'initiative d'un allié. Ce bonus persiste jusqu'à l'étape de Réactions du round suivant. Un même individu ne peut bénéficier que d'une utilisation de cet Avantage par round. Les personnages du Clan du Lion peuvent acheter cet Avantage pour 5 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 1,
+    "RangMax": 5,
+    "Tag": "AVA0074",
+    "Name": "Lien Karmique",
+    "Description": "Votre destinée n’appartient pas qu'à vous, car elle se lie intimement à quelqu'un d'autre. Vous avez peut-être été proche de cette autre personne dans une vie antérieure, à moins que votre destin attende encore d'être mêlé au sien de manière fondamentale. Choisissez une personne à l'achat de cet Avantage. Pour chaque point dépensé, vous pouvez une fois par séance de jeu recevoir un bonus de +1g1 au total de tous les jets d'attaque effectués pour protéger la personne en question ou vous battre pour elle."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0075",
+    "Name": "Lire sur les lèvres",
+    "Description": "Que ce soit un don naturel ou le résultat d'une pratique et d'une patience extraordinaire, vous avez l'aptitude de comprendre ce que disent les gens rien qu'en observant les mouvements de leurs lèvres. Lorsque vous vous retrouvez dans une situation ou des personnes parlent sans que vous puissiez les entendre, vous pouvez tenter de comprendre ce qu'elles disent en effectuant un Jet de Perception (ND 15+5 par tranche de six mètres vous séparant des locuteurs). Les personnages courtisans peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0076",
+    "Name": "Objet gaijin",
+    "Description": "Vous disposez d'un objet d'origine gaijin, conçu en dehors des frontières de l'Empire d’Émeraude. Il peut s'agir d'une arme de l'une des nombreuses cultures guerrières cernant Rokugan, comme l'Empire Senpet, les royaumes outre-mer de Merenae et Thran, les Tribus Yobanjin barbares du nord, voire l'Empire Yodotai du lointain nord-ouest. Il convient alors de prendre les règles d'une arme comparable de Rokugan, sachant que l'utilisation de l'objet gaijin demande sa propre compétence d'Armes. S'il ne s'agit pas d'une arme, ce peut être un objet exotique comme une boussole, une longue-vue, une loupe, des ciseaux, etc. Les personnages du Clan de la Mante ou de la Licorne peuvent acheter cet Avantage pour 4 points."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0077",
+    "Name": "Parangon (Compassion)",
+    "Description": "Chaque fois que vous dépensez un point de Vide pour améliorer un jet visant à aider directement ceux moins bien placés que vous dans l'ordre céleste, vous recevez +2g2 au lieu de +1g1."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0078",
+    "Name": "Parangon (Courage)",
+    "Description": "Vous ajoutez un bonus de +1g1 au total de tout jet visant à résister à Intimidation ou à passer outre les effets de Peur."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0079",
+    "Name": "Parangon (Courtoisie)",
+    "Description": "Chaque fois que vous effectuez un jet d’Étiquette pour éviter l'embarras ou un manquement à l'honneur, vous ajoutez +2g0 au jet."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0080",
+    "Name": "Parangon (Devoir)",
+    "Description": "Vous pouvez dépenser un point de Vide à tout jet de Compétence ou jet d'Incantation pour annuler les malus au ND du jet, y compris les malus de blessure."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0081",
+    "Name": "Parangon (Honnêteté)",
+    "Description": "Vous recevez un bonus de +1g1 à tout jet de Sincérité(Honnêteté). Vous pouvez bénéficier de ce bonus même si vous n'avez pas la Spécialisation, tant qu'elle s'applique à la situation."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0082",
+    "Name": "Parangon (Honneur)",
+    "Description": "Vous pouvez ajouter le double de votre rang d'Honneur (au lieu du bonus habituel) à tous les jets visant à résister à un Jet de Tentation ou Intimidation."
+  },
+  {
+    "Groupe_Tag": "GAV0006",
+    "SousType": "mental",
+    "Cout": 7,
+    "RangMax": 0,
+    "Tag": "AVA0083",
+    "Name": "Parangon (Sincérité)",
+    "Description": "Vous pouvez ajouter un bonus de +2g2 à tous les Jets d'Opposition recourant à Sincérité."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0084",
+    "Name": "Poing de pierre",
+    "Description": "Certaines personnes ont un talent naturel pour le combat à mains nues, comme vous. Les jets de dommages de vos attaques à mains nues reçoivent un bonus de +0g1. Les personnages moines peuvent acheter cet Avantage pour 5 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 2,
+    "RangMax": 0,
+    "Tag": "AVA0085",
+    "Name": "Quelconque",
+    "Description": "Vous êtes tout à fait banal, sur tous les plans, et les gens ont du mal à vous reconnaître sans que vous insistiez volontairement sur votre identité ou vos attaches. Lorsque quiconque effectue un jet de Connaissance:Bushido/Intuition pour déterminer votre Rang d'Honneur ou de Connaissance:Héraldique/Intelligence pour deviner votre identité (selon votre Rang de Gloire), vous pouvez volontairement choisir d'accroître le ND de +10."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0086",
+    "Name": "Rapide",
+    "Description": "Vous réagissez plus vite que la plupart, saisissant les occasions que personne n'avait anticipées. Si vous n'agissez pas en premier lors d'un Round de Combat, vous pouvez durant l'étape de Réactions ajouter votre Trait de Réflexes au total de votre Score d'Initiative à tous les Rounds à venir durant l'escarmouche. Cette opération reste possible à chaque round durant lequel vous n'avez pas agi en premier. Les personnages ninja peuvent acheter cet Avantage pour 5 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 1,
+    "RangMax": 10,
+    "Tag": "AVA0087",
+    "Name": "Relations",
+    "Description": "Vous entretenez soigneusement vos relations. Certains membres de votre réseau social se sentent prêts à bien des choses pour vous protéger, tandis que d'autres disposent de ressources considérables. Les plus précieux ont ces deux qualités. Le coût total de cet Avantage se détermine selon le nombre de points que vous avez dépensés pour le degré d'influence de votre allié et son dévouement envers vous. Les personnages du Clan de la Grue peuvent acheter cet Avantage pour 1 points de moins que le coût normal."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0088",
+    "Name": "Renommée",
+    "Description": "On connaît votre nom à travers l'Empire, car vos actes ont marqué les esprits de beaucoup. Vous recevez +1 rang de gloire."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 2,
+    "RangMax": 3,
+    "Tag": "AVA0089",
+    "Name": "Résistance magique",
+    "Description": "Pour des raisons qui échappent à votre compréhension, les kami répugnent à se mêler de vos affaires. Pour chaque Rang dont vous disposez à cet Avantage, tous les Sorts élémentaires qui vous ciblent voient leur ND d'Incantation augmenter de +3. La maho et les magies gaijin et non-humaines ne sont pas affectées par cet Avantage."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0090",
+    "Name": "Rétablissement physique",
+    "Description": "Votre corps récupère à une vitesse incroyable, ce qui vous permet de vous rétablir extrêmement vite, même après avoir subi de terribles blessures. Pour récupérer vos Blessures, on considère votre Constitution comme supérieure de deux Rangs à la réalité."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "materiel",
+    "Cout": 1,
+    "RangMax": 10,
+    "Tag": "AVA0091",
+    "Name": "Riche",
+    "Description": "Votre branche familiale, particulièrement opulente, fait que vos parents vous ont octroyé les moyens de faciliter l’accomplissement de votre devoir. Vous recevez deux koku supplémentaires par point dépensé pour cet Avantage, à ajouter à la somme de l'équipement de votre École. Les personnages du Clan de la Grue ou de la Licorne et les personnages Impériaux peuvent acheter cet Avantage pour un coût total s'élevant à 1 point de moins (minimum 1 point)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0092",
+    "Name": "Risque-tout",
+    "Description": "Vous avez un sens naturel pour les épreuves athlétiques et montrez une témérité  absolue quand votre intégrité physique est en jeu. Chaque fois que vous dépensez un Point de Vide pour améliorer un jet d'Athlétisme, vous recevez un bonus +3g1 au total du jet au lieu du +1g1 habituel. Les personnages du Clan de la Mante peuvent acheter cet avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0093",
+    "Name": "Sacro-saint",
+    "Description": "En raison d'un grand service rendu à l'Empereur par vos parents ou vous-même, le Fils des Cieux vous a mis sous sa protection. Vous ne pouvez acheter cet Avantage que si votre Rang d'Honneur est d'au moins 6. Tant que votre Honneur ne descend pas en-dessous de 6, aucune personne dont le Rang d'Honneur égale au moins 5 ne peut vous attaquer sans que vous l'ayez agressé le premier\u00A0; leur code de l'Honneur strict ne leur permet pas d'aller si manifestement à l'encontre de la volonté de l'Empereur. Les duels consentants passent outre les effets de cet Avantage. Les personnages impériaux peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0094",
+    "Name": "Sage",
+    "Description": "Vous montrez une passion pour l'érudition et avez accumulé une impressionnante somme de connaissances. Chaque fois que vous êtes censé effectuer un Jet Sans Compétence lorsque vous recourez à une compétence de Connaissance, on considère en fait que vous disposez de 1 Rang dans la compétence en question. Les personnages du Clan du Phénix et les shugenja peuvent acheter cet avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": "GAV0007",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0096",
+    "Name": "Savoir interdit (Gozoku)",
+    "Description": "Vous avez une connaissance élaborée de la conspiration du Gozoku contre le Trône, sous sa première ou deuxième incarnation. Vous pourriez même être un membre de l'organisation. Vous recevez un Rang en Connaissance:Gozoku et un bonus de +1g1 ua x Jets de Compétence Sociale avec des membres connus du Gozoku."
+  },
+  {
+    "Groupe_Tag": "GAV0007",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0097",
+    "Name": "Savoir interdit (Kolat)",
+    "Description": "Vous avez une connaissance intime de la nature et des opérations de l'odieux ordre du Kolat, dont vous êtes peut-être membre. Vous recevez un Rang en Connaissance:Kolat et un bonus de +1g1 aux Jets de Compétence Sociale avec des membres connus du Kolat."
+  },
+  {
+    "Groupe_Tag": "GAV0007",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0098",
+    "Name": "Savoir interdit (Maho)",
+    "Description": "Vous êtes au fait de la forme de magie interdite et blasphématoire nommée la maho, et appartenez peut-être à la caste des maho-tsukai (sorcier noir) en exercice. Vous recevez un Rang en Connaissance:Maho et, si le MJ l'autorise, pouvez commencer la campagne en maîtrisant un sort de Maho."
+  },
+  {
+    "Groupe_Tag": "GAV0007",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0099",
+    "Name": "Savoir interdit (Ombre Rampante)",
+    "Description": "L'entité appelée Ombre Rampante, ses méthodes, ses sbires, n'ont pas de secrets pour vous. Vous avez peut-être eu des soucis avec elle dans le passé, et elle pourrait même encore vous traquer. Vous recevez un Rang en Connaissance:Ombre Rampante et vous pouvez effectuer un Jet de Connaissance:Ombre Rampante/Perception (ND 30) en observant un individu pour déterminer s'il a été corrompu par l'entité."
+  },
+  {
+    "Groupe_Tag": "GAV0007",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0100",
+    "Name": "Savoir interdit (Poivre Gaijin)",
+    "Description": "Vous êtes versé dans la poudre à canon, que vous savez à la fois produire et utiliser. Vous recevez un Rang en Artisanat:Explosifs et disposez d'une petite bourse de poivre gaijin que vous pouvez emporter avec vous si vous le souhaitez."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 1,
+    "RangMax": 0,
+    "Tag": "AVA0101",
+    "Name": "Sens de l'orientation",
+    "Description": "Vous avez un sens de l'orientation presque surnaturel qui vous permet de savoir où se trouve le nord en toutes circonstances. Cette faculté ne fonctionne pas si vous vous êtes avancé dans l'Outremonde de plus d'une journée de voyage."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0001",
+    "Name": "Alliance impériale",
+    "Description": "Par le biais d'un échange soigné de faveurs et de ressources, votre famille a arrangé votre mariage avec un membre mineur d'une famille impériale. Votre époux/épouse ne possède pas un statut suffisant pour vous garantir un nom impérial, mais les avantages sont indéniables. Vous recevez +0.5 Rang de Statut et un bonus de +1g1 au total de tous les jets de Compétence Sociale avec des membres des Familles Impériales."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0003",
+    "Name": "Ami de la confrérie",
+    "Description": "Vous avez étudié parmi vos alliés de la Confrérie de Shinsei, ce qui vous permet de comprendre mieux que la plupart votre place dans l'univers. Vous disposez d'un Kiho (les règles des Kiho se trouvent dans le livre de l'Eau) pour lequel vous devez remplir toutes les conditions. Seuls les personnages issus d'une école de Shugenja ou de Moine peuvent acheter cet Avantage. Les personnages du clan du Dragon peuvent acheter cet Avantage pour 4 points."
+  },
+  {
+    "Groupe_Tag": "GAV0002",
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0020",
+    "Name": "Bénédiction des 7 fortunes (Fukurokujin)",
+    "Description": "(Dragon, Phénix) La Fortune de la Sagesse vous apprécie plus que la plupart et vous profitez de son soutien. Choisissez une compétence de connaissance à l'achat de cet Avantage. Chaque fois que vous faites un Jet de cette Compétence, vous recevez un bonus de +1g1 au total du jet."
+  },
+  {
+    "Groupe_Tag": "GAV0005",
+    "SousType": "materiel",
+    "Cout": 8,
+    "RangMax": 0,
+    "Tag": "AVA0051",
+    "Name": "Gouverneur (Village)",
+    "Description": "Village"
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 1,
+    "RangMax": 0,
+    "Tag": "AVA0071",
+    "Name": "Langue (étrangère)",
+    "Description": "L'Empire ne connaît qu'une langue déclinée en deux dialectes. En revanche, le monde qui entoure Rokugan compte une grande variété de nations et de cultures avec chacune leur langue. Vous pouvez apprendre une langue humaine d'une culture environnante, notamment le dialecte yobanjin, le senpet, le yodotai, le mekham, le merenae, le rhuumal et le thrane, entre autres."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "spirituel",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0095",
+    "Name": "Sang d'Osano-Wo",
+    "Description": "Vous êtes héritier de la lignée de Hida Osano-Wo, la Fortune du Tonnerre et du Feu, et sa résistance légendaire vous habite. Vous êtes immunisé contre les malus et dommages infligés par les conditions climatiques naturelles comme le froid hivernal ou la chaleur estivale. Si vous subissez les dommages d'un Sort recourant à la aux force naturelles (comme la puissante tempête engendrée par Ouragan ou les éclairs de la Fureur d'Osano-Wo), réduisez les dommages subis de 1g1. Les personnages du Clan du Crabe ou de la Mante peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0102",
+    "Name": "Serviteur (Artisan)",
+    "Description": "Une compétence d'artisanat à 3\n-2 points pour le Clan du Dragon"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0103",
+    "Name": "Serviteur (Artiste)",
+    "Description": "Une compétence d'art à 3\n-2 points pour le Clan de la Grue"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0104",
+    "Name": "Serviteur (Budoka)",
+    "Description": "Une compétence d'armes à 3\n-2 points pour le Clan du Lion"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0105",
+    "Name": "Serviteur (Domestique)",
+    "Description": "Étiquette(Conversation) à 3\n-2 points pour le Clan du Scorpion"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0106",
+    "Name": "Serviteur (Domestique eta)",
+    "Description": "Connaissance(Anatomie) à 3\n-2 points pour le Clan du Crabe"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0107",
+    "Name": "Serviteur (Palefrenier)",
+    "Description": "Élevage(Chevaux) à 3\n-2 points pour le Clan de la Licorne"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0108",
+    "Name": "Serviteur (Marchand)",
+    "Description": "Commerce(Estimation) à 3\n-2 points pour le Clan de la Mante"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0109",
+    "Name": "Serviteur (Scribe)",
+    "Description": "Une compétence de Connaissance à 3\n-2 points pour le Clan du Phénix"
+  },
+  {
+    "Groupe_Tag": "GAV0008",
+    "SousType": "materiel",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0110",
+    "Name": "Serviteur (Sohei)",
+    "Description": "Jiujutsu à 3\n-2 points pour le Clan de l'Araignée"
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0111",
+    "Name": "Silencieux",
+    "Description": "Vous montrez un talent naturel pour le déplacement silencieux. Vous ajoutez +1g0 au total de tous vos Jets de Discrétion. Les personnages ninja peuvent acheter cet Avantage pour 2 points."
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0112",
+    "Name": "Sombre Parangon (Compréhension)",
+    "Description": "Relancer un jet recourant au Trait Intuition"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0113",
+    "Name": "Sombre Parangon (Contrôle)",
+    "Description": "Relancer un jet de compétence Sociale"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0114",
+    "Name": "Sombre Parangon (Détermination)",
+    "Description": "Annuler tous les malus de ND/Blessures lors d'un jet de Compétence ou d'Incantation (pas de bonus de +5 à ce Jet)"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0115",
+    "Name": "Sombre Parangon (Force)",
+    "Description": "Rejouer un jet de dommages"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0116",
+    "Name": "Sombre Parangon (Perfection)",
+    "Description": "La dépense d'Honneur provoque l'ouverture du dé de votre choix sur un jet de Compétence (pas de bonus de +5 à ce jet)"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0117",
+    "Name": "Sombre Parangon (Savoir)",
+    "Description": "Relancer un jet recourant au Trait Intelligence"
+  },
+  {
+    "Groupe_Tag": "GAV0009",
+    "SousType": "mental",
+    "Cout": 5,
+    "RangMax": 0,
+    "Tag": "AVA0118",
+    "Name": "Sombre Parangon (Volonté)",
+    "Description": "La dépense d'Honneur annule 10 Blessures au moment où le personnage les subit"
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 6,
+    "RangMax": 0,
+    "Tag": "AVA0119",
+    "Name": "Statut Social",
+    "Description": "On vous a confié un poste prestigieux pour récompenser votre œuvre ou pour des raisons purement politiques. Vous recevez +1 Rang de Statut."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 4,
+    "RangMax": 0,
+    "Tag": "AVA0120",
+    "Name": "Tacticien",
+    "Description": "Votre esprit s'adapte parfaitement au rythme et aux tournures du champ de bataille. Lorsque vous effectuez un jet selon la Table de Combat de Masse, vous pouvez accroître ou diminuer votre résultat de 5. Les personnages du Clan du Lion et les bushi peuvent acheter cet Avantage pour 3 points."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "social",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0121",
+    "Name": "Vedette",
+    "Description": "Vous savez ravie les foules, quelles que soient les circonstances. Chaque fois que vous êtes censé effectuer un Jet Sans Compétence lorsque vous recourez à une compétence du Spectacle, on considère en fait que vous disposez de 1 Rang dans la compétence en question."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0122",
+    "Name": "Vertueux",
+    "Description": "Chacune de vos pensées, chacun de vos actes est empreint de vertu. Vous disposez d'1 Rang d'Honneur supplémentaire par rapport à votre valeur normale de départ (déterminée par votre école)."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "mental",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0123",
+    "Name": "Vigilant",
+    "Description": "Vous êtes toujours sur le qui-vive, à 'affût de l'imprévisible. Lorsque vous jouez Enquête(Sens de l'Observation)/Perception contre Discrétion(Embuscade)/Agilité pour anticiper une embuscade, vous ajoutez +1g1 à votre jet."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 12,
+    "RangMax": 0,
+    "Tag": "AVA0124",
+    "Name": "Virtuose",
+    "Description": "Vous êtes la fierté du dojo et vos sensei sont convaincus que vous allez accomplir d’incroyables prouesses au cours de votre vie. Chaque fois que vous faites un Jet de Compétence d’École, vous recevez un bonus de +1g0."
+  },
+  {
+    "Groupe_Tag": null,
+    "SousType": "physique",
+    "Cout": 3,
+    "RangMax": 0,
+    "Tag": "AVA0125",
+    "Name": "Voix mélodieuse",
+    "Description": "Votre voix est perçue comme agréable par la plupart des gens. Vous recevez un bonus de +1g1 à tout Jet de Spectacle faisant intervenir votre voix, comme Spectacle:Chant ou Spectacle:Éloquence."
+  }
+]

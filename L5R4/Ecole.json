@@ -1,0 +1,4397 @@
+[
+  {
+    "Clan_Tag": "CLN0001",
+    "Balise": "bushi",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 3,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0014",
+        "Specialite_Tag": "SPC0039"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0009"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0001",
+    "Name": "Bushi Hida",
+    "Description": "Le style de combat Hida compte parmi les plus vieilles et respectées des écoles de Bushi de l'Empire. Sa philosophie est simple et sans détours\u00A0: encaisse les coups de ton ennemi jusqu'à ce que tu aies l'occasion de t'en débarrasser en usant de toute ta force. Ce style fut façonné par les premières années de combat du clan contre les Oni et autres ennemis originaires de l'Outremonde, lorsque seuls les plus forts et les plus vigoureux des survivants de Hida avaient une chance de survivre.\nL'école de Bushi Hida regroupe deux grands thèmes\u00A0: la réduction des dommages subis et l'utilisation d'armes lourdes. Les Bushi Hida ne sont sans doute pas les samurai les plus précis de l'Empire, mais quand leurs coups portent, ils infligent des dommages considérables. Heureusement pour eux, ils parviennent à encaisser de lourds dommages en attendant l'occasion de porter le coup fatal à leurs ennemis."
+  },
+  {
+    "Clan_Tag": "CLN0001",
+    "Balise": "shugenja",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0006"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 2,
+      "NbrSortVide": 0,
+      "NbrSortAir": 0,
+      "NbrSortEau": 1,
+      "NbrSortTerre": 3,
+      "Affinite": "terre",
+      "Deficience": "air"
+    },
+    "Devotion": null,
+    "Tag": "ECO0002",
+    "Name": "Shugenja Kuni",
+    "Description": "Souvent incomprise, l'École de shugenja Kuni est généralement dépeinte tel un ramassis de fous obsessifs qui badinent avec des secrets que nul ne devrait connaître. La plupart des Kuni protestent contre cette étiquette qu'on tente de leur coller à la peau, mais beaucoup admettent secrètement que ce stéréotype est assez proche de la réalité. Les Kuni saisissent parfaitement qu'il leur faut mettre de côté certaines inhibitions et réserves pour servir leur Clan et l'Empire du mieux possible, si bien qu'ils s'exécutent sans rechigner.\nL'École de shugenja Kuni insiste avant tout sur la lutte que le clan du Crabe mène contre les créatures de l'Outremonde. L'alliance des Crabes avec les tribus Nezumi de la région leur confère également un bon aperçu des autres créatures non-humaines, et leur Technique leur permet de terrasser plus facilement ces créatures."
+  },
+  {
+    "Clan_Tag": "CLN0001",
+    "Balise": "courtisan",
+    "BonusInitial": "perception",
+    "ArgentInitial": 5,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": "SPC0085"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0027"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0010"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0003",
+    "Name": "Courtisan Yasuki",
+    "Description": "Ancienne famille du Clan de la Grue, les Yasuki ont quitté celle-ci pour rejoindre le Clan du Crabe après que leurs maîtres Doji eurent décidé de ne plus admettre les méthodes plus que douteuses sur lesquelles ils s'appuyaient pour remplir certaines tâches pourtant essentielles au fonctionnement du Clan de la Grue. Les Crabe, de nature beaucoup plus pragmatique, ont encouragé les Yasuki à devenir les marchands les plus prospères de l'Empire. Les enseignements de leurs sensei insistent sur cette capacité à trouver ce dont leurs adversaires à la cour ont besoin, afin de le leur fournir contre une somme très modique et de s'assurer leur gratitude ainsi que des bénéfices certains.\nLes Yasuki commercent dans le but de gagner les faveurs d'autrui. Ce sont des marchands et des courtisans, capables de recourir à de nombreuses tactiques de vente, dont différents types de pression et une sincérité de façade, pour obtenir ce qu'ils convoitent. Nul dans l'Empire ne peut s'emparer d'une ressource et en faire un bien incontournable avec autant de style et d'adresse qu'un courtisan Yasuki."
+  },
+  {
+    "Clan_Tag": "CLN0001",
+    "Balise": "bushi",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0001"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0007"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0004",
+    "Name": "Bushi Hiruma",
+    "Description": "Là où l'École de Bushi Hida enseigne l'endurance et la force, leurs cousins apprennent à esquiver les attaques de leurs ennemis pour viser leurs points faibles au moyen de coups éclair. Les leçons qu'enseignent leurs sensei sont essentielles pour accomplir leurs devoirs de guerrier dans l'Outremonde. Ceux qui les maîtrisent parfaitement deviennent de véritables fléaux pour les habitants de l'Outremonde puisqu'ils évoluent avec grâce et célérité en semant la mort dans leur sillage.\nL'École de Bushi Hiruma insiste sur les déplacements et la survie, et ne se limite pas à encaisser les coups comme le font les Hida, ne serait-ce que pour survivre à l'escarmouche. En combat singulier, les Hiruma échappent facilement à leur adversaire. Dans les affrontements plus importants, cette faculté leur permet de se rendre auprès des ennemis les plus gênants et de les éliminer pendant que leurs alliés s'occupent des simples troupes."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Balise": "bushi",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 5,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0005",
+    "Name": "Bushi Mirumoto",
+    "Description": "Célèbre dans tout l'Empire pour ses enseignements uniques, l'École de Bushi Mirumoto est le seul style de combat qui s'appuie sur la technique du Niten, dans laquelle le samurai utilise le katana et le wakizashi en même temps. Ce style évidemment très controversé car il défie ceux dont se servent les autres Clans depuis des siècles, fut pourtant développé en même temps que l'escrime classique. Du reste, la rivalité qui oppose les élèves de l'École de Bushi Mirumoto à ceux de l'École de Bushi Kakita, farouches partisans de la philosophie «\u00A0Une âme, Un sabre\u00A0» de Kakita en personne, reste vive même en temps de paix. Prenant parfois les Dragon pour des sauvages, de nombreux samurai ont eu la désagréable surprise d'être confrontés à des Mirumoto parfaitement calmes et implacables, ce qui leur a bien souvent coûté la victoire sur le champ de bataille.\nL'École de Bushi Mirumoto s'attache avant tout aux avantages qu'elle tire du maniement de deux sabres en même temps, ce qui lui permet de réduire les malus habituels et d'en accroître encore les bénéfices. Elle augmente aussi le ND d'armure du samurai et lui confère des attaques supplémentaires."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Balise": "shugenja",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 5,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0006",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0009",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": null,
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": {
+      "NbrSortFeu": 2,
+      "NbrSortVide": 0,
+      "NbrSortAir": 0,
+      "NbrSortEau": 1,
+      "NbrSortTerre": 3,
+      "Affinite": "terre",
+      "Deficience": "air"
+    },
+    "Devotion": null,
+    "Tag": "ECO0006",
+    "Name": "Shugenja Tamori",
+    "Description": "Nés des cendres de la famille Agasha après qu'elle eu rejoint le Clan du Phénix, les Tamori ont hérité des siècles d'études expérimentales menées par leurs prédécesseurs et s'y plongent pleinement. La plus importante de ces disciplines singulières consiste dans l'étude de l'alchimie. Les Tamori maîtrisent le secret auquel ont renoncé les Agasha\u00A0: l'art d'enfermer l'essence d'un sortilège dans un liquide tout spécialement préparé à cet usage, afin de servir ultérieurement. Combiné à l'entraînement martial que reçoivent les shugenja Tamori, inutile de dire que l'enseignement secret de cette famille reste unique dans l'Empire.\nLa technique Tamori offre une grande polyvalence dans l'usage des Sorts, d'autant que d'autres peuvent également s'en servir si des préparatifs sont effectués dans ce sens. La Technique permet aussi de réduire le temps d'incantation dans certains cas, ce qui rend les Tamori particulièrement meurtriers en cas d'embuscade."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Balise": "courtisan",
+    "BonusInitial": "perception",
+    "ArgentInitial": 5,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": "SPC0017"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": "SPC0015"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0007",
+    "Name": "Enquêteur Kitsuki",
+    "Description": "Les méthodes et croyances enseignées à l'école Kitsuki se montrent fort singulières, même pour le Clan du Dragon. Seuls contre tous, les Kitsuki croient dur comme fer en l'importance des preuves, concept que nul en dehors d'eux ne parvient à comprendre. Les sensei de cette curieuse école accordent une grande importance au développement du sens de l'observation au sein de la famille, au point que ceux qui en apprennent les Techniques ont une mémoire quasi-infaillible, des souvenirs très précis et prêtent une attention surnaturelle aux moindres détails. Peu de choses échappent à l'oeil vigilant d'un enquêteur Kitsuki entraîné.\nBien qu'ils soient avant tout les représentants des Dragons à la cour, les Enquêteurs Kitsuki font d'excellents magistrats. Leur force repose en effet sur la collecte renseignements, qu'ils tirent de leur environnement ou de ceux qui les entourent."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Balise": "moine",
+    "BonusInitial": "vide",
+    "ArgentInitial": 5,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT1008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0019"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0024"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0008",
+    "Name": "Ordre tatoué de Togashi",
+    "Description": "Les moines de l'Ordre de Togashi, les célèbres Ise Zumi, se reconnaissent facilement au sein du Clan du Dragon, en raison notamment de leur apparence très exotique. Les moines Togashi épousent une étrange philosophie dont la doctrine inclus d'importants tatouages réalisés au moyen d'encre créée à partir du Kami Togashi. Ces tatouages confèrent des pouvoirs surnaturels phénoménaux que les plus puissants shugenja n'arrivent toujours pas à expliquer. En raison de leur comportement, généralement inhabituel pour des moines, les Ise Zumi sont craints et respectés par les Rokugani qui ne savent jamais vraiment à quoi s'attendre de la part de ces mystérieux personnages.\nLes moines Togashi se spécialisent dans le combat à mains nues et réalisent de véritables prouesses physiques, mais ils disposent aussi d'étranges pouvoirs. En règle générale, un tel individu soutient les autres personnages en divers domaines et dispose de pouvoirs uniques."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Balise": "bushi",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0003",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": "SPC0080"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0009",
+    "Name": "Bushi Kakita",
+    "Description": "L'art sacré du Iaijutsu est pratiqué par tous les Clans, mais nul ne le maîtrise avec autant de soin que les sensei de l'Académie de Duel de la famille Kakita. L'École s'attache avant tout au duel, et si d'autres fondamentaux font bien évidemment partie de l'enseignement prodigué, ils demeurent secondaires. On ne les enseigne que parce qu'une de leurs facettes s'apparente d'une façon ou d'une autre au Iaijutsu. Si certains osent critiquer l'École pour son champ d'éducation très restreint, peu de personnes osent en contester le fruit. Ainsi, la Grue a remporté de nombreuses batailles en abattant le général ennemi en duel avant même que l'affrontement ne débute. De même, la mainmise des Grue sur les cours s'exerce d'autant plus facilement que l'on dispose d'un champion Kakita prêt à répondre à tout défi et à en découdre en cas de duel.\nLes Techniques Kakita s'attachent bien entendu au Iaijutsu, mais proposent quelques bottes utilisables aussi bien lors d'un duel que d'une escarmouche. Les Kakita se montrent généralement pus rapides que leurs adversaires, ce que reflète parfaitement leur bonus d'initiative, et profitent pleinement de la Posture du Centre en toutes circonstances."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Balise": "shugenja",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0024"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 0,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 2,
+      "NbrSortTerre": 1,
+      "Affinite": "air",
+      "Deficience": "feu"
+    },
+    "Devotion": null,
+    "Tag": "ECO0010",
+    "Name": "Shugenja Asahina",
+    "Description": "Tout comme le reste de la famille, les sensei Asahina qui enseignent dans les différents départements de l'École de Shugenja Asahina prônent cette vertu qui consiste à protéger la vie à tout prix et à se détourner de la destruction aveugle. Moines et prêtres, les Asahina s'intéressent avant tout à l'érudition et à la méditation pour trouver leur place dans le monde. Ils se livrent aux mêmes rituels que les autres familles de shugenja, mais en profitent pour poser des questions à ceux qui y participent ou agissent en simples spectateurs, et tentent d'apprendre en toutes circonstances. De même, ils attachent énormément d'importance à la production d'œuvres d'art, une démarche qu'ils estiment essentielle pour améliorer le monde qui les entoure.\nPar dessus-tout, l'École de Shugenja Asahina s'attache à la défense et à la protection. Sa Technique et sa magie tournent avant tout autour de Sorts réduisant les dommages et protégeant autrui des attaques. Certains Sorts s'orientent aussi vers la création et l'artisanat."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0003",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0009"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": "SPC0015"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT4003",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0018"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0011",
+    "Name": "Courtisan Doji",
+    "Description": "Les Samurai du Clan de la Grue ont la réputation d'être les maîtres incontestés de la cour. Celle-ci est bien méritée et perdure grâce aux secrets anciens de l'École de Courtisan Doji. Cette dernière cherche avant tout à créer un vaste réseau d'alliés auxquels le Clan pourra faire appel en toutes circonstances, en faisant d'eux de préférence ses débiteurs. L'enseignement prodigué dans les dojo Doji regroupe une foule de sujets, bien plus qu'un samurai ne peut espérer un jour en maîtriser, aussi talentueux soit-il. Heureusement, les sensei forment des courtisans dans tous ces domaines afin qu'un Doji soit toujours prêt à relever les défis qui se présentent au Clan.\nL'École de Courtisan Doji se fonde sur le concept d'échange de faveurs, sans pour autant se limiter à cela. Ce qui en fait avant tout des adversaires très intimidants réside dans cette faculté qu'ils ont à cerner les besoins de leur prochain et à les leur proposer d'une manière telle qu'un refus devient souvent difficile, voire impossible."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Balise": "bushi",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0012",
+    "Name": "Guerriers de fer Daidoji",
+    "Description": "Le savoir-faire des Doji et des Kakita a permis de faire des Grues les maîtres de la cour, mais lorsque les mots ne suffisent pas, on fait appel à la force et au courage des Guerriers de Fer Daidoji. Eux-mêmes se considèrent depuis toujours comme le sabre silencieux de Clan de la Grue et cette perception se justifie pleinement. Les Guerriers de Fer Daidoji forment les fantassins lourds des armées de la Grue. Ils constituent donc une bonne partie de la première armée du Clan, et une majorité de la seconde. Ce sont aussi des yojimbo, devoir que leur attribue souvent la conscience collective, même s'il ne s'agit là que de l'un de leurs nombreux rôles.\nLes Daidoji sont très polyvalents. Leurs Techniques consistent à encaisser les dommages et à protéger ceux dont on leur confie la garde. Leur style de combat ne se base pas exclusivement sur la protection, mais permet aux Guerriers de Fer de combattre sur la défensive en pleine escarmouche pour tirer pleinement parti de leurs facultés."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 10,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0051"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0009"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0096"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0003"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0013",
+    "Name": "Bushi Moto",
+    "Description": "Les Bushi Moto incarnent le stéréotype que beaucoup attribuent au clan de la Licorne. Plus que toute autre famille, ils sont nés de l'union de Rokugani et de gaijin qui ont rejoins le Clan de la Licorne lors de ses pérégrinations à l'étranger. Issus des tribus barbares et nomades des steppes du nord, les Moto pratiquent un style de combat débridé qui les rend particulièrement intimidants sur le champ de bataille, même si cela leur vaut aussi l'inimité de tous ceux qui méprisent tout manquement à l'art de la guerre traditionnel de Rokugan.\nLes Bushi Moto relèvent de la cavalerie lourde, un rôle sur lequel se fondent leurs techniques. Ils apprécient tout particulièrement la Posture d'Assaut, et nombre de leurs Techniques leur permettent d'infliger des dommages supplémentaires avec un large éventail d'armes."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Balise": "shugenja",
+    "BonusInitial": "perception",
+    "ArgentInitial": 10,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      },
+      {
+        "Model_Tag": "OBJ0096"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": {
+      "NbrSortFeu": 0,
+      "NbrSortVide": 0,
+      "NbrSortAir": 1,
+      "NbrSortEau": 3,
+      "NbrSortTerre": 2,
+      "Affinite": "eau",
+      "Deficience": "feu"
+    },
+    "Devotion": null,
+    "Tag": "ECO0014",
+    "Name": "Shugenja Iuchi",
+    "Description": "A l'exception probable des Tamori, les Iuchi font certainement partie des shugenja les moins conventionnels et conservateurs de l'Empire. Ils se montrent sauvages et insouciants, et leurs sensei leur enseignent autant de leçons dans les temples que dans les plaines. Cela vient de la forme d'éducation que le Clan adopta lorsqu'il voyageait dans de lointains royaumes. L'impact de ces années d'errances apparaît aussi dans la diversité des styles de magie de la famille. Les Iuchi ont adopté, entre autres, le style connu sous le nom de meishodo, qui implique la création de talismans magiques d'où les shugenja puisent leur puissance plutôt que de faire systématiquement appel aux kami.\nFidèles aux thèmes chers au Clan de la Licorne, la Technique des Iuchi améliore les déplacements et offre une vitesse inégalée. Leur capacité à lancer de puissants Sorts de Voyage bonifie un peu plus leur savoir-faire en la matière."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": "SPC0014"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0026"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0017"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0015",
+    "Name": "Émissaire Ide",
+    "Description": "Les Techniques Ide s'appuient sur un esprit apaisé, la sérénité en toute chose et la méditation. Ces courtisans font partie des plus pacifiques de tous les Clans Majeurs, à l'exception possible des Asako du Clan du Phénix. La force de leurs convictions en matière de pacifisme a fluctué au fil des ans, mais leur souhait le plus cher reste de désarmer les conflits. Cela fait d'eux les alliés de certains Clans, et des empêcheurs de tourner en rond pour d'autres. De leur côté, les Ide acceptent compliments et critiques avec le même enthousiasme.\nLes Techniques Ide diffèrent de celles des autres courtisans car aucune 'est de nature offensive. Les Ide s'efforcent de se prémunir des conséquences de leurs actes et tentent de désamorcer les conflits."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Balise": "bushi",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0097"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0003"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0016",
+    "Name": "Vierge de bataille Utaku",
+    "Description": "Les Vierges de Bataille Utaku, aussi connues sous le nom de shiotome, constituent la meilleure et la plus respectée des unités de cavalerie de tout l'Empire, au point qu'elles inspirent davantage de crainte que leurs cousins des familles Moto et Shinjo. Si le reste du Clan monte des chevaux de selle gaijin, une race plus imposante et robuste à la fois que le poney Rokugani, les Utaku et elles seules ont le droit d'élever et de monter leurs légendaires destriers au combat, qui sont assurément les meilleurs chevaux du monde.\nA l'instar des autres Écoles de Bushi de la Licorne, les Techniques de Vierge de Bataille Utaku se concentrent sur le combat monté, mais pas exclusivement. A cheval, une Utaku constitue une menace réelle pour n'importe quel samurai. L'Honneur importe également beaucoup à leurs yeux, et plus il est élevé, plus les bonus conférés le sont aussi."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Balise": "bushi",
+    "BonusInitial": "perception",
+    "ArgentInitial": 5,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": "SPC0068"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARU0002"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0017",
+    "Name": "Bushi Akodo",
+    "Description": "Au fil des siècles, les principales écoles de Bushi de nombreux Clans ont développé des spécialités qui ont sérieusement restreint leur champ d'action. Les Akodo considèrent qu'il s'agit d'une erreur et ont pris soin de ne jamais emprunter cette voie. L'École s'attache à la précision en matière de kenjutsu, le style d'escrime fondamental de l'Empire. Les Akodo pensent qu'en frappant votre cible précisément comme vous le souhaitez à chaque coup, vous vous faciliterez considérablement la vie. Certains y voient là une forme de simplicité, mais nul ne remet en doute les capacités des Akodo au combat. L'art de la guerre fait partie intégrante de la formation de chaque Akodo et tous les samurai de cette école ont des connaissances en tactique et en stratégie, aussi rudimentaire soient-elles.\nLes Techniques Akodo s'attachent à la précision et à la réussite, si bien qu'elles permettent à de simples coups de se révéler particulièrement dévastateurs à haut niveau, voire à transformer des échecs en succès. D'une certaine façon, l'École annule les bonus d'un adversaire, ce dont l'élève Akodo profite pleinement."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Balise": "shugenja",
+    "BonusInitial": "perception",
+    "ArgentInitial": 5,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 0,
+      "NbrSortVide": 0,
+      "NbrSortAir": 2,
+      "NbrSortEau": 3,
+      "NbrSortTerre": 1,
+      "Affinite": "eau",
+      "Deficience": "feu"
+    },
+    "Devotion": null,
+    "Tag": "ECO0018",
+    "Name": "Shugenja Kitsu",
+    "Description": "Les plus vieux rituels de l'École Kitsu n'ont quasiment pas changé depuis que la famille a été fondé et la simple idée de mettre de côté les reliques du passé ne l'a jamais effleurée. Grâce à ses origines uniques, la famille Kitsu a toujours eu une vision très précise des relations qui unissent le monde des mortels et les royaumes de l'au-delà. Cette faculté de percevoir les liens qui séparent les vivants des ancêtres s'est développée au point qu'ils parviennent à sentir et à manipuler les liens qu'un individu entretient avec les autres royaumes.\nLes Kitsu peuvent affecter le lien qu'entretient autrui avec les autres royaumes, si bien que leur Technique perturbe certains types d'Avantage. Par ailleurs, ils s'intéressent de près à a magie de bataille, vitale pour les samurai Lion, et peuvent donc influencer sur l'issue des escarmouches en usant de Sorts puissants."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Balise": "courtisan",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 5,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": "SPC5205"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0026"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT4003",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0009"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0019",
+    "Name": "Barde Ikoma",
+    "Description": "Quand on étudie de près les plus grands conteurs de chaque génération de l'histoire de Rokugan, on comprend vite que les Ikoma dominent cet aspect social de l'Empire. Contrairement à la plupart des courtisans qui s'attachent à la manipulation et aux différentes formes de tromperie, les bardes Ikoma (ou omoidasu) s'efforcent de montrer l'exemple, citant les précédents historiques et les récits mythiques des héros pour démontrer l'issue attendue de toute discussion les impliquant. Bien que cette tactique puisse paraître curieuse, nombre des courtisans d'autres clans connaissent les pires difficultés en face d'un Ikoma capable de leur démontrer que leurs ancêtres désapprouveraient leur conduite. Dans une société ancrée dans l'histoire et la tradition, l'usage de paraboles constitue parfois une technique terriblement efficace.\nLes Techniques Ikoma permettent au courtisan d'inspirer son prochain mais aussi de résister à la manipulation de ses adversaires. Par ailleurs, en comparant ses interlocuteurs à des personnages historiques, les Ikoma gagnent de la Gloire non seulement pour eux, mais également pour autrui beaucoup plus facilement."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 5,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0009"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0020",
+    "Name": "Berserker Matsu",
+    "Description": "La grandes majorité des vastes légions de samurai Matsu étudient à l'École de la famille, pour la simple raison qu'ils estiment les autres styles de combat ben trop conservateurs et réservés. Un véritable Matsu ne craint pas la mort, au point que les Techniques que leur enseignent leurs sensei s'appuient sur un engagement total et indéfectible au combat. Bien qu'en théorie cela les rend vulnérables aux attaques de leurs adversaires, la philosophie Matsu veut qu'un ennemi vaincu n'a aucun moyen d'exercer des représailles. Cette raison fait que les légions de la famille sont redoutées sur le champ de bataille car comment vaincre un ennemi qui ne se soucie guère de savoir s'il va vivre ou mourir\u00A0?\nLes Techniques Matsu s'attachent avant tout à la Posture d'Assaut, ce qui fait de ces samurai des guerriers très violents qui doivent se placer de manière à empêcher leurs adversaires d'exploiter leur ND d'armure plutôt bas. En outre, ils génèrent des effets de Peur capables de déstabiliser leurs ennemis, qui constituent alors des proies faciles."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 10,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0016",
+        "Specialite_Tag": "SPC0048"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": "SPC0082"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0032",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0010"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0021",
+    "Name": "Bushi Yoritomo",
+    "Description": "Les Yoritomo sont les maîtres des océans. Au fil des siècles d'affrontements navals, ils ont développé un style de combat très singulier qui tient compte du roulis et s'appuie sur de nombreux déplacements. Ils ont également compris qu'une bataille qui s'éternise est presque toujours préjudiciable au combat naval, aussi ont-ils appris à exploiter les faiblesses de leurs adversaires. Enfin, les effets corrosifs de l'air marin sur l'acier sont bien connus, si bien que les Mante se servent depuis des siècles d'un armement hétéroclite, notamment des armes habituellement réservées à la paysannerie.\nLes Techniques Yoritomo se dispersent quelque peu. Elles proposent de redoutables attaques, entravent les déplacements et permettent de réduire le ND d'armure d'un adversaire entre autres choses. Les Yoritomo sont des touche-à-tout, ce qui les rend très polyvalents en cas d'escarmouche."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Balise": "shugenja",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0006",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 3,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 0,
+      "NbrSortTerre": 0,
+      "Affinite": "air",
+      "Deficience": "terre"
+    },
+    "Devotion": null,
+    "Tag": "ECO0022",
+    "Name": "Shugenja Moshi",
+    "Description": "Les pratiques des shugenja Moshi furent développées au fil de nombreuses années passées à vénérer la Déesse Soleil. Malgré les bouleversements que l'Ordre Céleste a connus au cours de l'histoire de Rokugan, les Moshi n'ont pas dérogé à leurs habitudes, même si la nature de leurs études magiques a quelque peu changé. Depuis qu'ils ont rejoint le Clan de la Mante, ils se sont détournés de la théologie pure pour s'intéresser davantage aux affaires pratiques et excellent dans l'art d'invoquer les kami qui contrôlent le climat. De fait, les Moshi, bien plus nombreux  que les quelques shugenja Yoritomo, servent à bord des vaisseaux de leur Clan dans le but d'apaiser les océans lors des voyages importants.\nA l'instar de leurs cousins Yoritomo, les Moshi ont d'excellentes facultés d'adaptation. L'Affinité en plus gagnée quand il fait jour (et non accompagnée d'une déficience) leur offre un large choix de sorts qui leur permet de rivaliser avec même les Isawa du Clan du Phénix."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Balise": "courtisan",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 10,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": "SPC0085"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": "SPC0102"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0016"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0023",
+    "Name": "Courtisan Yoritomo",
+    "Description": "Livrée à elle-même par un Empire qui ne s'y intéressait guère, la famille Yoritomo a pourtant refusé de baisser les bras et a consacré ses gigantesques ressources à tous les aspects imaginables de développement d'un Clan. Saisissant que des courtisans habiles pouvaient avoir un impact important sur leurs intérêts mercantiles, les Yoritomo fondèrent une école censée les aider dans ce sens. Heureux dans leurs entreprises commerciales, les Yoritomo mettent rarement les pieds à la cour, en raison sans doute de leur rudesse et de leurs recours très réguliers à l'intimidation. Mais depuis leur ascension au statut de Clan Majeur, les Mante changent doucement de tactique et l'École de Courtisan Yoritomo rencontre de plus en plus de succès dans l'arène politique.\nLes Techniques des Yoritomo s'attachent à l'intimidation et aux brimades. Cela les rend particulièrement efficaces face à des adversaires peu habitués à de telles tactiques ou n'ayant pas de réelle volonté. Malheureusement, les adversaires endurcis, comme les Grue ou les Scorpion, sont parfois immunisés contre les principales capacités des Yoritomo."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Balise": "bushi",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 10,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": "SPC0059"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0011"
+      },
+      {
+        "Model_Tag": "ARM0006"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0001"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0024",
+    "Name": "Archer Tsuruchi",
+    "Description": "Avant de rejoindre les Mante, lorsqu'ils constituaient encore le Clan de la Guêpe, nul doute que les Tsuruchi étaient les meilleurs archers de l'Empire. Toutefois, le fait qu'ils aient placé l'archerie avant l'étude du sabre a souvent suscité la méfiance des autres familles. Les Tsuruchi s'en moquent cependant. Ils croient en la pureté de l'arc et bien que leurs sensei leur apprennent à se servir d'autres armes, cela leur apparaît parfaitement secondaire. Les Techniques Tsuruchi incarnent la philosophie même de l'archerie à Rokugan, selon laquelle la flèche connaît se voie et doit être tirée instinctivement.\nLes Techniques Tsuruchi tournent presque exclusivement autour du combat à distance, un domaine dans lequel ils excellent. Bien qu'il s'agisse là d'un avantage considérable, ces samurai sont nettement surclassés par l'ensemble des autres écoles de Bushi quand il leur faut combattre au corps à corps."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Balise": "bushi",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 5,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": "SPC0025"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0025",
+    "Name": "Bushi Shiba",
+    "Description": "Les Bushi Shiba se montrent relativement pacifiques, du moins pour des bushi. Leur formation s'attache à un certain nombre de compétences non martiales en plus de leur entraînement militaire traditionnel, ce qui leur vaut une réputation de soldats érudits dans certains cercles. Le Bushi Shiba songe à toutes les alternatives qui s'offrent à lui avant d'entamer un combat, et cherche si possible à éviter les pertes en vies humaines. Mais si l'on menace ceux qu'il protège ou que le combat devient inévitable, il passe rapidement à l'attaque, sans la moindre réserve, et fait son devoir. Ceux qui prennent son désir de préserver la vie à tout prix pour de l'incompétence ne sont certainement pas prêts à le combattre.\nLes Techniques Shiba optimisent l'utilisation de Points de Vide et se spécialisent dans la protection d'autrui, ce qui permet aux bushi de remplir leur rôle de yojimbo. Ils ont aussi une affinité aux armes d'hast et peuvent exceller en matière de duel."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Balise": "shugenja",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 5,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0009",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": {
+      "NbrSortFeu": 1,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 2,
+      "NbrSortTerre": 1,
+      "Affinite": "choix",
+      "Deficience": "aucun"
+    },
+    "Devotion": null,
+    "Tag": "ECO0026",
+    "Name": "Shugenja Isawa",
+    "Description": "Les Isawa sont les plus grands shugenja de l'Empire, et bien que la famille ne l'admette jamais ouvertement, l'attitude de ceux qui sortent de cette École prestigieuse le démontre parfaitement. Heureusement parmi les autres Clans beaucoup le savent et l'acceptent à différents degrés de ressentiment ou de résignation. Les Isawa sont près  de deux fois plus nombreux que la seconde famille de shugenja de l'Empire, au point que leurs effectifs correspondent presque à ceux d'une famille de Bushi moyenne. Le fait que tant d'entre eux naissent avec le don de communiquer avec les kami permet à la famille de se spécialiser en divers domaines de magie, mais le cœur de la famille reste l'École de Shugenja Isawa. Il s'agit assurément de la plus vieille École de ce genre à Rokugan, les Isawa y cherchent à dompter les secrets de l'univers depuis plus de mille ans.\nLes Shugenja Isawa ne s'encombrent d'aucune spécialisation précise, mais s'échinent à devenir les meilleurs lanceurs de sorts généralistes. Ils choisissent une Affinité mais pas de Déficience, et bénéficient en plus d'une Augmentation gratuite aux Jets d'Incantation des Sorts découlant de cette Affinité, ce qui les rend extrêmement compétents."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Balise": "courtisan",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 5,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5213"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": "SPC0015"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0027",
+    "Name": "Maître du savoir Asako",
+    "Description": "Les Asako ont une nature monastique et érudite, ce qu'illustre à merveille la tradition de courtisans qu'ils observent pour le compte du Clan du Phénix. Leur formation consiste à étudier de nombreux sujets, dont certains peuvent être choisis par les élèves eux-même. Un large spectre de connaissance leur confère la base nécessaire pour réfléchir à toute nouvelle donnée ou situation, ce qui leur confère une grande perspicacité à la cour.\nLes Maîtres du Savoir empruntent la voie de l'érudition, ce qui leur confère un avantage certain en société. Ces courtisans utilisent les Compétences de Connaissance pour soutenir leurs Compétences Sociales, accumulant ainsi de l'influence grâce à leur grand savoir."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Balise": "shugenja",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 5,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0007"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": {
+      "NbrSortFeu": 3,
+      "NbrSortVide": 0,
+      "NbrSortAir": 1,
+      "NbrSortEau": 0,
+      "NbrSortTerre": 2,
+      "Affinite": "feu",
+      "Deficience": "eau"
+    },
+    "Devotion": null,
+    "Tag": "ECO0028",
+    "Name": "Shugenja Agasha",
+    "Description": "Durant des siècles passés au service du Clan du Dragon, les Agasha ont emprunté de nombreuses voies magiques hétérodoxes, avec l'aval et le soutien de l'École de Shugenja Agasha. En plus de leur intérêt alchimique, les Agasha se sont toujours penchés sur la création de sorts permettant d'invoquer les kami de plusieurs éléments à la fois. Le Clan du Phénix leur a permis d'explorer ce champ d'étude aussi loi qu'ils le souhaitent, si bien qu'ils ont fait des progrès considérables en matière de sorts multi-élémentaires.\nLa Technique Agasha s'appuie sur la fusion des éléments et les Sorts multi-élémentaires. Bien que cette pratique ne soit pas pleinement acceptée, leur Technique leur permet de changer l'élément du Sort lancé, ce qui leur offre une polyvalence considérable dans la gestion de leurs Sorts quotidiens et de leurs emplacements de Sorts."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Balise": "bushi",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 5,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0009"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0029",
+    "Name": "Bushi Bayushi",
+    "Description": "Les pires félons des meilleures pièces de théâtre rokugani sont toujours des Scorpions, car cela est le plus plausible pour la plupart des samurai de l'Empire. Il faut dire que les actes des élèves de l'École de Bushi Bayushi ont donné naissance à ce stéréotype et l'ont consolidé au fil des siècles. Tous les élèves des dojo Bayushi sont formés pour devenir de parfaites armes de discorde, capables de retourner les Clans les uns contre les autres avec un minimum d'efforts. L'entraînement martial n'est qu'un aspect de leur éducation, qui inclut souvent la manipulation sociale, la discrétion et même l'usage de poison, du moins lorsque l'élève en semble digne.\nLes Techniques Bayushi regroupent une série de coups bas. Chacun offre un avantage au personnage, qu'il s'agisse d'augmenter son initiative ou d'accentuer un avantage déjà existant. Il peut notamment accabler son ennemi de handicaps très préjudiciables, ce qui lui permet avec un peu de chance de venir à bout d'adversaires supérieurs."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Balise": "shugenja",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 5,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 2,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 1,
+      "NbrSortTerre": 0,
+      "Affinite": "air",
+      "Deficience": "terre"
+    },
+    "Devotion": null,
+    "Tag": "ECO0030",
+    "Name": "Shugenja Soshi",
+    "Description": "Bien que ce soit rare, il arrive que les prodigieuses qualités physiques des Bayushi ou des Shosuro ne permettent pas d'accomplir une tâche nécessitant discrétion et subtilité. Dans ce cas, un élève de l'École de Shugenja Soshi se charge la mission. Les Soshi comprennent mieux que quiconque que contrairement à ce que beaucoup pensent, les kami ne sont pas des êtres honorables, mais des créatures originaires d'un autre monde n'ayant aucune notion du comportement humain et de l'honneur. Quand on les caresse dans le sens du poil, ils sont donc prêts à tout, du moins si l'on n'enfreint pas l'ordre naturel des choses, en usant de magie du sang par exemple. Ainsi les Soshi ont peaufiné l'art de canaliser les kami afin de produire de véritables tours de force en matière de discrétion, de ruse et de tromperie.\nBien que tous les shugenja aient le potentiel de lancer des Sorts discrètement, aucun ne le fait avec autant de talent que les Soshi. Capables de lancer une multitude de Sorts n'infligeant pas de dommages sans révéler qu'ils en sont la source, ils font les candidats parfaits des missions d'infiltration et de manipulation de cour."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 5,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0008"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0027"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0037",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0031",
+    "Name": "Courtisan Bayushi",
+    "Description": "La réputation des Scorpions à la cour équivaut presque à celle des Grue, mais généralement teintée d'une aura d'effroi, résultat direct des machinations malveillantes des courtisans Bayushi depuis des siècles. Le très célèbre réseau de renseignements des Scorpions provient assurément de leurs éminents courtisans, capables de dénicher les plus petits détails utilisables pour abattre un individu, une famille ou un Clan.\nLes courtisans du Clan du Scorpion demeurent les maîtres de la manipulation et de la tromperie. Plus encore, ils savent trouver les secrets et faiblesses les mieux cachées de leurs adversaires (ou de leurs alliés!) et les exploiter pour le bien de leur Clan. Tout adversaire, quel qu'il soit, peut donc être la cible d'un courtisan Bayushi susceptible d'éventer des secrets jusque là bien gardés."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Balise": "ninja",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 5,
+    "Honneur": 1.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0004",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0021",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": "SPC0099"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0090"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0001"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0007"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0032",
+    "Name": "Infiltrateur Shosuro",
+    "Description": "En dehors du Clan du Scorpion, peu d'individus connaissent l'existence de l'École d'Infiltrateur Shosuro. De toute façon, ceux qui savent sont si étroitement liés au Clan qu'ils n'osent pas en révéler l'existence, ou ont à ce point subi le discrédit que nul ne prête attention à leurs accusations. Les Shosuro incarnent le Clan du Scorpion tel que chacun se l'imagine, mais sans l'arrogance et la cruauté communément associées à ces félons dans les pièces de théâtres et poèmes. Les Infiltrateurs, tueurs impitoyables et silencieux, ne tirent ni plaisir ni satisfaction de leur travail. Ils accomplissent tout simplement leur devoir sans joie ni remords.\nLa spécialisation des Infiltrateurs Shosuro n'a rien de compliqué, elle consiste à attaquer des cibles et à les terrasser avant qu'elles puissent s'en rendre compte. Les bonus en discrétion rendent ces guerriers quasiment indétectables. Une fois à l'abri du regard de leur adversaire, ils peuvent frapper depuis les ombres et infliger des dommages considérables."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 3,
+    "Honneur": 1.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0015"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0033",
+    "Name": "Bushi Daigotsu",
+    "Description": "Les légions de guerriers fidèles à Daigotsu utilisent un style de combat issu des diverses Techniques sont ils disposaient dans leur ancienne vie. Du coup, les Techniques Daigotsu apparaissent quelque peur éclectiques, mais peuvent se révéler particulièrement efficaces quand on s'en sert conjointement les unes avec les autres. Les bushi habiles exploitent ces secrets pour laminer leurs ennemis et boire leur essence vitale pour se soigner, un acte qui fait d'eux des traites et blasphémateurs aux yeux de l'Empire.\nLes Techniques de Bushi Daigotsu témoignent des faveurs dont ceux-ci jouissent auprès de leur dieu et maître, Fu Leng. Leur faculté d'augmenter les dommages et d'inspirer la peur en fait des adversaires puissants pour de nombreux ennemis. Enfin, leur niveau de pouvoir augmente considérablement quand ils se servent de la Souillure de l'Outremonde 'bien que cela présente beaucoup de risques)."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Balise": "shugenja",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 0.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2021",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 1,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 2,
+      "NbrSortTerre": 0,
+      "Affinite": "maho",
+      "Deficience": "choix"
+    },
+    "Devotion": null,
+    "Tag": "ECO0034",
+    "Name": "Shugenja Chuda",
+    "Description": "Les Chuda observent une vieille tradition maho transmise en secret depuis des siècles, depuis que leur famille a été éradiquée par le Clan du Phénix. Au sein du Clan de l'Araignée, les héritiers du Serpent ont trouvé un nouveau foyer en prenant la place des Chuda et ils servent leurs maîtres à la perfection. Les Chuda comptent parmi les maho-tsukai les plus puissants et entreprenants. Ils repoussent sans cesse les frontières de la magie du sang, tout simplement parce qu'ils ne peuvent se contenter du pouvoir qui s'offre à eux. Les atrocités commises dans le but d'accroître le pouvoir et les connaissances de leur École n'ont aucune limite.\nLa maho fait sans conteste possible la force de la famille Chuda, mais le prix associé à la magie du sang en fait des lanceurs de sort moins prolifiques que les autres shugenja. Heureusement, leur technique leur permet de dissimuler la nature corrompue de leur magie et de limiter la vitesse à laquelle la Souillure se propage en eux."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Balise": "courtisan",
+    "BonusInitial": "perception",
+    "ArgentInitial": 3,
+    "Honneur": 1.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0004",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0009"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0027"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0037",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0035",
+    "Name": "Courtisan Daigotsu",
+    "Description": "La plus grande victoire du Clan de l'Araignée a sans doute été d'infiltrer lentement mais sûrement les nombreuses cours des Clans Majeurs. Déguisés en ronin et émissaires de branches mineures d'autres familles, les courtisans Daigotsu ont exploité le réseau de contacts, de victimes de chantage et d'agents du Clan de l'Araignée pour s'emparer de place de choix au sein des cours de nombreux Clans, y compris parmi les Familles Impériales. Grâce à cela, ils tentent de manipuler subtilement autrui et de provoquer des conflits que serviront leur vrai Clan, en en écartant leurs ennemis et en sapant l'honneur des samurai influençables.\nLa plus grande force des Courtisans Daigotsu ne réside pas dans l'ensemble de leurs Techniques, de tout évidence très utiles, mais dans leur faculté de dissimuler leur Souillure, le cas échéant. Leurs Techniques se concentrent sur la perturbation d'autrui, créant un environnement favorable tout en détournant l'attention sur quelqu'un d'autre. C'est là un point essentiel qui assure leur survie et profite grandement à leur Clan."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Balise": "moine",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 3,
+    "Honneur": 1.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0013",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0036",
+    "Name": "Ordre des moines de l'araignée",
+    "Description": "Les origines de l'énigmatique Ordre de l'Araignée demeurent un mystère pour beaucoup, y compris au sein du Clan auquel il a juré fidélité. L'Ordre naquit des préceptes du moine déchu Roshungi, mais il ne se mît à croître véritablement que lorsque son meilleur élève, Michio, se mit à propager l'évangile selon lequel chacun doit trouver sa propre voie. Les Frères de l'Araignée font des adversaires impitoyables à la réputation bien méritée de brutes. Leur entraînement inclut un style de combat au corps à corps dévastateur et l'utilisation d'armes lourdes. Bien que certains succombent aux sirènes de la Souillure de l'Outremonde, beaucoup restent purs parce qu'ils ne font pas appel aux pouvoirs des ténèbres.\nLes Moines de l'Araignée forment des combattants de corps à corps hors pair qui, contrairement aux pratiquants d'autres styles de combat monastiques, mutilent leurs adversaires plutôt que de les neutraliser. Leur volonté d'acier leur offre d'importants bonus pour résister à la manipulation et à la magie, ainsi qu'une grande robustesse et des dommages accrus."
+  },
+  {
+    "Clan_Tag": "CLN0010",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2019",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0010"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": "SPC0015"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      },
+      {
+        "Model_Tag": "OBJ0095"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0037",
+    "Name": "Héraut Miya",
+    "Description": "Les Héraut Impériaux Miya se chargent de répandre la bonne parole de l'Empereur et de la cour Impériale jusqu'aux régions les plus reculées de Rokugan. Même protégés par leur statut impérial, il leur arrive de se rendre en des lieux agités, voire dangereux. Parfois, des bandits et criminels désespérés ou parfaitement déraisonnables s'attaquent aux hérauts. Heureusement les Miya ont été formés à cette éventualité.\nL'École de Héraut Miya vise à créer un climat de confiance et de cordialité entre tous ceux qui se trouvent sur le chemin du messager. Ce dernier s'exprime avec assurance et sang-froid pour apaiser les tensions et éviter les altercations. Le Miya apprend à se protéger et à protéger la paix pour exhausser son rêve d'un Empire fort et uni."
+  },
+  {
+    "Clan_Tag": "CLN0010",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 10,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": "SPC0009"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": "SPC0102"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0038",
+    "Name": "Courtisan Otomo",
+    "Description": "A l'instar des Seppun, les Otomo se consacrent à la sécurité de l'Empereur, mais il se tournent pour cela vers des méthodes un peu moins orthodoxes. Le pouvoir de l'Empereur doit rester fort et incontesté, et cela ne vaut que si nul ne peut réunir assez de force pour ébranler son autorité. Les Otomo sèment donc suspicion et défiance parmi les Clans Majeurs pour empêcher les intrigues les plus malicieuses de prendre racine en leur sein.\nLes Courtisans Otomo, aussi connus sous le nom de seiyaku, s'attachent à se servir de tous les outils mis à leur disposition. En qualité de Famille Impériale, ils gagnent le respect de tous les samurai honorables. Les Otomo apprennent à tirer parti de cet avantage pour intimider leurs adversaires au moyen de décrets impérieux. Ils recourent à toutes les sournoiseries possibles sachant que de toute façon leur sang les protège de toute représailles."
+  },
+  {
+    "Clan_Tag": "CLN0010",
+    "Balise": "bushi",
+    "BonusInitial": "perception",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0039",
+    "Name": "Garde Seppun",
+    "Description": "Dès son plus jeune âge, un Seppun sait qu'il lui faudra protéger l'Empereur quoi qu'il en coûte. Un Empereur en sécurité assure l'unité de Rokugan, si bien que les Seppun assurent un avenir radieux pour l'Empire en remplissant leur devoir. Quand il est choisi pour rejoindre cette organisation, le garde Seppun (aussi appelé miharu) sacrifie sa vie personnelle à son travail. Après tout, rien ne revêt plus d'importance que la protection de la maison Impériale.\nL'École de Garde Seppun fait de la défense sa priorité. Les gardes apprennent à faire passer la vie de leur protégé avant la leur, y compris se cela doit signifier leur propre perte. Ils résistent à toutes les formes de corruption et apprennent à observer très minutieusement leur environnement, afin d'identifier au plus tôt les menaces planant sur leurs protégés."
+  },
+  {
+    "Clan_Tag": "CLN0010",
+    "Balise": "shugenja",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 10,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": "SPC0018"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0024"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 3,
+      "NbrSortVide": 0,
+      "NbrSortAir": 1,
+      "NbrSortEau": 0,
+      "NbrSortTerre": 2,
+      "Affinite": "feu",
+      "Deficience": "eau"
+    },
+    "Devotion": null,
+    "Tag": "ECO0040",
+    "Name": "Shugenja Seppun",
+    "Description": "Les meilleurs bushi de Rokugan ont le privilège de protéger l'Empereur. Mais il existe des menaces contre lesquelles l'acier ne peut rien, et c'est alors qu'entrent en scène les Shugenja Seppun. En tant que membres de la Garde Cachée, les Shugenja attendent et restent sur le qui-vive, en quête des signes avant-coureurs d'une attaque. Leurs sceaux comptent parmi les meilleurs de Rokugan, et ils prient constamment à l'attention des kami pour que leurs terres ne subissent pas d'attaque. Ils constituent la dernière ligne de défense de l'Empereur, une ligne qui ne doit pas être brisée.\nL'École de Shugenja Seppun s'attache à la protection de l'Empereur et de sa suite. Quand le danger approche, les Seppun font appel aux kami de toute leur âme de manière à amplifier leurs sorts et à exécuter de véritables tours de force magiques. Leur Technique polyvalente fonctionne avec un large éventail de sorts offensifs et défensifs tant que ces shugenja tentent de sauver la vie du Fils des Cieux."
+  },
+  {
+    "Clan_Tag": "CLN0011",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 3,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0014",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0041",
+    "Name": "Bushi Ichiro",
+    "Description": "Un Hida fonda l'École de Bushi Ichiro, et celle-ci reste fidèle à ses origines. La philosophie de l'École est simple\u00A0: frappe ton ennemi si fort qu'il n'ait pas le temps de mettre en place la moindre tactique.\nL'École de Bushi Ichiro s'attache avant tout à la lutte et au combat à moins nues. Elle insiste sur la force brute, censée pouvoir venir à bout de n'importe quel ennemi. Les Bushi Ichiro usent donc de toute leur force pour résoudre tous leurs problèmes. Là où d'autres réagissent avec célérité ou frappent avec précision, les Ichiro préfèrent infliger des dommages écrasants."
+  },
+  {
+    "Clan_Tag": "CLN0012",
+    "Balise": "bushi",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 3,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": "SPC0075"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2033",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0095"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0006"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0042",
+    "Name": "Bushi Morito",
+    "Description": "Le clan du Bœuf a gagné ses galons en affrontant une armée d'esprits pourvue de la sagesse de générations d'ancêtres. Peu après son apparition, l'École de Bushi Mirumoto se tailla une bonne réputation et gagna le respect des bushi de tout l'Empire. Le gros des forces du Clan du Bœuf forme des unités de cavalerie lourde capable d'occire le cœur d'une armée de fantassins.\nLes Bushi Morito apprennent à tirer le meilleur parti du combat à cheval. Ils peuvent piétiner les soldats qui se tiennent devant eux et manœuvrer très rapidement autour du champ de bataille en profitant de la vitesse de leurs montures. Les Morito se servent souvent d'une arme d'hast, mais sont entraînés pour s'adapter à toute situation quand il leur faut adopter un autre style de combat."
+  },
+  {
+    "Clan_Tag": "CLN0013",
+    "Balise": "shugenja",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0003",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2032",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": {
+      "NbrSortFeu": 1,
+      "NbrSortVide": 0,
+      "NbrSortAir": 3,
+      "NbrSortEau": 2,
+      "NbrSortTerre": 0,
+      "Affinite": "air",
+      "Deficience": "terre"
+    },
+    "Devotion": null,
+    "Tag": "ECO0043",
+    "Name": "Shugenja Komori",
+    "Description": "Quand Yoritomo Komori eut l'Honneur de fonder son propre Clan Mineur, il rallia rapidement les meilleurs shugenja à ses côtés. Il décida ensuite de rendre hommage aux facultés de communication des esprits chauve-souris et de mettre ses ressources à la disposition de l'Empire. Les Komori admettent qu'il faut trouver le juste équilibre entre la théorie et la pratique, et s'efforcent donc d'affûter leurs qualités de messagers.\nL'École de Shugenja Komori n'a pas d'équivalent dans l'Empire. Les Komori, des esprits de chauves-souris bienveillants originaires de Chikushudo, ont aidé l'humanité en plusieurs occasions. Leur puissante magie n'a toutefois jamais été bien comprise en raison de leur nature recluse. Les Shugenja Komori puisent dans cette ressource, qui leur confère des Sorts aussi étranges que merveilleux et de plus totalement inédits."
+  },
+  {
+    "Clan_Tag": "CLN0014",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 3,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0030",
+        "Specialite_Tag": "SPC0089"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0020",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0044",
+    "Name": "Bushi Toritaka",
+    "Description": "L'École de Bushi Toritaka se spécialise dans la destruction de créatures originaires des autres Royaumes des Esprits. Le style s'avère suffisamment souple pour s'adapter à toutes les surprises que de nouveaux monstres pourraient réserver. Malheureusement, les guerriers Toritaka se spécialisent tellement que leurs techniques ne se montrent guère utiles contre des adversaires humains.\nLes samurai de l'école de Bushi Toritaka s'attachent à frapper les monstres et à passer outre leurs défenses. Ils se servent du daisho ou de la lance pour trouver le point faible d'un monstre et l'attaquent implacablement jusqu'à ce qu'il tombe. Au fil de leur entraînement, les Toritaka apprennent à distinguer les ruses des monstres pour neutraliser de tels ennemis."
+  },
+  {
+    "Clan_Tag": "CLN0015",
+    "Balise": "shugenja",
+    "BonusInitial": "perception",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": "SPC0025"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0008"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 0,
+      "NbrSortVide": 0,
+      "NbrSortAir": 2,
+      "NbrSortEau": 3,
+      "NbrSortTerre": 1,
+      "Affinite": "eau",
+      "Deficience": "feu"
+    },
+    "Devotion": null,
+    "Tag": "ECO0045",
+    "Name": "Shugenja Tonbo",
+    "Description": "Profondément spirituels, les Tonbo ont noué des relations très étroites avec les montagnes et restent sur leurs terres malgré toutes les épreuves qu'ils ont eues à subir. Bien que prêtres autant que leurs homologues des autres Clans, les shugenja Tonbo ont fortement conscience des responsabilités politiques qui pèsent sur leurs épaules. Au titre d'intermédiaires entre le Clan du Dragon et le reste de Rokugan, les Tonbo pratiquent avec aisance la survie au sein des cours les plus périlleuses de l'Empire.\nL'École de Shugenja Tonbo exploite toutes les ressources qui s'offrent à elle pour préparer ses élèves aux rigueurs de la cour. Un Tonbo expérimenté peut se servir du lien qu'il entretient avec le monde des esprits pour bénéficier de faveurs sociales. Cet avantage n'a rien d'un luxe quand on sait que des adversaires comme le Clan du Lion n'attendent qu'un faux pas de leur part."
+  },
+  {
+    "Clan_Tag": "CLN0016",
+    "Balise": "bushi",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 3,
+    "Honneur": 4,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": "SPC0070"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2021",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0001"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0007"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0046",
+    "Name": "Bushi Usagi",
+    "Description": "Pour un simple clan mineur, le Clan du Lièvre a souvent été au combat. La guerre incessante qu'il mène aux ennemis de l'Empire dure depuis des siècles et ne semble pas près de s'arrêter. Du coup, l'École de Bushi Usagi fait assurément partie des meilleures parmi celles des Clans Mineurs. En se perfectionnant au combat, le Clan du Lièvre semble bien avoir compris ce qui fonctionne et ce qui ne fonctionne pas.\nL'École de Bushi Usagi a adopté les facultés athlétiques du Clan du Lièvre et en a fait un véritable avantage au combat. Les Lièvre apprennent à se déplacer plus vite qu'un samurai ordinaire et parviennent à porter des coups dévastateurs avant de reculer pour ne pas subir de contre-attaque. Un adversaire qui ne s'y attend pas sera rapidement submergé et aura véritablement l'impression d'être attaqué de toutes parts."
+  },
+  {
+    "Clan_Tag": "CLN0017",
+    "Balise": "artisan",
+    "BonusInitial": "intelligence",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0107"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0087"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0047",
+    "Name": "Forgeron Tsi",
+    "Description": "Tsi était le nom d'un vieux forgeron gaijin qui impressionna le second Empereur, Hantei Genji, au moyen de son travail. L'Empereur estima alors l'homme béni des Fortunes et fit rapidement de lui un Rokugani à part entière. Des siècles plus tard, un apprenti ronin s'arrogea le nom oublié et impressionna à son tour l'Empereur Hantei XXX par son style.\nLes artisans formés dans l'École de Forgeron Tsi sont uniques en ce sens que tout ce qu'ils apprennent a pour but d'accroître leur savoir-faire en matière de production d'armes et d'armures, mais ils découvrent aussi des styles martiaux pour savoir comment les experts utiliseront les armes qu'ils fabriquent. Ils n'ont pas de temps à accorder aux mondanités et manœuvres politiques, si bien que leurs enseignements font l'impasse sur ces aspects de la vie d'un samurai ordinaire."
+  },
+  {
+    "Clan_Tag": "CLN0018",
+    "Balise": "bushi",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": "SPC0052"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT4003",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0048",
+    "Name": "Bushi Suzume",
+    "Description": "Le Clan du Moineau n'a jamais constitué une force martiale, mais certains Suzume combattent quand cela s'avère nécessaire. Lorsque leur Clan fur fondé, les Suzume venaient du Clan de la Grue, si bien que le maniement du katana reste au cœur de leur école encore aujourd'hui. Leur style de combat en dit long sur leur philosophie de la vie, car ils prennent tout le temps nécessaire pour porter le coup parfait.\nL'amour des récits dont le Bushi Suzume fait preuve lui confère une certaine intuition au combat. Il exploite ses connaissances pour suivre les flux et reflux de la bataille, ce qui lui permet de frapper plus lentement ou plus vite en fonction des failles de ses adversaires. Enfin, le Bushi Suzume s'est détaché d'une certaine façon des bases de l'École de Bushi Kakita et dispose de Techniques liées à l'Initiative."
+  },
+  {
+    "Clan_Tag": "CLN0019",
+    "Balise": "shugenja",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0009",
+        "Specialite_Tag": "SPC0021"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 1,
+      "NbrSortVide": 0,
+      "NbrSortAir": 0,
+      "NbrSortEau": 2,
+      "NbrSortTerre": 3,
+      "Affinite": "terre",
+      "Deficience": "air"
+    },
+    "Devotion": null,
+    "Tag": "ECO0049",
+    "Name": "Shugenja Kitsune",
+    "Description": "Le Clan du Renard vit tout près de l'une des plus vastes forêts de Rokugan, ce qui a de toute évidence une grande influence sur les leçons qu'il enseigne. Chaque shugenja Kitsune développe un véritable amour pour les esprits et la tranquillité de la forêt car il y passe un nombre incalculable d'heures à méditer.Ce lien entre l'homme et l'animal est encouragé et renforcé avec des leçons complètes.\nL'amour que les Kitsune vouent à la nature se manifeste clairement au sein de leur école. Les Kitsune parviennent à se connecter à la nature et aux animaux qui y vivent. Cette technique très polyvalente se montre vitale pour le shugenja qui souhaite remplir son devoir et peu d'autres écoles permettent de reproduire les capacités d'un Renard."
+  },
+  {
+    "Clan_Tag": "CLN0020",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 3,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0020",
+        "Specialite_Tag": "SPC0060"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0009"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0002"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0008"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0050",
+    "Name": "Bushi Heichi",
+    "Description": "De curieux dangers planent sur les terres du Sanglier, et l'École Heichi forme ses bushi à les affronter. Dès leur apparition, les Sanglier étaient prêts à se défendre et développèrent des Techniques en adéquation avec la ferveur qu'on leur connaît. Ils apprennent à encaisser les pires attaques de leurs ennemis et à poursuivre le combat. Un Bushi Heichi entraîné possède une bonne défense, mais ses assauts n'en demeurent pas moins redoutables.\nL'École de Bushi Heichi s'appuie sur l'utilisation d'une arme peu courante dans le reste de l'Empire\u00A0: le Mai Chong. Cette lance, équipée d'un fer incurvé, se manie différemment des autres armes d'hast. Les Bushi Heichi s'en servent notamment pour éliminer leurs ennemis à bonne distance. L'allonge de cette arme permet d'adopter un style défensif  redoutable et notamment de briser l'élan d'un ennemi."
+  },
+  {
+    "Clan_Tag": "CLN0021",
+    "Balise": "bushi",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 5.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": "SPC0018"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0013"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0051",
+    "Name": "Bushi Toku",
+    "Description": "Le Clan du Singe a les faveurs de la lignée Impériale et regroupe de véritables experts en matière d'art de la guerre. Des centaines de professeurs ronin ont franchi des portes du dojo dans le but de partager leurs connaissances avec un auditoire plus qu'attentif. Ces divers savoir-faire ont finit par produire un style de combat cohérent qui propose les meilleurs aspects de chacune des leçons enseignées au dojo des Singe.\nL'École de Bushi Toku enseigne des Techniques permettant de combattre plusieurs ennemis à la fois. Les Toku apprennent à garder la tête froide quelles que soient les circonstances et à poursuivre le combat sans la moindre hésitation. Ils affûtent leur concentration et leur détermination jusqu'à un niveau surhumain, et leur sérénité au champ  de bataille reste certainement leur meilleure arme."
+  },
+  {
+    "Clan_Tag": "CLN0022",
+    "Balise": "shugenja",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 3,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0002",
+        "Specialite_Tag": "SPC0003"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2021",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0094"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "ARM0030"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      }
+    ],
+    "EquipementsOpt": [],
+    "Sorts": {
+      "NbrSortFeu": 2,
+      "NbrSortVide": 0,
+      "NbrSortAir": 0,
+      "NbrSortEau": 1,
+      "NbrSortTerre": 3,
+      "Affinite": "terre",
+      "Deficience": "air"
+    },
+    "Devotion": null,
+    "Tag": "ECO0052",
+    "Name": "Shugenja Chuda (originelle)",
+    "Description": "L'École de Shugenja Chuda avec certaines des techniques que les inquisiteurs Phénix utilisent encore aujourd'hui. Le fondateur Isawa Chuda, un Magistrat Impérial, avait juré d'anéantir les maho-tsukai. Malheureusement, les descendants des Chuda ont rejoins les rangs de ceux qu'Isawa Chuda avait fait vœu de terrasser.\nL'École de Shugenja Chuda d'origine fut conçue dans un but\u00A0: détruire à tout jamais les forces de l'Outremonde. Les Chuda chassaient alors les maho-tsukai et abattaient sur eux toute la colère des éléments. Le Chuda apprend à pénétrer les défenses des monstres que les maho-tsukai peuvent invoquer. En outre, son attachement aux Sorts de la Terre lui permettent d'apprendre les Sorts de Jade nécessaires pour châtier ses ennemis."
+  },
+  {
+    "Clan_Tag": "CLN0023",
+    "Balise": "courtisan",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 5,
+    "Honneur": 2.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": "SPC0018"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0027"
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0012"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0089"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      },
+      {
+        "Model_Tag": "OBJ0093"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0053",
+    "Name": "Contrebandier Kasuga",
+    "Description": "Les Kasuga font preuve d'autant de fidélité à la cause impériale que les autres clans, mais n'en donnent pas l'air quand on regarde de plus près leurs différentes activités. Ils commettent des actes illégaux, recourent aux services d'assassins et de voleurs, et entretiennent de relations étroites avec divers cartels du pays. En fait, les Tortues surveillent ces organisations au nom de l'Empereur pour s'assurer qu'elles ne menacent pas la sécurité nationale. En outre, il commercent énormément avec les nations étrangères, là encore, pour être sûrs qu les gaijin ne menacent plus Rokugan comme ils l'ont fait dans le passé.\nLes Contrebandiers Kasuga doivent se mêler à la pire racaille de l'Empire, ce que reflètent parfaitement leurs techniques. Ils connaissent la pègre sur le bout des doigts et se montrent implacables dans leurs transactions. Dans leur combat contre le pire de ce que Rokugan a à offrir, les Contrebandiers Kasuga trouvent des alliés partout où ils le peuvent. Ainsi, un paysan vertueux constituera un atout de taille sur le moment pour un homme qui se trouverait en infériorité numérique et entouré d'assassins."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "perception",
+    "ArgentInitial": 0,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0020"
+      },
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "shintao",
+    "Tag": "ECO0054",
+    "Name": "Ordre des héros",
+    "Description": "Les moines de l'Ordre des Héros, une branche modeste guère connue en dehors de la confrérie, ont apporté de nombreuses initiatives à Rokugan. Disciples du Tao, du Dragon Tonnerre et de la Fortune Goemon (la Fortune des Héros), ils sont persuadés que la grandeur de chaque homme se cache au plus profond de son âme. Ils pensent qu'avec le soutien et les encouragements nécessaires, n'importe quel samurai pourrait devenir un héros de légende susceptible d'inspirer son prochain. L'Ordre cherche activement les menaces et problèmes existant au sein de l'Empire, ainsi que les individus ayant les talents nécessaires pour s'en charger. L'Ordre a ainsi assisté discrètement à la naissance de centaines de héros et de légendes dont les récits ont été contés par de nombreux romans et pièces au fil de l'histoire. Toutefois, il reste méconnu car ses partisans agréent avec la nécessité d'acquitter leurs devoirs sans se faire remarquer."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "intuition",
+    "ArgentInitial": 0,
+    "Honneur": 6.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5212"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0005",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "shintao",
+    "Tag": "ECO0055",
+    "Name": "Les 4 temples",
+    "Description": "De nombreuses branches pensent que les moines doivent vivre dans la réclusion pour trouver l'harmonie avec les éléments. Les Moines des Quatre Temples savent quant à eux que l'homme est une créature sociable dont la nature le pousse à s'ouvrir à son prochain. Ils pensent donc fortement qu'il leur faut entretenir un lien très étroit avec la civilisation pour comprendre les mystères du monde. Ces moines restent ainsi en contact direct avec le cœur politique de l'Empire. Du reste, l'un de leurs plus vastes monastères se trouve dans la capitale Impériale. Les moines des Quatre Temples peuvent devenir les conseillers de généraux ou de daimyo, ou tout simplement parcourir le pays et venir en aide à tous ceux dont ils croisent la route."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 0,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5212"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      },
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "shintao",
+    "Tag": "ECO0056",
+    "Name": "Le Sanctuaire des 7 tonnerres",
+    "Description": "Lorsque Rokugan eut un besoin désespéré de héros pour vaincre la menace que représentait le dieu sombre Fu Leng, sept mortels sacrifièrent tout pour sauver leur Empire. Les Moines du Sanctuaire des Sept Tonnerres rendent hommage à ces héros en consacrant leur existence à l'Illumination dans la contemplation et la sérénité. Ces moines quittent rarement le monastère et préfèrent ne faire qu'un avec leur environnement."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "volonte",
+    "ArgentInitial": 0,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5213"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 3,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "fortunes",
+    "Tag": "ECO0057",
+    "Name": "Le temple de Kaimetsu-Uo",
+    "Description": "Les disciples de Kaimetsu-Uo, le fondateur du Clan de la Mante, ont une opinion très différente de ce héros que l'ensemble de ses descendants. Ils pensent en effet que Kaimetsu-Uo a accompli des exploits de légende pour éviter la destruction qu'il aurait provoquée s'il était resté et avait contesté l'autorité du Clan du Crabe. Les Moines du Temple de Kaimetsu-Uo pensent que l'illumination vient de la conciliation et de la paix avec autrui."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "force",
+    "ArgentInitial": 0,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5213"
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0009"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "fortunes",
+    "Tag": "ECO0058",
+    "Name": "Le temple d'Osano-Wo",
+    "Description": "Sans doute la plus militante de toutes les branches de la Confrérie, le Temple d'Osano-Wo occupe une place à part des autres partisans des Fortunes en raison de son attachement sans faille aux arts martiaux et prouesses physiques en général. Les disciples pensent que l'Illumination vient avec le travail et les efforts physiques, qu'un corps entraîné permet d'affûter l'âme et l'esprit. On connaît les moines de cet ordre par leurs scarifications, qui marquent les progrès de leur entraînement et leur donnent une allure particulièrement angoissante."
+  },
+  {
+    "Clan_Tag": "CLN0024",
+    "Balise": "moine",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 0,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2020",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT2027",
+        "Specialite_Tag": "SPC5213"
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0010",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0003"
+      },
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0088"
+      },
+      {
+        "Model_Tag": "OBJ0092"
+      },
+      {
+        "Model_Tag": "OBJ0091"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0009"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": "fortunes",
+    "Tag": "ECO0059",
+    "Name": "Le temple des 1000 fortunes",
+    "Description": "Rokugan est un empire empreint de piété où des milliers de sanctuaires et monastères coexistent. Les Temples des Mille Fortunes apparaissent aussi variés que les dieux auxquels ils se consacrent. On ne peut mettre tous les moines du Temple des Mille Fortunes dans le même sac, mais la plupart pensent qu'il faut travailler avec diligence pour se montrer dignes de l'Illumination."
+  },
+  {
+    "Clan_Tag": "CLN0000",
+    "Balise": "bushi",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 1,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0007",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0020",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0060",
+    "Name": "Armée de Tawagoto",
+    "Description": "S'inspirant du jeune et charismatique ronin Tawagoto, ce groupe de ronin et de paysans s'est réuni dans le but de protéger les population innocentes de Rokugan des violents soulèvements paysans provoqués par le moine dément Kokujin lorsque les Clan Majeurs furent pris dans une nouvelle guerre de succession. Les Clans finirent par reconnaître la menace et approuvèrent les activités de Tawagoto en lui envoyant de l'aide pour achever les forces de Kokujin."
+  },
+  {
+    "Clan_Tag": "CLN0000",
+    "Balise": "bushi",
+    "BonusInitial": "reflexes",
+    "ArgentInitial": 1,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0027",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0061",
+    "Name": "Disciple de Sun Tao",
+    "Description": "Les ronin qui se font appeler les disciples de Sun Tao ont adopté les enseignements du légendaire tacticien ronin éponyme, qui aurait étudié auprès de chacun des Clans Majeurs et appliqué toute sa sagesse à l'art du duel. Bien qu'ils manquent du savoir-faire et de la reconnaissance des traditions de duel des Clans Majeurs, ceux qui s'y connaissent en la matière doivent bien admettre que ces ronin surpassent aisément les simples amateurs."
+  },
+  {
+    "Clan_Tag": "CLN0000",
+    "Balise": "bushi",
+    "BonusInitial": "force",
+    "ArgentInitial": 1,
+    "Honneur": 4.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0001"
+      },
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0007"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0062",
+    "Name": "Justicier de Tengoku",
+    "Description": "Particulièrement impitoyables, les bandits des montagnes connus sous le nom de Justiciers de Tengoku feront passer les Tueurs de la Forêt pour des enfants de chœur si nul ne met fin à leurs exactions. Mais leur nom hérétique leur donne une raison de plus de se faire détester et risque de leur coûter très cher. Les justiciers de Tengoku ont élu domicile dans les montagnes du Clan du Dragon, où ils pillent et ravagent des villages entiers pour réunir les provisions et richesses sont ils ont besoin. Ils comptent sur l'inaction habituelle des Dragon pour ne pas se faire arrêter, seulement leurs exactions ont attiré l'attention du Clan de la Mante."
+  },
+  {
+    "Clan_Tag": "CLN0000",
+    "Balise": "bushi",
+    "BonusInitial": "agilite",
+    "ArgentInitial": 2,
+    "Honneur": 1.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0019",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPA0006"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0063",
+    "Name": "Tueur de la forêt",
+    "Description": "Les Tueurs de la Forêt comptent certainement parmi les plus implacables et redoutables organisations de bandits de l'histoire de l'Empire. Pendant des siècles, ils ont exploité les superstitions entourant Shinomen Mori en se cachant en son cœur. Ils furent finalement éradiqués par le Champion d'Émeraude, mais leur disparition fut de courte durée, car un nouveau groupe de Tueur de la Forêt émergea au bout de quelques années pour hanter à nouveau la région de Shinomen Mori."
+  },
+  {
+    "Clan_Tag": "CLN0000",
+    "Balise": "bushi",
+    "BonusInitial": "constitution",
+    "ArgentInitial": 2,
+    "Honneur": 3.5,
+    "Techniques": null,
+    "Competences": [
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0017",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 1,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      }
+    ],
+    "CompetencesOpt": [
+      {
+        "Nombre": 2,
+        "Model_Tag": "OPA0001"
+      }
+    ],
+    "Equipements": [
+      {
+        "Model_Tag": "ARU0002"
+      },
+      {
+        "Model_Tag": "OBJ0086"
+      },
+      {
+        "Model_Tag": "ARM0040"
+      },
+      {
+        "Model_Tag": "ARM0044"
+      }
+    ],
+    "EquipementsOpt": [
+      {
+        "Nombre": 1,
+        "Model_Tag": "OPE0005"
+      }
+    ],
+    "Sorts": null,
+    "Devotion": null,
+    "Tag": "ECO0064",
+    "Name": "Tessen",
+    "Description": "Principalement composés d'anciens Lion et Grue, les Tessen se sont réunis dans le but de protéger la population de Toshi Ranbo, des siècles avant qu'elle ne devienne la nouvelle cité Impériale. Les changements permanents d'autorité entre les deux Clans mirent la ville dans un état déplorable, puisque les nombreux criminels savaient les Clans bien trop occupés à se quereller pour les arrêter. Comme les samurai Grue interdisent à quiconque (à l'exception d'eux-même) de porter le sabre en ville, ces ronin firent du Tessen leur arme de prédilection et patrouillent aujourd'hui encore les rues de la cité Impériale avec le soutien très réticent des défenseurs impérieux de la ville."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "Tag": "AGS0001",
+    "Name": "Augmentation de Portee",
+    "Description": "Augmente la Portée de {0} au prix de {1} Augmentations."
+  },
+  {
+    "Tag": "AGS0002",
+    "Name": "Augmentation de Duree",
+    "Description": "Augmente la Durée de {0} au prix de {1} Augmentations."
+  },
+  {
+    "Tag": "AGS0003",
+    "Name": "Augmentation de Zone",
+    "Description": "Augmente la taille de la Zone de {0} au prix de {1} Augmentations."
+  },
+  {
+    "Tag": "AGS0004",
+    "Name": "Augmentation de Cible",
+    "Description": "Augmente le nombre de Cibles de {0} au prix de {1} Augmentations."
+  },
+  {
+    "Tag": "AGS0005",
+    "Name": "Augmentation de Dommages",
+    "Description": "Augmente les dommages  de {0} au prix de {1} Augmentations."
+  },
+  {
+    "Tag": "AGS0006",
+    "Name": "Augmentation du ND de Resistance",
+    "Description": "Augmente de +{0} le ND du test visant à résister au Sort."
+  },
+  {
+    "Tag": "AGS0007",
+    "Name": "Communion : Secouer les Kami",
+    "Description": "Si les kami locaux se reposent, le MJ peut demander 1 ou 2 Augmentations supplémentaires pour en \"réveiller\" un afin qu'il réponde aux questions."
+  },
+  {
+    "Tag": "AGS0008",
+    "Name": "Communion : Requete Supplémentaire",
+    "Description": "Le lanceur de sort peut déclarer des Augmentations pour avoir droit à une réponse supplémentaire par Augmentation."
+  },
+  {
+    "Tag": "AGS0009",
+    "Name": "Communion : Ameliorer la Precision",
+    "Description": "Le lanceur de sort peut déclarer des Augmentations afin d'obtenir des réponses plus claires, précises et détaillées."
+  },
+  {
+    "Tag": "AGS0010",
+    "Name": "Communion : Comprehension Améliorée",
+    "Description": "Les kami n'ont pas la même compréhension du monde et du temps que les humains, et il peut être utile de déclarer des Augmentations afin de se faire comprendre."
+  },
+  {
+    "Tag": "AGS0011",
+    "Name": "Invocation : Matiere Specifique",
+    "Description": "Le lanceur de sort peut déclarer entre 1 et 4 Augmentations pour invoquer un matériau plus spécifique, comme du bois ou du fer avec de la Terre, ou du thé avec de l'Eau. Toutefois, ces Augmentation ne peuvent jamais être utilisées pour invoquer des matériaux rares ou précieux comme de l'or, ni des substances imprégnées de pouvoir spirituel comme le jade ou le cristal."
+  },
+  {
+    "Tag": "AGS0012",
+    "Name": "Art de la Tromperie : Abandon",
+    "Description": "Si vous déclarez deux Augmentations lors du jet d'Incantation, vous pouvez quitter la zone d'effet en laissant perdurer l'illusion dans la position où elle se trouvait au moment de votre départ, du moment que vous continuez à vous concentrer sur le Sort."
+  },
+  {
+    "Tag": "AGS0013",
+    "Name": "Cibler Autrui Supplémentaire",
+    "Description": "Vous pouvez cibler un autre personnage avec ce Sort au prix de {0} Augmentations. (Contre portée Personnelle habituellement)"
+  },
+  {
+    "Tag": "AGS0014",
+    "Name": "Yari de l'Air Alternatif",
+    "Description": "Au prix d'une Augmentation, vous pouvez faire apparaître un yari de n'importe quel type."
+  },
+  {
+    "Tag": "AGS0015",
+    "Name": "Proposition du Loup : Honneur",
+    "Description": "Au prix de deux Augmentations, vous pouvez améliorer de +1 votre bonus de Rang d'Honneur apparent."
+  },
+  {
+    "Tag": "AGS0016",
+    "Name": "Cibler Autrui",
+    "Description": "Vous pouvez cibler autrui au prix de {0} Augmentations. (Contre portée Personnelle habituellement)"
+  },
+  {
+    "Tag": "AGS0017",
+    "Name": "Esprit Embrumé : +1 journée",
+    "Description": "Au prix d'une Augmentation, vous pouvez augmenter la durée de modification de la mémoire."
+  },
+  {
+    "Tag": "AGS0018",
+    "Name": "Légion illusoire : Silhouettes",
+    "Description": "Au prix d'une Augmentation, vous pouvez ajouter 5 silhouettes aux effets du sort."
+  },
+  {
+    "Tag": "AGS0019",
+    "Name": "Bo de l'Eau Alternatif",
+    "Description": "Au prix d'une Augmentation, vous pouvez faire apparaître un bâton de n'importe quel type."
+  },
+  {
+    "Tag": "AGS0020",
+    "Name": "Esprit de l'Eau : Action",
+    "Description": "Au prix de 5 Augmentations, l'action Simple supplémentaire devient une action Complexe."
+  },
+  {
+    "Tag": "AGS0021",
+    "Name": "Transfert d'énergies : Transfert",
+    "Description": "Au prix de 3 Augmentations, vous pouvez transférer un effet de Sort d'une cible consentante à une autre."
+  },
+  {
+    "Tag": "AGS0022",
+    "Name": "Bénédiction d'Inari : Nourriture",
+    "Description": "Au prix de 3 Augmentations, vous pouvez invoquer suffisamment de nourriture pour nourrir une personne supplémentaire."
+  },
+  {
+    "Tag": "AGS0023",
+    "Name": "Augmentation d'Anneau",
+    "Description": "Augmente de {0} l'Anneau de {1} par tranche de {2} Augmentations pour ce qui est des effets du Sort."
+  },
+  {
+    "Tag": "AGS0024",
+    "Name": "Augmentation du jet d'Opposition",
+    "Description": "Le Lanceur de Sort bénéficie d'un bonus de {0} par tranche de {1} Augmentations contre le test d'Opposition pour résister aux effets de ce Sort."
+  },
+  {
+    "Tag": "AGS0025",
+    "Name": "Voie non suivie : Spécial",
+    "Description": "Gain d'un Emplacement de Sort supplémentaire par tranche de 5 Augmentations."
+  },
+  {
+    "Tag": "AGS0026",
+    "Name": "Katana du Feu Alternatif",
+    "Description": "Au prix d'une Augmentation, vous pouvez faire apparaître un Katana de n'importe quel type."
+  },
+  {
+    "Tag": "AGS0027",
+    "Name": "Tetsubo de la Terre Alternatif",
+    "Description": "Au prix d'une Augmentation, vous pouvez faire apparaître une arme lourde de n'importe quel type."
+  },
+  {
+    "Tag": "AGS0028",
+    "Name": "La terre devient le ciel : Special",
+    "Description": "Produit des rochers imprégnés du pouvoir du Jade au prix de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0029",
+    "Name": "Protection de la terre : Spécial",
+    "Description": "Dommages réduits de +1g1 par tranche de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0031",
+    "Name": "Tombe de jade : Spécial",
+    "Description": "Le lanceur gagne +1g1 à son jet d'Augmentation pour chaque Augmentation."
+  },
+  {
+    "Tag": "AGS0032",
+    "Name": "Mur de terre : Hauteur",
+    "Description": "La hauteur est augmentée de 30 cm par Augmentation."
+  },
+  {
+    "Tag": "AGS0033",
+    "Name": "Mur de terre : Largeur",
+    "Description": "La largeur est augmentée de 30 cm par Augmentation."
+  },
+  {
+    "Tag": "AGS0034",
+    "Name": "Pouvoir du dragon de la terre : Dommages",
+    "Description": "Absorbe 10 dommages de plus par Augmentations."
+  },
+  {
+    "Tag": "AGS0037",
+    "Name": "Percer le mensonge : avantage",
+    "Description": "Un Avantage/Désavantage supplémentaire par Augmentation."
+  },
+  {
+    "Tag": "AGS0038",
+    "Name": "Anneau du vide : Incantation",
+    "Description": "Réduit de 5 minutes le temps d'incantation par Augmentation."
+  },
+  {
+    "Tag": "AGS0039",
+    "Name": "Renaissance : Régression",
+    "Description": "Augmente de 1 heure le temps de régression par Augmentation."
+  },
+  {
+    "Tag": "AGS0040",
+    "Name": "Augmentation de durée en Jours",
+    "Description": "Augmente la Durée de {0} Jour par tranche de {1} Augmentation"
+  },
+  {
+    "Tag": "AGS0041",
+    "Name": "Ecrit dans le Sang : Mots",
+    "Description": "Permet d'écrire 10 mots supplémentaires par Augmentation."
+  },
+  {
+    "Tag": "AGS0043",
+    "Name": "Songes Pêcheurs : Spécial",
+    "Description": "Une Augmentation Gratuite supplémentaire par tranche de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0044",
+    "Name": "Absorber l'Âme : Spécial",
+    "Description": "Augmente de 1 le malus de Constitution de la cible par tranche de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0045",
+    "Name": "Armure d'Obsidienne : Sort",
+    "Description": "Absorbe un Sort supplémentaire par tranche de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0046",
+    "Name": "Invoquer un Oni : Oni Majeur",
+    "Description": "Permet d'Invoquer un Oni plus puissant, à la discrétion du MJ."
+  },
+  {
+    "Tag": "AGS0047",
+    "Name": "Vol d'Âme : Spécial",
+    "Description": "Plus 1 Rang de Trait supplémentaire par tranche de 2 Augmentations."
+  },
+  {
+    "Tag": "AGS0048",
+    "Name": "Force des Ténèbres : Spécial",
+    "Description": "Plus 1 Rang de Trait physique par tranche de 2 Augmentations."
+  }
+]

@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Godot/Tools/NamedListDisplay.cs" type="Script" id=1]
+[ext_resource path="res://Font/NotoSansCJKjp-Regular.otf" type="DynamicFontData" id=2]
+[ext_resource path="res://Godot/Tools/DataModelDisplay.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Godot/Tools/LabelNamedDisplay.tscn" type="PackedScene" id=4]
+
+[sub_resource type="DynamicFont" id=1]
+font_data = ExtResource( 2 )
+
+[node name="NamedListDisplay" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="List" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer" type="MarginContainer" parent="List"]
+margin_right = 1024.0
+margin_bottom = 70.0
+custom_constants/margin_right = 20
+custom_constants/margin_top = 5
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 5
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DisplayerTemplate" parent="List/MarginContainer" instance=ExtResource( 3 )]
+margin_left = 20.0
+margin_top = 5.0
+margin_right = 1004.0
+margin_bottom = 65.0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+
+[node name="Template" parent="." instance=ExtResource( 4 )]
+visible = false
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_top = -25.0
+margin_right = 40.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0.823529, 0.941176, 0.25098, 1 )
+text = "testText"
+clip_text = true
+[connection signal="gui_input" from="List" to="." method="_on_List_gui_input"]

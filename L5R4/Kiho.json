@@ -1,0 +1,398 @@
+[
+  {
+    "Type": "interieur",
+    "Anneau": "air",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0001",
+    "Name": "Âme des Quatre Vents",
+    "Description": "En alignant son Chi à celui des vents, le moine réduit son temps de réaction et a plus de chances d'éviter les coups de ses adversaires. Quand vous activez ce Kiho, votre ND d'Armure augmente d'un nombre égal à votre Rang de Réputation + votre Anneau d'Air."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "air",
+    "Maitrise": 6,
+    "UseAtemi": false,
+    "Tag": "KHO0002",
+    "Name": "Bannissement des Ténèbres",
+    "Description": "Tout membre de la Confrérie apprend une leçon essentielle qui consiste à affranchir son esprit des ténèbres capable d'engloutir tous les hommes. Avec ce Kiho actif, vous êtes immunisé contre l'influence de la souillure de l'Outremonde pendant un nombre de Round égal à votre anneau d'Air. Cette immunité vous permet d'ignorer les malus (et avantages) liés à la Souillure que vous avez déjà. Si vous entreprenez volontairement une action conférant de la Souillure (comme lancer un sort de Maho), l'effet prend fin et vous contractez la Souillure normalement."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "air",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0003",
+    "Name": "Chevaucher les Nuages",
+    "Description": "En alignant son Chi à celui des vents, le moine rend son corps beaucoup plus léger, ce qui lui permet d'augmenter ses distances de saut. Une fois ce Kiho actif, vous pouvez entreprendre une action simple de mouvement pour sauter d'une distance de votre Anneau d'Air x3m. Cet effet dure jusqu'à ce que vous fassiez votre saut."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "air",
+    "Maitrise": 7,
+    "UseAtemi": false,
+    "Tag": "KHO0004",
+    "Name": "Décorer le Dragon de l'Air",
+    "Description": "Ce Kiho frise le domaine Mystique, mais ne produit pas d'effet assez d'effets manifeste pour entrer dans cette catégorie d'illumination. En refluant son Chi, le moine devient moins visible et a plus de chances de passer inaperçu. Une fois ce Kiho actif, vous gagnez un nombre de dés lancés et gardés supplémentaires égal à votre Anneau d'Air aux jets de discrétion. Cet effet dure un nombre de minutes égal à votre rang de Réputation."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "air",
+    "Maitrise": 4,
+    "UseAtemi": true,
+    "Tag": "KHO0005",
+    "Name": "Grand Silence",
+    "Description": "Cette technique particulière permet au moine de porter une attaque précise perturbant le Chi d'un individu qui du coup perd l'usage de la parole. Ce Kiho doit être délivré au moyen d'une attaque atemi. En cas de réussite, la cible de l'attaque devient incapable de parler pendant un nombre de rounds égal à votre Anneau d'Air."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "air",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0006",
+    "Name": "Harmonie Spirituelle",
+    "Description": "Les membres de la Confrérie arrivent souvent à jauger très rapidement les forces de leur protagonistes, un talent utile lorsque les candidats se présentent à l'ordre, mais aussi pour surmonter certains obstacles. En effectuant un Jet d'Opposition d'Air contre une cible située dans votre champ de vision vous pouvez apprendre l'une des informations suivantes : son anneau le plus élevé ou le plus bas, son Rang de compétence le plus élevé ou le plus bas ou encore son avantage ou désavantage spirituel au coût le plus élevé. Chaque augmentation permet de connaître une information en plus. Vous pouvez utiliser ce Kiho un nombre de fois par jour égal à votre Anneau d'Air."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "air",
+    "Maitrise": 3,
+    "UseAtemi": true,
+    "Tag": "KHO0007",
+    "Name": "Meurtrissure de l'Âme",
+    "Description": "Après avoir réussi une attaque Atemi contre une cible, son Chi est perturbé et elle souffre atrocement, ce qui la déconcentre considérablement. La cible subit un malus à tous les ND comme si elle avait subi un nombre de rangs de blessures égal à l’anneau d’Air du moine. Cet effet ne peut affecter qu’une seule cible à la fois, il ne se cumule pas avec l’effet de blessures réellement subies, le malus au ND le plus important des deux étant appliqué. Ce Kiho est particulièrement décrié au sein de la Confrérie qui le trouve cruel."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "air",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0008",
+    "Name": "Poing de l'Air",
+    "Description": "Comptant parmi les Kiho les plus simples, Poing de l'Air permet au moine de canaliser l'énergie des vents et d'offrir plus de rapidité à ses coups. Une fois ce Kiho activé, votre score d'initiative augmente de +5 tant que vous ne portez que des attaques à mains nues. Si vous utilisez un autre type d'attaque, l'effet s'estompe aussitôt. Tant que le Kiho reste actif, les dommages de vos attaques à mains nues sont réduits d'un nombre égal à votre Anneau d'Air. Cet effet prend fin au bout d'une journée."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "air",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0009",
+    "Name": "Voie du Saule",
+    "Description": "Le vent souffle tout autour de nous et en canalisant son Chi, le moine distingue ses courants, ce qui lui permet de discerner les menaces et de les contrer préventivement. Lorsque vous activez ce Kiho, vous pouvez dépenser un point de Vide pour interrompre un adversaire qui annonce une attaque au corps a corps contre vous, sous réserve que vous n'ayez pas encore joué votre Tour durant ce Round de combat. Dans le cadre de cette interruption, vous pouvez entreprendre une action de Mouvement pour vous écarter de votre adversaire, ou lui porter une attaque à mains nues. Par ailleurs ce Kiho prend fin si vous ne l'utilisez pas dans la journée qui suit son activation."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "eau",
+    "Maitrise": 6,
+    "UseAtemi": false,
+    "Tag": "KHO0010",
+    "Name": "Canaliser les Vagues",
+    "Description": "Certains moines canalisent en eux la puissance de l'océan, se déplaçant en évitant alors les attaques comme la mer elle-même. Lorsque vous activez ce Kiho, vous gagnez une Réduction égale à votre Anneau d'Eau, qui se cumule avec toute autre Réduction (sorts ou armure, par exemple). Cet effet dure un nombre de Round égal a votre Anneau d'Eau."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "eau",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0011",
+    "Name": "Chevaucher le Dragon d'Eau",
+    "Description": "Marcher avec la puissance du Dragon de L'Eau, cela revient a dompter les incroyables facultés de guérison de l'ocean. Quand ce Kiho est actif, vous pouvez récupérer un nombre de Blessures égal a votre Anneau d'Eau durant l'étape de Reactions de chaque Round pendant un nombre de Round égal a votre Rang de Réputation."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "eau",
+    "Maitrise": 4,
+    "UseAtemi": true,
+    "Tag": "KHO0012",
+    "Name": "Chi Protecteur",
+    "Description": "Comptant parmi les plus étranges techniques atemi, ce Kiho permet au moine de rétablir ou de bonifier le flux du Chi d'autrui, pour accélérer le rythme de guérison et soigner divers maux. Pour activer ce Kiho, vous devez dépenser un Point de Vide (Un simple jet de Vide/Méditation ne suffit donc pas) juste après avoir frappé la cible (qu'il s'agisse d'un allié consentant ou d'un adversaire) avec l'attaque atemi. La cible regagne aussitôt un nombre de Blessures égal a votre Anneau d'Eau, mais également au début de chacun de vos Tours suivants pendant un nombre de Round égal a votre Rang de Réputation. Vous ne pouvez pas utiliser ce Kiho sur vous-même."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "eau",
+    "Maitrise": 7,
+    "UseAtemi": true,
+    "Tag": "KHO0013",
+    "Name": "Gel de l'Essence Vitale",
+    "Description": "Cette attaque perturbe le Chi d'un adversaire et le paralyse pendant quelques temps. L'individu frappé par l'attaque atemi est paralysé, étourdi et incapable d'entreprendre la moindre action de mouvement. Il ne peut se déplacer de son propre chef pendant un nombre de Round égal a votre Rang de Repuration."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "eau",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0014",
+    "Name": "Flots en Toute Chose",
+    "Description": "L'Eau coule en toute chose, y compris dans la terre. Vous pouvez effectuer une attaque a mains nues en frappant une étendue d'eau ou de terre. Un adversaire en contact avec l'eau ou la terre et situé dans un rayon de 3m x votre Anneau d'Eau ressent les effets de cette attaque. L'effet, très visible, ne saurait être produit discrètement. Si vous êtes caché au moment où vous activez ce Kiho, vous révélez aussitôt votre position à la cible et aux individus présents dans les environs."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "eau",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0015",
+    "Name": "Porté par les Kami",
+    "Description": "Un moine dont le Chi d'Eau est ascendant peut résister au chant des sirènes des profondeurs. Avec ce Kiho actif, vous pouvez vous déplacer à la surface de l'eau comme s'il s'agissait d'un terrain normal. Cet effet dure tant que vous entreprenez des Actions de Mouvement Simple à chaque Round, et jusqu'à un maximum de 5 minutes. À l'issue de cette durée vous pouvez réactiver le Kiho si nécessaire."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "eau",
+    "Maitrise": 5,
+    "UseAtemi": true,
+    "Tag": "KHO0016",
+    "Name": "Tels les Brisants",
+    "Description": "En perturbant le flot de son Chi, vous pouvez gêner une cible sans la blesser. Si vous réussissez une attaque atemi, la cible perd une Action Simple ce Round-ci. Vous ne pouvez viser que les adversaires qui n'ont pas encore agi durant le Round et un même adversaire ne peut pas être affecté plus d'une fois par escarmouche par ce Kiho."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "eau",
+    "Maitrise": 7,
+    "UseAtemi": false,
+    "Tag": "KHO0017",
+    "Name": "Tonnerre des Flots",
+    "Description": "Formidable expression de la force intérieure, ce Kiho canalise le Chi du moine vers l'extérieur en une vague explosive qui porte la puissance du tsunami. Pour activer ce Kiho, vous devez dépenser un Point de Vide (les Jets de Vide/Méditation ne sont pas permis). Vous devez taper des mains et pousser un cri kiai tonitruant. Tous ceux qui se trouvent dans un arc de cercle situé devant vous et dans un rayon de 1,50m x votre Anneau d'Eau doivent alors réussir un Jet d'Opposition d'Eau contre vous sous peine d'être Hebêtés."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "feu",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0018",
+    "Name": "Le Corps est une Enclume",
+    "Description": "Le maitre de la voie du Feu peut canaliser son Chi vers l'extérieur, ce qui lui confère une certaine protection et lui permet de repousser les assaillants. Quand vous activez ce Kiho, votre peau devient extrêmement chaude et quiconque vous touche, y compris ceux qui vous visent ou vous frappent à l'aide d'attaques à mains nues, subit un nombre de Blessures égal a votre Anneau du Feu. Cet effet dure un nombre de Rounds égal au double de votre Anneau de Feu."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "feu",
+    "Maitrise": 7,
+    "UseAtemi": true,
+    "Tag": "KHO0019",
+    "Name": "Coup de l'Etoile Filante",
+    "Description": "Comptant parmi les Kiho les plus puissants et spectaculaires à la fois, cette attaque martiale dévastatrice peut handicaper à jamais un adversaire quand on l'utilise sans retenue. Quand il s'en sert, les poings du moine se couvrent de flammes et ses yeux prennent l'allure de charbons ardents. Ce Kiho ne peut être activé qu'au prix d'un point de Vide (et non au moyen d'un Jet de Vide/Méditation). Pour l'activer, une attaque à mains nues doit aussi s'accompagner de deux augmentations. L'attaque à mains nues inflige des dommages normaux, plus des dommages supplémentaires égaux à XgX où X représente votre Anneau de Feu. En cas de réussite de votre part, la cible est Aveuglée pendant un nombre d'heures égal a votre Anneau de Feu."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "feu",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0020",
+    "Name": "Coup du Destin",
+    "Description": "La force du destin est puissante et peut être domptée par ceux qui comprennent véritablement la nature de leur place dans l'univers. Lorsque vous activez ce Kiho et que vous êtes frappé par une attaque au corps a corps, vous pouvez aussitôt effectuer une contre-attaque sous la forme d'une attaque à main nues. Si vous n'avez pas encore entrepris votre Tour ce Round-ci, cela compte comme votre Tour. Si vous l'avez déjà joué, il s'agit d'une action gratuite. Cette contre-attaque ignore les Malus de Blessure dûs à l'attaque en question. Ce Kiho dure jusqu'à la fin de l'escarmouche."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "feu",
+    "Maitrise": 6,
+    "UseAtemi": false,
+    "Tag": "KHO0021",
+    "Name": "Danse des Flammes",
+    "Description": "En imprégnant son Chi de la puissance du Feu, on profite de pouvoirs considérables, comme une vitesse accrue et un tempérament endiablé. Quand ce Kiho est actif, vous pouvez porter des attaques à mains nues au prix d'une action simple au lieu d'une action complexe. Vous devez effectuer une attaque à mains nues contre un adversaire à chaque Round, sans quoi le Kiho prend fin."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "feu",
+    "Maitrise": 5,
+    "UseAtemi": true,
+    "Tag": "KHO0022",
+    "Name": "Déséquilibre de l'Esprit",
+    "Description": "La cible est embrouillée par une perturbation momentanée de son Chi de Feu. La cible du coup atemi est Hébétée."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "feu",
+    "Maitrise": 6,
+    "UseAtemi": false,
+    "Tag": "KHO0023",
+    "Name": "Dompter le Dragon du Feu",
+    "Description": "Le Feu ne peut être anéanti au moyen du Feu et le froid ne peut rien contre lui. Lorsque vous activez ce Kiho vous réduisez les dommages que vous subissez en raison de la chaleur et du froid de -2g2. Cela inclut les effets qui génèrent du feu comme les sorts et autres Kiho. Cet effet dure une journée."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "feu",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0024",
+    "Name": "Fugacité du Feu",
+    "Description": "Le Feu darde et déferle, comme ceux qui le portent dans leur âme. Quand ce Kiho est actif, toutes vos Actions de Mouvement augmentent de 1,5m. Ce Kiho dure un nombre de Round égal à votre Anneau du Feu."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "feu",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0025",
+    "Name": "Poing d'Acier",
+    "Description": "Le Feu détruit tout ce qu'il touche, et un moine qui parvient à dompter son Chi de Feu obtient des résultats spectaculaires. Ce Kiho actif permet à vos attaques à mains nues d'infliger des dommages complets aux matériaux non métalliques, ce qui inclut le bois et la pierre, sans que vous ne pâtissiez d'effets secondaires en raison du choc. Cet effet dure un nombre de minutes égal a votre Anneau de Feu. Le MJ décide des dommages qu'un objet peut subir avant d'être détruit."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "feu",
+    "Maitrise": 3,
+    "UseAtemi": true,
+    "Tag": "KHO0026",
+    "Name": "Poing de la Flamme",
+    "Description": "En mêlant votre Chi à celui d'autrui alors que le Feu est ascendant en vous, vous pouvez désorienter et confondre un adversaire en limitant ses actions. Un adversaire frappé par l'attaque atemi qui active ce Kiho subit un malus au ND de toutes ses actions égal au triple de votre Anneau de Feu. Cet effet dure un nombre de Rounds égal à votre Anneau de Feu."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "terre",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0027",
+    "Name": "Esprit Purificateur",
+    "Description": "La pluie et le temps délavent les montagnes pour les débarrasser de leurs impuretés. Si vous activez ce Kiho, vous lancez un nombre de dés supplémentaires égal à la moitié de votre Anneau de Terre (arrondi à l'entier inférieur) aux jets visant à résister aux poisons et maladies."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "terre",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0028",
+    "Name": "Etreindre la Pierre",
+    "Description": "En canalisant leur Chi comme celui d'une montagne, les moines deviennent comme la pierre, détournant les coups et ignorant les dommages. Quand vous activez ce Kiho, vous gagnez une Réduction égale au double de votre Anneau de Terre. Ceci se cumule avec toute autre forme de Reduction (issue par exemple d'une armure ou de Sorts). Cet effet dure un nombre de Rounds égal a votre Anneau de Terre."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "terre",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0029",
+    "Name": "Poing de la Terre",
+    "Description": "Bien qu'elle fasse partie des Kiho de poing élémentaire, cette technique fait plus la part belle à la défensive qu'à l'offensive. Quand vous activez le poing de la Terre, vous ne pouvez adopter que la Posture de Défense ou d'Esquive. Si un adversaire échoue à vous attaquer au corps a corps, vous pouvez à votre tour suivant tenter une manœuvre de désarmement contre celui-ci (s'il se trouve à portée) sans déclarer d'augmentations, ce qui met un terme au Kiho. Par ailleurs, ce Kiho prend fin si vous ne l'utilisez pas dans la journée qui suit son activation."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "terre",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0030",
+    "Name": "Racine de la Montagne",
+    "Description": "Comme les Crabes le disent si bien, la montagne ne bouge pas, tout comme ceux qui partagent sa force. Quand vous activez ce Kiho, les tentatives de Manoeuvre de Renversement vous visant nécessitent deux Augmentations supplémentaires. Tout effort visant à vous déplacer contre votre volonté (dont les Manoeuvre de Renversement) passe par un jet d'opposition de Terre en plus de tout autre coût ou jet d'opposition. Vous ne pouvez pas entreprendre d'action de mouvement sans dissiper cet effet."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "terre",
+    "Maitrise": 5,
+    "UseAtemi": true,
+    "Tag": "KHO0031",
+    "Name": "Repose-Toi, Mon Frère",
+    "Description": "Comptant parmi les plus difficiles et sacrés de tous les Kiho, cette technique est réservée à une poignée de membres des ordres de la Confrérie. Il fonctionne en inversant le cours du Chi d'un individu souillé, ce qui le fait souffrir atrocement et lui confère une certaine lucidité. On ne peut activer ce Kiho que par le biais d'une attaque atemi. Elle inflige des dommages à main nues normaux et malgré sa nature, plus un nombre de dés de dommage lancés (mais non gardés) égal au rang de Souillure de l'Outremonde de l'adversaire. Une cible humaine ou une créature jadis non-corrompue perd les avantages de la Souillure de l'Outremonde pendant un nombre de rounds égal a votre Anneau de Terre. Pendant ce temps, elle est affranchie de la folie et l'instabilité mentale que lui confère habituellement la souillure."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "terre",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0032",
+    "Name": "Saisir le Dragon de la Terre",
+    "Description": "Le fait d'étreindre l'essence de la pierre confère au moine d'incroyables pouvoirs de résistance. Quand vous activez ce Kiho, vous réduisez les Malus de Blessure d'un nombre égal à votre Anneau de Terre. Vous pouvez également entreprendre des Actions Simples même au Rang de Blessure épuisé. Cet effet dure un nombre de Rounds égal a votre Anneau de Terre."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "terre",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0033",
+    "Name": "La Terre n'a pas d'Yeux",
+    "Description": "Vous entrez en harmonie avec les vibrations qui agitent la Terre et vous vous en servez pour détecter les mouvements d'autrui. Ce Kiho activé vous permet de repérer l'arrivée de tout individu ou créature en contact avec le sol. Si ce Kiho est actif au début d'une escarmouche, vous ne pouvez être pris en embuscade ou par surprise par un adversaire terrestre. Cet effet dure un nombre de minutes égal a votre Anneau de Terre."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "terre",
+    "Maitrise": 4,
+    "UseAtemi": true,
+    "Tag": "KHO0034",
+    "Name": "Vitesse des Montagnes",
+    "Description": "La Terre a bien des qualités, mais certainement pas la vitesse. En délivrant une attaque atemi contre un adversaire et en activant ce Kiho, son Chi de Terre prend l'ascendant. On considère alors que l'Anneau d'Eau de cet adversaire a 2 Rangs de moins pour déterminer la distance qu'il peut parcourir dans le cadre d'une action de mouvement. Cet effet dure un nombre de Round égal au double de votre Anneau de Terre."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "terre",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0035",
+    "Name": "Voie de la Terre",
+    "Description": "La poigne d'un moine peut se révéler aussi dure que la pierre et broyer ceux qui s'y laissent prendre. Avec ce Kiho actif, les adversaires engagés dans une Empoignade contre vous subissent un nombre de blessures supplémentaires par Round égal à votre Anneau de Terre, quel que soit celui qui remporte l'empoignade. Ces dommages s'infligent lors de l'étape de Réactions. Cet effet dure un nombre de minute égal a votre Anneau de Terre."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "vide",
+    "Maitrise": 4,
+    "UseAtemi": true,
+    "Tag": "KHO0036",
+    "Name": "Banissement des Ombres",
+    "Description": "L'un des plus puissants effets du Chi concerne la lucidité qu'il vous offre et qui vous permet de gommer pendant un temps vos imperfections. La cible de l'attaque atemi qui active ce Kiho ignore les effets de son Désavantage le plus coûteux pendant un nombre de Rounds égal à votre anneau de Vide. Cet effet ne vise pas les désavantages sociaux et spirituels."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "vide",
+    "Maitrise": 7,
+    "UseAtemi": true,
+    "Tag": "KHO0037",
+    "Name": "Caresse de la Mort",
+    "Description": "La caresse de la Mort, aussi connue sous le nom de Dim-Mak est peut-être la plus rare et redoutée à la fois des formes de manipulation du Chi des moines. Elle implique une série d'attaques atemi qui perturbent et corrompent le Chi de l'adversaire, provoquant des douleurs atroces et parfois la mort. Vous devez porter trois attaques atemi à votre adversaire en trois Rounds consécutifs une fois ce Kiho activé. De plus, vous devez dépenser un point de vide supplémentaire après le troisième et dernier coup (en plus de l'éventuel point de vide que vous avez utilisé pour activer le Kiho). Votre adversaire souffre alors d'une faiblesse accrue et de douleurs insupportables. Tous les Anneaux de la cible se réduisent de 1 par heure. Le malus maximal égale votre rang de réputation. Si un Anneau tombe à 0 en raison de ces malus, la cible sombre dans un état de catatonie et doit réussir trois jets d'Opposition de Vide contre vous (on tient compte du Vide normal de la Cible). Si la cible perd les trois jets de 5 ou plus, elle meurt (mais le Kiho ne tue pas automatiquement la victime si son Anneau de Terre chute à 0). L'utilisation de cette techniquement est un motif d'excommunication au sein de la Confrérie de Shinsei."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "vide",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0038",
+    "Name": "Chant du Monde",
+    "Description": "En écoutant le chant des éléments qui l'entourent, le moine parvient à percevoir l'univers avec un temps d'avance sur tout le monde. Quand vous activez ce Kiho, vous devez viser un adversaire situé dans un rayon de 15m et réussir un jet d'opposition de Vide contre lui. En cas de réussite, son score d'initiative baisse de 5 tandis que le vôtre augmente d'autant."
+  },
+  {
+    "Type": "interieur",
+    "Anneau": "vide",
+    "Maitrise": 4,
+    "UseAtemi": false,
+    "Tag": "KHO0039",
+    "Name": "Effleurer le Dragon du Vide",
+    "Description": "Certains ordres de la Confrérie passent maître dans l'art d'aligner leur Chi à l'élément dominant de leur environnement, tirant ainsi leur force du monde. Quand ce Kiho est actif, on considère que l'un de vos Anneaux et les Traits associés ont 1 Rang de plus. L'Anneau affecté dépend de l'environnement. Les montagnes augmentent la Terre, les côtes l'Eau, les plaines l'Air, les déserts et régions volcaniques augmentent le Feu."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "vide",
+    "Maitrise": 3,
+    "UseAtemi": false,
+    "Tag": "KHO0040",
+    "Name": "Jusqu'au Dernier Souffle",
+    "Description": "En expirant profondément, le moine peut disperser son énergie tout autour de lui et permettre à son entourage de la partager. Quand ce Kiho est activé, un individu au choix situé dans un rayon de 6 mètres gagne un point de Vide à son Tour suivant. Un même individu ne peut bénéficier des avantages de ce Kiho plus de deux fois par jour."
+  },
+  {
+    "Type": "mystique",
+    "Anneau": "vide",
+    "Maitrise": 5,
+    "UseAtemi": false,
+    "Tag": "KHO0041",
+    "Name": "Lucidité Souveraine",
+    "Description": "Certains moines connaissent avec le monde une telle harmonie qu'ils ont conscience de tout ce qui les entoure. Quand vous activez ce Kiho, vous percevez la présence de toutes les créatures vivantes situées dans un rayon de 3m x votre Anneau de Vide. Vous percevez aussi des objets et individus délibérément cachés situés dans ce rayon, ce qui inclut portes secrètes, compartiments escamotés, objets enterrés, etc."
+  },
+  {
+    "Type": "martial",
+    "Anneau": "vide",
+    "Maitrise": 4,
+    "UseAtemi": true,
+    "Tag": "KHO0042",
+    "Name": "Poing du Vide",
+    "Description": "Contrairement aux autres attaques atemi, Poing du Vide ressemble à une attaque à mains nues normale qui semble infliger des dommages à la cible. Toutefois, il s'agit d'une illusion car son but consiste à faire de la cible un conduit avec le grand Vide. Vous devez déclarer une augmentation pour frapper un adversaire avec ce Kiho. En cas de réussite, vous n'infligez pas de dommages, mais vous regagnez aussitôt deux points de Vide. Ce Kiho ne peut être utilisé que contre des ennemis. Il n'a aucun effet sur les alliés, ni contre les cibles dépourvues de vide."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "vide",
+    "Maitrise": 5,
+    "UseAtemi": true,
+    "Tag": "KHO0043",
+    "Name": "Salut Silencieux",
+    "Description": "Les coups visant les organes sensibles ont des conséquences physiques, mais également spirituelles. Un adversaire frappé par une attaque atemi qui active ce Kiho doit dépenser deux emplacements de sorts pour lancer un sort. Cet effet dure un nombre de Rounds égal à votre Anneau de Vide."
+  },
+  {
+    "Type": "karmique",
+    "Anneau": "vide",
+    "Maitrise": 8,
+    "UseAtemi": true,
+    "Tag": "KHO0044",
+    "Name": "Tourner la Roue Karmique",
+    "Description": "Ce Kiho est l'un des plus puissants, n'est connu que d'une poignée de maîtres de la Confrérie et découvert au maximum par un seul représentant de chaque génération. Vous devez le délivrer au moyen d'une attaque à mains nues pour compter les forces du destin qu'il renferme. Ce Kiho activé, vous dépensez tous vos points de vide restants. La cible de votre attaque perd un désavantage social, spirituel ou mental déterminé aléatoirement et en gagne un nouveau de valeur égale déterminé aléatoirement. Le choix peut aussi être à la discrétion du MJ."
+  }
+]

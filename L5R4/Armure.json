@@ -1,0 +1,73 @@
+[
+  {
+    "BonusND": 3,
+    "Reduction": 1,
+    "Cout": {
+      "Value": 5,
+      "Unit": "koku"
+    },
+    "Special": [],
+    "Tag": "ARU0001",
+    "Name": "Armure d'Ashigaru",
+    "Description": "Bien moins chères à produire que les armures traditionnelles légères ou lourdes de samurai, les armures d'ashigaru offrent plus de légèreté, moins d'encombrement mais protègent moins bien. Elles sont constituées de plaques protégeant la tête, le torse et les cuisses. Certains éclaireurs de la caste des samurai portent des armures d'ashigaru au lieu de leurs armures traditionnelles pour disposer d'une meilleure mobilité lorsqu'ils accomplissent leurs missions. Les ronins en portent également parce qu'ils ne peuvent guère s'offrir mieux."
+  },
+  {
+    "BonusND": 5,
+    "Reduction": 3,
+    "Cout": {
+      "Value": 25,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0001"
+      }
+    ],
+    "Tag": "ARU0002",
+    "Name": "Armure légère",
+    "Description": "De très loin l'armure la plus communément utilisée par les samurai des armées des clans Majeurs, l'armure légère constitue le point de référence auquel on compare les autres. Les plaques qui se recouvrent les unes les autres protègent essentiellement le torse, la tête, les bras et les cuisses, mais les avant-bras et les tibias restent en grande partie découverts pour éviter une perte de mobilité excessive. Il s'agit de l'armure de prédilection des éclaireurs et des fantassins, en particulier ceux qui doivent se déplacer rapidement sur le champ de bataille."
+  },
+  {
+    "BonusND": 10,
+    "Reduction": 5,
+    "Cout": {
+      "Value": 40,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0002"
+      }
+    ],
+    "Tag": "ARU0003",
+    "Name": "Armure lourde",
+    "Description": "Si les éclaireurs ou les fantassins rapides utilisent fréquemment l'amure légère, les soldats qui se battent en première ligne ou ceux censés se trouver au cœur de la mêlée préfèrent l'armure lourde. Elle protège tout le corps, y compris les avant-bras, les tibias, les pieds et le visage, ce dernier étant recouvert par un casque intégral appelé kabuto. Si la mobilité du porteur en souffre considérablement, beaucoup considèrent que la protection accrue en vaut bien la peine."
+  },
+  {
+    "BonusND": 4,
+    "Reduction": 4,
+    "Cout": {
+      "Value": 55,
+      "Unit": "koku"
+    },
+    "Special": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0003"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0004"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPO0005"
+      }
+    ],
+    "Tag": "ARU0004",
+    "Name": "Armure de cavalerie",
+    "Description": "Version modifiée de l'armure légère, l'armure de cavalier est conçue pour être portée par les soldats montés, et les plaques ont été réorientées pour dévier les coups portés par des adversaires à pied. Cette modification accroît énormément l'efficacité de l'armure, mais uniquement lorsque son porteur est à cheval."
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Action": "Soudain, vous remarquez une ouverture qui vous permet de fondre sur les unités de soutien de l'armée ennemie. Vous avez là une chance d'attaquer les archers et donc de permettre aux renforts de votre armée de charger.",
+    "Tag": "OPH0001",
+    "Name": "Attaque des archers",
+    "Description": "Si l'attaque contre les archers est couronée de succès (il s'agit d'une escarmouche), le général adverse subit un malus de -5 au prochain Tour de Bataille et le personnage qui a mené l'attaque gagne 2 Points de Gloire."
+  },
+  {
+    "Action": "Une brèche s'ouvre et vous avez l'occasion d'attaquer les unités de soutien. Alors que vous chargez leurs rangs, les shugenja cessent aussitôt leurs rituels de bataille\u00A0!",
+    "Tag": "OPH0002",
+    "Name": "Attaque des shugenja",
+    "Description": "Un coup porté à un shugenja ennemi peut certainement devenir la clef de la victoire, mais cette action peut se révéler fort dangereuse. En perdant une telle ressource, le général adverse subit un malus de -5 au prochain Jet d'Art de la Guerre. Vous-même gagnez 3 Points de Gloire. Les shugenja étant relativement rares, il est plus qu'honorable de leur offrir une chance de se rendre. Ce faisant, vous gagnez 2 Points d'Honneur, qu'ils acceptent ou non votre proposition."
+  },
+  {
+    "Action": "Vous recevez l'ordre de charger les premières lignes ennemies\u00A0!",
+    "Tag": "OPH0003",
+    "Name": "Briser les lignes ennemies",
+    "Description": "Le personnage doit affronter 2 à 4 samurai de Rang 2 s'il souhaite s'en prendre aux premières lignes adverses. Il se retrouve bien évidemment en Première Ligne. Au Tour de Bataille suivant, réduisez son jet de 2 points, mais ajoutez 3 points au Jet d'Art de la Guerre de son général. Le personnage gagne 3 Points de Gloire."
+  },
+  {
+    "Action": "Un officier ennemi vous aperçoit et vous défie en duel d'une voix forte.",
+    "Tag": "OPH0004",
+    "Name": "Défi en Duel",
+    "Description": "Si le personnage accepte, il doit affronter en duel un samurai de Rang 2 ou 3. S'il l'emporte, il gagne 1 Point de Gloire par Rang de Gloire de son adversaire. De plus, son général bénéficie d'un bonus de +2 au prochain Jet d'Art de la Guerre."
+  },
+  {
+    "Action": "Votre unité et vous remarquez un officier ennemi séparé de ses gardes. Bien qu'il ne s'agisse certainement pas de la chose la plus honorable à faire, se débarrasser de lui donnerait certainement un avantage décisif à votre armée.",
+    "Tag": "OPH0005",
+    "Name": "Ecrasement",
+    "Description": "Le personnage et d'autres membres de son unité peuvent décider d'attaquer l'officier, un samurai de Rang 3 ou 4. Si l'Opportunité est couronnée de réussite, le général adverse subit un malus de -5 au Jet d'Art de la Guerre suivant."
+  },
+  {
+    "Action": "Le capitaine de votre navire hurle\u00A0: «\u00A0éperonnez-les\u00A0!\u00A0» Vous devez vous préparer à l'abordage.",
+    "Tag": "OPH0006",
+    "Name": "Eperonnage",
+    "Description": "Si le personnage accepte cette Opportunité Héroïque, il se retrouve en Première Ligne. Il lui faut  alors combattre 1 à 4 samurai ayant 1 Rang de moins que lui et il gagne 1 Point de Gloire."
+  },
+  {
+    "Action": "-",
+    "Tag": "OPH0007",
+    "Name": "Escarmouche",
+    "Description": "Cette Opportunité Héroïque permet au personnage de combattre un certain nombre d'ennemis déterminé par le MJ. Pour remporter cette opportunité, le personnage doit avant tout éliminer ses ennemis de la bataille, sans forcément les tuer. En cas de succès, le général du personnage bénéficie d'un bonus de +1 au Jet d'Art de la Guerre suivant."
+  },
+  {
+    "Action": "La malédiction de la Souillure de l'Outremonde s'abat sur les guerriers qui combattent à vos côtés, qui s'écroulent au sol en hurlant. Quelques instants plus tard, ils se relèvent, une lueur impie dans les yeux.",
+    "Tag": "OPH0008",
+    "Name": "Folie de l'Outremonde",
+    "Description": "Le personnage doit affronter 1 à 4 samurai Souillés d'un Rang égal au sien (s'il se trouve en Première Ligne) ou de 1 Rang de moins que lui (s'il est Engagé). S'il s'en sort, le personnage gagne 1 Point de Gloire. S'il rate cette Opportunité Héroïque, son général subit un malus de -3 au Jet d'Art de la Guerre suivant."
+  },
+  {
+    "Action": "Le meilleur moyen de s'en prendre à un navire ennemi est d'en brûler les voiles pour l'immobiliser. Vous êtes certainement capable de tirer une flèche enflammée sur la voilure\u00A0!",
+    "Tag": "OPH0009",
+    "Name": "Incendier les voiles",
+    "Description": "Le ND du tir dépend de la distance qui sépare les navires. En cas de réussite, le navire s'immobilise jusqu'à ce qu'une nouvelle voile soit levée et le général ennemi subit un malus -3 au Jet d'Art de la Guerre suivant."
+  },
+  {
+    "Action": "Les premières lignes se délitent et vous avez une ligne de tir dégagée qui vous permet de prendre pour cible le chef de l'armée adverse\u00A0!",
+    "Tag": "OPH0010",
+    "Name": "Ligne de tir dégagée",
+    "Description": "Le ND du tir dépend de l'officier visé et de son ND d'Armure, mais vu le chaos qui règne, il ne doit pas ^tre inférieur à 30. En cas de réussite, le personnage gagne 4 Points de Gloire, mais un tir mortel s'avère hautement improbable. De plus, le général ennemi subit un malus de -5 au prochain Jet d'Art de la Guerre."
+  },
+  {
+    "Action": "Les créatures hideuses auxquelles vous faites face ne semblent guère impressionnées par la mort de leurs camarades et poursuivent leur assaut, ignorant leurs lourdes pertes. Soudain, vous apercevez un guerrier de l'Outremonde hurler des ordres à la horde immonde. Peut-être la mort de leur leader aura-t-elle plus d'impact.",
+    "Tag": "OPH0011",
+    "Name": "Pour l'Empire",
+    "Description": "Le samurai a l'occasion de combattre un samurai Egaré ayant 1 Rang de plus que lui, un oni mineur ou toute autre créature corrompue répondant aux besoins du MJ. En cas de succès, le personnage gagne 3 Points de Gloire. Le général ennemi subit quant à lui un malus de -5 au Jet d'Art de la Guerre suivant."
+  },
+  {
+    "Action": "L'un des shugenja de votre armée vient de vous lancer un sort.",
+    "Tag": "OPH0012",
+    "Name": "Présent d'un shugenja",
+    "Description": "Le MJ peut décider de la nature précise du Sort. Sinon, considérez que l'un des Traits ou l'une des Compétences du personnage augmente de 1 Rang jusqu'à la fin de la bataille."
+  },
+  {
+    "Action": "Vous vous retrouvez soudain face à votre général, qui a perdu son garde du corps personnel. Celui-ci vous ordonne alors de rester à ses côtés et de le protéger. Vous devez bien évidemment le suivre partout où il se rend (sachant que certains généraux sont plus courageux que d'autres).",
+    "Tag": "OPH0013",
+    "Name": "Protéger le général",
+    "Description": "Le MJ décide du niveau d'engagement du personnage pour le reste de la bataille. Le personnage gagne 1 Point de Gloire supplémentaire par Tour de Bataille."
+  },
+  {
+    "Action": "Les archers de votre armée sont en déroute. Vous devez les regrouper et remettre leurs rangs en bon ordre pour qu'ils reprennent le combat.",
+    "Tag": "OPH0014",
+    "Name": "Rallier les archers",
+    "Description": "Le PJ doit galvaniser les troupes et effectuer un Jet de Spectacle:Eloquence/Intuition contre un ND 20. En cas de succès, son général bénéficie d'un bonus de +5 au prochain jet, et le PJ gagne 1 Point de Gloire. En cas d'échec ou de refus de cette Opportunité Héroïque, son général subit un malus de -5 à son prochain jet."
+  },
+  {
+    "Action": "Vous voyez le porte-étendard de votre camp se faire cribler de flèches. Vous avez certainement l'occasion de ramasser la bannière et de remonter ainsi le moral de votre armée. Mais attention, car le porte-étendard constitue une cible de choix pour les soldats ennemis.",
+    "Tag": "OPH0015",
+    "Name": "Ramasser la bannière",
+    "Description": "Les personnages qui accepte de brandir la bannière de son armée devient la cible de nombreux samurai et archers à chaque Tour de Bataille, jusqu'à ce qu'il la lâche. Cependant, son général bénéficie d'un bonus de +3 au Jet d'Art de la Guerre à chaque tour de bataille où le PJ tient l'étendard."
+  },
+  {
+    "Action": "Vous apercevez un samurai de l'armée adversaire terrasser l'un de vos proches. Vous pouvez désormais passer le reste de la bataille à traquer ce samurai.",
+    "Tag": "OPH0016",
+    "Name": "S'apprêter à creuser deux tombes",
+    "Description": "Si le personnage choisit de poursuivre son ennemi, il doit atteindre le même niveau d'Engagement que celui-ci et réussir un Jet d'Opposition d'Art de la Guerre/Perception pour le localiser. En cas d'échec, l'ennemi lui échappe. En cas de réussite, il entame aussitôt l'Opportunité Défi en Duel. Si l'adversaire souhaite affronter le personnage, le MJ peut ignorer le Jet d'Opposition."
+  },
+  {
+    "Action": "Malgré le sang et le carnage qui vous entourent, vous distinguez le porte-étendard de l'armée ennemie. Vous avez une chance de vous emparer de la bannière ennemie\u00A0! Avant cela, il vous faut néanmoins en tuer le porteur. Si vous parvenez à vous emparer de la bannière, il vous faudra la rapporter jusqu'à vos unités de soutien.",
+    "Tag": "OPH0017",
+    "Name": "S'emparer de la bannière ennemie",
+    "Description": "Sans l'aide de son armée, le personnage n'a aucune chance de remplir cette Opportunité Héroïque. À chaque Tour de Bataille, le personnage est attaqué par un nombre de samurai ennemi (au choix du MJ) de son Rang. Tant qu'il tient l'étendard ennemi, le général ennemi subit un malus de -5 aux Jets d'Art de la Guerre. Une fois l'Opportunité Héroïque terminée, le personnage gagne 1 Point de Gloire."
+  },
+  {
+    "Action": "Votre navire a subi de lourds dégâts et risque de sombrer d'un instant à l'autre. Si rien n'est fait, tout l'équipage risque de se noyer. Vous devez donc prévenir les membres d'équipage et les aider à quitter le navire.",
+    "Tag": "OPH0018",
+    "Name": "Sauvez notre navire",
+    "Description": "Si le personnage parvient à sauver les membres d'équipage, il gagne 3 Points de Gloire."
+  },
+  {
+    "Action": "Les ashigaru et certains samurai de votre armée n'ont guère l'habitude de combattre les morts-vivants et autres abominations. Ils se débandent à la simple vue d'un gigantesque oni avançant lentement sur leur position. Si vous parveniez à vaincre le monstre, peut-être votre exemple remonterait-il le moral de l'armée.",
+    "Tag": "OPH0019",
+    "Name": "Se dresser contre les ténèbres",
+    "Description": "Le personnage a la possibilité de combattre un oni mineur ou quelque autre adversaire du même acabit. En cas de succès, il gagne 4 Points de Gloire, et son général bénéficie d'un bonus de +3 à son prochain Jet d'Art de la Guerre. En cas d'échec ou s'il se soustrait à cette Opportunité, son général subit un malus de -5 au prochain Jet d'Art de la Guerre."
+  },
+  {
+    "Action": "Depuis les unités de soutien, vous remarquez une faille dans la stratégie du général ennemi. Peut-être est il temps pour vous de vous joindre au combat\u00A0!",
+    "Tag": "OPH0020",
+    "Name": "Se joindre au combat",
+    "Description": "S'il le souhaite, le personnage peut désormais être Désengagé. Dans ce cas, il refait aussitôt un jet sur la table de Bataille (sans modificateur au jet)."
+  },
+  {
+    "Action": "Vous apercevez l'un de vos alliés charger au coeur de la bataille. Si personne ne vient à son aide, son sort sera bientôt scellé.",
+    "Tag": "OPH0021",
+    "Name": "Seul contre tous",
+    "Description": "Jouez cette Opportunité Héroïque comme une escarmouche menée contre 3 à 6 samurai ayant 1 Rang de moins que le personnage (Rang 1 minimum). Si l'allié s'en sort vivant, le personnage gagne 3 Points de Gloire et peut gagner l'Avantage Relation (à la discrétion du MJ)."
+  },
+  {
+    "Action": "Vous remarquez un ennemi blessé qui vous appelle à l'aide. Vous pouvez l'ignorer sans subir de malus (après tout, il se comporte comme un lâche), mais si vous lui venez en aide, votre ennemi vous sera redevable. Cet ennemi pourrait même devenir un otage de valeur lors des négociations à venir.",
+    "Tag": "OPH0022",
+    "Name": "Secourir un adversaire blessé",
+    "Description": "Le personnage doit réintégrer les unités de Soutien aussi vite que possible. Il ne retire aucun bonus de cette opportunité héroïque."
+  },
+  {
+    "Action": "Au plus fort de la bataille, vous voyez l'un de vos proches s'effondrer\u00A0! Vous avez cependant une chance de le sauver.",
+    "Tag": "OPH0023",
+    "Name": "Secourir un camarade blessé",
+    "Description": "Pendant qu'il porte secours à son camarade, le personnage ne peut se prêter à aucune autre Opportunité Héroïque. À chaque Tour de Bataille, il se voit confronté à 2 ou 3 adversaires de Rang 1 ou 2. Si le personnage parvient à protéger son camarade, il gagne 1 Point de Gloire supplémentaire par Tour de Bataille (sans compter que son allié le récompensera certainement de lui avoir sauvé la vie)."
+  },
+  {
+    "Action": "Votre commandant vous ordonne de tenir une position\u00A0! Si vos troupes et vous-même y parvenez, votre Clan n'en gagnera que plus de gloire et d'honneur.",
+    "Tag": "OPH0024",
+    "Name": "Tenez cette position\u00A0!",
+    "Description": "Le personnage et l'unité qu'il accompagne doivent tenir leur position contre l'ennemi. S'ils se trouvent en position Engagés, ils ont affaire à un certain nombre de samurai égal à leur propre nombre + 2, et le Gain de Gloire est de 2 Points en cas de succès. S'ils sont en Première Ligne, ils ont affaire à 2 adversaires de plus, et le gain de Gloire passe à 4 Points."
+  }
+]

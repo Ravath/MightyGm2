@@ -1,0 +1,530 @@
+[
+  {
+    "NomTechnique": "Rage du Berserker",
+    "Rang": 2,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0001",
+    "DescriptionTechnique": "Les Berserkers Crabes manifestent leurs dangereux dons après avoir passé un certain temps (souvent des mois, parfois des années) sur la Muraille Kaiu. Certains font appel à une fureur maniaque pour alimenter leur rage, alors que d'autres entrent dans la transe de \"l'oeil mort\", mais pour un même résultat : une force surhumaine et une quasi-immunité à la douleur. Vous pouvez entrer en rage lors de l'étape de Réactions. Dès lors, elle dure un nombre de Rounds de Combat égal au double de votre Anneau de Terre (vous pouvez y mettre un terme prématurément en dépensant un Point de Vide durant l'étape de Réaction). Une fois enragé, vous ne pouvez plus adopter les Postures du Centre, de Défense et d'Esquive, et vous ne pouvez utiliser que des Compétences de Bugei. Par ailleurs, vous ignorez les malus et effets des Rangs de Blessure. Vous gagnez aussi un bonus de +2g1 aux jets d'attaque et de dommages. Si vous êtes tué, vous restez en vie et continuez de vous battre jusqu'au terme de la rage, mais vous ne pouvez être soigné (à moins que vous ne soyez d'abord la cible du Sort Volonté Absolue) : vous êtes bel et bien mort, mais votre corps ne le sait pas encore. La rage prend fin si vous subissez le double des Blessures nécessaires pour vous tuer en temps normal.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "4",
+        "Model_Tag": "CON0003"
+      }
+    ],
+    "Tag": "VOA0001",
+    "Name": "Berserker Crabe",
+    "Description": "Lorsque la situation devient désespérée, le guerrier bat généralement en retraite pour reprendre le combat ultérieurement. Mais pour les Berserkers Crabes, cela ne se peut. En effet, le Berserker combat là où son seigneur le lui ordonne et lutte férocement jusqu’à ce que son ennemi ou lui s’effondre. Les Berserkers combattent souvent la Horde de l’Outremonde ravageuse. Du reste, leur rage et leur violence n’ont rien à envier à celles de leurs ennemis."
+  },
+  {
+    "NomTechnique": "Lié par le Monde",
+    "Rang": 3,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0001",
+    "DescriptionTechnique": "Les Kuni étudient l’art encore incompris des glyphes de coercition, des cercles rituels et des symboles permettant de piéger les démons afin de les détruire à jamais. Vous pouvez dépenser un emplacement de Sort de Terre et faire un Jet d’Incantation pour préparer un cercle de coercition rituel, ce qui vous demande 1 heure. Ce cercle peut recouvrir un nombre de mètres carrés égal à votre Rang de Maîtrise, mais vous pouvez combiner vos efforts avec ceux d’autres Kuni afin de couvrir une superficie plus importante en faisant la somme de tous vos Niveaux de Maîtrise (seul l’un de vous fait alors le Jet d’Incantation). Dès qu’un oni entre dans le cercle, ce dernier s’active. L’oni ne peut alors pas le quitter sans réussir au préalable un Jet de Volonté contre un ND égal au résultat de votre Jet d’Incantation. Tant que le cercle est actif, vous perdez un emplacement de Sort de Terre par jour.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0002",
+    "Name": "Tueur d'Oni",
+    "Description": "Les shugenja Kuni consacrent leur existence à éradiquer les menaces de l’Outremonde qui pèsent sur le monde. Les Tueurs d’Oni constituent quant à eux une secte d’élite de la famille Kuni qui se charge exclusivement de liquider les monstres trop puissants pour être combattus sur un pied d‘égalité. Leurs rituels et glyphes font preuve d’une grande utilité pour saper les forces de ces créatures surnaturelles. Les Tueurs d’Oni voient des choses sur lesquelles nul homme ne devrait avoir à poser les yeux, mais ils restent fidèles à leurs devoirs."
+  },
+  {
+    "NomTechnique": "Cœur de la Montagne",
+    "Rang": 2,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0002",
+    "DescriptionTechnique": "Le Montagnard, ce guerrier bourru qui doit sans cesse composer avec le caractère parfaitement imprévisible de la nature, s’attend à tout en combat. Quand vous êtes surpris lors d’une escarmouche en échouant à votre Jet d’Opposition d’Enquête (Sens de l’Observation)/Perception, vous pouvez aussitôt faire un second jet d’Athlétisme/Agilité cette fois-ci. En cas de réussite, vous n’êtes pas surpris. Vous pouvez aussi ajouter la moitié de votre Rang d’Athlétisme (arrondi au supérieur) au total de vos jets d’attaque à distance.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": "SPC0071"
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0003",
+    "Name": "Montagnard Mirumoto",
+    "Description": "Les montagnes du Clan du Dragon servent depuis des milliers d’années de défense naturelle contre les invasions. Toutefois, les guerriers Dragon y font face aux mêmes difficultés qu’une armée d’assiégeants. Les Montagnards Mirumoto forment des soldats endurcis nés dans les à-pics traîtres, soumis aux rigueurs d’un climat capricieux et des dangereux prédateurs qui sévissent dans la région. Le Montagnard trouve cependant un certain équilibre avec les éléments, un talent utile au beau milieu d’un combat."
+  },
+  {
+    "NomTechnique": "Force de l’Âme",
+    "Rang": 4,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0002",
+    "DescriptionTechnique": "Les Tamori, les plus martiaux des familles de shugenja de l’Empire, s’entraînent souvent aux côtés des bushi de leur Clan. Vous pouvez dépenser un emplacement de Sort au prix d’une Action Gratuite pour gagner un bonus de +1g0 à un Jet de Compétence de Bugei. Vous ne pouvez cependant pas dépenser ainsi plus d’emplacements de Sort par Round que votre Rang de Maîtrise. Vous pouvez effectuer des attaques au corps à corps en tant qu’Action Simple si vous utilisez une arme créée par les Sorts suivants : Yari de l’Air, Bo de l’Eau, Katana du Feu, Tetsubo de la Terre.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0047"
+      }
+    ],
+    "Tag": "VOA0004",
+    "Name": "Guerrier-prêtre Tamori",
+    "Description": "La famille Tamori se montre courageuse et combative depuis sa fondation. Les shugenja Tamori s’entraînent souvent aux côtés de leurs frères Mirumoto dans le but d’améliorer leur coordination. Les yamabushi (guerriers-prêtres) considèrent cet entraînement martial comme une nécessité, au même titre que leur lien avec les kami. Le Guerrier-Prêtre utilise justement ce lien pour élargir et bonifier sa vision du champ de bataille, ce qui lui permet d’accomplir des tours de force exaltants."
+  },
+  {
+    "NomTechnique": "Défendre jusqu’à la Mort",
+    "Rang": 0,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0003",
+    "DescriptionTechnique": "Les Gardes de l’Impératrice prennent leur devoir très au sérieux. Seuls les guerriers à l’âme pure et à l’oeil de lynx satisfont aux conditions imposées par le Clan de la Grue. Vous pouvez ajouter la moitié de votre Rang d’Honneur aux jets d’attaque et de Perception. Par ailleurs, lorsque vous défendez la famille impériale, vous pouvez ajouter +10 à votre ND d’armure.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0010"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0054"
+      }
+    ],
+    "Tag": "VOA0005",
+    "Name": "Garde de l'Impératrice",
+    "Description": "La famille Doji a toujours été étroitement liée à la dynastie impériale depuis l’aube de l’Empire. Au fil des ans, ce lien lui a valu de grandes faveurs, mais aussi d’importantes responsabilités. La Garde de l’Impératrice renferme certains des meilleurs guerriers du Clan de la Grue. Ils s’entraînent dans le but de protéger l’Impératrice en personne et se donnent beaucoup de mal dans ce sens. Seule une poignée de Gardes de l’Impératrice sert en même temps, les autres s’entraînant pendant ce temps pour ne rien perdre de leurs talents."
+  },
+  {
+    "NomTechnique": "Le Monde dans ma Paume",
+    "Rang": 2,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0003",
+    "DescriptionTechnique": "Les Asahina sont les meilleurs fabricants de tsangusuri (fétches) de tout Rokugan et leurs trésors sont très recherchés. Quand vous utilisez une Compétence d’Art ou d’Artisanat pour créer une babiole, vous pouvez dépenser un Point de Vide pour lui conférer une bénédiction à usage unique. L’individu qui possède l’objet peut l’activer quand bon lui semble, lui conférant un bonus de +2g0 ç un Jet de Compétence Noble. Un même individu ne peut utiliser plus d’un objet de ce type par jour.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "3",
+        "Model_Tag": "CON0053"
+      }
+    ],
+    "Tag": "VOA0006",
+    "Name": "Fétichiste Asahina",
+    "Description": "Les shugenja Asahina empruntent la voie de la paix et de la beauté et ils trouvent l’harmonie dans la tranquillité de la nature. Au fils des ans, ils ont acquis le statut de maîtres dans un art secret de création qui leur permet d’investir de petits objets de puissance magique. Ces objets, qualifiés de tsangusuri, confèrent temporairement à ceux qui les portent la possibilité de demander de l’aide aux kami. Chaque objet est réalisé en l’honneur des éléments et reflètent la vision du Clan de la Grue d’un monde qui ne serait que beauté."
+  },
+  {
+    "NomTechnique": "L’Âme Vive",
+    "Rang": 2,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0004",
+    "DescriptionTechnique": "L’Eclaireur Shinjo apprend à passer inaperçu, y compris au coeur d’un territoire ennemi. Vous pouvez utiliser la Compétence Discrétion à cheval. Où que vous vous trouviez, on considère que vous avez l’Avantage Grand Voyageur. Enfin, vous gagnez +1g0 aux jets d’attaque lorsque vous êtes Monté.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0007",
+    "Name": "Éclaireur Shinjo",
+    "Description": "Le Clan de la Licorne a parcouru de dangereuses terres étrangères et découvert bien des menaces. Rapidement, le groupe de héros comprit qu’il avait besoin d’unités de reconnaissance pour éviter ses ennemis les plus dangereux ; la famille Shinjo accepta cette mission. Rapidement, les Éclaireurs Shinjo, parfaitement à l’aise dans leur rôle, explorèrent les terres étrangères comme s’ils se trouvaient chez eux. Lorsque le Clan de la Licorne revint à Rokugan, les Éclaireurs Shinjo échangèrent leurs connaissances avec les Éclaireurs Hiruma du Clan du Crabe et n’en devinrent que plus efficaces."
+  },
+  {
+    "NomTechnique": "La Volonté du Vent",
+    "Rang": 3,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0004",
+    "DescriptionTechnique": "Vous connaissez la plus sacrée des magies de la Licorne : l’art de se déplacer d’un point à un autre sans parcourir l’espace qui les sépare. Vous pouvez dépenser un Point de Vide et un emplacement de Sort d’Air ou d’Eau au prix d’une Action Simple pour vous téléporter d’une distance maximale égale à 30m x vote Rang de Maîtrise. Cela n’affecte que vous et vos biens, mais en dépensant un second Point de Vide, vous pouvez également téléporter une monture de la taille d’un cheval sur laquelle vous êtes assis au moment de l’effet. Vous pouvez utiliser plusieurs emplacements de Sort pour vous déplacer sur des distances plus grandes.",
+    "CompetencesRequises": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0026",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0008",
+    "Name": "Voyageur Iuchi",
+    "Description": "Les gens de la Licorne sont les enfants des Quatre Vents à la soif de voyages légendaires. Le Voyageur Iushi passe sa vie sur la route, allant d’un lieu à un autre dans le but de découvrir tous les secrets de l’Empire. Les Voyageurs développent des rituels secrets pour traverser une région en quelques instants, ce qui leur permet de rentrer de leurs voyages quand le Clan de la Licorne a besoin de leurs pouvoirs. Ces rituels ont d’ailleurs été adaptés à de nombreux usages, y compris la guerre. Malgré cela, le Voyageur type reste résolument optimiste et allègre."
+  },
+  {
+    "NomTechnique": "Honneur du Lion",
+    "Rang": 1,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0005",
+    "DescriptionTechnique": "Les Quêteurs de Mort se rachètent une conduite en plongeant au coeur de la mêlée. Vous gagnez le Bonus, les Compétences, l’Honneur et l’Equipement d’un Bushi Lion 1 (Ecole au choix). Vous pouvez ajouter votre Rang d’Honneur au total d’un jet de dommages à votre Tour. Dans votre cas, votre ND d’Armure est réduit de 5 jusqu’à l’étape de Réactions du Round de Combat suivant. Par ailleurs, vous ajoutez +1g0 aux jets d’attaque lorsque vous adoptez la Posture d’Assaut.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0023"
+      },
+      {
+        "Complement": "DAV0021",
+        "Model_Tag": "CON0032"
+      }
+    ],
+    "Tag": "VOA0009",
+    "Name": "Quêteur de mort",
+    "Description": "Un bushi Lion fait passer le Bushido et ses ancêtres avant toute autre chose. Quand il leur fait honte en déshonorant son nom, il perd sa raison d’être et une partie de son âme. Il doit alors expier, généralement en faisant seppuku. Toutefois, il arrive que le Clan lui offre un autre choix : combattre aux côtés des Quêteurs de Mort, une unité de guerriers en armure légère qui cherchent le trépas en première ligne des conflits. Ils chargent sans ménagement et abattent leurs adversaires sans la moindre hésitation. La plupart de ces Quêteurs de Mort survivent moins d’une année."
+  },
+  {
+    "NomTechnique": "Rejeton de la Force",
+    "Rang": 3,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0005",
+    "DescriptionTechnique": "La Fortune de la Force offre ses faveurs à ceux qui observent ses préceptes sans question ni réserve. Vous pouvez dépenser un emplacement de Sort au prix d’une Action Gratuite pour gagner un bonus de +1g0 à un jet lié à la Force, y compris un jet de dommages d’arme de corps à corps. Vous pouvez aussi dépenser un emplacement de Sort de cette manière pour gagner un bonus de +1g0 au Jet d’Incantation effectué pour lancer un Sort accompagné du mot-clé Art de la Guerre.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0010",
+    "Name": "Élu de Bishamon",
+    "Description": "Le Clan du Lion abrite les plus importantes armées et les plus grands généraux de l’Empire. La tradition martiale constitue le principal centre d’intérêt de tout samurai Lion, qu’il soit prêtre ou guerrier. La famille Kitsu préfère de loin la voie de la prêtrise, mais les shugenja de cette famille ne reculent pas face à leurs devoirs. L’Élu de Bishamon apprend le maniement des armes et marche au combat aux côtés de ses frères bushi. Cependant, leur ferveur et leur dévouement pour l’Ordre Céleste restent purs, qu’ils se trouvent dans la sainteté de leur temple ou au beau milieu d’une bataille endiablée."
+  },
+  {
+    "NomTechnique": "Délices de la Félonie",
+    "Rang": 2,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0006",
+    "DescriptionTechnique": "Malgré tout ce que la société peut penser au sujet de ses activités, le Scélérat se dépense en toute nécessité. Quand vous dépensez un Point de Vide pour améliorer un Jet d’Athlétisme, de Commerce, Navigation, Sincérité ou Compétence Dégradante, vous gagnez un bonus supplémentaire u total du jet égal au double de votre Rang de Maîtrise.",
+    "CompetencesRequises": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0029",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0032",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0011",
+    "Name": "Scélérat Yoritomo",
+    "Description": "Autrefois un Clan Mineur, le Clan de la Mante et les Yoritomo n’ont jamais craint de se livrer à des activités plus que douteuses pour se tailler un nom. Au fil des ans, ils sont devenus contrebandiers, pirates et mercenaires. La Mante a gagné sa légitimité avec le temps, mais les vieilles habitudes ont la vie dure, surtout lorsqu’elles se révèlent particulièrement efficaces pour exaucer les souhaits des Yoritomo. Le Scélérat se livre à des actes indignes d’un samurai, mais il sait qu’il le fait pour le bien de son Clan."
+  },
+  {
+    "NomTechnique": "Inspiration des Fortunes",
+    "Rang": 3,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0006",
+    "DescriptionTechnique": "Les shugenja qui servent la Mante apprennent de nombreuses Techniques qui leur permettent d’apaiser les éléments, y compris lorsque la situation devient très compliquée. Lorsque vous vous retrouvez confronté à des conditions météorologiques difficiles, vous pouvez les annuler en dépensant un Point de Vide au prix d’une Action Simple. L’effet, centré sur vous, a un rayon de 6m x votre Rang de Maîtrise. En cas d’escarmouche, l’effet dure un nombre de Rounds égal à votre Rang de Maîtrise. Hors combat, il dure un nombre d’heures égal à votre Rang de Maîtrise.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0032",
+        "Specialite_Tag": "SPC0093"
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0012",
+    "Name": "Navigateur Mante",
+    "Description": "Le Clan de la Mante règne en maître incontesté sur les océans. Chaque capitaine de navire a subi une formation de manière à pouvoir naviguer dans le pire de ce que la mer a à lui offrir. Le Navigateur Mante, quant à lui, peut régler des problèmes qui dépassent l’entendement. Sa maîtrise des océans n’a nulle autre pareille ; ses prières parviennent à apaiser une mer démontée et éclaircir les cieux les plus sombres. Les hommes d’équipage peuvent dormir tranquilles. Ils savent que le Navigateur les ramènera sains et saufs sur la terre ferme."
+  },
+  {
+    "NomTechnique": "Sacrifice de Shiba",
+    "Rang": 3,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0007",
+    "DescriptionTechnique": "Les Yojimbo Shiba constituent un cadre d’élite de gardes du corps formés pour donner leur vie si nécessaire pour préserver celle de leurs protégés. On ne choisit que les plus honorables et désintéressés des Shiba pour suivre cet entraînement, car il exige du candidat d’être prêt à sacrifier sa vie sans la moindre hésitation. Au début d’une escarmouche, vous pouvez désigner un allié qui sera considéré comme votre protégé le temps du combat. Chaque fois que votre protégé reçoit une attaque physique ou un Sort à cible infligeant des dommages, vous pouvez faire un Jet de Défense/Réflexes contre un ND 25 si vous vous situez dans un rayon de 3m. En cas de succès, vous subissez les dommages à la place de votre protégé. Si vous dépensez un Point de Vide pour réduire ces dommages, diminuez-les de 20 au lieu de 10.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "5",
+        "Model_Tag": "CON0023"
+      }
+    ],
+    "Tag": "VOA0013",
+    "Name": "Yojimbo Shiba",
+    "Description": "Shiba posa un genou à terre et jura de suivre la famille Isawa à la naissance du Clan du Phénix. Tout au long de l’histoire de Rokugan, les Shiba ont défendu les shugenja Isawa contre les nombreuses menaces qui se dressèrent face à eux. Ils exécutent leur devoir avec le plus grand sérieux et beaucoup consacrent leur vie à ce but. Le Yojimbo Shiba représentent l’illustration même des idéaux de la famille puisqu’il préférait mourir plutôt que de voir son protégé blessé."
+  },
+  {
+    "NomTechnique": "Étreinte des Éléments",
+    "Rang": 2,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0007",
+    "DescriptionTechnique": "Certains Isawa ont un chi si étroitement lié à l’essence d’un élément qu’ils se montrent capables d’accomplir de véritables exploits en étudiant celui-ci à l’exclusion de tout autre. Vous gagnez une Affinité supplémentaire à un élément pour lequel vous avez déjà une Affinité, et vous gagnez une Déficience dans tous les autres éléments. Par exemple, si vous êtes un Shugenja Isawa de Rang 1 avec une Affinité au Feu, vous serez en découvrant cette Technique un shugenja de Rang 2 capable de lancer des Sorts de Feu de Niveau de Maîtrise 4 et des Sorts des autres Eléments de Niveau de Maîtrise 1 seulement.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2016",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0014",
+    "Name": "Tensai Isawa",
+    "Description": "Les Isawa sont les maîtres incontestés de la magie élémentaire parmi les Clans Majeurs. Cette famille prestigieuse produit les meilleurs shugenja et les soumet à un entraînement très rigoureux pour qu’ils le restent. Les Tensai sont quant à eux de véritables prodiges. Au lieu de se tourner vers une étude générale des kamis, ils se concentrent sur un élément. Leur maîtrise atteint alors un niveau stupéfiant, au point que les kami semblent chanter et danser à leur appel. Malheureusement, cette obsession a un prix, même si les Tensai n’hésitent pas à le payer."
+  },
+  {
+    "NomTechnique": "L’Épée des Mensonges Amers",
+    "Rang": 3,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0008",
+    "DescriptionTechnique": "Le Bretteur des Mensonges Amers charge sans se soucier de sa propre sécurité. Vous pouvez dépenser un Point de Vide pour refaire n’importe quel jet. Ce nouveau jet ne subit pas de malus au ND, même si vous avez raté le premier. Vous pouvez ensuit conserver le résultat de votre choix. Toutefois, vous ne pouvez absolument pas refaire le même jet une nouvelle fois, quelles que soient vos ressources.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0018",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0015",
+    "Name": "Bretteur des mensonges amers",
+    "Description": "Il est étonnant de constater que la technique de Mensonges Amers fonctionne. Bayushi Tangen, le fondateur de ce style était un homme chanceux mais également doté d’une volonté de fer. Il refusait d’admettre que quoi que ce soit puisse lui échapper et prenait des risques insensés pour parvenir à ses fins. Il transmit son style d’aventurier bagarreur à un seul élève, qui par la suite forma plusieurs samurai. Les Bretteurs des Mensonges Amers détiennent cet héritage, même s’ils l’accompagnent de leurs propres bottes. Contre toute attente, la chance naturelle du Bretteur lui permet de survivre à des situations sans issue."
+  },
+  {
+    "NomTechnique": "Fléau des Ombres",
+    "Rang": 3,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0008",
+    "DescriptionTechnique": "Il y a certaines cibles que les Shosuro n’arrivent pas à éliminer, parce que trop protégées ou trop compliquées à tuer. Face à de telles proies, les Soshi envoient leurs Chasseurs de l’Ombre. Lorsque vous lancez un Sort qui inflige des dommages et vise un ennemi inconscient de votre présence, vous gagnez un bonus de +2g0 au Jet d’Incantation. Vous pouvez également dépenser un emplacement de Sort au prix d’une Action Gratuite pour gagner un bonus de +1g1 aux Jets de Couteaux et de Discrétion.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0016",
+    "Name": "Chasseur de l'ombre",
+    "Description": "Le Clan du Scorpion ne reconnaît jamais publiquement l’existence d’une grande partie de ses forces d’élite. Ses assassins et ninja parviennent notamment à se glisser derrière les meilleures défenses pour commettre leurs forfaits. Toutefois, ces ninja sont humains et ont leurs limites. Les Chasseurs de l’Ombre Soshi quant à eux parviennent à s’adresser aux kami et transcender leurs limitations naturelles, en modifiant par exemple leur environnement à l’aide de leurs Sorts. Ces assassins d’élite se fondent dans l’obscurité et ne réapparaissent que pour abattre leurs proies."
+  },
+  {
+    "NomTechnique": "Force d'Effroi",
+    "Rang": 1,
+    "Balise": "bushi",
+    "ClanRequis_Tag": "CLN0009",
+    "DescriptionTechnique": "Le Magistrat d'Obsidienne ressemble à un bastion de Shourido de Daigotsu. Vous gagnez le Bonus, les Compétences, l'Honneur et l'Équipement d'un bushi Daigotsu 1. Vous pouvez ajouter la somme de vos Rangs de Perceptoin et de Souillure au total de vos Jets de Compétences Nobles et de Bugei. Ce bonus ne s'applique pas aux Compétences d'Armes. Vous pouvez aussi ajouter la différence entre votre Honneur et celui de votre adversaire au total des jets d'attaque visant celui-ci.",
+    "CompetencesRequises": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0017",
+    "Name": "Magistrat d'Obsidienne",
+    "Description": "Lorsque le Clan de l'Araignée fut créé à partir des Damnés, son fondateur Daigotsu décida d'organiser ses forces telle une perversion des valeurs si chères à Rokugan. Il créa une idéologie et un ensemble de lois pour gouverner son propre Empire. Le Magistrat d'Obsidienne représente donc le noir reflet du Magistrat d’Émeraude. Il impose la loi de l'Araignée à tous ceux dont il croise la route et son fanatisme nourrit ses charges enragées sur le champ de bataille."
+  },
+  {
+    "NomTechnique": "La Discrétion du Sombre Kami",
+    "Rang": 4,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": "CLN0009",
+    "DescriptionTechnique": "Certaines sectes Chuda étudient énormément les moyens permettant de dissimuler l'influence de Jigoku dans le royaume des mortels. En dépensant trois emplacements de Sort, vous pouvez réprimer votre Souillure, ou encore celle d'une cible consentante que vous touchez, pendant un nombre d'heures égal à votre Rang de Maîtrise. Dans le cas d'un humain ayant de la Souillure, celui-ci est temporairement immunisé contre les dommages du jade et autres effets visant la Souillure, mais il n'a alors plus accès aux capacités liées à cette même Souillure, comme la Maho et les Pouvoirs de l'Outremonde. Dans le cas de créatures naturellement Souillées, comme les oni et les gobelins, l'effet les immunise simplement contre les pouvoirs de détection de la Souillure. Elles ne bénéficient d'aucune immunité et ne perdent pas leurs capacités. Cette Technique ne peut dissimuler des mutations physiques.",
+    "CompetencesRequises": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [],
+    "Tag": "VOA0018",
+    "Name": "Agitateur Chuda",
+    "Description": "Le Souillure de l'Outremonde offre de grands pouvoirs à ceux qui cèdent aux chants de sirène du sombre royaume. Toutefois, cela présente certains inconvénients, dont des difformités grotesques. Les Chasseurs de Sorcières et les Magistrats d’Émeraude apprennent à déceler ces changements et abattent les blasphémateurs à vue. Ceux qui usent de ces rituels profanes doivent trouver le moyen d'atténuer les conséquences de leurs actes s'ils souhaitent évoluer dans l'Empire. Les agitateurs Chuda réussissent à dissimuler les effets de la Souillure de l'Outremonde et à se faire passer pour des citoyens normaux de l'Empire. Leurs pouvoirs leur permettent même de duper les kami."
+  },
+  {
+    "NomTechnique": "La Voix de l'Empereur",
+    "Rang": 0,
+    "Balise": "courtisan",
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Le Champion d'Améthyste apporte la bonne parole de l'Empereur et de la Cour Impériale à ceux qui n'y ont pas accès. En tant que tel, il passe maître dans l'art d'éliminer les menaces qui planent sur la sainteté de la cour de l'Empereur. Au prix d'une Action Gratuite, vous pouvez dépenser un Point de Vide pour gagner temporairement la faculté de vous servir de n'importe quelle Technique de Courtisan que l'on a utilisée contre vous durant les sept derniers jours.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0057"
+      }
+    ],
+    "Tag": "VOA0019",
+    "Name": "Champion d'Améthyste",
+    "Description": "La Couronne du Champion d'Améthyste est un mystérieux artefact capable de conférer richesse et pouvoir à celui qui la porte tant que son âme reste pure. Le Champion d'Améthyste conserve en permanence ce nemuranai et doit prouver sa grande force de volonté face à toutes les tentations. Il veille au bien-être de la population tout en étant son porte-parole."
+  },
+  {
+    "NomTechnique": "La Main de l'Empereur",
+    "Rang": 0,
+    "Balise": "bushi",
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Le Champion d'Emeraude est la main de l'Empereur et le représentant de ses lois. Vous gagnez un bonus de +1g1 aux Jets de Compétences Nobles et de Bugei, ainsi qu'un +1g0 supplémentaire aux Compétences d'École. Vous gagnez également un nombre de Points de Vide en bonus par jour égal à votre Aneau le plus élevé. Ces Points de Vide peuvent être octroyés à un subordonné ou allié situé dans votre champ de vision qui s'en servira sur un jet. Vous le faites au prix d'une Action Gratuite, mais une fois par Round seulement. Vous ne pouvez pas utiliser vous même ces Points de Vide.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0057"
+      }
+    ],
+    "Tag": "VOA0020",
+    "Name": "Champion d’Émeraude",
+    "Description": "L'Empereur ne peut se rendre dans les régions reculées de Rokugan, aussi charge-t-il le Champion d’Émeraude de le faire à sa place. Celui-ci protège personnellement l'Empereur et exerce son autorité sur tous les Champions des Clans Majeurs. Il commande les Magistrats d’Émeraude et mène bien souvent les armées de l'Empereur lorsqu'une menace surgit."
+  },
+  {
+    "NomTechnique": "La Volonté de l'Empereur",
+    "Rang": 0,
+    "Balise": "shugenja",
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Le Champoin de Jade fait appliquer le droit impérial en matière de magie et de religion. Vous gagnez une Augmentation Gratuite aux Jets d'Incantation. Lorsque vous affrontez un adversaire qui pratique une forme de magie prohibée (maho, chamanisme yobanjin, sorcellerie gaijin, etc.) ou qui dispose de capacités surnaturelles corrompues (Souillure de l'Outremonde ou corruption de l'Ombre Rampante), vous gagnez une Augmentation Gratuite supplémentaire au Jet d'Incantation.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0057"
+      }
+    ],
+    "Tag": "VOA0021",
+    "Name": "Champion de Jade",
+    "Description": "Lorsque l'Empire souffre, il fait appel au plus grand shugenja pour le servir en qualité de Champion de Jade. Ce gardien débarrasse le pays de la corruption magique et des forces démoniaques pour assurer la pureté de Rokugan. Si chaque Champion de Jade choisit personnellement les grandes lignes de son devoir, beaucoup font de leur priorité l'éradication de la maho."
+  },
+  {
+    "NomTechnique": "Maître du Dojo",
+    "Rang": 0,
+    "Balise": "bushi",
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Le Champion de Rubis compte parmi les meilleurs sensei de l'Empire et galvanise tous ceux qu'on lui confie. Lorsque vous combattez aux côtés d'alliés placés sous vos ordres, vous pouvez dépenser un Point de Vie au prix d'une Action Complexe pour permettre à un allié situé dans votre champ de vision d'utiliser l'une de vos Tecniques comme un membre de votre École de Rang équivalent. Cet effet dure jusqu'au début de votre Tour suivant.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0057"
+      }
+    ],
+    "Tag": "VOA0022",
+    "Name": "Champion de Rubis",
+    "Description": "Les magistrats d’Émeraude servent le Droit Impérial et leur professeur doit les préparer à travailler sur le terrain. Le Champion de Rubis, le sensei des Magistrats d’Émeraude, excelle en matière de droit et de kenjutsu. Ses élèves marchent d'un pas sûr au combat, confiants en leurs talents."
+  },
+  {
+    "NomTechnique": "Âme Prometteuse",
+    "Rang": 0,
+    "Balise": null,
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Le Champion de Topaze compte parmi les meilleurs samurai de sa génération. Quand vous gagnez un Rang de Réputation et vous tournez vers cette Voie, vous gagnez aussi un nombre de Points de Vide quotidiens égal à votre Anneau le plus élevé. Vous pouvez les dépenser comme des Points de Vide normaux (avec toutes les limites que cela implique), mais ils ne peuvent servir qu'à améliorer vos jets de Compétences d'Ecole.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0057"
+      }
+    ],
+    "Tag": "VOA0023",
+    "Name": "Champion de Topaze",
+    "Description": "Tous les ans, le village de Tsuma des terres de la Grue accueille la plus grande cérémonie de gempukku de Rokugan. Le samurai qui se montre le plus courageux devient le Champion de Topaze pour l'année. La compétition incluant de nombreuses épreuves martiales (notamment le Iaijutsu), le Championnat de Topaze est généralement dominé par les bushi."
+  },
+  {
+    "NomTechnique": "Pureté d'Acte et de But",
+    "Rang": 2,
+    "Balise": null,
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Les légionnaires de Jade accompagnent les Magistrats de Jade contre les plus dangereuses, insidieuses et nombreuses des menaces magiques de l'Empire. Si votre Rang d'Honneur surpasse celui de votre adversaire, vous pouvez ajouter la différence au total de vos jets d'attaque et de dommages le visant. Dans le cadre de cette Technique, on considère que toutes les créatures et autres adversaires dépourvus de Rang d'Honneur ont un Rang d'Honneur de 0.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "2",
+        "Model_Tag": "CON0024"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0056"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0040"
+      }
+    ],
+    "Tag": "VOA0024",
+    "Name": "Légionnaire de Jade",
+    "Description": "Le Champion de Jade a accès à de nombreuses ressources à Rokugan, mais la légion de jade, très entraînée, constitue son unité personnelle. Cette force fait tout ce que lui demande le Champion de Jade et ses exploits contre les ennemis de l'Empire passent généralement sous silence. Les Légionnaires ont subi un entraînement drastique pour se battre aux côtés de shugenja et protéger leur âme pure contre la corruption glacée de leurs ennemis."
+  },
+  {
+    "NomTechnique": "Force de l'Empire",
+    "Rang": 4,
+    "Balise": "bushi",
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "La force de l'Empereur s'exerce via les actes de ses fidèles légions. Quand vous combattez aux côtés d'autres membres des Légions Impériales, ou encore de Magistrats d'Emeraude ou de Jade, et que vous dépensez un Point de Vide pour améliorer un jet, vous gagnez aussi un bonus au résultat du jet égal au nombre de légionnaires et/ou de magistrats alliés situés dans un rayon de 7,5m, jusqu'à un maximum de votre Rang de Maîtrise x 5.",
+    "CompetencesRequises": [],
+    "Conditions": [
+      {
+        "Complement": "2",
+        "Model_Tag": "CON0024"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "CON0040"
+      }
+    ],
+    "Tag": "VOA0025",
+    "Name": "Légionnaire Impérial",
+    "Description": "Les Légions Impériales accueillent les courageux samurai de tous les Clans, élus pour servir aux côtés de l'Empereur. Le légionnaire Impérial s'entraîne en compagnie des plus prestigieux sensei du pays et sert contre ceux qui menacent la sécurité de l'Empire (comme les invasions étrangères ou les puissants maho-tsukai). Une nomination dans les Légions Impériales assure généralement un avenir brillant à tout samurai."
+  },
+  {
+    "NomTechnique": "L'Honneur est mon Bouclier",
+    "Rang": 4,
+    "Balise": null,
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Ceux qui font appliquer la Loi Impériale comptent parmi les âmes les plus vertueuses, ce qui constitue leur protection. Vous gagnez une Réduction égale à la moitié de votre Tang d'Honneur (arrondir à l'entier supérieur). Cet effet se cumule avec la Réduction de toute autre Source, y compris l'armure.",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2031",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0008",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0040"
+      }
+    ],
+    "Tag": "VOA0026",
+    "Name": "Magistrat d’Émeraude",
+    "Description": "Les Magistrats d’Émeraude font appliquer la Loi Impériale dans le pays. Leur juridiction ne connaît aucune frontière et seuls l'Empereur ou le Champion d’Émeraude peuvent revenir sur leurs décisions. Il arrive qu'on obtienne un poste de Magistrat d’Émeraude en usant de politique et de chantage, car le prestige de cette place rejaillit sur l'ensemble de la famille."
+  },
+  {
+    "NomTechnique": "Parfum des Kami",
+    "Rang": 4,
+    "Balise": null,
+    "ClanRequis_Tag": null,
+    "DescriptionTechnique": "Un serviteur du Champion de Jade n'a pas d'égal pour comprendre les mystères des kami. Vous pouvez faire un Jet de Perception/Art de la Magie pour identifier les Sorts lancés dans un zone au cours des dernières 48 heures. Le ND de ce jet est égal au ND de base pour lancer le Sort en Question (c'est-à-dire son Niveau de Maîtrise x 5 +5).",
+    "CompetencesRequises": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2031",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0001",
+        "Specialite_Tag": null
+      }
+    ],
+    "Conditions": [
+      {
+        "Complement": null,
+        "Model_Tag": "CON0040"
+      }
+    ],
+    "Tag": "VOA0027",
+    "Name": "Magistrat de Jade",
+    "Description": "Le Champion de Jade combat les criminels qui abusent de magie et ses magistrats appliquent ses ordres. Les Magistrats de Jade ont reçu une formation poussée pour reconnaître ces crimes et administrer une justice rapide. Ces guerriers chassent principalement les maho-tsukai et les Adeptes du Sang, tous ceux qui usent de magie impie dans l'Empire."
+  }
+]

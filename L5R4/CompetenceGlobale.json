@@ -1,0 +1,38 @@
+[
+  {
+    "Specifiques": [],
+    "Tag": "GPC0001",
+    "Name": "Art",
+    "Description": "Il s'agit d'une compétence fourre-tout qui représente le talent que le personnage possède dans l'un des nombreux arts reconnus par la société rokugani. En plus d'être soldats et prêtres, les samurai incarnent la culture. On perçoit donc l'activité d'artiste comme honorable et noble dans de nombreux clans."
+  },
+  {
+    "Specifiques": [],
+    "Tag": "GPC0002",
+    "Name": "Connaissance",
+    "Description": "De nombreux samurai assument le rôle d'érudits pour mieux servir leur seigneur ou leurs propres intérêts. Bien que cette tendance soit courante chez les shugenja, un courtisan ou un bushi peuvent étudier un domaine suscitant leur intérêt. L'histoire et l'héraldique restent parmi les plus utiles et les plus répandus, mais on peut se pencher sur n'importe quel sujet.\nLes Jets de Compétence de Connaissance sont effectués pour déterminer si le personnage possède des informations sur le sujet étudié (par exemple un bushi pourra effectuer un Jet de Connaissance: Shugenja pour déterminer le but d'un rituel auquel il assiste)."
+  },
+  {
+    "Specifiques": [],
+    "Tag": "GPC0003",
+    "Name": "Jeu",
+    "Description": "Les jeux constituent un divertissement majeur pour la caste d'ordinaire si austère des samurai de Rokugan. Bien que  certains Clans préfèrent les activités purement physiques comme la lutte et autres compétitions, presque tous les gens de l'Empire s'adonnent à un jeu ou l'autre. Parmi les plus populaires, on compte le kemari, activité individuelle ou de groupe qui consiste à donner des coups de pied dans une balle pour l'empêcher de toucher le sol, le go, jeu de stratégie faisant intervenir des pierres de couleur sur un plateau, les missives, qui consistent à faire correspondre deux ou plusieurs individus par le biais de lettres écrites élaborées dans le cadre d'un échange stratégique, le shogi, jeu de stratégie proche des échecs, et le sadane, échange de critiques impromptues sur un sujet convenu."
+  },
+  {
+    "Specifiques": [],
+    "Tag": "GPC0004",
+    "Name": "Spectacle",
+    "Description": "Même moins nombreux que les autres artistes, les gens de spectacle sont considérés par de nombreux clans comme remplissant un aspect primordial de la culture rokugani. Dans les hautes sphères de la cour, on applaudit musiciens, orateurs, poètes et comédiens en raison du divertissement qu'ils procurent. De nombreux bushi ont une opinion divergente sur la valeur de ces hommes et femmes, mais ils doivent bien admettre que rien n'embrase autant l'esprit guerrier qu'une pièce commémorant les faits d'armes de leurs ancêtres sans oublier d'avilir leurs ennemis. Les gens de spectacle ne servent pas qu'à divertir\u00A0; ils constituent également une forme de mémoire vivante que tous les samurai apprécient, même si certains ne respectent pas toujours ceux qui la véhiculent."
+  },
+  {
+    "Specifiques": [],
+    "Tag": "GPC0005",
+    "Name": "Armes",
+    "Description": "Les armes constituent l'essence vitale de tout véritable bushi, car même formé à combattre avec ses mains quand il ne lui reste que cela, sa véritable force a toujours résidé dans l'acier. La grande majorité des armes que l'on retrouve entre les mains des samurai est détaillée ailleurs, mais tout peut servir d'arme à partir du moment où la conception le permet. Quelques armes gaijin sont apparues à Rokugan et bien qu'il soit socialement inacceptable de s'en servir, la plupart des samurai reconnaissent leur intérêt tactique."
+  },
+  {
+    "Specifiques": [],
+    "Tag": "GPC0006",
+    "Name": "Artisanat",
+    "Description": "Si les artistes ont pour tâche de confectionner des objets de nature abstraite et esthétique selon la perception de l'Empire, les artisans ont pour mission de créer des objets pratiques. Les forgerons, fabricants d'armure, charrons, charpentiers et armateurs font tous partie des artisans. Les pêcheurs et fermiers rentrent également dans cette catégorie, même s'ils ne produisent pas d'objet mais plutôt de la nourriture qui sustente l'Empire. Bien que l'artisanat ne soit pas aussi honorable et noble que la profession d'artiste, il reste prisé et perçu sans condescendance."
+  }
+]

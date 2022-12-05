@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Accomplir une Quête",
+    "Description": "Gains de Points de Gloire égaux à la moitié du Rang de Gloire du samurai qui ordonne la quête."
+  },
+  {
+    "Name": "Apprentissage",
+    "Description": "Gain de un Rang de Gloire lors du gain de un Rang de Réputation."
+  },
+  {
+    "Name": "Artisanat",
+    "Description": "Gain de un Point de Gloire pour chaque Augmentation obtenue lors de la création d'un objet."
+  },
+  {
+    "Name": "Défaite",
+    "Description": "Perte d'un nombre de Points de Gloire égal au Rang de Gloire de l'adversaire pour un officier qui perd une bataille ou pour un duelliste qui perd un duel."
+  },
+  {
+    "Name": "Déshonneur Familial",
+    "Description": "Perte de un Rang de Gloire si un parent proche accomplit un acte justifiant le seppuku."
+  },
+  {
+    "Name": "Duels",
+    "Description": "Gagner honorablement un duel rapporte un nombre de Points de Gloire égal à 1/3 du Statut ou de la Gloire de l'adversaire (plus bas des 2)."
+  },
+  {
+    "Name": "Escarmouches",
+    "Description": "Gain de 1 Point de Gloire pour avoir vaincu des bandits, des ronin..."
+  },
+  {
+    "Name": "Guerre",
+    "Description": "Gain de 3 Points de Gloire pour avoir survécu à une bataille, ou gain de 6 Points si le Personnage se trouve du côté du vainqueur."
+  },
+  {
+    "Name": "Immortalité",
+    "Description": "Après la création d'une oeuvre d'art, gain d'un nombre de Points de Gloire égal au Rang de Gloire du plus notable des admirateurs."
+  },
+  {
+    "Name": "Indifférence",
+    "Description": "Etre volontairement ignoré en raison d'anciennes mauvaises actions implique que les gains de Gloire sont réduits de 1 Point et que les Pertes sont augmentées de 2."
+  },
+  {
+    "Name": "Mariage",
+    "Description": "Augmentation du Rang de Gloire du moins glorieux des 2 époux à un Rang de moins que le Rang du plus glorieux."
+  },
+  {
+    "Name": "Oisiveté",
+    "Description": "Perte de un Point de Gloire pour chaque semaine passée sans gain de Gloire."
+  },
+  {
+    "Name": "Présents",
+    "Description": "Gain d'un nombre de Points de Gloire égal au Statut ou à la Gloire (plus bas des deux) de la personne qui offre si elle possède un statut plus élevé que celui du personnage."
+  },
+  {
+    "Name": "Pris à Mentir",
+    "Description": "Perte du double des Points de Gloire normalement gagnés pour l'acte sur lequel le samurai a été pris  mentir."
+  },
+  {
+    "Name": "Reconnaissance",
+    "Description": "Reconnaissance publique d'un individu de Statut 7+, gain de 1 Rang de Gloire."
+  },
+  {
+    "Name": "Romance",
+    "Description": "Un Point de Gloire pour déclarer être amoureux publiquement (sans révéler l'identité de l'être aimé)."
+  },
+  {
+    "Name": "Se Vanter en Public",
+    "Description": "Après avoir gagné de la Gloire, s'en vanter en public permet d'en gagner 1 Point de plus."
+  },
+  {
+    "Name": "Statut",
+    "Description": "Gain d'un nombre de Points de Gloire égal au nombre de Points de Statut gagnés."
+  },
+  {
+    "Name": "Vendetta",
+    "Description": "Se venger d'un ennemi rapporte des Points de Gloire équivalent au Statut ou à la Gloire (plus bas des deux) de ce dernier."
+  },
+  {
+    "Name": "Voler la Gloire",
+    "Description": "Gain du montant de Gloire normalement gagné dans l'accomplissement de l'acte usurpé."
+  }
+]

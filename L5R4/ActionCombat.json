@@ -1,0 +1,162 @@
+[
+  {
+    "Type": "augmentation",
+    "CoutMin": 5,
+    "CoutMax": 5,
+    "Tag": "ACB0001",
+    "Name": "Attaque Supplémentaire",
+    "Description": "Seules de puissantes Techniques d'École offrent normalement la capacité d'effectuer de multiples attaques au cours d'un même Tour. Cette Manoeuvre permet à n'importe qui de gagner une attaque supplémentaire lors de son Tour, tant que le personnage dispose toutefois d'une compétence suffisante. Pour gagner une attaque supplémentaire, un personnage doit déclarer 5 Augmentations sur son premier jet d'attaque. Ces Augmentations n'offrent auncun bénéfice direct mais, si le jet réussit, le personnage peut alors immédiatement effectuer un second jet d'attaque dès que la première a été résolue (y compris le jet de dommages). La Manoeuvre d'Attaque Supplémentaire ne peut être utilisée qu'une seule fois par Tour. L'attaque initiale de cette Manoeuvre doit être une réussite, mais la seconde attaque peut échouer sans conséquence particulière."
+  },
+  {
+    "Type": "augmentation",
+    "CoutMin": 1,
+    "CoutMax": 4,
+    "Tag": "ACB0002",
+    "Name": "Coup Précis",
+    "Description": "Un Coup Précis prend pour cible une partie spécifique du corps. Sans l'utilisation de la Manoeuvre de Coup Précis, on considère qu'une attaque touche le torse de la cible, mais en utilisant des Augmentations il devient possible de toucher des parties spécifiques du corps. Un membre choisi peut être pris pour cible avec 1 Augmentation, une main ou un pied avec 2 Augmentations, la tête avec 3 Augmentations, et un oeil, une oreille, un doigt ou d'autres petites parties similaires avec 4 Augmentations. Il n'existe pas de règle précise détaillant les effets d'un coup sur des parties spécifiques du corps d'un personnage, mais les MJ sont encouragés à déterminer quelle quantité de dommages infliger pour couper ou détruire la partie du corps en question. Il revient aussi au MJ de définir les effets du coup, et si des objets tenus ou portés seront lâchés ou détruits en conséquence de l'attaque."
+  },
+  {
+    "Type": "augmentation",
+    "CoutMin": 3,
+    "CoutMax": 3,
+    "Tag": "ACB0003",
+    "Name": "Désarmement",
+    "Description": "La Manoeuvre de Désarmement prend spécifiquement pour cible l'arme portée par l'adversaire, cherchant clairement à faire en sorte qu\"il la lâche. Un Désarmement réussi inflige seulement des dommages de 2g1, quelle que soit l'arme utilisée, et les personnages qui exécutent cette Manoeuvre n'ajoutent pas leur Force au nombre de dés de dommages lancés. Si cette Manoeuvre réussit, le personnage et sa cible doivent effectuer un jet d'Oppposition de Force. Si le personnage l'emporte, sa cible lâche son arme. Les armes en bois prises pour cible par la Manoeuvre de Désarmement par des armes en acier peuvent être brisées par cette attaque, ceci reste à la discrétion du MJ. Récupérer une arme tombée au sol exige une Action Simple de la part du personnage ayant été désarmé."
+  },
+  {
+    "Type": "augmentation",
+    "CoutMin": 1,
+    "CoutMax": -1,
+    "Tag": "ACB0004",
+    "Name": "Dommages Augmentés",
+    "Description": "Il s'agit de la plus simple des Manoeuvres : choisir d'obtenir des Dommages Augmentés ajoute un bonus de 1g0 au jet de dommages effectué pour l'attaque. De multiples Augmentations peuvent être déclarées pour gagner des bonus de dommages supplémentaires, mais toutes les Augmentations déclarées pendant un Round ne comptent que comme un unique effet au regard des règles qui diminuent le nombre d'Augmentations requises sur un jet de dés."
+  },
+  {
+    "Type": "augmentation",
+    "CoutMin": 2,
+    "CoutMax": 2,
+    "Tag": "ACB0005",
+    "Name": "Feinte",
+    "Description": "Une Feinte est une attaque qui se compose, comme son nom l'indique, d'un mouvement visant à tromper l'adversaire en le poussant à se méprendre sur la direction de l'attaque, et à ainsi exploiter l'ouverture créée dans une défense basée sur le sens de l'attaque normale initiale. Si la Manoeuvre de Feinte réussit, on ajoute la moitié de la valeur dont le jet d'attaque excède le ND d'Armure de la cible (en comptant les 2 Augmentations) au résultat du jet de dommages de cette attaque, jusqu'à un maximum de cinq fois le Rang de Réputation du personnage."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0006",
+    "Name": "Garde",
+    "Description": "Cette Action n'exige aucun jet d'Attaque. lors d'une escarmouche, un personnage peut choisir de se consacrer à la protection d'un autre combattant, rendant plus difficiles les attaques menées contre ce dernier. La Garde est une Action Simple. Il est impossible toutefois d'effectuer cette Action en posture d'Assaut. Lorsque vous déclarez une Action de Garde, vous devez choisir un autre personnage situé dans les 1m50 autour de vous. Jusqu'à votre prochain Tour, tant que le personnage pris pour cible se trouve à 1m50 ou moins de vous, son ND d'Armure augmente de 10 tandis que votre propre ND d'Armure baisse de 5."
+  },
+  {
+    "Type": "augmentation",
+    "CoutMin": 2,
+    "CoutMax": 2,
+    "Tag": "ACB0007",
+    "Name": "Renversement",
+    "Description": "La Manouvre de Renversement décrit une attaque spécialisée qui vise non seulement à blesser mais aussi à faire tomber au sol. Comme cette attaque prend pour cible les jambes de l'adversaire, elle ne sert que contre des ennemis dotés de deux ou quatre jambes (et exige respectivement 2 ou 4 Augmentations). Si l'attaque réussit, elle inflige des dommages normaux et impose un Jet d'Opposition de Force entre le personnage et sa Cible. Si le personnage l'emporte, la cible tombe Au Sol."
+  },
+  {
+    "Type": "gratuite",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0008",
+    "Name": "Dégainer Arme (petite)",
+    "Description": "Il est possible de dégainer une arme de petite taille par une Action Gratuite."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0009",
+    "Name": "Dégainer Arme (moyenne ou grande)",
+    "Description": "Il est possible de dégainer une arme de taille moyenne ou grande par une Action Simple."
+  },
+  {
+    "Type": "gratuite",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0010",
+    "Name": "Mouvement Gratuit",
+    "Description": "Permet de se déplacer d'un nombre de mètres égal à une fois et demi l'Anneau d'Eau du personnage."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0011",
+    "Name": "Mouvement Simple",
+    "Description": "Permet de se déplacer d'un nombre de mètres égal à trois fois l'Anneau d'Eau du personnage."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0012",
+    "Name": "Mouvement Complexe",
+    "Description": "Seules certaines actions de jeu permettent à un personnage d'accomplir des tâches spécifiques en tant qu'Actions de Mouvement Complexes."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0013",
+    "Name": "Se Relever",
+    "Description": "Se relever lorsque l'on est À Terre demande une Action Simple."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0014",
+    "Name": "Attaquer",
+    "Description": "Attaque se fait généralement par une Action Complexe, mais de puissantes Techniques d'École permettent souvent d'attaquer par une Action Simple. Afin de toucher sa cible, un personnage doit réussir un jet d'Attaque, et atteindre ou dépasser le ND d'Armure de celle-ci. Si le jet est une réussite, il peut infliger des dégâts en conséquence, ou effectuer tout autre effet dû à une Manoeuvre utilisée lors de l'Attaque."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0015",
+    "Name": "Incanter",
+    "Description": "Lancer un Sort nécessite un nombre d'Actions Complexes égal à son Niveau de Maîtrise. La première de ces actions s'effectue quand le lanceur de sort réussit son Jet d'Incantation contre le ND ordinaire, qui est égal à 5 plus (le Niveau de Maîtrise du Sort x 5). Par la suite à chaque Round, le shugenja doit dépenser une Action Complexe pour poursuivre le lancement du Sort. Un Sort prend immédiatement effet dès la dernière Action Complexe nécessaire terminée, à moins que sa description ne précise le contraire."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0016",
+    "Name": "Bander un Arc",
+    "Description": "Les arcs sont généralement transportés désencordés afin d'éviter qu'ils perdent leur élasticité ou que la corde ne se brise. Un archer peut toutefois encorder son arc très rapidement, ce qui le rend rarement désavantagé au combat à moins qu'il ne tombe dans une embuscade."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0017",
+    "Name": "Monter à Cheval",
+    "Description": "Si monter à cheval nécessite courament une Action Complexe, un personnage compétent pour monter par une Action Simple. Voir la compétence Équitation pour de plus amples renseignements."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0018",
+    "Name": "Descendre de Cheval",
+    "Description": "Si descendre de cheval nécessite courament une Action Simple un personnage compétent pour démonter par une Action Gratuite. Voir la compétence Équitation pour de plus amples renseignements."
+  },
+  {
+    "Type": "simple",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0019",
+    "Name": "Activer un Kata",
+    "Description": "Dès lors qu'un personnage connaît un Kata, il peut le réaliser quand bon lui semble au prix d'une Action Simple. Une fois le Kata réalisé, le personnage bénéficie de l'avantage mentionné jusqu'à l'expiration de l'effet (si une durée est précisée) ou jusqu'à ce qu'il y mette un terme au prix d'une action Gratuite. Un personnage ne peut pas avoir plus d'un Kata actif à la fois."
+  },
+  {
+    "Type": "complexe",
+    "CoutMin": 0,
+    "CoutMax": 0,
+    "Tag": "ACB0020",
+    "Name": "Activer un Kiho",
+    "Description": "Sauf indication contraire dans leur description (ou encore s'il s'agit d'Atemi), tous les Kiho doivent être activés. On active un Kiho en dépensant un Point de Vide (au prix d'une Action Gratuite), en faisant un Jet de Méditation/Vide contre un ND 15 (au prix d'une Action Complexe) ou en faisant un Jet de Méditation/Vide contre un ND 30 (au prix d'une Action Simple). On considère la dépense de Points de Vide visant à activer des Kiho de cette façon comme une Technique d'École pour les Écoles de la Confrérie, et cette dépense ne compte pas dans la limité précisant qu'on ne peut utiliser des Points de Vide qu'une fois par Round."
+  }
+]

@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Godot/L5R_4/Display/TechniquePanel.cs" type="Script" id=1]
+[ext_resource path="res://Font/irezumi/irezumi.ttf" type="DynamicFontData" id=2]
+
+[sub_resource type="DynamicFont" id=1]
+size = 25
+outline_color = Color( 0.294118, 0.745098, 0.0392157, 1 )
+font_data = ExtResource( 2 )
+
+[node name="TechniquePanel" type="VBoxContainer"]
+margin_right = 435.0
+margin_bottom = 45.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="Name" type="Label" parent="."]
+margin_right = 435.0
+margin_bottom = 27.0
+custom_fonts/font = SubResource( 1 )
+text = "Technique 1"
+
+[node name="Description" type="Label" parent="."]
+margin_top = 31.0
+margin_right = 435.0
+margin_bottom = 45.0
+text = "This is a technique used by beta testors for killing bugs"

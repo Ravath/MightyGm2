@@ -1,0 +1,146 @@
+[
+  {
+    "Clan_Tag": "CLN0001",
+    "Cout": 14,
+    "Exigences": "À chaque Round durant lequel l'un de vos camarades Crabe situé dans votre champ de vision est blessé, vous subissez 1 Blessure par solidarité (pas d'augmentation si plusieurs Crabe subissent des Blessures dans le même Round). Cette Blessure ignore la Réduction et autres effets censés annuler les dommages. Toutefois, vous avez la possibilité de ne pas la subir. Dans ce cas, ou si vous battez en retraite face à une créature de l'Outremonde, Hida vous abandonne.",
+    "Tag": "ANC0001",
+    "Name": "Hida",
+    "Description": "Hida, ce guerrier d’une force et d’une endurance inégalées, comptait bien sur ces qualités pour vaincre ses adversaires et jamais ne reculait, même lorsqu’il eut à affronter son fils Souillé. Avec Hida qui veille sur vous, vous portez des coups précis et violents. Vous gagnez un bonus de +1g0 aux jets de dommages et pouvez ignorer 4 points de Réduction ennemie, quelle que soit l’arme utilisée. Par ailleurs, les Crabe qui combattent à vos côtés dans une escarmouche sont inspirés par l’esprit de Hida qui vous imprègne, si bien qu’ils gagnent un bonus de +1 Point de Vide pour la durée de l’escarmouche."
+  },
+  {
+    "Clan_Tag": "CLN0001",
+    "Cout": 8,
+    "Exigences": "Les exigences de Kuni sont simples. Il faut rester pur. Si vous gagnez ne serait-ce qu'un Point de Souillure de l'Outremonde, Kuni vous abandonne.",
+    "Tag": "ANC0002",
+    "Name": "Kuni",
+    "Description": "Le fondateur de l’École de Shugenja du Crabe possédait une grande habileté, il en savait beaucoup plus sur les créatures de l’Outremonde que ses contemporains. Une fois par session, vous pouvez dépenser un Point de Vide pour gagner un bonus de +0gX à un Jet d’Incantation,où X est égal à votre Anneau de Terre. Par ailleurs, lorsque vous faites un jet pour éviter de gagner la Souillure de l’Outremonde, jetez deux fois les dés et gardez le meilleur des deux résultats."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Cout": 11,
+    "Exigences": "Kitsuki exige que vous recherchiez la vérité. Si vous acceptez l'issue d'un problème, d'un crime ou d'une énigme que vous savez parfaitement fausse, Kitsuki vous abandonne.",
+    "Tag": "ANC0003",
+    "Name": "Agasha Kitsuki",
+    "Description": "Le fondateur de la famille Kitsuki a conçu le concept controversé de la « méthode Kitsuki », qui s’appuie sur la logique et la déduction pour résoudre les crimes. Ceux qui jouissent de ses conseils ont le pouvoir de « lire » autrui et de trouver des indices subtils ou cachés d’une manière quasi-surnaturelle que de nombreux samurai trouvent troublante. Lorsque vous profitez des conseils de Kitsuki, vous pouvez user de Perception pour tout Trait ou Compétence s’appuyant habituellement sur l’Intuition. Par ailleurs, si vous dépensez un Point de Vide sur un Net de Compétence ou de Trait dans le but de voir si l’on vous ment, vous gagnez +2g2 et non +1g1."
+  },
+  {
+    "Clan_Tag": "CLN0002",
+    "Cout": 9,
+    "Exigences": "Mirumoto attend de ses descendants qu'ils observent sa tradition de victoire et poursuivent la rivalité qui l'opposait à son grand rival Kakita. Si vous lancez un défi mais perdez le duel qui s'ensuit, Mirumoto vous abandonne. Il vous quittera également si vous refusez un duel contre un membre de l'École de Bushi Kakita. Il ne vous abandonnera cependant pas si vous perdez un duel que vous avez engagé sous la contrainte... Sauf si votre adversaire appartient à la famille Kakita.",
+    "Tag": "ANC0004",
+    "Name": "Mirumoto",
+    "Description": "Le fondateur de la famille de guerriers du Clan du Dragon fut l’un des plus grands épéistes de son ère. C’était un guerrier pragmatique et rué, doublé d’un duelliste brillant, et le rival de Kakita en matière d’escrime. Il créa le style Niten, une méthode de combat au katana et au wakizashi. Il écrivit aussi l’une des plus formidables œuvres d’escrime de l’Empire et périt en combattant Fu Leng lors du Premier Jour des Tonnerres. Si vous avez attiré l’attention de Mirumoto, ce dernier vous confère +1g1 aux Jets de Compétences liés à l’Agilité. Si le Jet de Compétence est effectué en utilisant une Compétence d’École de Bushi Mirumoto, le bonus est de +3g1."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Cout": 8,
+    "Exigences": "Doji exige de ceux qui profitent de ses conseils qu'ils mènent une existence honorable et civilisée à la fois. Si vous commettez un manquement majeur à l'étiquette (cf Table d'Honneur) ou encore si vous perdez plus de 3 Points d'Honneur ou de Gloire en raison d'un manquement à l'étiquette, Doji vous abandonne.",
+    "Tag": "ANC0005",
+    "Name": "Doji",
+    "Description": "Dame Doji a posé les bases de l’ensemble des règles et concepts qui régissent la civilisation Rokugani, et son influence se fait aujourd’hui encore ressentir dans les cours de l’Empire. Ceux qui jouissent des conseils de Doji gagnent +1g0 à tous leurs Jets de Courtisan, Étiquette, Spectacle et Sincérité."
+  },
+  {
+    "Clan_Tag": "CLN0003",
+    "Cout": 12,
+    "Exigences": "Kakita, un homme honorable, qui cherchait la perfection dans le sabre mais aussi dans le pinceau de l'artiste, attend la même chose de vous. Si vous perdez un duel ou une épreuve artistique, Kakita vous délaisse. Il vous abandonne également si votre Honneur tombe à moins de 4.0.",
+    "Tag": "ANC0006",
+    "Name": "Kakita",
+    "Description": "L’époux de Doji était un duelliste et un artisan de renom, auteur du Sabre, et il fut le premier Champion d’Émeraude de l’histoire de Rokugan. Toutefois, il initia également la longue et amère querelle qui opposa les Clan de la Grue et du Lion. Ceux qui jouissent des conseils de Kakita peuvent dépenser un Point de Vide pour refaire un jet de Iaijutsu ou d’Art avec un bonus de +1g1, et garder le meilleur des deux résultats. Toutefois, tous ceux que Kakita surveille gagnent automatiquement l’inimitié des samurai Matsu, qui sentent la colère de leur propre ancêtre. Tous les membres de la famille Matsu deviennent donc vos Ennemis Jurés."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Cout": 10,
+    "Exigences": "Moto attend de vous que vous viviez avec autant de liberté que lui et n'offriez votre allégeance qu'à vos seigneurs et Clans. Si vous laissez sciemment un individu qui ne serait pas votre supérieur légitime du Clan de la Licorne vous contrôler (si, par exemple, un courtisan vous fait chanter), Moto vous abandonne.",
+    "Tag": "ANC0007",
+    "Name": "Moto",
+    "Description": "Redoutable guerrier du désert qui prêta allégeance à Shinjo et intégra sa tribu au Clan de la Ki-Rin, Moto était connu pour son incroyable rapidité et sa parfaite indépendance. Il inspire le même esprit et la même détermination à ceux de ses descendants qui gagnent ses faveurs. Chaque fois que vous faites un jet pour résister à une tentative d’entrave physique (comme une Empoignade) ou d’influence mentale (comme un Jet de Tentation), vous gagnez un bonus de +2g2 au jet. De même, tout Sort censé entraver vos déplacements physiques voit son ND d’Incantation augmenter d’un nombre égal à votre Volonté x5."
+  },
+  {
+    "Clan_Tag": "CLN0004",
+    "Cout": 8,
+    "Exigences": "Shinjo attend de vous que vous agissiez toujours avec compassion, même face à vos pires ennemis. Si vous ne faites pas preuve de miséricorde et de compassion envers un rival ou un ennemi, Shinjo vous abandonne (cela ne s'applique pas aux membres du Kolat et aux sbires de l'Ombre Rampante ou du Dragon de l'Ombre).",
+    "Tag": "ANC0008",
+    "Name": "Shinjo",
+    "Description": "La fondatrice des Licorne était connue pour sa curiosité sans fin, ce qui la poussa à conduire le Clan de la Ki-Rin dans les Terres Brûlées, mais aussi pour sa compassion, qui lui permet de garder de la tendresse pour son frère déchu Fu Leng. Après un long emprisonnement et sommeil dans les Terres Brûlées, elle revint à Rokugan pour purger son Clan chéri du Kolat. Vous gagnez un bonus de +1g1 aux Jets d’Enquête visant à comprendre quelque chose de nouveau, d’étrange ou d’énigmatique, car l’esprit de Shinjo vous guide vers une meilleure compréhension du monde qui vous entoure. Vous gagnez aussi +1g1 aux Jets d’Intuition effectués avec les Compétences Étiquette ou Sincérité (Honnêteté), car la compassion de Shinjo vous investit de grâce et d’empathie."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Cout": 12,
+    "Exigences": "Akodo exige de ses serviteurs qu'ils fassent de bons soldats, courageux et honorables. Si votre Honneur vient à tomber à moins de 5.0, Akodo vous abandonne. Il vous abandonnera aussi si vous quittez volontairement une bataille ou une escarmouche alors que d'autres Lion poursuivent le combat.",
+    "Tag": "ANC0009",
+    "Name": "Akodo",
+    "Description": "Le fondateur du Clan du Lion était un général incomparable, l’un des plus grands tacticiens de tous les temps. Il représentait aussi le soldat suprême, un homme qui tirait ses forces de ses propres facultés, mais aussi du soutien des siens. Il fit du Lion un Clan où chaque soldat avait sa place et devenait plus fort de par la simple présence de ses compagnons d’armes. Tant que vous jouissez des conseils d'Akodo, vous gagnez un bonus de +1g0 aux Jets de Compétences de Bugei (à l’exception des Jets de Iaijutsu) et un bonus de +1g1 aux jets effectués sur la Table de Combat de Masse. Par ailleurs, quand vous combattez aux côtés d’un Lion, vous tirez une certaine force de sa présence, comme l’enseignant Akodo. Chaque fois que vous entamez une escarmouche avec au moins un autre bushi Lion près de vous, vous gagnez +1 Point de Vide le temps de l’escarmouche."
+  },
+  {
+    "Clan_Tag": "CLN0005",
+    "Cout": 9,
+    "Exigences": "Ikoma attend de vous que vous viviez comme il le fit, en vous empiffrant de boissons fortes, en vous bagarrant, en racontant de belles histoires et en vous faisant accompagner des femmes les plus merveilleuses qui soient. Si vous refusez de boire, fuyez un combat ou insultez une femme séduisante, Ikoma vous délaissera.",
+    "Tag": "ANC0010",
+    "Name": "Ikoma",
+    "Description": "Le fondateur de la famille de conteurs et d’historiens du Clan du Lion était lui-même un incroyable conteur, mais aussi un joyeux coquin qui courait après les femmes et se bagarrait sans peur ni hésitation. Ceux sur qui plane l’esprit tapageur d'Ikoma doivent l’imiter en tout point. En échange, il leur offre ténacité et sagesse. Vous gagnez +1g0 aux Jets liés à l’Intelligence et +2g0 aux dommages à mains nues (avec la Compétence Jiujutsu)."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Cout": 9,
+    "Exigences": "Kaimetsu-Uo exige que vous releviez tous les défis, même étranges ou embarrassants. Si vous vous défilez face à un défi ou une épreuve physique, même s’il s’agit d’une simple course à pied, il vous délaissera.",
+    "Tag": "ANC0011",
+    "Name": "Kaimetsu-Uo",
+    "Description": "Le fondateur du Clan de la Mante était le fils de Hida Osano-Wo et de son épouse Matsu, mais également l’un des plus formidables guerriers connus à ce jour. Préférant l’action aux paroles en l’air, il fonda un clan sur une dangereuse île tropicale et envahit Kyuden Isawa pour venger la mort de son père. Ceux qui jouissent des faveurs de Kaimetsu-Uo sont censés vivre comme lui-même le fît et ne tolérer d’insultes de personnes. Vous gagnez un bonus de +1g1aux Jets de Compétence et de Volonté, à l’exception de ceux qui visent à ne pas être provoqué. Vous gagnez un bonus de +3g0 quand vous utilisez la Spécialisation Arme Improvisée de la Compétence Jiujutsu, ainsi que +1g1 aux jets de dommages des armes improvisées."
+  },
+  {
+    "Clan_Tag": "CLN0006",
+    "Cout": 5,
+    "Exigences": "Gusai vous abandonne si vous vous retrouvez volontairement désarmé en présence d'un rival ou d'un ennemi.",
+    "Tag": "ANC0012",
+    "Name": "Gusai",
+    "Description": "Comptant parmi les plus célèbres ancêtres du Clan de la Mante, Gusai prouva sa force en réussissant à porter un poignard en présence de l’Empereur, qui lui-même prouva les limites d’une telle force en le faisant exécuter. Quand Gusai vous guide, vous gagnez +3g3 aux Jets de Discrétion ou de Passe-passe visant à dissimuler une arme sur votre personne."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Cout": 5,
+    "Exigences": "Asako souhaite que vous traitiez vos amis avec toute la dévotion que vous attendez vous-même de leur part. Si vous trahissez ou abandonnez un ami, Asako vous délaisse.",
+    "Tag": "ANC0013",
+    "Name": "Asako",
+    "Description": "Asako, la servante préférée de Shiba, apprit les secrets du potentiel sans fin de l’humanité de son seigneur et fonda l’ordre mystique des henshin. Elle chérissait l’amitié par-dessus tout, si bien que la trahison lui faisait particulièrement mal. Quand Asako guide vos pas, chacun voit en vous un allié charmant et un véritable ami. Vos Relations gagnent gratuitement +1 en Dévotion. Par ailleurs, vous gagnez +1g0 aux Jets de Compétences Sociales effectués contre vos Relations. Toutefois, si une Relation vient à vous trahir, vous gagnez automatiquement Obnubilé : Tuer le Traître sans aucun point en contrepartie."
+  },
+  {
+    "Clan_Tag": "CLN0007",
+    "Cout": 9,
+    "Exigences": "Shiba exige que vous disposiez d'un honneur sans tâche et que vous fassiez preuve d'un dévouement inconditionnel envers les Isawa. Si votre Rang d'Honneur tombe à moins de 4.0, il vous abandonne. Idem si vous désobéissez à un Isawa d'un rang supérieur au vôtre, ou encore si vous fuyez volontairement une escarmouche en laissant derrière vous un allié Isawa.",
+    "Tag": "ANC0014",
+    "Name": "Shiba",
+    "Description": "Connu pour sa sagesse, sa perception et sa perspicacité, Shiba servit Isawa fidèlement de son vivant et écrivit le Tao qui constitua le socle de la religion de l’Empire. Quand il périt dans l’Outremonde, il trouva le moyen de transmettre ses connaissances à ses descendants, s’assurant que les Phénix seraient à jamais menés par l’Âme de Shiba. Toutefois, il lui arrive aussi de prodiguer ses conseils à de simples samurai Phénix. Ceux qui en jouissent gagnent+1g1 aux Jets d’Intelligence et de Compétences liées à l’Intelligence. Par ailleurs, ils ajoutent toujours leur Rang d’Intelligence à leur ND d’Armure. Si vous participez à une escarmouche au côté d’un membre de la famille Isawa, vous gagnez +1 Point de Vide jusqu’à la fin de l’escarmouche."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Cout": 12,
+    "Exigences": "Bayushi n'attendait qu'une chose des siens, la fidélité, et il attend autant de votre part. Si vous trahissez volontairement le Clan du Scorpion, il vous abandonne. Il vous abandonne également si votre Honneur devient supérieur ou égal à 5.0, car les âmes pures n'ont pas leur place dans les rangs des félons désignés de Rokugan.",
+    "Tag": "ANC0015",
+    "Name": "Bayushi",
+    "Description": "Le fondateur du Clan du Scorpion état connu pour son ingéniosité et s ruse, mais aussi pour la cruelle honnêteté dont il fit notamment preuve au chevet de son frère Hantei alors mourant. Si  son habileté et son implacabilité au champ de bataille et en politique appartiennent à la légende, il vouait une véritable adora à Shosuro qui, corrompue par l’Ombre Rampante, signa sa perte. Si vous êtes formé dans l’une des Écoles Bayushi, vous gagnez un bonus de +1g0 à vos Compétences d’École. Par ailleurs, chaque fois que vous dépensez un Point de Vide lors d’un Jet de Compétence d’École, vous gagnez +2g2 au lieu de +1g1. Si vous disposez d’un Lien Karmique avec un autre personnage, chacun de vous peut utiliser les Points de Vide de l’autre, mais si l’un d’entre vous meurt, l’autre gagne aussitôt le Désavantage Momoku sans aucun point en contrepartie."
+  },
+  {
+    "Clan_Tag": "CLN0008",
+    "Cout": 8,
+    "Exigences": "Ayant dû trahir son seigneur Bayushi une fois, Shosuro est bien déterminé à ce que ses descendants ne commettent pas la même erreur. Si vous trahissez le Clan du Scorpion, désobéissez à vos supérieurs du Clan, ou êtes corrompu par l'Ombre Rampante ou le Dragon de l'Ombre, Shosuro vous abandonne sur-le-champ.",
+    "Tag": "ANC0016",
+    "Name": "Shosuro",
+    "Description": "La bien-aimée de Bayushi fut dévorée par l’Ombre Rampante et passa des siècles emprisonnée par le Kami Togashi avant de fuir enfin sous l’ère de l’Empereur Disparu. Au terme de cette ère, Bayushi conduisit son âme au Yomi et depuis elle offre ses faveurs aux descendants qu’elle trouve dignes d’elle. Si les murmures de Shosuro guident vos actions, vous gagnez un bonus de +3g1 aux Jets de Discrétion, Comédie et Sincérité (Tromperie)."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Cout": 7,
+    "Exigences": "Atarasi est une âme déchue qui méprise la pureté et la vertu. Si votre Honneur est supérieur ou égal à 3.0 ou que vous vous défaites de toute votre Souillure, Atarasi vous délaisse.",
+    "Tag": "ANC0017",
+    "Name": "Hida Atarasi",
+    "Description": "Le fils aîné de Hida et premier Tonnerre Crabe devint aussi l'un des premiers samurai à rejoindre les Damnés en succombant à la Souillure de l'Outremonde. Son pouvoir était tel que ceux qui croisaient son chemin (et avaient la chance de survivre) l'appelaient akutenshi, ou l'ange maléfique. Hida finit par traquer son propre fils et le tua en combat singulier. L'esprit tortueux d'Atarasi veille sur vous, vous pouvez à chaque Round d'escarmouche dépenser un Point de Vide ou gagner un Point de Souillure de l'Outremonde (au choix) pour ajouter un nombre de dés lancés (mais non gardés) égal à votre Rang de Souillure ou de Terre à vos jets d'attaque et de dommages du Round."
+  },
+  {
+    "Clan_Tag": "CLN0009",
+    "Cout": 5,
+    "Exigences": "Yori n'exige rien. Il sait pertinemment que ses conseils vous mèneront inévitablement sur la voie de la corruption par la Souillure.",
+    "Tag": "ANC0018",
+    "Name": "Kuni Yori",
+    "Description": "Kuni Yori était jadis un Crabe loyal, un serviteur du seigneur Hida Kisada, mais il succomba à la tentation de l'Outremonde et trahit le Clan du Crabe. Transformé par le pouvoir de la mahou, Yori devint une abomination mort-vivante à la tête des forces de l'Outremonde contre son ancien Clan. Yori enseigne la tromperie et une plus grande maîtrise des forces de la mahou. Vous gagnez +1g0 aux Jets de Sincérité(Tromperie) et aux Jets d'Incantation de Sorts de Mahou. Toutefois, l'influence maligne de Yori attire à vous la Souillure plus vite que la normale. Chaque fois que vous lancez un Sort de Mahou., vous gagnez un Point de Souillure supplémentaire."
+  }
+]

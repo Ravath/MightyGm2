@@ -1,0 +1,61 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Godot/L5R_4/Display/CharacterSheet.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Godot/L5R_4/Display/ClanPanel.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Godot/L5R_4/DataEdit/DataViewer.cs" type="Script" id=3]
+[ext_resource path="res://Godot/L5R_4/Display/L5R_Title.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Godot/L5R_4/Display/SchoolPanel.tscn" type="PackedScene" id=5]
+
+[node name="DataViewer" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CharacterSheet" parent="." instance=ExtResource( 1 )]
+visible = false
+margin_left = 0.0
+margin_right = 0.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ClanPanel" parent="." instance=ExtResource( 2 )]
+visible = false
+
+[node name="SchoolPanel" parent="." instance=ExtResource( 5 )]
+visible = false
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -400.0
+margin_right = 400.0
+
+[node name="DefaultPanel" type="VBoxContainer" parent="."]
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -400.0
+margin_right = 400.0
+rect_pivot_offset = Vector2( -512.75, -81.2988 )
+size_flags_horizontal = 3
+size_flags_vertical = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="NameLabel" parent="DefaultPanel" instance=ExtResource( 4 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 800.0
+margin_bottom = 40.0
+
+[node name="DescriptionLabel" type="RichTextLabel" parent="DefaultPanel"]
+margin_top = 44.0
+margin_right = 800.0
+margin_bottom = 600.0
+size_flags_vertical = 3
+bbcode_enabled = true
+bbcode_text = "[color=#ff00ff]Degats : [/color]{0}\\n"
+text = "Degats : {0}\\n"
+scroll_active = false

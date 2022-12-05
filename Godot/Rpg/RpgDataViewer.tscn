@@ -1,0 +1,83 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Godot/Rpg/RpgDataViewer.cs" type="Script" id=1]
+[ext_resource path="res://Godot/L5R_4/DataEdit/DataViewer.tscn" type="PackedScene" id=3]
+
+[node name="RpgDataViewer" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 10.0
+margin_top = 10.0
+margin_right = -10.0
+margin_bottom = -10.0
+custom_constants/separation = 10
+__meta__ = {
+"_edit_use_anchors_": false,
+"_editor_description_": "		"
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="HBoxContainer"]
+margin_right = 200.0
+margin_bottom = 580.0
+rect_min_size = Vector2( 200, 0 )
+custom_constants/separation = 9
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MenuButton" type="MenuButton" parent="HBoxContainer/VBoxContainer"]
+margin_right = 200.0
+margin_bottom = 35.0
+rect_min_size = Vector2( 0, 35 )
+text = "Select a Data ..."
+flat = false
+align = 0
+expand_icon = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="FilterEdit" type="LineEdit" parent="HBoxContainer/VBoxContainer"]
+margin_top = 44.0
+margin_right = 200.0
+margin_bottom = 68.0
+placeholder_text = "filter"
+
+[node name="ItemList" type="ItemList" parent="HBoxContainer/VBoxContainer"]
+margin_top = 77.0
+margin_right = 200.0
+margin_bottom = 580.0
+size_flags_vertical = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer"]
+margin_left = 210.0
+margin_right = 1004.0
+margin_bottom = 580.0
+size_flags_horizontal = 3
+custom_constants/margin_right = 20
+custom_constants/margin_top = 20
+custom_constants/margin_left = 20
+custom_constants/margin_bottom = 20
+
+[node name="DataViewer" parent="HBoxContainer/MarginContainer" instance=ExtResource( 3 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 20.0
+margin_top = 20.0
+margin_right = 774.0
+margin_bottom = 560.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+[connection signal="text_changed" from="HBoxContainer/VBoxContainer/FilterEdit" to="." method="_on_FilterEdit_text_changed"]
+[connection signal="item_selected" from="HBoxContainer/VBoxContainer/ItemList" to="." method="_on_ItemList_item_selected"]

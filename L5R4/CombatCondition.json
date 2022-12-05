@@ -1,0 +1,110 @@
+[
+  {
+    "Type": "posture",
+    "Tag": "CBC0001",
+    "Name": "Posture Attaque",
+    "Description": "L'Attaque est la posture standard adoptée par la plupart des bushi lors d'un affrontement. Elle reste intimement liée à l'Anneau d'Eau tant par son aspect fluide que versatile. Un personnage adoptant la Posture d'Attaque n'a aucune restriction au regard des Actions qu'il peut entreprendre."
+  },
+  {
+    "Type": "posture",
+    "Tag": "CBC0002",
+    "Name": "Posture Assaut",
+    "Description": "L'Assaut se lie avec l'Anneau du Feu, détruisant tout sur son passage. Un personnage adoptant la Posture d'Assaut ne peut pas effectuer d'Actions Simples ou Complexes autres que celles permettant d'effectuer des attaques, et il ne peut effectuer des Actions de Mouvement que pour se rapprocher de ses ennemis. Les personnages ne peuvent pas adopter la Posture d'Assaut pour effectuer des attaques à distance. Un personnage qui a adopté la Posture d'Assaut gagne un bonus de +2g1 à ses jets d'attaque effectués durant le Round, mais son ND d'Armure est réduit de 10 pour refléter l'aspect tout ou rien de cette Posture de combat. Un personnage qui a adopté cette Posture et qui effectue une Action de Mouvement lors de son Tour peut se déplacer de 1m50 de plus que la distance normalement autorisée par son Action de Mouvement. Ce bonus de déplacement n'est octroyé qu'une fois par Round au personnage qui ne peut toujours pas excéder la distance maximum qu'il peut franchir en un Round. Il est impossible d'utiliser cette Posture lorsque l'on se trouve une monture."
+  },
+  {
+    "Type": "posture",
+    "Tag": "CBC0003",
+    "Name": "Posture Défense",
+    "Description": "La Défense se marie avec l'Anneau d'Air, réactif et hautement adaptable. Elle offre une grande liberté d'action. Les personnages qui ont adopté la Défense comme Posture de combat ajoutent leur Anneau d'Air et leur Rang de Défense à leur ND d'Armure. Il n'y a pas de restrictions concernant les Actions pouvant être entreprises par les personnages qui ont adopté cette Posture, si ce n'est qu'ils ne peuvent pas porter d'attaque. La Défense s'avère tout particulièrement utile lors des escarmouches. Un bushi essayant de créer une étincelle pour enflammer une flèche au milieu d'une mêlée utilisera la Posture de Défense, car il aura probablement l'intention d'abandonner cette tâche pour se défendre contre un adversaire lui portant une attaque."
+  },
+  {
+    "Type": "posture",
+    "Tag": "CBC0004",
+    "Name": "Posture d'Esquive",
+    "Description": "L'Anneau de l'Esquive est celui de la Terre, discret, inaltérable et inattaquable. Dès qu'il déclare adopter cette Posture de combat, un personnage doit effectuer un Jet de Défense/Réflexes. Il ajoute la moitié du résultat de ce jet (arrondi au supérieur) à son ND d'Armure jusqu'au début de son prochain Tour. On considère ce Jet de Compétence comme une Action Complexe, par conséquent un personnage qui adopte cette Posture ne peut plus effectuer que des Actions Gratuites."
+  },
+  {
+    "Type": "posture",
+    "Tag": "CBC0005",
+    "Name": "Posture du Centre",
+    "Description": "L'Anneau de la Posture du Centre est celui du Vide. La Posture du Centre sert principalement lors d'un duel iaijutsu mais elle a un usage lors d'une escarmouche également. Les personnages qui ont adopté la Posture du Centre ne peuvent pas effectuer d'Actions. Au lieu de cela ils concentrent leur énergie en préparation d'une Action lors du Round suivant. Un personnage ne peut faire d'Actions tant qu'il adopte cette Posture. Lors du Round suivant l'adoption de la Posture du Centre, le personnage gagne un bonus de 1g1 plus la valeur de son Anneau du Vide au résultat d'un seul de ses jets effectués durant son Tour. Le personnage ajoute aussi 10 à son Score d'Initiative uniquement lors de ce Round."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0006",
+    "Name": "À Jeun",
+    "Description": "Un personnage qui ne s'est pas nourri et qui n'a pas bu depuis 24 heures perd sa capacité à regagner des Points de Vide en se reposant, mais il peut tout de même les récupérer par la Méditation. Après deux jours de Jeûne, un personnage subit un malus de +5 au ND de tous ses Jets de Compétences, de Traits Physiques et d'Incantation tant qu'il n'aura pas bu et mangé. Ce malus augmente de +5 pour chaque jour de jeûne additionnel. Après un nombre de jours de jeûne égal à son Rang de Contitution, le personnage commence à perdre 2g1 Blessures par jour jusqu'à ce qu'il se nourrisse et boive ou jusqu'à ce qu'il meure."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0007",
+    "Name": "Au Sol",
+    "Description": "Un personnage Au Sol est considéré comme étendu sur le dos, le côté ou le ventre. Il ne peut pas se déplacer, attaquer ou se défendre de manière véritablement efficace. Il subit immédiatement un malus de -10 à son ND d'Armure contre les attaques de corps à corps. Ce malus durera jusqu'à ce qu'il se relève. Il ne peut pas effectuer d'Action de Mouvement et il ne peut adopter qu'une Posture d'Esquive ou d'Attaque. Il ne peut pas attaquer avec de grandes armes et il subit un malus de -2g0 à ses attaques effectuées avec des armes petites ou moyennes. Il suffit d'une Action Simple pour se relever."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0008",
+    "Name": "Aveuglé",
+    "Description": "Un personnage Aveuglé ou qui souffre du Désavantage Aveugle subit un malus de -3g3 à ses jets d'attaques à distance et de -1g1 à ses jets d'attaque de corps à corps. Le ND d'Armure de base d'un personnage Aveuglé est égal à ses Réflexes plus 5 (et l'armure s'ajoute normalement). Son Anneau d'Eau est considéré comme étant inférieur de 2 pour tout ce qui a trait à l'Action de Mouvement. Toute tentative d'effectuer une Action Simple de Mouvement impose un jet d'Athlétisme/Agilité (ND 20), si ce jet échoue le personnage tombe au Sol."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0009",
+    "Name": "Enchevêtré",
+    "Description": "Un personnage Enchevêtré ne peut effectuer aucune Action autre que celle visant à tenter de se libérer. Pour cela il doit effectuer un Jet de Force contre un ND déterminé par le MJ en fonction de la nature des liens qui immobilisent le personnage. Si quelqu'un tente activement d'immobiliser le personnage, le jet pour se libérer devient alors un jet d'Opposition. Les adversaires du personnage Enchevêtré peuvent initier une empoignade avec lui sans avoir à réussir de jet d'attaque."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0010",
+    "Name": "Empoigné",
+    "Description": "Un personnage qui participe à une empoignade est considéré comme Empoigné. Les personnages Empoignés subissent les attaques plus facilement et ils voient donc leur ND d'Armure être réduit à 5 plus les bonus offerts par l'Armure qu'ils portent."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0011",
+    "Name": "Étourdi",
+    "Description": "Un personnage Étourdi ne peut pas accomplir d'Actions. Un tel personnage dispose d'un ND d'Armure égal à 5 plus les bonus offerts par son armure. Un personnage peut récupérer de cette condition en réussissant un jet de Terre contre un ND 20 lors de l'étape de Réactions. S'il échoue, il restera Étourdi jusqu'à la fin du prochain Round de combat."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0012",
+    "Name": "Fatigué",
+    "Description": "Un personnage qui passe 24 heures sans repos subit un malus de +5 ND à tous ses Jets de Compétences, de Trait Physiques et d'Incantation jusqu'à ce qu'il se soit reposé. Ce malus augmente de +5 pour chaque jour supplémentaire sans repos. Après un nombre de jours sans repos égal à son Rang de Constitution, le personnage doit réussir un jet de Volonté contre un ND 20 toutes les deux heures pour éviter de s'endormir. Un personnage fatigué ne peut pas adopter la Posture d'Assaut."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0013",
+    "Name": "Hébété",
+    "Description": "Un personnage Hébété subit un malus de -3g0 à toutes ses actions. Un personnage hébété ne peut adopter que les Postures d'Esquive et de Défense et il ne peut pas disputer un duel iaijutsu. Un personnage peut se remettre de cet état en réussissant un jet de Terre contre un ND 20 lors de l'étape de Réactions. La victime de cet état peut tenter ce jet une fois par Round, et le ND de ce jet réduit de 5 à chaque échec."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0014",
+    "Name": "Monté",
+    "Description": "Un personnage monté sur un cheval (ou une autre monture) ou se trouvant sur une position surélevée (bénéficiant au moins d'un avantage de hauteur de 1m20 ou plus), gagne un bonus de +1g0 sur ses jets d'attaque contre des adversaires situés plus bas. Un personnage ne peut pas adopter la Posture d'Assaut s'il se trouve Monté."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0015",
+    "Name": "Surélevé",
+    "Description": "Un personnage se trouvant sur une position surélevée (bénéficiant au moins d'un avantage de hauteur de 1m20 ou plus), gagne un bonus de +1g0 sur ses jets d'attaque contre des adversaires situés plus bas."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0016",
+    "Name": "Peur",
+    "Description": "Un personnage qui échoue un jet de résistance à la Peur subit un malus à tous ses jets de dés égal à -Xg0 où X est égal au Rang de Peur. Ce malus dure jusqu'à la fin de la rencontre, à moins que la source de l'effet de Peur ne disparaisse avant."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0017",
+    "Name": "Au Corps à Corps",
+    "Description": "Viser un adversaire au corps à corps inflige un malus de -10 aux attaques à distance."
+  },
+  {
+    "Type": "autre",
+    "Tag": "CBC0018",
+    "Name": "Combat à Deux Armes",
+    "Description": "Un personnage qui effectue une attaque avec une arme de la main non directrice subit un malus de -5 au jet s'il s'agit d'une petite arme, de -10 si c'est une arme moyenne et de -15 pour une grande arme. Par ailleurs, les attaques effectuées avec la main directrice subissent un malus de -5 tant que le personnage tient une arme secondaire dans l'autre. En revanche, un personnage qui tient deux armes s'avère plus difficile à toucher car sa zone de protection et supérieure, si bien qu'il ajoute son Rang de Réputation à son ND d'Armure."
+  }
+]

@@ -1,0 +1,1836 @@
+[
+  {
+    "NDArmure": 10,
+    "Reduction": 4,
+    "Initiative": {
+      "Roll": 2,
+      "Keep": 2
+    },
+    "VieHumaine": false,
+    "VieMax": 60,
+    "Seuils": [
+      {
+        "Seuil": 20,
+        "Malus": 5
+      },
+      {
+        "Seuil": 40,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Cornes",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 3,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 3
+        }
+      },
+      {
+        "Name": "Piétinement",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 4
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 2,
+    "Intuition": 2,
+    "Agilite": 2,
+    "Intelligence": 1,
+    "Perception": 2,
+    "Force": 6,
+    "Volonte": 2,
+    "Constitution": 6,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0010"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0001",
+    "Name": "Boeuf",
+    "Description": "Comme on réserve les chevaux et même les poneys à la caste des samurai et aux plus riches roturiers, les gens ordinaires de Rokugan utilisent des bœufs pour tirer les chariots, labourer et accomplir d'autres travaux de force. La plupart des villages rokugani ont un enclos à bœufs contenant deux ou trois de ces animaux puissants, mais obstinés et un peu stupides."
+  },
+  {
+    "NDArmure": 15,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "VieHumaine": false,
+    "VieMax": 48,
+    "Seuils": [
+      {
+        "Seuil": 12,
+        "Malus": 5
+      },
+      {
+        "Seuil": 24,
+        "Malus": 10
+      },
+      {
+        "Seuil": 36,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Sabots",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 5,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 2,
+    "Intuition": 2,
+    "Agilite": 3,
+    "Intelligence": 1,
+    "Perception": 2,
+    "Force": 5,
+    "Volonte": 3,
+    "Constitution": 4,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0002",
+    "Name": "Cheval",
+    "Description": "Les membres du Clan de la Licorne ont rapporté ces chevaux des Terres Brûlées. Même sans être tout à fait aussi robustes que les poneys originaires de Rokugan, ils se montrent plus forts, plus rapides et plus grands, ce qui leur donne des avantages au combat. Le Clan de la Licorne dresse la majorité de ses chevaux pour la guerre\u00A0: lors d'un combat leur cavalier n'a besoin que d'un seul Jet d'Équitation/Intuition ND 10 au début des hostilités (au moyen d'une Action Gratuite) pour convaincre sa monture d'attaquer lors de son Tour."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 64,
+    "Seuils": [
+      {
+        "Seuil": 16,
+        "Malus": 5
+      },
+      {
+        "Seuil": 32,
+        "Malus": 10
+      },
+      {
+        "Seuil": 48,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Sabots",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 2
+        }
+      },
+      {
+        "Name": "Piétinement",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 6,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 4
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 3,
+    "Intuition": 2,
+    "Agilite": 3,
+    "Intelligence": 2,
+    "Perception": 3,
+    "Force": 6,
+    "Volonte": 4,
+    "Constitution": 4,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      },
+      {
+        "Complement": "2;Charge",
+        "Model_Tag": "SPE0007"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0003",
+    "Name": "Destrier Utaku",
+    "Description": "Les célèbres chevaux élevés par les Shiotome Utaku (les Vierges de Bataille) comptent parmi les créatures les plus extraordinaires de Rokugan. Animaux puissants et intelligents qui entretiennent un lien étroit avec leurs cavaliers, ils peuvent se battre férocement. Selon la longue tradition du Clan de la Licorne, ces animaux ne peuvent être chevauchés que par des Vierges de Bataille. Une poignée d'entre eux ont été donnés en cadeau à des individus extrêmement respectés ne faisant pas partie de la famille Utaku (divers Empereurs en particulier), bien que la rumeur prétende que personne n'a jamais osé s'en servir de monture.\nLes destriers Utaku combattent de leur plein gré, intelligemment, avec leurs cavaliers, sans qu'il y ait besoin d'effectuer de jet de dé. Ils restent aux côté de leur cavalière même lorsqu'elle meurt."
+  },
+  {
+    "NDArmure": 15,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "VieHumaine": false,
+    "VieMax": 48,
+    "Seuils": [
+      {
+        "Seuil": 16,
+        "Malus": 5
+      },
+      {
+        "Seuil": 32,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Sabots",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 3,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 4,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 2,
+    "Intuition": 2,
+    "Agilite": 2,
+    "Intelligence": 1,
+    "Perception": 2,
+    "Force": 4,
+    "Volonte": 2,
+    "Constitution": 4,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0004",
+    "Name": "Poney rokugani",
+    "Description": "Ces animaux robustes au pelage épais sont les montures originaires de Rokugan et presque tous les samurai qui savent monter à cheval en possèdent un. Ils peuvent être dressés pour la guerre, mais le combat n'a rien d'un environnement où ils se sentent à l'aise et ils tentent généralement d'éviter d'être blessés. Pour convaincre un poney rokugani d'attaquer lors d'une bataille, son cavalier doit utiliser une Action Gratuite à chaque Round pour effectuer un Jet d'Équitation/Intuition ND 20. Un poney gravement blessé (32 blessures ou plus) tente de fuir le combat à moins qu'on ne le force à rester au moyen d'un Jet d'Équitation ND 25."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 0,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 24,
+    "Seuils": [
+      {
+        "Seuil": 12,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Morsure",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 3,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 2,
+          "Keep": 1
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": "SPC0075"
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 1,
+    "Agilite": 3,
+    "Intelligence": 1,
+    "Perception": 3,
+    "Force": 1,
+    "Volonte": 2,
+    "Constitution": 2,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0011"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0005",
+    "Name": "Chien",
+    "Description": "On trouve des chiens domestiques, des chiens de garde et des chiens errants dans tout Rokugan. À moins d'être affamé ou dément, un chien s'enfuit généralement dès qu'il a subi 12 Blessures ou plus."
+  },
+  {
+    "NDArmure": 25,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 5,
+      "Keep": 4
+    },
+    "VieHumaine": false,
+    "VieMax": 36,
+    "Seuils": [
+      {
+        "Seuil": 18,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Morsure",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": "SPC0075"
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0035",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 4,
+    "Intuition": 2,
+    "Agilite": 4,
+    "Intelligence": 2,
+    "Perception": 3,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0011"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0012"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0006",
+    "Name": "Chien de guerre",
+    "Description": "Il s'agit là de chiens énormes, puissants et intelligents qu'élève le Clan de la Licorne pour la guerre. Ces molosses, loyaux et féroces, combattent jusqu'à la mort aux côtés de leur maître humain. Ils peuvent même continuer de protéger le cadavre de leur maître après que ce dernier ait été tué."
+  },
+  {
+    "NDArmure": 30,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 5,
+      "Keep": 5
+    },
+    "VieHumaine": false,
+    "VieMax": 10,
+    "Seuils": [
+      {
+        "Seuil": 5,
+        "Malus": 5
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Serres/Bec",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 5,
+    "Intuition": 1,
+    "Agilite": 4,
+    "Intelligence": 1,
+    "Perception": 3,
+    "Force": 1,
+    "Volonte": 1,
+    "Constitution": 1,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "5;Fly",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0013"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0007",
+    "Name": "Faucon",
+    "Description": "Beaucoup de samurai de Rokugan utilisent les faucons pour la chasse et le sport. En fait, on voit dans la fauconnerie un des arts majeurs. Un faucon dressé peut être utilisé pour attaquer les ennemis, même si les individus prêts à risquer la vie de leurs précieux oiseaux de cette façon n'abondent guère. Un faucon qui subit 5 blessures ou plus ne peut plus voler jusqu'à ce qu'il soit guéri."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 45,
+    "Seuils": [
+      {
+        "Seuil": 12,
+        "Malus": 5
+      },
+      {
+        "Seuil": 24,
+        "Malus": 10
+      },
+      {
+        "Seuil": 36,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Morsure",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 6,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 4,
+          "Keep": 4
+        }
+      },
+      {
+        "Name": "Griffes",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 4,
+          "Keep": 3
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0024",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 2,
+    "Agilite": 3,
+    "Intelligence": 1,
+    "Perception": 3,
+    "Force": 3,
+    "Volonte": 4,
+    "Constitution": 4,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "1",
+        "Model_Tag": "SPE0007"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0008",
+    "Name": "Lion",
+    "Description": "Les lions sauvages sont de dangereux prédateurs qui opèrent en petits groupes généralement composés d'un seul mâle adulte et de 2 à 8 femelles. La majeure partie de l'Empire étant peuplée et civilisée, on en dénombre peu à Rokugan, et la plupart de ceux qu'on y trouve vivent dans les plaines centrales du pays, essentiellement sur les terres du Clan qui porte leur nom. Le Clan d'Akodo a déjà apprivoisé quelques-unes de ces créatures et leur a appris à se battre aux côtés d'humains doués de talents spéciaux et surnommés les Dompteurs."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 3,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 36,
+    "Seuils": [
+      {
+        "Seuil": 18,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Morsure",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 5,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 1,
+    "Agilite": 3,
+    "Intelligence": 2,
+    "Perception": 4,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0011"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT0009",
+    "Name": "Loup",
+    "Description": "On trouve généralement les loups dans les montagnes et les forêts de Rokugan, en particulier dans les régions isolées. Ils opèrent généralement en meute de 1 à 10 adultes, plus les louveteaux. Ils préfèrent se nourrir de cervidés, de lapins et d'autres animaux naturels. Les loups sont des animaux rusés et peuvent apprendre par l'expérience. Ils ont donc tendance à se méfier des humains et on les repousse facilement avec du feu. Toutefois, s'ils sont affamés ou désespérés, il peut arriver qu'ils s'en prennent à des humains isolés."
+  },
+  {
+    "NDArmure": 0,
+    "Reduction": 0,
+    "Initiative": {
+      "Roll": 0,
+      "Keep": 0
+    },
+    "VieHumaine": false,
+    "VieMax": 0,
+    "Seuils": [],
+    "Attaques": [],
+    "Competences": [],
+    "Reflexes": 0,
+    "Intuition": 0,
+    "Agilite": 0,
+    "Intelligence": 0,
+    "Perception": 0,
+    "Force": 0,
+    "Volonte": 0,
+    "Constitution": 0,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1001",
+    "Name": "Fantôme",
+    "Description": "Rokugan est un pays plein de superstitions, et ses mythes et légendes regorgent d'histoires de fantômes. Bien que la nature et le contenu de ces histoires varient énormément, elles ont un thème commun\u00A0: les fantômes font partie des âmes humaines qui, pour une raison ou une autre, n'ont pu abandonner le monde des mortels au lieu de passer à l'étape suivante du cycle des réincarnations. Généralement, une puissante émotion (amour, colère, regret, sens du devoir) retient l'âme en Ningen-do alors qu'elle devrait passer en Meido pour être jugée par la Fortune de la Mort, Emma-O. Ce trait les distingue des gaki, les «\u00A0morts affamés\u00A0», les âmes condamnées à Gaki-do.\nOn appelle ces fantômes, âmes retenues dans le monde des mortels par un besoin, une frustration, une colère ou un désir, yorei ou «\u00A0fantômes du regret\u00A0». Il existe plusieurs sous-types de yorei, comme les goryo («\u00A0fantômes vengeurs\u00A0»), les âmes des individus assassinés retenues dans le monde physique par leur colère et le besoin de se venger. Un autre type de fantôme bien connu est l'Ubume («\u00A0la femme en deuil\u00A0»), fantôme d'une femme morte enceinte ou lors de l'accouchement.\nLes fantômes ne se montrent pas toujours directement malveillants, mais ils peuvent néanmoins s'avérer dangereux pour ceux qui les croisent. Certains goryo, par exemple, attaquent tous les mortels qu'ils rencontrent. Même quand un fantôme ne veut aucun mal à personne et s'efforce simplement de répondre à un besoin ou d'accomplir une tâche qu'il n'a pas menée à bien de son vivant, ses actes ont souvent un effet néfaste sur ceux qui l'entourent, provoquant des cauchemars ou des maladies, empêchant les récoltes de pousser, etc. Physiquement, les fantômes ont généralement la même apparence que celles qu'ils avaient de leur vivant, voire au moment de leur mort. Parfois (mais pas toujours), les pieds du fantôme sont transparents ou absents, et les Rokugani voient dans l'absence de pieds un moyen infaillible de détecter un spectre.\nLes fantômes varient énormément dans leur nature et leurs capacités, ce qui rend chaque fantôme de Rokugan unique. Toutefois, ils ont certains traits communs. Tous les fantômes ont le pouvoir de traverser les objets solides à volonté et de filter à travers la terre, et ils peuvent se rendre intangibles s'ils le désirent. Les trois substances sacrées (le jade, le cristal et l'obsidienne) ont le pouvoir de toucher ou de blesser les fantômes, et le Sort Glyphe de Pureté peut les repousser temporairement, mais sinon, ils possèdent une quasi-immunité contre les attaques physiques. Quand on veut se débarrasser d'un fantôme, il faut généralement découvrir ce qu'il veut pour pouvoir l'apaiser, ou le prier de partir pour Meido, le Royaume des Esprits qu'il doit légitimement rejoindre.\nLes fantômes ont les mêmes Anneaux, Traits, Compétences et autres connaissances ou capacités que de leur vivant, mais ils n'ont plus ni Anneau ni Points de Vide. Ils peuvent interagir avec les objets physiques, utiliser des armes, et se comporter comme des créatures vivantes. Toutefois, comme indiqué plus haut, ils ne peuvent pas être blessés physiquement s'ils ne le désirent pas. Même le jade et les autres substances sacrées ne permettent pas de tuer les fantômes\u00A0: un yorei réduit à 0 Blessure se contente de fuir, et reviendra probablement exercer sa vengeance plus tard, furieux. Convaincre un fantôme de partir pour l'au-delà réussit grâce à la religion et la force de sa conviction, non grâce à un combat par la force."
+  },
+  {
+    "NDArmure": 25,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 4
+    },
+    "VieHumaine": false,
+    "VieMax": 36,
+    "Seuils": [
+      {
+        "Seuil": 12,
+        "Malus": 5
+      },
+      {
+        "Seuil": 24,
+        "Malus": 10
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Griffes",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 3
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 4,
+    "Intuition": 2,
+    "Agilite": 4,
+    "Intelligence": 2,
+    "Perception": 1,
+    "Force": 4,
+    "Volonte": 2,
+    "Constitution": 2,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0031"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0014"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0015"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0016"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0017"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0002"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0019"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0018"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1002",
+    "Name": "Shozai-Gaki",
+    "Description": "Les gaki, qu'on surnomme parfois les «\u00A0morts affamés\u00A0», sont des esprits issus du Royaume de Gaki-do qui ont pénétré dans le monde des mortels. Certains gaki-do appartenaient à ce monde, ils représentent les âmes des humains qui ont men des existences débauchées sans toutefois succomber à la Souillure. Ces âmes, souvent condamnées à Gaki-do, y passent des décennies ou des siècles en tant que morts affamés jusqu'à ce qu'elles aient réglé leurs dettes karmiques. Malheureusement, ces âmes ne parviennent pas à effectuer la transition jusqu'à leur existence suivante, car Gaki-do a tout d'un monde pervers dont la nature prédatrice peut facilement contaminer les esprits qui y vivent.\nLes rokugani ordinaires ont souvent du mal à distinguer les gaki des vrais fantômes (voir Fantômes, plus haut), et la plupart les considèrent comme étant similaires. Seuls ceux qui connaissent bien les royaumes des esprits ou qui ont étudié les fantômes en détail (comme les membres de la famille Toritaka) comprennent la différence.\nIl existe en réalité bien des formes différentes de gaki, qui dépendent du genre d'individu qu'ils étaient autrefois. Le trait commun de tous les gaki réside dans leur besoin de se nourrir de quelque chose. La plupart du temps, il s'agit d'une substance physique impure comme le sang ou la chair humaine, mais il peut s'agir d'émotions impures comme la cruauté ou la douleur. Il arrive, très rarement, qu'un gaki se nourrisse d'émotions positives comme le courage ou l'amour. Ces entités existent, mais on n'en a rencontré qu'une poignée dans toute l'histoire de l'Empire.\nLe gaki présenté ci-dessous se nomme le shozai-gaki, le plus commun des morts affamés. Ces gaki naissent des âmes des humains avides et débauchés, et on les a généralement condamnés à se nourrir d'une substance physique impure\u00A0: sang, sueur, bile, chair, etc. Chaque shozai-gaki ne se nourrit que d'une substance exclusive, et s'il n'y parvient pas, il ressent une atroce souffrance. Physiquement, ces créatures ont l'apparence d'humanoïdes grotesques légèrement transparents, dotés de mains griffues et de traits démoniaques qui rappellent souvent vaguement ceux d'insectes."
+  },
+  {
+    "NDArmure": 15,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "VieHumaine": false,
+    "VieMax": 18,
+    "Seuils": [
+      {
+        "Seuil": 9,
+        "Malus": 5
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Attaque",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 3
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 2,
+    "Intuition": 1,
+    "Agilite": 2,
+    "Intelligence": 1,
+    "Perception": 1,
+    "Force": 2,
+    "Volonte": 2,
+    "Constitution": 2,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 2,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0009"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1003",
+    "Name": "Gobelin",
+    "Description": "Les gobelins sont de petites créatures vicieuses et semi-intelligentes qui infestent l'Outremonde en effectifs apparemment illimités. Ils ont une forme humanoïde dotée de corps minuscules, de membres grêles et de têtes démesurées. Ils ont des griffes aux mains et aux pieds, et leurs larges bouches laissent apparaître plein de petites dents pointues. Les gobelins ne brillent guère par leur intelligence\u00A0: en petit nombre, ils ne font pas le poids face à un samurai, mais ils ont un instinct de meute ainsi qu'une dangereuse propension à la ruse et à la malice. Ils ont également un talent pour l'imitation\u00A0: ils imitent souvent les comportements, les expressions et le langage humain. Les gobelins se laissent facilement dominer par les habitants plus puissants de l'Outremonde, comme les Oni ou les Damnés, qu'ils servent de leur plein gré. Ils parlent leur propre langue grossière, que peu apprennent en dehors de leurs congénères.\nLes Rokugani pensent généralement que les gobelins ont été créés par Fu Leng dans le but de remplacer les hommes. Que ce soit vrai ou non, les gobelins ont montré qu'ils représentaient une menace persistante et tenace pour Rokugan.\nLe profil ci-dessous représente un gobelin «\u00A0typique\u00A0». Il en apparaît parfois de plus puissants, comme les chefs appelés «\u00A0guerriers gobelins\u00A0» et les chamans qui utilisent une forme grossière de maho."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 0,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": true,
+    "VieMax": 0,
+    "Seuils": [],
+    "Attaques": [
+      {
+        "Name": "Lance Grossière",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 4,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 1,
+    "Agilite": 3,
+    "Intelligence": 2,
+    "Perception": 2,
+    "Force": 2,
+    "Volonte": 2,
+    "Constitution": 2,
+    "Vide": 1,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0009"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0020"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0021"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1004",
+    "Name": "Homme-rat",
+    "Description": "Les hommes-rats sont une espèce de rats bipèdes intelligents qui vivent dans l'Outremonde. Contrairement aux autres habitants de l'Outremonde, les hommes-rats possèdent une immunité contre la Souillure, un phénomène qui fascine les Rokugani qui le connaissent. Les hommes-rats affirment qu'ils avaient jadis bâti une splendide civilisation qui fut détruite quand Fu Leng tomba du ciel. Que ce soit vrai ou non, les hommes-rats d'aujourd'hui ont muté vers une race de créatures primitives aux mœurs tribales. On les connaît pour leur incapacité à se concentrer très longtemps et leur manque de mémoire à long terme. Beaucoup de Rokugani comparent les hommes-rats à des enfants humains hyperactifs de six ans. Les traditions et le savoir des hommes-rats se transmettent grâce à une petite caste connue sous le nom de Conteurs. Ceux-ci utilisent des bâtons spéciaux comme outils mnémoniques pour focaliser leur mémoire.\nLes Rokugani considèrent les hommes-rats comme des couards, car ils n'hésitent pas à fuir face à des adversaires supérieurs ou à utiliser la discrétion et les embuscades pour prendre l'avantage sur l'ennemi. En réalité, les hommes-rats font preuve d'un grand courage quand le besoin s'en fait sentir\u00A0: une femelle qui protège ses petits se bat aussi férocement que n'importe quel samurai. Les hommes-rats ne voient tout simplement pas l'intérêt de se battre sans nécessité absolue ou de se priver d'un avantage, quel qu'il soit. Après tout, dans l'Outremonde, leurs ennemis se montrent souvent à la fois plus grands et plus forts qu'eux.\nLes hommes-rats vivent en tribus comptant de douze à plusieurs centaines d'individus. La plupart se trouvent dans l'Outremonde, mais plusieurs vivent au sein de la Forêt Shinomen ou même dans Rokugan. Pendant la majeure partie de leur histoire, ils ont plutôt évité les humains, les Rokugani les considérant au mieux comme des vermines gênantes, et au pire comme de dangereuses créatures de l'Outremonde. À plusieurs occasions durant leur histoire, et notamment lors de l'ère de la dynastie Toturi, les hommes-rats ont mis fin à leur dissension pour s'unifier et obtenir que l'Empire les traite avec un peu plus de respect.\nLes hommes-rats ont leur propre langue composée d'un mélange de mots, de couinements et de cliquètements. Certains parlent également un rokugani abâtardi qui se caractérise par des phrases très simples et une tendance à répéter les mots («\u00A0tu viens par là, homme-homme!).\nLes hommes-rats ont plusieurs Écoles spécifiques, mais tous ne parviennent pas à  apprendre de telles Techniques. Le profil ci-dessous représente un homme-rat «\u00A0typique\u00A0» sans École."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 15,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 48,
+    "Seuils": [
+      {
+        "Seuil": 12,
+        "Malus": 5
+      },
+      {
+        "Seuil": 24,
+        "Malus": 10
+      },
+      {
+        "Seuil": 36,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Griffes",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 5,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": "SPC0073"
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 3,
+    "Agilite": 2,
+    "Intelligence": 3,
+    "Perception": 3,
+    "Force": 3,
+    "Volonte": 2,
+    "Constitution": 2,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0002"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0022"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0023"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1005",
+    "Name": "Kappa",
+    "Description": "Les kappa sont d'étranges esprits malicieux que l'on trouve près des ruisseaux, des rivières et des fleuves. Ces créatures amphibies se déplacent aussi bien sous l'eau que sur la terre ferme. Physiquement, ils ressemblent vaguement à des humanoïdes et rappellent les grenouilles ou les tortues avec leurs mains et leurs pieds griffus et palmés, une bouche semblable à un bec, une carapace de tortue sur le dos et un creux contenant de l'eau au sommet du crâne. Les kappa restent rares mais généralement malfaisants, ils suscitent la crainte et la superstition des gens ordinaires. Il s'agit d'esprits farceurs malicieux qui n'ont guère le sens de la mesure, faisant souvent des blagues dont la victime finit gravement blessée ou morte.\nLes kappa se nourrissent de sang, qu'il vienne d'humains ou d'animaux, mais ils laissent parfois à leur proie une chance de s'échapper si elle parvient à les vaincre à une énigme ou un jeu de l'esprit. Même si le kappa n'a pas faim, il défie souvent les passants à des jeux de l'esprit pour les humilier ou pour prouver sa propre supériorité intellectuelle. Même physiquement peu puissants, les kappa demeurent dangereux à cause de leur nature surnaturelle, laquelle les rend extrêmement difficiles à blesser.\nSelon la légende, la source de son pouvoir réside dans l'eau qui remplit le crâne en forme de bol du kappa, si on la renverse, la créature se retrouve réduite à l'impuissance. Un kappa qui a perdu son eau devient faible et vulnérable, et il doit battre en retraite dans l'eau une journée entière pour recouvrer ses forces."
+  },
+  {
+    "NDArmure": 25,
+    "Reduction": 10,
+    "Initiative": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 80,
+    "Seuils": [
+      {
+        "Seuil": 20,
+        "Malus": 5
+      },
+      {
+        "Seuil": 40,
+        "Malus": 10
+      },
+      {
+        "Seuil": 60,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Gourdin",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 8,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 3,
+    "Intuition": 1,
+    "Agilite": 3,
+    "Intelligence": 3,
+    "Perception": 2,
+    "Force": 6,
+    "Volonte": 3,
+    "Constitution": 6,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 3,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1006",
+    "Name": "Ogre",
+    "Description": "Les ogres sont d'immenses humanoïdes bestiaux mesurant 2,40 m et plus. Ils ont des membres massifs, des crocs semblables à des défenses, et des cheveux épais et sales. Ces prédateurs vicieux et brutaux utilisent la force brute au combat et dévorent leurs victimes. Les ogres vivent dans l'Outremonde où ils dirigent des nuées de gobelins ou forment les troupes de choix des armées des Oni ou des Damnés. Il leur arrive aussi parfois d'errer dans l'Empire, seuls ou en petites meutes, là où ils peuvent représenter une menace mortelle pour les samurai comme pour les paysans.\nLes ogres sont en réalité des êtres intelligents qui avaient jadis bâti leur propre civilisation. Toutefois, Fu Leng les réduisit en esclavage à l'aube de l'Empire, faisant d'eux des créatures bestiales à l'intellect généralement inhibé par les violentes pulsions de la Souillure. Quand Fu Leng mourût lors du Deuxième Jour des Tonnerres, certains des ogres parmi les moins souillés ont commencé à récupérer leur volonté et leur intellect, devenant les \"ogres francs\" et cessant leur guerre contre l'Empire. Toutefois, la majorité de leurs congénères sont restés des monstres brutaux et corrompus par la Souillure."
+  },
+  {
+    "NDArmure": 10,
+    "Reduction": 24,
+    "Initiative": {
+      "Roll": 3,
+      "Keep": 1
+    },
+    "VieHumaine": false,
+    "VieMax": 124,
+    "Seuils": [
+      {
+        "Seuil": 32,
+        "Malus": 5
+      },
+      {
+        "Seuil": 64,
+        "Malus": 10
+      },
+      {
+        "Seuil": 96,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Griffes",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 7,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 9,
+          "Keep": 3
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 1,
+    "Intuition": 1,
+    "Agilite": 4,
+    "Intelligence": 2,
+    "Perception": 2,
+    "Force": 8,
+    "Volonte": 6,
+    "Constitution": 6,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 6,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0001"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0024"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0025"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1007",
+    "Name": "Ugulu no Oni",
+    "Description": "Les oni sont des créatures de Jigoku et comptent parmi les plus redoutables créatures de l'Empire. Il existe un nombre littéralement infini d'oni différents en Jigoku, et seule une minuscule fraction d'entre eux ont a réussi à entrer dans le monde des mortels\u00A0; Les oni peuvent entrer en Ningen-do par des portails situés en Jigoku, le plus tristement célèbre étant le Puits Suppurant de Fu Leng situé au centre même de l'Outremonde. On peut également les invoquer au moyen de Sorts de Maho. Une fois dans le monde des mortels, un oni peut engendrer des versions amoindries de lui-même, certaines finissant par devenir aussi puissantes que leur géniteur. C'est ainsi que naissent de véritables races d'oni.\nL'apparence des oni varie tant qu'on ne peut leur trouver aucun point commun. Certains possèdent des traits humanoïdes, certains bestiaux, et d'autres n'ont même pas de forme définie. Certains ont une intelligence relative tandis que d'autres font de simples machines à tuer complètement stupides. Le seul trait qu'ils partagent est leur malveillance absolue. Les oni cherchent toujours à corrompre, à contrôler ou à détruire tout ce qui les entoure. Ils réduisent souvent en esclavage des troupes entières de créatures inférieures de l'Outremonde, voire de Damnés.\nL'oni présenté ci-dessous, Ugulu no Onu, représente l'un des plus puissants types d'oni connu des Rokugani, et les membres du Clan du Crabe qui montent la garde sur la Grande Muraille Kaiu ont appris à redouter son apparence. Il s'agit d'un humanoïde de près de quatre mètres de haut, au corps boursouflé et à la musculature si grotesque qu'on dirait sa peau prête à éclater sous l'effet des muscles. Ses mains possèdent des griffes longues comme des wakizashi, et sa tête est surmontée d'une paire de grandes cornes incurvées. Une immense langue pend entre les crocs de sa vaste gueule."
+  },
+  {
+    "NDArmure": 15,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 72,
+    "Seuils": [],
+    "Attaques": [
+      {
+        "Name": "Poing",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 1
+        }
+      },
+      {
+        "Name": "Sabre",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 5,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 3,
+    "Intuition": 0,
+    "Agilite": 3,
+    "Intelligence": 1,
+    "Perception": 2,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 3,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0026"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0006"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1008",
+    "Name": "Revenant",
+    "Description": "Les revenants constituent une forme un peu plus puissante des zombies créés par de puissants Sorts de Maho. Comme les zombies, les morts animés font partie des cadavres animés par la force maléfique de la Souillure, aussi tentent-ils d'attaquer et de dévorer les créatures vivantes. Toutefois, ils se trouvent généralement sous le contrôle du maho-tsukai qui les a invoqués. Contrairement aux zombies les revenants ne continuent pas de pourrir une fois animés, et leurs tendons et leurs muscles conservent suffisamment de dynamisme pour leur permettre de se déplacer presque aussi vite que de leur vivant. Ils possèdent une sorte d'intelligence animale qui les rend plus efficaces que les zombies stupides mus par de simples pulsions agressives. Comme les zombis, toutefois, ils ne connaissent ni la peur ni la douleur, et n'éprouvent ni empathie ni compassion. Les maho-tsukai les créent à partir de cadavres de samurai pour qu'ils combattent avec les armes qu'ils utilisaient de leur vivant."
+  },
+  {
+    "NDArmure": 20,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 5,
+      "Keep": 3
+    },
+    "VieHumaine": false,
+    "VieMax": 72,
+    "Seuils": [
+      {
+        "Seuil": 16,
+        "Malus": 5
+      },
+      {
+        "Seuil": 32,
+        "Malus": 10
+      },
+      {
+        "Seuil": 48,
+        "Malus": 15
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Griffes",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 5,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0004",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0011",
+        "Specialite_Tag": "SPC0027"
+      },
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0037",
+        "Specialite_Tag": "SPC0109"
+      }
+    ],
+    "Reflexes": 3,
+    "Intuition": 3,
+    "Agilite": 3,
+    "Intelligence": 3,
+    "Perception": 2,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 4,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0027"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0028"
+      },
+      {
+        "Complement": "Optional",
+        "Model_Tag": "SPE0003"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0029"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1009",
+    "Name": "Sorcière des marais",
+    "Description": "Les sorcières des marais comptent parmi les plus viles créatures de l'Outremonde, car elles peuvent s'infiltrer dans l'Empire et répandre la mort ou la Souillure dans leur Sillage. Sous leur forme naturelle, ces ignobles créatures ressemblent vaguement à de très vieilles femmes humaines à la peau verte, aux cheveux plats et emmêlés, à la chair pendante ou boursouflée. Leur visage monstrueusement laid exhibe des dents mal plantées et leurs mains possèdent des griffes. Ces carnivores ont un goût pour la chair humaine, en particulier celle des femmes et des enfants. La plupart des sorcières des marais vivent solitaires et territorialement, bien qu'il arrive aux plus vieilles de former de petits groupes pour se protéger mutuellement.\nLes sorcières des marais sont amphibies et vivent normalement dans des marécages comme leur nom l'indique. Toutefois, il leur arrive parfois d'en sortir pour s'infiltrer dans la société humaine. Leur pouvoir le plus terrifiant consiste à revêtir la peau des humains adultes qu'elles tuent, ce qui leur permet de passer pour des humains Rokugani ordinaires. Pire encore, elles peuvent absorber une partie des souvenirs de la victime dont elles portent la peau, ce qui les aide à mieux tromper leur monde. Les victimes qu'elle préfère écorcher sont de belles jeunes femmes, ce qui leur permet par la suite d'exercer leurs talents de séductrices et de manipulatrices. Toutefois, elles peuvent revêtir n'importe quelle peau, même celle d'un homme, même si cela leur répugne énormément.\nLes sorcières des marais comptent parmi les plus dangereux espions de l'Outremonde et les membres du Clan du Crabe les traquent avec grand soin. Malheureument, le reste des habitants de l'Empire manque souvent de préparation pour contrer ce genre de menace."
+  },
+  {
+    "NDArmure": 30,
+    "Reduction": 8,
+    "Initiative": {
+      "Roll": 5,
+      "Keep": 4
+    },
+    "VieHumaine": true,
+    "VieMax": 0,
+    "Seuils": [],
+    "Attaques": [
+      {
+        "Name": "Lame Tsuno",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 7,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 3
+        }
+      },
+      {
+        "Name": "Mains Nues",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 6,
+          "Keep": 3
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT0014",
+        "Specialite_Tag": "SPC5501"
+      },
+      {
+        "Rang": 2,
+        "Competence_Tag": "CPT0022",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT2023",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 4,
+        "Competence_Tag": "CPT2025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0025",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0034",
+        "Specialite_Tag": null
+      },
+      {
+        "Rang": 3,
+        "Competence_Tag": "CPT0028",
+        "Specialite_Tag": null
+      }
+    ],
+    "Reflexes": 4,
+    "Intuition": 2,
+    "Agilite": 3,
+    "Intelligence": 2,
+    "Perception": 3,
+    "Force": 3,
+    "Volonte": 4,
+    "Constitution": 4,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 4,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0002"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0030"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0009"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1010",
+    "Name": "Guerrier Tsuno",
+    "Description": "Les Tsuno descendent des Kitsu, la race qui précéda les humains et dont les derniers survivants rejoignirent le Clan du Lion. Les Tsuno furent jadis exilés par leurs cousins Kitsu dans les Royaumes des Esprits, et ils passèrent des siècles à Toshigoku, le Royaume du massacre, s'adaptant à sa cruelle nature. Durant l'ère des Quatre Vents, les Tsuno pénétrèrent dans le Royaume des Mortels et élurent domicile dans l'Outremonde en tant qu'alliés du Sombre Daigotsu, contractant la Souillure de leur plein gré.\nLes Tsuno sont des humanoïdes bestiaux et velus aux mains et aux pieds pourvus de longues griffes. Leur large gueule est hérissée de crocs acérés et une paire de cornes orne leur tête. Les Tsuno, extrêmement intelligents, font preuve d'une vicieuse cruauté. Leur culture martiale prise la force avant tout et ils méprisent toutes les autres races. Ils portent des armures et des armes, leurs épées étant célèbres pour leur aspect crochu et barbelé.\nLes Tsuno combattent en meutes organisées dirigées par de puissants guerriers appelés Ravageurs et de dangereux lanceurs de sorts surnommés Corrupteurs. L'exemple de Tsuno présenté ici n'est qu'un guerrier de base n'ayant subi aucun entraînement avancé de ce genre."
+  },
+  {
+    "NDArmure": 10,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 1,
+      "Keep": 1
+    },
+    "VieHumaine": false,
+    "VieMax": 72,
+    "Seuils": [],
+    "Attaques": [
+      {
+        "Name": "Poing",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 1
+        }
+      },
+      {
+        "Name": "Gourdin",
+        "Action": "complexe",
+        "Toucher": {
+          "Roll": 4,
+          "Keep": 2
+        },
+        "Degats": {
+          "Roll": 3,
+          "Keep": 2
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 1,
+    "Intuition": 0,
+    "Agilite": 2,
+    "Intelligence": 0,
+    "Perception": 1,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 3,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0026"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "SPE0007"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0006"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT1011",
+    "Name": "Zombie",
+    "Description": "À Rokugani, les morts-vivants sont généralement créés à partir d'un cadavre imprégné de la Souillure. Tout cadavre abandonné dans l'Outremonde se relève en tant que zombi au bout de dix à trente minutes. Ceux déjà Souillés avant leur mort se relèvent encore plus vite. Les cadavres peuvent également être animés par certains Sorts de Maho, ou de maléfiques masques de porcelaine créés par le culte des Adeptes du Sang.\nQuelle que soit la manière dont ils ont été créés, les zombis se ressemblent tous, cadavres en putréfaction animés par la force maléfique de la Souillure qui cherchent à attaquer et à dévorer tous les êtres vivants. Ils ne ressentent aucune douleur, aucune peur, juste le besoin urgent de détruire. Aucun vestige de leur humanité d'autrefois ne demeure. Pour les Rokugani, ces monstruosités vacillantes apparaissent à la fois terrifiantes et blasphématoires, violant l'Ordre Céleste et niant l'essence même de la nature humaine."
+  },
+  {
+    "NDArmure": 30,
+    "Reduction": 5,
+    "Initiative": {
+      "Roll": 7,
+      "Keep": 4
+    },
+    "VieHumaine": false,
+    "VieMax": 75,
+    "Seuils": [
+      {
+        "Seuil": 15,
+        "Malus": 5
+      },
+      {
+        "Seuil": 30,
+        "Malus": 10
+      },
+      {
+        "Seuil": 45,
+        "Malus": 15
+      },
+      {
+        "Seuil": 60,
+        "Malus": 20
+      }
+    ],
+    "Attaques": [
+      {
+        "Name": "Griffes",
+        "Action": "simple",
+        "Toucher": {
+          "Roll": 8,
+          "Keep": 4
+        },
+        "Degats": {
+          "Roll": 6,
+          "Keep": 3
+        }
+      }
+    ],
+    "Competences": [],
+    "Reflexes": 4,
+    "Intuition": 6,
+    "Agilite": 4,
+    "Intelligence": 5,
+    "Perception": 4,
+    "Force": 3,
+    "Volonte": 3,
+    "Constitution": 3,
+    "Vide": null,
+    "Status": 0,
+    "Honneur": 0,
+    "Gloire": 0,
+    "Infamie": 0,
+    "Souillure": 0,
+    "Clan_Tag": null,
+    "Famille_Tag": null,
+    "Ancetre_Tag": null,
+    "Avantages": [],
+    "Desavantages": [],
+    "Ecoles": [],
+    "EcolesAvancees": [],
+    "VoieAlternatives": [],
+    "Sorts": [],
+    "Mahou": [],
+    "Katas": [],
+    "Kihos": [],
+    "Pouvoirs": [
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0026"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "SPE0002"
+      },
+      {
+        "Complement": "4",
+        "Model_Tag": "SPE0009"
+      }
+    ],
+    "Armes": [],
+    "Armure": null,
+    "Inventaire": [],
+    "Tag": "CRT2131",
+    "Name": "Ryu",
+    "Description": "Comparé aux magistraux dragons élémentaires, le Ryu est un esprit mineur, mais les mortels ne s'en aperçoivent guère quand ils sont confrontés à la majesté d'une telle créature. La forme naturelle du Ryu est celle d'un serpent volant couvert d'écailles miroitant de toutes les couleurs. Ces esprits peuvent modifier leur apparence avec facilité, mais ils sont fiers de leur association aux dragons et n'en changent qu'en cas d'absolue nécessité.\nLes Ryu apparaissent quand les Dragons Élémentaires doivent se charger d'une tâche qui dépasse le cadre de Tengoku. Les Dragons Élémentaires ne quittent généralement pas leur royaume, car les conséquences de leurs actes créent des remous dans tous les Royaumes des Esprits. En fait, ils créent des Ryu qui agissent telles des extensions de leur volonté. Les Ryu font office de hérauts et de guides, empruntant la voix des Dragons Élémentaires en personne. Quand sa mission est achevée, le Ryu se dissipe ou gagne son indépendance. Ceux qui continuent ainsi de vivre s'installent en marge de Tengoku, dans l'espoir de trouver un nouveau but dans le monde.\nLes Ryu sont capables de franchir les frontières des Royaumes des Esprits avec facilité. La plupart sont des créatures bienveillantes, mais les Ryu formés par des entités comme le Dragon d'Ombre ou le Dragon d'Obsidienne ne sont pour le moins pas très bienveillants à l'égard des mortels."
+  }
+]

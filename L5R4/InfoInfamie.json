@@ -1,0 +1,47 @@
+[
+  {
+    "Rang": 1,
+    "Value": 1,
+    "Description": "Bandit"
+  },
+  {
+    "Rang": 2,
+    "Value": 2,
+    "Description": "Meurtrier"
+  },
+  {
+    "Rang": 3,
+    "Value": 4,
+    "Description": "Exilé"
+  },
+  {
+    "Rang": 4,
+    "Value": 4,
+    "Description": "Conquérant (Héros de guerre impitoyable)"
+  },
+  {
+    "Rang": 5,
+    "Value": 5,
+    "Description": "Gaijin (diplomate)"
+  },
+  {
+    "Rang": 6,
+    "Value": 6,
+    "Description": "Gaijin (tout autre)"
+  },
+  {
+    "Rang": 7,
+    "Value": 8,
+    "Description": "Maho-Tsukai"
+  },
+  {
+    "Rang": 8,
+    "Value": 8,
+    "Description": "Ninja"
+  },
+  {
+    "Rang": 9,
+    "Value": 10,
+    "Description": "Sombre Seigneur de l'Outremonde"
+  }
+]

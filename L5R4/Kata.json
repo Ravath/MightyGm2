@@ -1,0 +1,249 @@
+[
+  {
+    "Anneau": "air",
+    "Maitrise": 3,
+    "Ecoles": [],
+    "Tag": "KTA0001",
+    "Name": "Frappe Comme l'Air",
+    "Description": "Lorsque vous adoptez la posture de défense, votre ND d'armure augmente de votre Anneau d'Air."
+  },
+  {
+    "Anneau": "eau",
+    "Maitrise": 4,
+    "Ecoles": [],
+    "Tag": "KTA0002",
+    "Name": "Frappe Comme l'Eau",
+    "Description": "Lorsque vous adoptez la posture d'attaque, vous pouvez vous déplacer de 1,5m de plus au prix d'une action gratuite."
+  },
+  {
+    "Anneau": "terre",
+    "Maitrise": 3,
+    "Ecoles": [],
+    "Tag": "KTA0003",
+    "Name": "Frappe Comme la Terre",
+    "Description": "Lorsque vous adoptez la posture d'esquive, vous gagnez une réduction égale à votre Anneau de Terre (cumulatif avec d'autres formes de réduction)"
+  },
+  {
+    "Anneau": "feu",
+    "Maitrise": 3,
+    "Ecoles": [],
+    "Tag": "KTA0004",
+    "Name": "Frappe Comme le Feu",
+    "Description": "Lorque vous adoptez la posture d'assaut, vous pouvez ajouter votre anneau de Feu au total d'un jet d'attaque par round."
+  },
+  {
+    "Anneau": "vide",
+    "Maitrise": 3,
+    "Ecoles": [],
+    "Tag": "KTA0005",
+    "Name": "Frappe Comme le Vide",
+    "Description": "Lorsque vous adoptez la posture du centre, votre ND d'armure augmente de votre Anneau de Vide."
+  },
+  {
+    "Anneau": "vide",
+    "Maitrise": 3,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0005"
+      },
+      {
+        "Model_Tag": "ECO0025"
+      }
+    ],
+    "Tag": "KTA0006",
+    "Name": "Style de l'Equilibre des Elements",
+    "Description": "Vous pouvez utiliser votre Anneau du Vide à la place de vos Réflexes pour votre jet d'Initiative."
+  },
+  {
+    "Anneau": "air",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0050"
+      },
+      {
+        "Model_Tag": "ECO0025"
+      },
+      {
+        "Model_Tag": "ECO0012"
+      }
+    ],
+    "Tag": "KTA0007",
+    "Name": "Style de la Forêt de Fer",
+    "Description": "Lorsque vous maniez une arme d'hast ou une lance, vous pouvez utiliser votre Anneau d'Air au lieu de votre Agilité pour les jets d'attaque."
+  },
+  {
+    "Anneau": "eau",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0001"
+      },
+      {
+        "Model_Tag": "ECO0041"
+      },
+      {
+        "Model_Tag": "ECO0013"
+      }
+    ],
+    "Tag": "KTA0008",
+    "Name": "Style de la Force d'Armes",
+    "Description": "Une fois par tour, lorsque vous maniez une arme lourde, vous pouvez utiliser votre Force au lieu de votre agilité pour un jet d'attaque."
+  },
+  {
+    "Anneau": "vide",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0020"
+      },
+      {
+        "Model_Tag": "ECO0017"
+      },
+      {
+        "Model_Tag": "ECO0009"
+      },
+      {
+        "Model_Tag": "ECO0016"
+      }
+    ],
+    "Tag": "KTA0009",
+    "Name": "Style de la Force de la Pureté",
+    "Description": "Une fois par tour, lorsque vous déterminez les dommages, vous pouvez lancer votre Rang d'Honneur au lieu de votre Force+VD de l'arme. Vous gardez un nombre de dés égal à la VD de l'arme, comme coutume."
+  },
+  {
+    "Anneau": "air",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0024"
+      },
+      {
+        "Model_Tag": "ECO0029"
+      },
+      {
+        "Model_Tag": "ECO0004"
+      },
+      {
+        "Model_Tag": "ECO0021"
+      }
+    ],
+    "Tag": "KTA0010",
+    "Name": "Style de la Menace Voilée",
+    "Description": "Une fois par tour, vous pouvez ajouter votre Rang de Discrétion à votre ND d'armure contre une seule attaque."
+  },
+  {
+    "Anneau": "feu",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0020"
+      },
+      {
+        "Model_Tag": "ECO0033"
+      },
+      {
+        "Model_Tag": "ECO0046"
+      }
+    ],
+    "Tag": "KTA0011",
+    "Name": "Style de la Témérité Aveugle",
+    "Description": "Vous pouvez ajouter votre Anneau du Feu à votre ND d'armure lorsque vous adoptez la posture d'assaut."
+  },
+  {
+    "Anneau": "feu",
+    "Maitrise": 5,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0005"
+      },
+      {
+        "Model_Tag": "ECO0021"
+      }
+    ],
+    "Tag": "KTA0012",
+    "Name": "Style des Lames Tournoyantes",
+    "Description": "Une fois par tour, lorsque vous maniez une arme dans chaque main, vous pouvez entreprendre la manœuvre d'attaque supplémentaire pour 3 augmentations au lieu de 5. La seconde attaque est portée au moyen de votre arme secondaire et inflige des dommages normaux. Vous ne pouvez accroître les dommages d'aucune attaque au moyen d'augmentations."
+  },
+  {
+    "Anneau": "terre",
+    "Maitrise": 3,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0001"
+      },
+      {
+        "Model_Tag": "ECO0012"
+      }
+    ],
+    "Tag": "KTA0013",
+    "Name": "Style du Fer dans les Montagnes",
+    "Description": "Vous pouvez utiliser votre Anneau de Terre à la place de votre Anneau d'Air lorsque vous adoptez la posture de Défense."
+  },
+  {
+    "Anneau": "terre",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0033"
+      },
+      {
+        "Model_Tag": "ECO0001"
+      },
+      {
+        "Model_Tag": "ECO0041"
+      },
+      {
+        "Model_Tag": "ECO0013"
+      }
+    ],
+    "Tag": "KTA0014",
+    "Name": "Style du Guerrier Indomptable",
+    "Description": "Réduisez vos malus de blessure de votre Anneau de Terre."
+  },
+  {
+    "Anneau": "feu",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0017"
+      },
+      {
+        "Model_Tag": "ECO0009"
+      }
+    ],
+    "Tag": "KTA0015",
+    "Name": "Style du Monde Disparu",
+    "Description": "Choisissez un adversaire. Une fois par tour, vous pouvez utiliser contre lui votre Agilité au lieu de votre Force pour les jets de dommages."
+  },
+  {
+    "Anneau": "air",
+    "Maitrise": 4,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0029"
+      },
+      {
+        "Model_Tag": "ECO0021"
+      }
+    ],
+    "Tag": "KTA0016",
+    "Name": "Style du Sabre Caché",
+    "Description": "Vos attaques de Désarmement infligent des dommages normaux et non 2g1. Vous ne pouvez cependant pas accroître ces dommages au moyen d'augmentations (y compris en utilisant la manœuvre de Feinte)."
+  },
+  {
+    "Anneau": "air",
+    "Maitrise": 3,
+    "Ecoles": [
+      {
+        "Model_Tag": "ECO0009"
+      },
+      {
+        "Model_Tag": "ECO0029"
+      }
+    ],
+    "Tag": "KTA0017",
+    "Name": "Style du Souffle du Vent",
+    "Description": "Votre score d'Initiative augmente de 2 lors de l'étape de Réactions à chaque Round de Combat. L'effet peut se cumuler mais disparaît aussitôt que le Kata n'agit plus."
+  }
+]

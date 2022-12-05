@@ -1,0 +1,77 @@
+[
+  {
+    "Tag": "GAV0001",
+    "Name": "Arme sacrée",
+    "Description": "Vous disposez d'une arme spéciale, conçue par les meilleurs artisans de votre clan et considérée comme un symbole de tous ceux qui portent votre nom."
+  },
+  {
+    "Tag": "GAV0002",
+    "Name": "Bénédiction des 7 fortunes",
+    "Description": "L'une des sept Fortunes, les plus puissantes de toutes les Fortunes, vous a remarqué et vous baigne de ses faveurs. Il peut s'agir de puissants bonus, mais qui s'accompagnent parfois d'attentes. Il ne faut pas oublier que les Fortunes sont capricieuses et s'emportent vite. Les personnages de clans indiqués entre parenthèse peuvent acheter cet avantage pour 1 point de moins que la normale."
+  },
+  {
+    "Tag": "GAV0003",
+    "Name": "Caresse des royaumes spirituels",
+    "Description": "L'essence d'un royaume spirituel semble se manifester dans voter âme et influence tous vos actes. Les personnages shugenja peuvent acheter cet avantage pour 4 points."
+  },
+  {
+    "Tag": "GAV0004",
+    "Name": "Don inné",
+    "Description": "Vous faites preuve d'un don mystérieux que même les shugenja ne parviennent pas à expliquer. Les moines évoquent les individus comme vous comme vivant dans un état d'harmonie unique avec l'univers, mais ils tiennent facilement ce genre de propos. Votre don est peut-être une manifestation des kami ou la marque d'une ascendance spirituelle, entre autres théories possibles. La nature exacte du don inné doit être convenue avec le MJ avant de prendre cet avantage."
+  },
+  {
+    "Tag": "GAV0005",
+    "Name": "Gouverneur",
+    "Description": "Comme tous les samouraï, vous avez pour devoir de veiller sur ce qui appartient à l'Empereur. Seulement dans votre cas, on vous a confié quelque chose de particulièrement vaste ou important. Le nombre de points assignés à cet avantage détermine la taille du domaine que vous êtes censé gérer. Plusieurs personnages peuvent partager l'apport de points de cet avantage pour avoir la responsabilité commune d'un plus grand domaine. Veiller sur un domaine signifie le protéger, le gérer et s'assurer que toutes les taxes soient versées aux parties responsables. Cela peut servir de base à toute une campagne."
+  },
+  {
+    "Tag": "GAV0006",
+    "Name": "Parangon",
+    "Description": "Vous êtes un modèle d'application du code du Bushido, dont l'un des principes vous tient particulièrement à cœur puisqu'il imprègne votre mode de vie à chaque minute. Outre les bénéfices indiqués plus bas, chaque fois que vous gagnez de l'Honneur pour avoir démontré la vertu associée à l'avantage parangon, vous recevez 1 Honneur supplémentaire. Les personnages du clan du Lion peuvent acheter cet avantage pour 6 points."
+  },
+  {
+    "Tag": "GAV0007",
+    "Name": "Savoir interdit",
+    "Description": "Il existe un domaine dans lequel vous faites preuve d'une grande connaissance. Il y a cependant un problème\u00A0: ce sujet est interdit et socialement indigne, voire illégal. Si quelqu'un découvre votre expertise en la matière, il pourrai se demander comment vous vous l'êtes procurée. Les bénéfices de l'avantage varient selon la nature des connaissances. Les joueurs sont invités à discuter du fonctionnement de l'avantage avec leur MJ. Voici quelques exemples de savoir interdits parmi les plus courants."
+  },
+  {
+    "Tag": "GAV0008",
+    "Name": "Serviteur",
+    "Description": "Votre famille vous a assigné un serviteur pour vous assister, à moins que vous ne vous payiez directement ses services pour vous faciliter la vie. Vous pouvez au maximum disposer d'un nombre de serviteurs égal à au double de votre rang de statut. Les serviteurs ont des aptitudes qui varient selon leur type, sachant que certains clans sont plus enclins que d'autres à fournir certains types. En général, un serviteur a tous ses traits au rang 2 et une compétence au rang 3. Vous pouvez ajouter d'autres rangs de compétence et spécialisations au serviteur associé à l'avantage, au coût additionnel 3 points par rang de compétence ou spécialisation. La table suivante vous propose quelques exemples de serviteurs ainsi que leurs coûts respectifs."
+  },
+  {
+    "Tag": "GAV0009",
+    "Name": "Sombre Parangon",
+    "Description": "Vous avez maîtrisé l'un des préceptes du Shourido, le sombre code qui fait office d'antithèse au Bushido. Une fois par séance, vous pouvez volontairement sacrifier 5 points d'Honneur au prix d'une action gratuite pour affecter un jet du type concerné par votre précepte et bénéficier d'un bonus de +5 au total de ce jet. Si vous ne disposez pas de 5 points d'Honneur à dépenser de cette manière, vous pouvez dépenser un point de Vide à la place. Les personnages du clan de l'Araignée peuvent acheter cet avantage pour 4 points."
+  },
+  {
+    "Tag": "GAV0010",
+    "Name": "Malédiction de Sire Lune",
+    "Description": "folie d'Onnotangu, Sire Lune, est latente en votre âme, ce qui vous plonge dans des crises de démence malgré votre compréhension accrue de l'univers. Vous recevez un point de Vide supplémentaire au coucher du soleil de toutes les nuits de pleine lune. Si vous n'utilisez pas ce points de Vide, vous le perdez dès le lever du soleil. En revanche, quand la lune pleine apparaît dans le ciel, vous devez effectuer un jet de Volonté ND 15 +5 par rang de désavantage au-delà du premier. En cas d'échec, vous perdez le contrôle de votre personnage pour la soirée pour vous réveiller le lendemain matin sans le moindre souvenir des actes atroces que vous avez peut-être commis."
+  },
+  {
+    "Tag": "GAV0011",
+    "Name": "Malédiction des 7 Fortunes",
+    "Description": "L'une des sept Fortunes a trouvé votre comportement inacceptable et son ire se manifeste. Cette malédiction prend une forme très réelle, sachant que l'on peut rarement calmer des entités aussi puissantes et capricieuses que les sept Fortunes."
+  },
+  {
+    "Tag": "GAV0012",
+    "Name": "Maudit par le royaume",
+    "Description": "L'influence des royaumes spirituels porte jusqu'au royaume mortel de Ningen-do et il se trouve que l'essence de l'un d'entre eux vous considère comme un ennemi de tout ce qu'il représente. Ce désavantage donne 5 points aux personnages shugenja."
+  },
+  {
+    "Tag": "GAV0013",
+    "Name": "Mauvaise fortune",
+    "Description": "Le karma est une puissante force qui peut parfois s'avérer destructrice. Il vous réserve quelque chose de désagréable dont vous n'avez peut-être pas idée, jusqu'à ce qu'il soit trop tard. La mauvaise fortune peut prendre une variété de formes presque infinie, toutes valant autant de points. Joueurs et MJ doivent s'entendre sur le type de mauvaise fortune choisi durant la création du personnage. Voici quelque-unes des formes les plus courantes."
+  },
+  {
+    "Tag": "GAV0014",
+    "Name": "Oublié du Bushido",
+    "Description": "Vous avez eau vous efforcer d'adhérer au code du Bushido, l'un des principes vous reste totalement étranger et vous n'avez pas la moindre notion de la manière de l'illustrer par vos actions. Ce désavantage donne un point supplémentaire aux personnages Ninja."
+  },
+  {
+    "Tag": "GAV0015",
+    "Name": "Rongé par le Shourido",
+    "Description": "Vous avez embrassé la voie du Shourido, qui vous a rongé jusqu'à la moelle. L'un des principes du code régit votre existence et vous vous consacrez à le mettre en œuvre. Ces désavantages donnent un point supplémentaire aux personnages du clan de l'Araignée."
+  }
+]

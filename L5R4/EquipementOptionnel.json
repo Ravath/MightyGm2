@@ -1,0 +1,52 @@
+[
+  {
+    "Tag": "OPE0001",
+    "Name": "ArmureAshigaruOuLegere",
+    "Description": "Choisissez {0} armure légère ou d'ashigaru."
+  },
+  {
+    "Tag": "OPE0002",
+    "Name": "ArmureLegereOuLourde",
+    "Description": "Choisissez {0} armure légère ou lourde."
+  },
+  {
+    "Tag": "OPE0003",
+    "Name": "ArmureLegereOuCavalerie",
+    "Description": "Choisissez {0} armure légère ou de cavalerie."
+  },
+  {
+    "Tag": "OPE0004",
+    "Name": "ArmureLourdeOuCavalerie",
+    "Description": "Choisissez {0} armure lourde ou de cavalerie."
+  },
+  {
+    "Tag": "OPE0005",
+    "Name": "ArmeAuChoix",
+    "Description": "Choisissez {0} arme au choix."
+  },
+  {
+    "Tag": "OPE0006",
+    "Name": "ArmeLourdeOuHast",
+    "Description": "Choisissez {0} arme lourde ou d'hast"
+  },
+  {
+    "Tag": "OPE0007",
+    "Name": "ArcOuCouteau",
+    "Description": "Choisissez {0} arc (et 20 flèches) ou couteau."
+  },
+  {
+    "Tag": "OPE0008",
+    "Name": "LanceAuChoixOuMaiChong",
+    "Description": "Choisissez {0} lance au choix, ou le Mai Chong."
+  },
+  {
+    "Tag": "OPE0009",
+    "Name": "BoOuPaireDeJo",
+    "Description": "Choisissez {0} bo ou paire de jo."
+  },
+  {
+    "Tag": "OPE0010",
+    "Name": "ArmeAuChoixOuPaireDeCouteaux",
+    "Description": "Choisissez {0} arme ou paire de couteaux."
+  }
+]

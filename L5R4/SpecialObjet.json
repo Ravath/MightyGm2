@@ -1,0 +1,147 @@
+[
+  {
+    "Tag": "SPO0001",
+    "Name": "MalusArmureLegere",
+    "Description": "Le port de l'armure légère augmente de 5 le ND de tous les Jets d'Athlétisme et de Discrétion."
+  },
+  {
+    "Tag": "SPO0002",
+    "Name": "MalusArmureLourde",
+    "Description": "Le port de l'armure lourde augmente de 5 le ND de tous les Jets utilisant l'Agilité ou les Réflexes."
+  },
+  {
+    "Tag": "SPO0003",
+    "Name": "MalusArmureDeCavalerie",
+    "Description": "Le port d'une armure de cavalerie augmente de 5 le ND de tous les jets utilisant l'Agilité ou les Réflexes quand son porteur ne se trouve pas à cheval."
+  },
+  {
+    "Tag": "SPO0004",
+    "Name": "SimilaireArmureLourde",
+    "Description": "On traite l'armure de cavalerie comme une armure lourde quand il s'agit d'appliquer tous les effets des règles liées à un type d'armure spécifique, y compris les Techniques, Avantages, etc."
+  },
+  {
+    "Tag": "SPO0005",
+    "Name": "NDArmureCavalerie",
+    "Description": "Le bonus d'armure d'une armure de cavalerie passe à +12 lorsque son porteur monte à cheval."
+  },
+  {
+    "Tag": "SPO0006",
+    "Name": "SifflementPuissant",
+    "Description": "Cette arme émet un puissant sifflement."
+  },
+  {
+    "Tag": "SPO0007",
+    "Name": "MultiplieNDArmure",
+    "Description": "Multiplie par {0} le bonus au ND d'Armure conféré par l'armure de la cible."
+  },
+  {
+    "Tag": "SPO0008",
+    "Name": "PorteeDivisee",
+    "Description": "Portée divisée par {0}."
+  },
+  {
+    "Tag": "SPO0009",
+    "Name": "IgnoreNDArmure",
+    "Description": "Ignore le bonus au ND d'Armure conféré par les armures."
+  },
+  {
+    "Tag": "SPO0010",
+    "Name": "AugmentCoupPrecisObjetInanime",
+    "Description": "{0} Augmentations gratuites pour les Coups Précis contre les objets inanimés."
+  },
+  {
+    "Tag": "SPO0011",
+    "Name": "ArcCavalerie",
+    "Description": "Le ND de tous les jets d'attaques effectués à l'aide de cet arc augmente de 10 si l'archer est à pied."
+  },
+  {
+    "Tag": "SPO0012",
+    "Name": "ArcInfanterie",
+    "Description": "Le ND de tous les jets d'attaques effectués à l'aide de cet arc augmente de 10 si l'archer monte à cheval."
+  },
+  {
+    "Tag": "SPO0013",
+    "Name": "Empoigneur",
+    "Description": "Cette arme peut être utilisée pour initier une empoignade et la maintenir."
+  },
+  {
+    "Tag": "SPO0014",
+    "Name": "DgtsSarbacane",
+    "Description": "La sarbacane inflige 1 dégât. L'augmentation de dommages de la compétence Ninjutsu fait passer la VD de la sarbacane à 1g1 au rang 3, et à 2g1 au Rang 7."
+  },
+  {
+    "Tag": "SPO0015",
+    "Name": "RechargeRapide",
+    "Description": "Recharger cette arme demande une Action Gratuite."
+  },
+  {
+    "Tag": "SPO0016",
+    "Name": "SecondeTete",
+    "Description": "Tête secondaire ({0}) {1}."
+  },
+  {
+    "Tag": "SPO0017",
+    "Name": "ArmeFragile",
+    "Description": "Lorsque cette arme inflige plus de {0} dégats en une unique attaque, elle se brise."
+  },
+  {
+    "Tag": "SPO0019",
+    "Name": "LanceArconVD",
+    "Description": "La VD indiquée ne s'applique que si la lance d'arçon est utilisée à dos de cheval pour effectuer une attaque directement consécutive à une action de mouvement. En toute autre circonstance, sa VD passe à 1g2."
+  },
+  {
+    "Tag": "SPO0020",
+    "Name": "LanceArconAttaque",
+    "Description": "Si on utilise la lance d'arçon au combat au corps à corps sans Action de Mouvement, le ND de tous les jets d'attaque augmente de +5 à dos de cheval, et de +10 à pied."
+  },
+  {
+    "Tag": "SPO0021",
+    "Name": "DegatsDeLancer",
+    "Description": "Lorsqu'elle est lancée, la VD de cette arme passe à {0}."
+  },
+  {
+    "Tag": "SPO0022",
+    "Name": "PrixKatana",
+    "Description": "Compte tenu de la nature symbolique du Katana et de la difficulté qu'il y a à produire les feuilles d'acier qui composent la lame, ces armes ne sont généralement pas à vendre."
+  },
+  {
+    "Tag": "SPO0023",
+    "Name": "SpecialKatana",
+    "Description": "Un personnage peut dépenser un Point de Vide pour ajouter 1g1 au jet de dommages effectué à l'aide d'un Katana. On ne peut dépenser qu'un seul Point de Vide de cette façon, même si le personnage dispose d'une capacité lui permettant d'en utiliser plus d'un par Round."
+  },
+  {
+    "Tag": "SPO0024",
+    "Name": "ArmeNinja",
+    "Description": "On considère cette arme comme une arme de Ninjutsu au regard des effets qui s'appliquent à celle-ci, y compris les Techniques et la perte d'Honneur liée à leur utilisation."
+  },
+  {
+    "Tag": "SPO0025",
+    "Name": "ArmeDissimulee",
+    "Description": "On considère cette arme comme d'une catégorie de taille inférieure quand il s'agit de la dissimuler."
+  },
+  {
+    "Tag": "SPO0026",
+    "Name": "ArmeTir",
+    "Description": "Projète des flèches avec une portée de {0}m."
+  },
+  {
+    "Tag": "SPO0027",
+    "Name": "ArmeJet",
+    "Description": "Peut être lancée avec une portée de {0}m."
+  },
+  {
+    "Tag": "SPO0028",
+    "Name": "ArmeMunitions",
+    "Description": "Projète des {0} avec une portée de {1}m."
+  },
+  {
+    "Tag": "SPO0029",
+    "Name": "ForceRequise",
+    "Description": "Cette arme requiert une force de {0} pour pouvoir être utilisée."
+  },
+  {
+    "Tag": "SPO0030",
+    "Name": "ForceIntrinseque",
+    "Description": "Le bonus de force aux dégats du porteur est limité à {0}."
+  }
+]

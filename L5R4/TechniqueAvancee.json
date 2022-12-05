@@ -1,0 +1,191 @@
+[
+  {
+    "Ecole_Tag": "EAV0001",
+    "Rang": 1,
+    "Tag": "TEC1001",
+    "Name": "Les Flammes de la pureté",
+    "Description": "Le Défenseur de la Muraille peut repousser tous les assauts surnaturels avec la conviction d’une âme pure. Les Créatures ayant la Souillure de l’Outremonde ne peuvent pas relancer les 10 aux jets d’attaque et de dommages contre vous."
+  },
+  {
+    "Ecole_Tag": "EAV0001",
+    "Rang": 2,
+    "Tag": "TEC1002",
+    "Name": "La Force de Hida",
+    "Description": "Le Défenseur de la Muraille ressemble à une forteresse inexpugnable, même quand il ne porte pas son armure. Vous gagnez une Réduction de 8, cumulative avec toute Technique ou armure vous conférant déjà une Réduction"
+  },
+  {
+    "Ecole_Tag": "EAV0001",
+    "Rang": 3,
+    "Tag": "TEC1003",
+    "Name": "Le Crabe et la Muraille ne font qu'un",
+    "Description": "Le Défenseur de la Muraille n’arrête de combattre qu’une fois mort. Une fois par Round, vous pouvez annuler une Condition qui vous affecte (autre que Monté ou Agrippé)."
+  },
+  {
+    "Ecole_Tag": "EAV0002",
+    "Rang": 1,
+    "Tag": "TEC1004",
+    "Name": "Le silence des deux coups",
+    "Description": "Le lien que le Maître du Sabre entretient avec ses armes s’apparente au surnaturel, ce qui lui permet de se détacher  totalement du reste du monde. Quand vous maniez un katana de la main principale et un wakizashi de la main secondaire, vous pouvez dépenser des Points de Vide deux fois par Tour."
+  },
+  {
+    "Ecole_Tag": "EAV0002",
+    "Rang": 2,
+    "Tag": "TEC1005",
+    "Name": "La force de Mirumoto",
+    "Description": "Le Maître du Sabre sent le calme du monde quand il se tient devant son adversaire. En duel de Iaijutsu, vous gagnez toujours un bonus de +1g1 au jet de Concentration, comme si vous aviez vaincu votre adversaire au jet d’Évaluation, quel qu’en soit le résultat (votre adversaire peut lui aussi gagner le bonus de +1g1 en raison d’un jet d’Évaluation supérieur)."
+  },
+  {
+    "Ecole_Tag": "EAV0002",
+    "Rang": 3,
+    "Tag": "TEC1006",
+    "Name": "Harmonie et précision",
+    "Description": "Le Maître du Sabre abat un adversaire à chaque coup porté, car il frappe exactement là où il le faut pour décimer ses ennemis. Quand vous maniez un katana de la main principale et un wakizashi de la main secondaire, vous pouvez ignorer la Réduction de vos adversaires (le cas échéant)."
+  },
+  {
+    "Ecole_Tag": "EAV0003",
+    "Rang": 1,
+    "Tag": "TEC1007",
+    "Name": "Attirer le Vide",
+    "Description": "Le Kenshinzen reste parfaitement calme sur le champ de bataille malgré le chaos des affrontements qui font rage tout autour de lui. Si vous adoptez la Posture du Centre, vous ajoutez +10 supplémentaire à votre ND d’Armure."
+  },
+  {
+    "Ecole_Tag": "EAV0003",
+    "Rang": 2,
+    "Tag": "TEC1008",
+    "Name": "La force de Kakita",
+    "Description": "Le Kenshinzen ressent chacun des moments qui séparent ses battements de cœur, ce qui lui permet de frapper précisément au moment voulu. Lorsque vous faites un jet d’Évaluation ou de Concentration dan le cadre d’un duel Iaijutsu, vos dés sont ouverts sur 9 ou 10."
+  },
+  {
+    "Ecole_Tag": "EAV0003",
+    "Rang": 3,
+    "Tag": "TEC1009",
+    "Name": "Un seul moment",
+    "Description": "La volonté du Kenshinzen de vaincre son ennemi saute aux yeux de tous, ce qui a pour effet de paralyser ses ennemis. Si vus ne portez qu’une seule attaque ce Tour-ci, tout adversaire que vous touchez tombe Étourdi jusqu’au début de votre prochain Tour."
+  },
+  {
+    "Ecole_Tag": "EAV0004",
+    "Rang": 1,
+    "Tag": "TEC1010",
+    "Name": "Visage pâle de la mort",
+    "Description": "Le Garde Blanc va au combat le visage peint de blanc et inspire la peur à ses ennemis. Au début de votre Tour, vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite et choisir un adversaire situé dans un rayon de 9m. Il subit un malus au ND de toutes ses actions égal à votre Rang de Connaissance : Théologie. Ce malus dure jusqu’à la fin de la rencontre. Vous ne pouvez ainsi affecter qu’une cible à la fois."
+  },
+  {
+    "Ecole_Tag": "EAV0004",
+    "Rang": 2,
+    "Tag": "TEC1011",
+    "Name": "Force de Moto",
+    "Description": "Le Garde Blanc reste fidèle aux enseignements et talents a cœur de son âme. Vous ignorez un Malus de Blessure égal au double de votre Rang de Connaissance : Théologie."
+  },
+  {
+    "Ecole_Tag": "EAV0004",
+    "Rang": 3,
+    "Tag": "TEC1012",
+    "Name": "Fureur des cieux",
+    "Description": "Le Garde Blanc attaque avec vigueur et acharnement, frappant ses ennemis sans retenir ses coups. Quand vous portez une attaque, vous pouvez dépenser un Point de Vide pour ajouter 5 fois votre Rang de Connaissance : Théologie au total de votre jet."
+  },
+  {
+    "Ecole_Tag": "EAV0005",
+    "Rang": 1,
+    "Tag": "TEC1013",
+    "Name": "La fureur de Matsu",
+    "Description": "La bushi de la Fierté du Lion attaque sans laisser la moindre chance de riposte à son adversaire en lui opposant une défense parfaite. Vous pouvez ajouter +10 à votre ND d’Armure lorsque vous adoptez la Posture d’Assaut. "
+  },
+  {
+    "Ecole_Tag": "EAV0005",
+    "Rang": 2,
+    "Tag": "TEC1014",
+    "Name": "Modèle d'Honneur",
+    "Description": "La guerrière de la Fierté du Lion se satisfait de son honneur personnel pour seule récompense. Les adversaires situés dans un rayon de 9m ayant un Rang d’Honneur inférieur au sien ne peuvent relancer les 10. Ils peuvent toutefois ignorer cet effet le temps de la rencontre en dépensant deux Points de Vide durant l’étape de Réactions du Round de Combat de leur choix."
+  },
+  {
+    "Ecole_Tag": "EAV0005",
+    "Rang": 3,
+    "Tag": "TEC1015",
+    "Name": "Technique de Matsu",
+    "Description": "Malgré le déluge de coups qu’elle porte, la Fierté du Lion peut contrer les assauts qui la visent. Quand un adversaire déclare vouloir vous porter une attaque au corps à corps, vous pouvez aussitôt dépenser un Point de Vide pour entreprendre une Action Simple et effectuer une attaque contre cet adversaire, sous réserve que vous n’ayez pas encore joué votre Tour du Round. Cette attaque se joue avant celle de l’adversaire en question. Si vous utilisez cette Technique, vous ne pouvez entreprendre qu’une Action Simple à votre Tour du Round (vous pouvez effectuer des Actions Gratuites tout à fait normalement). Vous pouvez utiliser cette Technique lorsque vous adoptez la Posture d’Assaut. "
+  },
+  {
+    "Ecole_Tag": "EAV0006",
+    "Rang": 1,
+    "Tag": "TEC1016",
+    "Name": "Force de Suitengu",
+    "Description": "Les Chevaucheurs de Tempête, parfaitement à l’aise en mer, naviguent sur les océans avec une facilité enviée de tous ceux qui les côtoient. On considère que vous avez 1 Rang de plus dans votre École de Shugenja pour lancer des Sorts d’Eau. Vous pouvez dépenser des Points de Vide pour lancer un éclair de la main au prix d’une Action Complexe. Cet éclair frappe une cible située dans un rayon de 3m x votre Anneau d’Eau. Vous lancez et garder ensuite un nombre de dés de dommages égal à votre Anneau d’Eau. Vous pouvez mobiliser des emplacements de Sort pour augmenter les dommages de cet éclair de +1g0 par emplacement ainsi utilisé, jusqu’à un maximal égal à votre Rang de Chevaucheur de Tempête."
+  },
+  {
+    "Ecole_Tag": "EAV0006",
+    "Rang": 2,
+    "Tag": "TEC1017",
+    "Name": "L'océan enragé",
+    "Description": "Le lien que le Chevaucheur de Tempête entretient avec l’océan lui permet de se dépasser. Augmentez de 1 votre Rang d’École de Shugenja. On considère que vous avez 2 Rangs de plus dans votre Anneau d’Eau pour calculer le nombre de Sorts que vous pouvez lancer quotidiennement."
+  },
+  {
+    "Ecole_Tag": "EAV0006",
+    "Rang": 3,
+    "Tag": "TEC1018",
+    "Name": "Enfant d'Osano-Wo",
+    "Description": "Les Chevaucheurs de Tempête sont les descendants de la Fortune du Feu et du Tonnerre, et les faveurs de ce dernier les protègent de son domaine. On considère que vous avez 1 Rang de plus dans votre École de Shugenja pour lancer des Sorts d’Eau. Vous pouvez dépenser un Point de Vide au prix d’une Action Gratuite pour jouir d’une immunité contre les Sorts accompagnés du mot-clé Tonnerre pendant 3 rounds. Cette faculté n’affecte que les Sorts de Niveau de Maître de 3 ou moins."
+  },
+  {
+    "Ecole_Tag": "EAV0007",
+    "Rang": 1,
+    "Tag": "TEC1019",
+    "Name": "Nom des éléments",
+    "Description": "Le Garde Élémentaire consacre son âme à son élément de prédilection jusqu’à être en harmonie totale avec ses kami. On considère que vous avez 1 Rang de plus dans votre École de Shugenja pour lancer des Sorts de votre élément de prédilection. Vous pouvez également dépenser un Point de Vide au prix d’une Action Gratuite pour ajouter le double de votre Rang dans votre Anneau de prédilection à votre ND d’Armure. Cet effet dur un nombre de minutes égal à votre Rang de Maîtrise de Shugenja. Par ailleurs, on le remarque très bien : vous êtes auréolé de flamme ou d’eau tourbillonnante, votre peau adopte la texture de la pierre, etc. "
+  },
+  {
+    "Ecole_Tag": "EAV0007",
+    "Rang": 2,
+    "Tag": "TEC1020",
+    "Name": "Caresse des éléments",
+    "Description": "Le lien qui unit les kami et le Garde Élémentaire se renforce un peu plus. Augmentez de 1 votre Rang d’École de Shugenja. On considère que vous avez 2 Rangs de plus dans votre Anneau de prédilection en ce qui concerne le nombre d’emplacements de Sort que vous avez quotidiennement dans cet Élément."
+  },
+  {
+    "Ecole_Tag": "EAV0007",
+    "Rang": 3,
+    "Tag": "TEC1021",
+    "Name": "Forme des éléments",
+    "Description": "Le Garde Élémentaire fait appel au pouvoir des kami d’un simple murmure. On considère que vous avez 1 Rang de plus dans votre École de Shugenja pour lancer des Sorts de votre élément de prédilection. Vous pouvez choisir un Sort de votre élément de prédilection de Niveau de Maîtrise 3 ou plus. Un nombre de fois par jour égal à votre Anneau de Vide, vous pouvez lancer ce Sort au prix d’une Action Simple."
+  },
+  {
+    "Ecole_Tag": "EAV0008",
+    "Rang": 1,
+    "Tag": "TEC1022",
+    "Name": "Les abysses du déshonneur",
+    "Description": "L’Instigateur apprend à faire de son propre déshonneur une arme et à utiliser l’Honneur de son adversaire contre ce dernier en subvertissant ses croyances. Quand vous faites un Jet d’Opposition de Compétence Sociale, vous gagnez un bonus de +Xg0 où X représente la différence entre votre Rang d’Honneur et celui de votre adversaire."
+  },
+  {
+    "Ecole_Tag": "EAV0008",
+    "Rang": 2,
+    "Tag": "TEC1023",
+    "Name": "Voiler ses mensonges de vérité",
+    "Description": "L’Instigateur apprend à se convaincre que ses mensonges ne sont que vérité. Cela provoque une sorte d’indisposition psychologique, mais devient très efficace quand on tente de distinguer ses mensonges. Si quelqu’un tente de vous dire que vous mentez, vous pouvez dépenser un Point de Vide pour gagner un bonus de +3g3 au Jet d’Opposition de Compétence Sociale visant à dissimuler vos mensonges (au lieu de l’habituel +1g1). Notez bien que si vous utilisez cette Technique pour faire des déclarations de toute évidence erronées (« Le ciel est rouge »), vous passerez rapidement pour un cinglé."
+  },
+  {
+    "Ecole_Tag": "EAV0008",
+    "Rang": 3,
+    "Tag": "TEC1024",
+    "Name": "Tirer les ficelles",
+    "Description": "Les individus faibles et méprisables deviennent des pantins aux yeux de l’Instigateur. Si vous exercez un Chantage sur quelqu’un, vous pouvez passer 10 minutes à parler avec lui et dépenser un Point de Vide au prix d’une Action Complexe pour l’inviter à entreprendre une action précise. Toutefois, vous devez aussi remporter un Jet d’Opposition de Compétence Sociale de Courtisan (Manipulation)/Intuition contre Étiquette (Courtoisie)/Volonté. En cas de succès, tant que l’action ne menace la vie de personne et que ses conséquences ne sauraient être pires que de révéler le Chantage, la cible doit entreprendre l’action en question sous peine de perdre 4 Points d’Honneur."
+  },
+  {
+    "Ecole_Tag": "EAV0009",
+    "Rang": 1,
+    "Tag": "TEC1025",
+    "Name": "L'obscurité est ma lumière",
+    "Description": "Le Guerrier d’Obsidienne fait preuve d’un dévouement tel envers le Shourido qu’il se libère des contraintes pesant habituellement sur les mortels. Vous n’êtes plus limité dans le nombre maximum d’Augmentations que vous pouvez prendre."
+  },
+  {
+    "Ecole_Tag": "EAV0009",
+    "Rang": 2,
+    "Tag": "TEC1026",
+    "Name": "Le pouvoir de l'impureté",
+    "Description": "Le pouvoir de l’Outremonde coule dans les veines du Guerrier d’Obsidienne, au point qu’il désoriente ses ennemis. Tous les adversaires situés dans un rayon de 9m se voient affectés par cette Technique. Le total de leurs jets de dommages  et de Bugei est réduit de votre Rang de Force + votre Rang de Souillure. Un adversaire peut toutefois ignorer cette Technique le temps d’un Tour en dépensant un Point de Vide."
+  },
+  {
+    "Ecole_Tag": "EAV0009",
+    "Rang": 3,
+    "Tag": "TEC1027",
+    "Name": "Ma force n'a pas de limites",
+    "Description": "Le Guerrier d’Obsidienne se consacre pleinement à la voie du Shourido, ce qui lui permet de repousser tout ce qui devrait le décourager et de canaliser sa force pour porter des coups dévastateurs. Vous lancez (sans les garder) un nombre de dés supplémentaires égal à votre Rang de Force + votre Rang de Souillure lorsque vous résistez à une tentative d’intimidation ou un effet de Peur. Vous gagnez le même bonus aux jets de dommages avec les armes de corps à corps."
+  }
+]

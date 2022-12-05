@@ -1,0 +1,152 @@
+[
+  {
+    "TypeClan": "autre",
+    "Tag": "CLN0000",
+    "Name": "Ronin",
+    "Description": null
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0001",
+    "Name": "Clan du Crabe",
+    "Description": "Les robustes Crabes se disent les protecteurs de Rokugan chargés d'assurer l'étanchéité de la frontière méridionale de l'Empire contre tous les démons venus de l'Outremonde. Des siècles de guerres incessantes contre des adversaires inhumains ont fait des Crabes des guerriers pragmatiques particulièrement violents, ce qui explique certainement qu'ils fassent rarement preuve de politesses et de bonnes manières. Il n'est donc pas étonnant que les autres clans voient bien souvent en eux des barbares et des rustauds."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0002",
+    "Name": "Clan du Dragon",
+    "Description": "Énigmatiques et mystérieux, les samourai du clan du Dragon empruntent leur propre voie depuis la fondation de l'Empire. Plus individualistes et plus détachés des richesses matérielles que les autres clans, les Dragons partagent beaucoup de points communs avec la confrérie de Shinsei, et ce malgré l'incroyable diversité de leurs familles."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0003",
+    "Name": "Clan de la Grue",
+    "Description": "Connu depuis des siècles comme la main gauche de l'Empereur, le clan de la Grue se charge de préserver l'équilibre et l'intégrité des cours de l'Empire et de la société Rokugani en général. En tant que tel, les Grue excellent en matière de diplomatie et de politique. Par ailleurs, chacun les considère comme les maîtres incontestés des cours de l'Empire, avec tout le ressentiment que ce titre suscite auprès des autres clans."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0004",
+    "Name": "Clan de la Licorne",
+    "Description": "Les Licornes, autrefois regroupées sous le nom de clan de la Ki-Rin, sont restés absents de l'Empire pendant près de huit siècles alors qu'ils parcouraient le monde, explorant et s'assurant qu'aucune menace extérieure ne planait sur l'Empereur. Depuis leur retour, beaucoup considèrent ces samourai comme des barbares et des étrangers sans doute parce qu'ils ont adopté des coutumes qui contrastent énormément avec celles de Rokugan. Cependant, on respecte énormément les Licorne pour leur cavalerie. Ils se servent de montures gaijin et leurs cavaliers n'ont pas d'égal dans l'Empire."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0005",
+    "Name": "Clan du Lion",
+    "Description": "Le clan du Lion est la main droite de l'Empereur, le protecteur de ses terres et de sa personne, même si la famille Seppun et les Légions Impériales jouent aussi parfois ce rôle, faisant de bien tristes suppléments aux yeux du clan. Les Lions particulièrement militaristes possèdent la plus grande armée du monde connu. On les craint pour leur vaillance et on les respecte pour leur nature honorable."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0006",
+    "Name": "Clan de la Mante",
+    "Description": "Le clan de la Mante présente de bonnes facultés d'adaptation tout en étant imprévisible. À ce titre, on le compare souvent à l'océan qu'il sillonne entre son île et le continent. La Mante ne compte pas parmi les clans majeurs d'origine, mais a gagné sa place durant l'un des plus importants conflits de l'histoire, la Guerre des Clans. Constituée de familles différentes des clans mineurs, elle offre sans doute le visage du clan majeur le plus varié et individualiste à la fois."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0007",
+    "Name": "Clan du Phénix",
+    "Description": "En ce qui concerne les shugenja, l'Empire tout entier convient que les Phénix en abritent le plus vaste et puissant contingent de Rokugan. Les descendants de la tribu d'Isawa et ceux qui leur ont prêté allégeance maîtrisent des pouvoirs mystiques différents de ceux des autres clans. De plus, les serviteurs du Kami Shiba ont juré de les protéger pour l'éternité, quoi qu'il en coûte."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0008",
+    "Name": "Clan du Scorpion",
+    "Description": "Quand l'Empire fut fondé, on confia aux Scorpion deux devoirs sacrés : protéger les Parchemins Noirs dans lesquels se trouvait liée la puissance du Dieu Sombre déchu Fu Leng, et servir en quelque sorte de félons contre l'Empereur. C'est dans cette seconde mission que les Scorpion ont tout particulièrement excellé, et il faut dire que le rôle leur sied à merveille."
+  },
+  {
+    "TypeClan": "majeur",
+    "Tag": "CLN0009",
+    "Name": "Clan de l'Araignée",
+    "Description": "Usurpateur d'un titre devenu sien par héritage mais non sur décret impérial, le clan de l'Araignée revendique le statut de clan majeur alors que nul ne l'a jamais reçu d'un quelconque Empereur de Rokugan. Mais comme tous les autres clans, il dispose d'un Kami. Un Kami déchu, certes, puisqu'il s'agit du dieu Sombre Fu Leng. Ambitieuse et secrète, l'Araignée épouse à bras le corps le chaos, la cruauté, la corruption spirituelle et des formes de sorcellerie reconnues comme des perversions de l'ordre naturel."
+  },
+  {
+    "TypeClan": "autre",
+    "Tag": "CLN0010",
+    "Name": "Famille Impériale",
+    "Description": "Les familles Impériales ont juré fidélité à la lignée impériale et chacun de leurs actes vise à garantir le fonctionnement de l'Empire. Les Miya parcourent le pays en tant  que hérauts de l'Empereur, s'assurant de faire connaître ses décrets à tous. Les Seppun forment les boucliers de l'Empire et servent de gardes du corps ou de guerriers dans les légions Impériales. Les Otomo sont les cerveaux politiques de la cour et leurs manipulations diaboliques des clans majeurs servent le bien-être général. Ayant accès aux meilleurs professeurs, à des fonds illimités et à un statut très élevé, les familles Impériales sont les nobles d'élite de Rokugan."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0011",
+    "Name": "Clan du Blaireau",
+    "Description": "Le fondateur du clan du Blaireau était un puissant guerrier du clan du Crabe qui prouva son mérite lors d'une épreuve de force menée devant l'Empereur en personne. Les descendants du premier Blaireau vivent sur la frontière septentrionale de Rokugan et se chargent de protéger l'Empire des invasions étrangères. Les Blaireau tiennent clairement de leurs cousins Crabe et embrassent la force au détriment de toute forme de raffinement, sans compter qu'ils n'acceptent pas la défaite, quelles que soient les circonstances."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0012",
+    "Name": "Clan du Bœuf",
+    "Description": "Le samurai Morito fut chassé du clan de la Licorne pour avoir blessé l'un des précieux destriers Utaku. Il rallia à lui quelques partisans et leur enseigna les techniques qu'il avait acquises après des décennies passées sur les routes. Ce groupe hétéroclite de guerriers prouva son courage lors de la guerre des esprits et eut le droit de fonder le clan mineur du Bœuf pour services rendus. L'insidieux Kolat plongea toutefois ses racines au cœur du Bœuf dès sa naissance et se servit bien souvent de ses guerriers pour protéger le temple caché de la conspiration."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0013",
+    "Name": "Clan de la Chauve-Souris",
+    "Description": "Dans les veines de Komori, le fondateur du clan de la chauve-souris, coulait le sang d'esprits chauve-souris de Chikushudo. Ce clan, très jeune puisque fondé sous le règne bref de l'Empereur Toturi III, n'a pas encore véritablement trouvé son identité. Les shugenja chauve-souris travaillent dur pour affiner leurs pouvoirs d'invocation qu'ils comptent bien mettre au service de l'Empire."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0014",
+    "Name": "Clan du Faucon",
+    "Description": "Les Crabes tiennent bon face aux hordes de l'Outremonde, mais d'autres périls menacent Rokugan. Les guerriers du clan du Faucon se rangent aux côtés de leurs cousins Crabe pour vaincre les fantômes malveillants qui hantent le royaume des mortels. Leurs ennemis n'ont rien à voir avec les monstres de l'Outremonde bavant aux pieds de la grande muraille Kaiu, mais se trouvent plutôt parmi les spectres insidieux qui terrorisent le cœur du pays."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0015",
+    "Name": "Clan de la Libellule",
+    "Description": "Les fondateurs de la Libellule s'attisèrent la colère du clan du Lion dès la création de leur Clan et en souffrent grandement depuis. Leur importance dépasse de loin leur population, pour la simple raison que tous ceux qui souhaitent se rendre sur les terres des Dragons doivent d'abord obtenir la permission auprès des Libellule. Leurs liens étroits avec le clan du Dragon et leur histoire tragique ont donné naissance à un peuple serein et robuste, prêt à faire face aux dangers que leur réserve l'avenir."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0016",
+    "Name": "Clan du Lièvre",
+    "Description": "L'adepte du sang Iuchiban était un maho-tsukai d'une puissance incommensurable, un fou terrifiant qui bien souvent porta atteinte à la sécurité de l'Empire. Le ronin Reichin risqua héroïquement sa vie pour lutter contre l'achèvement de Iuchiban et eut le droit de fonder le clan du Lièvre. Ses descendants empruntent aujourd'hui encore cette voie, affrontant les adeptes du sang à la moindre occasion, sans oublier l'insidieuse conspiration du Kolat. Le clan a tout de même failli disparaître en plusieurs occasions et n'a dû sa survie qu'au dévouement qu'il met au service de sa cause."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0017",
+    "Name": "Clan du Loriot",
+    "Description": "Les Empereurs créent bien souvent un clan mineur lorsque les exploits d'un simple guerrier les impressionnent. Le clan du Loriot finit par être fondé parce que les Tsi, une famille de ronin, faisaient preuve de fidélité à leurs préceptes. Son daimyo eut donc l'autorisation de former un clan mineur lorsqu'il créa l'épée de l'Empereur Vertueux pour la dynastie Toturi, une lame d'une qualité inégalée à ce jour."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0018",
+    "Name": "Clan du Moineau",
+    "Description": "Le clan du moineau a été fondé dans la pauvreté et survit aujourd'hui encore sur les terres à peine fertiles qui déparent les provinces des Clans de la Grue et du Crabe. Son fondateur, un samouraï de la Grue, avait mené une vie faite de luxe avant son exil sur les terres du Moineau. Les difficultés alors rencontrées firent de lui un homme meilleur, une leçon qu'apprennent depuis tous les Suzume. Le Clan du Moineau n'a jamais grandi au fil des ans et n'a guère d'influence en dehors de ses frontières. Toutefois, il fait de son mieux pour observer les préceptes de compassion et de vertu, au point qu'il a rallié l'Alliance Tripartite lors de la Guerre des Clans pour protéger les siens des ravages du conflit."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0019",
+    "Name": "Clan du Renard",
+    "Description": "Le clan du Renard fut le premier et peut-être le plus vieux des clans mineurs (bien que les Mante persistent à dire le contraire), tout simplement parce que ses origines remontent au clan de la Ki-Rin, avant son grand voyage par-delà les frontières de Rokugan. Le clan du Renard fut chassé des terres des Ki-Rin et finit par s'installer dans la paisible Kitsune Mori, où il se lia d'amitié avec des esprits renards et se découvrit un amour certain pour la beauté de la nature. Ce très modeste Clan Mineur ne dispose que de ressources limitées, mais il n'hésite jamais à prendre les armes pour une cause juste."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0020",
+    "Name": "Clan du Sanglier",
+    "Description": "Le clan du Sanglier reçu pour terres les montagnes du crépuscule, sur la frontière septentrionale du clan du Crabe. Les montagnes du crépuscule, riches en fer et en jade, firent croire l'importance du petit clan mineur lorsque les samourai se mirent à exploiter les métaux précieux. Toutefois les montagnes se montrent dangereuses car agitées de tremblements de terre, sans compter les esprits fous, maho-tsukai aliénés et esprits malveillants Shakoki-Dogu qui s'en prennent bien souvent au clan du Sanglier."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0021",
+    "Name": "Clan du Singe",
+    "Description": "Toku était un homme jovial bien déterminé à sauver l'Empire alors qu'une grave crise sévissait. Il prit place dans l'armée de Toturi, aux côtés de samourai rejetés par les clans majeurs, et servit loyalement la dynastie Toturi pendant plusieurs décennies, luttant pour rétablir la paix et protéger Rokugan des forces du mal. Son clan mineur défend aujourd'hui encore sa vision et abrite des magistrats en quête d'un Rokugan en paix."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0022",
+    "Name": "Clan du Serpent",
+    "Description": "L'histoire du clan du serpent débute avec l'héroïsme et s'achève par une tragédie. Isawa Chuda gagna le droit de fonder son propre clan mineur lorsqu’il déjoua une attaque maho contre l'Empereur. Malheureusement, la créature malveillante du nom de Shuten Doji s'empara par la suite des terres des Serpent et fit de ces derniers de simples pantins obéissant à ses volontés. Le clan du Phénix éradiqua le clan du Serpent lors des Cinq Nuits de la Honte, mais les survivants prirent la fuite avec leurs connaissances en magie noire."
+  },
+  {
+    "TypeClan": "mineur",
+    "Tag": "CLN0023",
+    "Name": "Clan de la Tortue",
+    "Description": "Fondé après la première rencontre très violente de l'Empire avec les gaijin, le clan de la Tortue compte quasiment parmi les familles Impériales, mais il reste à l'écart de celles-ci. La famille Kasuga a réalisé de véritables exploits pour l'Empereur et se dit prête à tout pour préserver le pouvoir du souverain. En bien des façons, les samourai du clan de la Tortue regroupent les hommes de main de l'Empereur et possèdent des accointances avec de nombreuses organisations criminelles du pays. Ils représentent les clans mineurs à la cour Impériale et se font l'écho de ceux qui n'ont pas de taille suffisante pour y maintenir une présence."
+  },
+  {
+    "TypeClan": "confrerie",
+    "Tag": "CLN0024",
+    "Name": "Confrérie de Shinsei",
+    "Description": "La confrérie de Shinsei se compose de moines et d'érudits bien décidés à sauver l'âme de l'Empire. Ils sont en quête de l'illumination, d'une compréhension parfaite du monde et de tout ce qui y vit. Chaque groupe de la Confrérie croit que sa méthode pour trouver l'illumination montre la meilleure voie, ce qui a donné à des centaines de techniques visant à apaiser l'esprit et à trouver l'équilibre. Rien ne fera changer d'avis la confrérie, car le plus célèbre adage de son fondateur précise que chaque homme doit suivre sa propre voie."
+  }
+]

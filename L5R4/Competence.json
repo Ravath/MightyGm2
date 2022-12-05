@@ -1,0 +1,2868 @@
+[
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0001",
+        "Name": "ArtMagie5",
+        "Description": "Le personnage bénéficie d'un bonus de +1g0 aux jets d'incantation."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0001",
+        "Name": "Faveur",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0002",
+        "Name": "Recherche de Sorts",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0001",
+    "Name": "Art de la magie",
+    "Description": "La voie du shugenja commence par la faculté innée de communiquer avec les kami, mais elle se poursuit par une vie d'étude rigoureuse et de recherches dévouées. Même si d'autres personnes peuvent entreprendre cet art, la compréhension essentielle des secrets de l'invocation des kami en fait avant tout le domaine des shugenja. Ces recherches permettent également aux shugenja plus érudits de créer de nouvelles prières que d'autres pourront employer. Elles serviront à implorer certains types de kami d'accomplir des tâches pour eux.\nLa Spécialisation Recherche de Sorts permet de formuler de nouveaux Sorts. Cela demande généralement de réussir un Jet d'Art de la Magie(Recherche de Sorts)/Intelligence assorti d'un ND égal à 10 + le Niveau de Maîtrise du nouveau Sort *10. Il faut pour cela y consacrer un nombre de semaines d'études continues égal  au Niveau de Maîtrise du nouveau Sort. Avant de pouvoir être appris, les nouveaux Sorts doivent être proposés au MJ pour qu'il en approuve l'utilisation.\nLa Spécialisation Faveur s'emploie sous forme de Compétence Sociale lorsqu'on lance le Sort Communion pour converser avec un esprit, notamment lorsqu'on tente de persuader l'esprit de se montrer serviable. Vous trouverez davantage de renseignements sur ce sujet dans la description du Sort Communion, plus avant dans ce chapitre."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0002",
+        "Name": "Calligraphie5",
+        "Description": "Votre personnage reçoit un bonus de +10 quand il tente de décrypter un code secret."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0003",
+        "Name": "Code Secret",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0004",
+        "Name": "Haut Rokugani",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0002",
+    "Name": "Calligraphie",
+    "Description": "Pour beaucoup, la calligraphie représente un art à part entière qui se pratique non seulement parmi les shugenja (qui recourent à des codes et des écritures spécifiques pour protéger leurs secrets mystiques), mais aussi chez les artisans et les courtisans qui s'en servent pour faire bonne impression et se faire bien voir à la cour. Nul besoin d'apprendre la calligraphie pour savoir lire et écrire comme tous les samurai, mais cela permet de montrer un raffinement certain.\nSi vous disposez de la Spécialisation Code Secret, on considère que vous connaissez un mode de cryptage couramment employé par votre Clan. Les codes secrets peuvent être très difficiles à décrypter, le ND dépendant de leur fréquence d'utilisation et des moyens de création employés. Le ND est généralement le résultat du Jet de Calligraphie(Code Secret)/Intelligence employé pour créer le texte. La Spécialisation Haut Rogukani permet de recourir au style linguistique plus ancien, sophistiqué et chargé que l'on emploie à la Cour Impériale."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "vide",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0003",
+        "Name": "CérémonieThé5",
+        "Description": "Tous les participants récupèrent 2 points de Vide au lieu de 1."
+      }
+    ],
+    "Specialisations": [],
+    "Tag": "CPT0003",
+    "Name": "Cérémonie du thé",
+    "Description": "La cérémonie du thé se veut une très ancienne tradition sacrée née en même temps que l'Empire, créée dit-on par dame Doji en personne. Il s'agit d'un rituel qui se transmet des parents aux enfants, avec la même application et le même fondamentalisme qu'une lame de famille. Dans une cérémonie su thé typique, l'individu qui mène le rituel dresse une table irréprochable, prépare le thé et le sert à tous les participants, qui le consomment alors comme un seul homme, le tout dans un silence total. La cérémonie a une grande influence spirituelle et aide les personnes présentes à se purifier l'esprit.\nPour mener à bien une cérémonie du thé, il faut réussir un jet de Cérémonie du Thé/Vide (ND 15+ par participant présent en plus du deuxième). Le rituel est normalement prévu pour deux personnes, mais on peut le mener seul ou y faire compter un total de cinq participants. En cas de Jet de Compétence réussi, tous les participants récupèrent un Point de Vide dépensé. Une cérémonie correctement menée prend trente minutes et demande un lieu paisible."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0004",
+        "Name": "Comédie3",
+        "Description": "Le ND pour se déguiser est réduit de 5."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0005",
+        "Name": "Comédie5",
+        "Description": "Le ND pour se déguiser est réduit de 10 (non cumulatif)."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0006",
+        "Name": "Comédie7",
+        "Description": "Le ND pour se déguiser est réduit de 15 (non cumulatif)."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0005",
+        "Name": "Clan",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0006",
+        "Name": "Sexe",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0007",
+        "Name": "Profession",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0004",
+    "Name": "Comédie",
+    "Description": "Cette compétence exprime la faculté d'un individu à se faire passer pour quelqu'un d'autre, que ce soit dans le cadre d'une pièce ou pour infiltrer la forteresse de l'ennemi de son seigneur. Elle représente également la connaissance qu'à le personnage des principaux genres théâtraux de Rokugan\u00A0: le kabuki, style flamboyant où l'action est intense, et le no, plus sobre et stylisé.\nLe ND pour se déguiser est de 15. Cette valeur correspond à un personnage qui endosse le rôle d'un individu lambda du même Clan, de même sexe et de même profession (bushi, courtisan ou shugenja). Chaque déviation de l'un de ces aspects entraîne une augmentation de +5 du ND total du Jet de Compétence (ainsi, un bushi home du Clan du Scorpion qui tente de  se faire passer pour une courtisane du Clan de la Grue verra le ND passer à 30). Quelqu'un qui tente d'imiter un individu précis devra faire face à une toute autre difficulté, le ND augmentant de +15 (en plus d'éventuels accroissements liés au sexe, au Clan ou à la profession). Vous pouvez déclarer ds Augmentations afin que votre déguisement soit plus difficile à décerner. Un personnage cherchant à discerner un déguisement doit effectuer un Jet d'Enquête/Perception contre un ND égal à 15 + 5 par Augmentation prise lors du jet de Comédie du déguisement."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0007",
+        "Name": "Courtisan3",
+        "Description": "Le personnage bénéficie d'un bonus de +3 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0008",
+        "Name": "Courtisan5",
+        "Description": "Le personnage bénéficie d'un bonus de +1g0 au total de tous les jets d'opposition recourant à Courtisan."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0009",
+        "Name": "Courtisan7",
+        "Description": "Le personnage bénéficie d'un bonus de +7 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence (Ce bonus s'ajoute à celui conféré au rang 3)."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0008",
+        "Name": "Commérage",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0009",
+        "Name": "Manipulation",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0010",
+        "Name": "Piège Rhétorique",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0005",
+    "Name": "Courtisan",
+    "Description": "Compétence fondamentale des cours Rokugani, Courtisan mesure la capacité du personnage à  participer aux jeux politiques redoutables qui dominent les strates supérieures de l'ordre social de l'Empire. Les courtisans ont leur propre art de la guerre et parviennent à manipuler autrui par leur maîtrise des mots pour le mettre en porte-à-faux.\nOn peut dire que Courtisan représente la Compétence de l'\u00A0«\u00A0attaque sociale\u00A0». Les personnages mondains du genre offensif recourent volontiers à Courtisan, souvent par le biais des Spécialisations Manipulation et Piège Rhétorique, ce qui leur permet de manœuvrer leurs adversaires. Cela prend souvent la forme de Jets d'Opposition avec Étiquette ou Sincérité. Courtisan peut également servir à avoir vent de rumeurs au sujet d'une personne ou alors à les propager, grâce à la Spécialisation Commérage. La Gloire de la cible peut corser l'entreprise, le ND étant en général de 10 plus le quintuple de la Gloire de la cible moins le quintuple de votre Gloire. Rappelons que tenter de propager des rumeurs infamantes concernant une personne avec un Statut supérieur au sien est souvent peu avisé et risque facilement d’entraîner la peine de mort du responsable."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0010",
+        "Name": "Divination5",
+        "Description": "Un second jet de divination devient possible sans dépenser de point de Vide. Toutes les autres conditions requises au second jet de compétence s'appliquent normalement."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0011",
+        "Name": "Astrologie",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0012",
+        "Name": "Kawaru",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0006",
+    "Name": "Divination",
+    "Description": "Certains individus possèdent la faculté de scruter la trame de l'avenir et de la destinée qui tissent l'univers, pouvant ainsi en retirer un semblant de prescience. Cela passe parfois par l'étude des astres et de leur position (l'astrologie), mais le plus souvent, ils recourent aux kawaru, ces petites pierres, bâtons et pièces gravés de divers hexagrammes qui permettent cette prouesse. Les kawaru se lancent généralement dans un bol ou autre récipient, puis on étudie les motifs obtenus.\nVous pouvez tenter une divination par jour. Le ND de ce Jet de Compétence est de 15, mais le MJ peut décider d'un ND supérieur selon les circonstances. Si le jet échoue on peut aussitôt tenter un second jet en dépensant un Point de Vide (le ND de ce second jet augmente comme toujours de +10). Les renseignements obtenus par la divination restent toujours vagues, mais confèrent quelques notions sur ce que réserve l'avenir proche (exemples\u00A0: «\u00A0des heures difficiles approchent\u00A0», «\u00A0un vieil ennemi est de retour\u00A0», «\u00A0une ombre va s'abattre sur la maison de votre père\u00A0», etc)."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0011",
+        "Name": "Etiquette3",
+        "Description": "Le personnage bénéficie d'un bonus de +3 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0012",
+        "Name": "Etiquette5",
+        "Description": "Le personnage bénéficie d'un bonus de +1g0 au total de tous les jets d'opposition recourant à Etiquette."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0013",
+        "Name": "Etiquette7",
+        "Description": "Le personnage bénéficie d'un bonus de +7 en réputation, qui permet de dépasser le total normalement indiqué par ses anneaux et ses rangs de compétence (Ce bonus s'ajoute à celui conféré au rang 3)."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0013",
+        "Name": "Bureaucratie",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0014",
+        "Name": "Conversation",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0015",
+        "Name": "Courtoisie",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0007",
+    "Name": "Étiquette",
+    "Description": "Pour une société à la hiérarchie aussi rigide que celle de l’Empire d’Émeraude, la maîtrise de la bienséance est essentielle pour tous, à l'exception probable des bushi les plus grossiers et blasés. De bien des manières, l'étiquette demeure un moyen de défense pour les samurai, qui peuvent puiser dans leur connaissance de ce protocole de cour pour se protéger contre les manipulations. Cela leur permet également d'éviter les faux-pas en sachant à qui s'adresser pour une question particulière au sein de la vaste et intimidante bureaucratie impériale, ainsi que parmi les administrateurs les plus modestes des Clans Majeurs.\nÉtiquette peut être perçue comme la Compétence de «\u00A0défense sociale\u00A0» des personnages honorables des cours de Rokugan. Lorsque quelqu'un tente de vous manipuler ou de vous affronter par le biais de Compétences comme Courtisan ou Tentation, Étiquette est le plus souvent la compétence qui intervient dans le Jet d'Opposition, généralement avec la Spécialisation Courtoisie. Courtoisie permet généralement d'exprimer son opinion sans prendre le risque d'offenser (ND variable) ou de se souvenir d'us sociaux peu utilisés (ND variant de 5 à 20). La Spécialisation Bureaucratie s'emploie lorsque l'on tente d'accomplir une tâche par les bonnes voies ou pour déterminer laquelle doit justement être utilisée pour parvenir à ses fins, comme par exemple obtenir une audience avec un personnage de Statut élevé (a bureaucratie impériale est complexe). Conversation permet de trouver un sujet de discussion non conflictuel (ND 15+)."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "perception",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0014",
+        "Name": "Enquête3",
+        "Description": "Un second jet recourant à la spécialisation fouille peut être retenté sans que le ND soit augmenté."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0015",
+        "Name": "Enquête5",
+        "Description": "Le personnage gagne un bonus de +5 au total de tous les jets d'opposition recourant à Enquête."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0016",
+        "Name": "Enquête7",
+        "Description": "Une troisième tentative recourant à la spécialisation fouille peut être faite quand le deuxième jet échoue."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0016",
+        "Name": "Fouille",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0017",
+        "Name": "Interrogatoire",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0018",
+        "Name": "Sens de l'Observation",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0008",
+    "Name": "Enquête",
+    "Description": "L'une des fonctions les plus prestigieuses que l'on peut affecter à un samurai est celle de magistrat, représentant officiel chargé de faire respecter la loi au sein du domaine de son seigneur. Les samurai magistrats doivent souvent déterminer ce que cachent des circonstances mystérieuses et trouver le responsable d'un affront envers l'autorité de leur daimyo. Ceux ayant l’œil et l'esprit les plus acérés se retrouvent généralement promus au service de leur famille, de leur Clan, voire de l'Empire.\nEnquête représente la capacité du personnage à évaluer l'environnement et à récolter des renseignements à partir d'indices physiques. Ce peut aussi être la faculté à se renseigner auprès d'autrui au fil d'un temps plus long, qui peut aller de quelques heures à plusieurs jours de manière à recoller les bribes d'information pour en tirer un tableau cohérent. Contrairement à d'autres Jets d'Intelligence ou de Perception, ceux d'Enquête peuvent être rejoués si le jet initial est manqué. En revanche, le second jet ne peut être tenté dans l'heure qui suit et son ND est augmenté de +15.\nOn utilise cette Compétence le plus souvent pour trouver un individu ou un objet caché ou dissimulé. S'il s'agit d'une personne, un Jet d'Opposition sera requis entre l'Enquête du personnage (la Spécialisation Fouille ou Sens de l'Observation pourra s'appliquer en fonction des circonstances) contre la Discrétion de la cible. La Spécialisation Interrogatoire sert généralement à déterminer si quelqu'un vous ment, le plus souvent par le biais d'un Jet d'Opposition contre la Sincérité de la cible."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0017",
+        "Name": "Médecine5",
+        "Description": "La quantité de blessures soignées en cas de jet de médecine réussi augmente de +1g0."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0019",
+        "Name": "Antidotes",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0020",
+        "Name": "Créatures non-humaines",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0021",
+        "Name": "Herboristerie",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0022",
+        "Name": "Maladies",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0023",
+        "Name": "Traitement des blessures",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0009",
+    "Name": "Médecine",
+    "Description": "La guerre est la raison d'être de tous les samurai et son exercice entraîne souvent les blessures de ceux qu'elle ne tue pas. Un samurai blessé devient un fardeau pour son seigneur, incapable qu’il est d'accomplir son devoir tout en nécessitant toujours des ressources. Ceux qui pratiquent la médecine ont pour responsabilité de s'assurer que ces samurai recouvrent au plus vite leur santé pour servir à nouveau.\nLa médecine peut servir à traiter de nombreux maux et blessures, y compris spirituels. Les maladies particulières peuvent être soignées par la Spécialisation Maladies, même si le ND du traitement varie d'une affection à l'autre. La même chose s'applique aux poisons et à la Spécialisation Antidotes. Les races non-humaines peuvent être soignées par le biais de la Spécialisation Créatures Non-Humaines, qui doit être achetée individuellement pour chaque espèce (Nezumi, Naga, Zokujin, etc.). Lorsqu'on soigne des Blessures d'un allié ayant subi des dommages, un jet réussi de Médecine(Traitement des Blessures)/Intelligence (ND 15) permet de retirer un dé (1g1) de Blessures à la victime. Chaque Augmentation réussie permet d'ajouter un dé au jet à lancer, sachant qu'on ne garde jamais plus d'un dé pour ce jet de soins. Une personne blessée ne peut bénéficier que d'un seul jet de Médecine par jour, qui exige en outre le recours à un Nécessaire de Médecine permettant de faire dix Jets de Médecine avant de devoir être remplacé."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "vide",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0018",
+        "Name": "Méditation3",
+        "Description": "Un jet réussit de méditation fait récupérer jusqu'à 2 points de Vide,"
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0019",
+        "Name": "Méditation5",
+        "Description": "Le ND de tous les jets de Méditation(jeûne) est réduit de 5."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0020",
+        "Name": "Méditation7",
+        "Description": "Un jet réussit de méditation fait récupérer jusqu'à 3 points de Vide."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0024",
+        "Name": "Jeûne",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0025",
+        "Name": "Récupération du Vide",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0010",
+    "Name": "Méditation",
+    "Description": "Un samurai dévoué est un être spirituel. S'ils veulent véritablement embrasser le Code du Bushido, les samurai doivent étudier le Tao de Shinsei et méditer sur la sagesse qu'il renferme. Dans la pratique, c'est bien entendu rarement le cas, notamment parmi les familles les plus martiales. Toutefois, les soldats qui se rendent à l'autel ou au temple pour méditer en préparation de la guerre sont étonnamment nombreux.\nLa méditation est le moyen le plus simple de récupérer des Points de Vide dépensés, en dehors du simple repos. Un jet réussi de Méditation(Récupération du Vide)/Vide contre un ND de 20 permet de recouvrer un Point de Vide à l'issue d'une demi-heure de méditation ininterrompue. La Spécialisation Jeûne permet d'effectuer un Jet de Méditation/Constitution (ND 15+5 par jour de jeûne) pour passer outre les effets de la privation de nourriture et d'eau."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0021",
+        "Name": "Sincérité5",
+        "Description": "Le personnage bénéficie d'un bonus de +5 au total de tous les jets d'opposition recourant à Sincérité."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0026",
+        "Name": "Honnêteté",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0027",
+        "Name": "Tromperie",
+        "Degradante": true
+      }
+    ],
+    "Tag": "CPT0011",
+    "Name": "Sincérité",
+    "Description": "Dans l'Empire, beaucoup ont une aptitude curieuse vis-à-vis du mensonge\u00A0; au sein de nombreuses cours, on ne considère pas comme déshonorant de mentir tant que le locuteur semble véritablement croire énoncer la vérité. Il s'agit là d'une compétence que beaucoup ont travaillée pour se défendre contre les assauts d'adversaires plus talentueux. Même les bushi qui assistent à la cour comme yojimbo ont intérêt à se pencher sur ces questions afin de s'assurer de ne pas constituer des cibles de choix pour les ennemis de leur protégé. La compétence peut également servir à éviter de commettre un affront.\nOn emploie Honnêteté lorsqu'on doit dire la vérité de la manière la pus convaincante, tandis que Tromperie sert à mentir tout en paraissant exprimer la vérité («\u00A0Je vous assure, magistrat, j'ai médité au sanctuaire encore bien longtemps après le coucher du soleil, hier soir\u00A0»). Sincérité peut également servir à livrer la vérité de manière la plus prudente pour éviter de froisser (quand un gouverneur immanquablement obèse demande à un samurai de lui confirmer sa place de plus grand guerrier de l'Empire, le samurai répond diplomatiquement «\u00A0Vous faites bien de l'ombre à tous les autres guerriers, Excellence\u00A0»)."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0022",
+        "Name": "ArmesChaines3",
+        "Description": "Les armes à chaînes peuvent être utilisées pour déclencher une empoignade."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0023",
+        "Name": "ArmesChaines5",
+        "Description": "Les personnages qui utilisent une arme à chaine reçoivent un bonus de +1g0 aux jets d'opposition contre des adversaires Enchevêtrés ou placés en situation d'empoignade à cause de la chaîne."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0024",
+        "Name": "ArmesChaines7",
+        "Description": "Le recours à une chaîne confère une augmentation gratuite dans le cadre des manœuvres de désarmement et de  renversement ."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0028",
+        "Name": "Kusarigama",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0029",
+        "Name": "Kyoketsu-shogi",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0030",
+        "Name": "Manrikikusari",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0012",
+    "Name": "Armes à chaînes",
+    "Description": "Les armes à chaines apparaissent comme peu conventionnelles aux yeux des bushi les plus traditionalistes, même s'ils leur reconnaissent une certaine légitimité en raison de la complexité et de l'efficacité de leur utilisation. En général, ces armes connaissent un plus grand succès au sein du Clan de la Mante, friand d'armes exotiques et originales, mais ne sont qu'épisodiquement employées chez les autres Clans (par de petits groupes de guerriers spécialisés, le cas échéant)."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0025",
+        "Name": "ArmesHast3",
+        "Description": "Durant le premier round d'une escarmouche, le personnage qui attaque avec une arme d'hast reçoit un bonus de +5 à son score d'initiative, avantage qui ne dure pas après le premier round."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0026",
+        "Name": "ArmesHast5",
+        "Description": "Les jets de dommages contre des adversaires montés ou de taille significativement supérieure augmentent de +1g0."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0027",
+        "Name": "ArmesHast7",
+        "Description": "Les armes d'Hast peuvent être apprêtées au prix d'une action gratuite."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0031",
+        "Name": "Bisento",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0032",
+        "Name": "Nagamaki",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0033",
+        "Name": "Naginata",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0034",
+        "Name": "Sasumata",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0035",
+        "Name": "Sodegamari",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0013",
+    "Name": "Armes d'hast",
+    "Description": "Armes à grande allonge, très puissantes et polyvalentes, les armes d'hast assurent la transition entre les armes lourdes et le katana traditionnel. Elles se composent d'armes à lame fixées au bout de hampes robustes en bois ou en métal. Un guerrier qui en maîtrise le maniement peut garder ses adversaires à l'écart tout en les accablant de terribles blessures. La pratique des armes d'hast est parfois appelée umayarijutsu."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0028",
+        "Name": "ArmesLourdes3",
+        "Description": "Les adversaires dotés d'une valeur de réduction voient celle-ci diminuer de 2 lors d'une attaque par une arme lourde."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0029",
+        "Name": "ArmesLourdes5",
+        "Description": "L'utilisation d'une arme lourde confère une augmentation gratuite dans le cadre de la manœuvre de renversement."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0030",
+        "Name": "ArmesLourdes7",
+        "Description": "Les dés de dommages sont ouverts sur un résultat de 9 ou 10 quand le personnage attaque avec une arme lourde."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0036",
+        "Name": "Dai tsuchi",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0037",
+        "Name": "Masakari",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0038",
+        "Name": "Ono",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0039",
+        "Name": "Tetsubo",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5501",
+        "Name": "Lames Tsuno",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0014",
+    "Name": "Armes lourdes",
+    "Description": "La formation aux armes lourdes, compétence appelée tsubojutsu, est l'apanage des bushi du Clan du Crabe. Bien que les dojo d'à peu près tous les Clans Majeurs abordent l'utilisation de ces armes, on retrouve rarement celles-ci dans les rangs des armées autres que celles du Clan du Crabe. En revanche, pour les fils Hida, la puissance brute de ces armes constitue une composante essentielle de la défense de la Grande Muraille. En effet, le recours aux armes telles que le tetsubo et l'ono permettent de vaincre des ennemis redoutables qu'un katana ne pourrait pas blesser."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0031",
+        "Name": "Bâtons3",
+        "Description": "Le bonus d'armure des adversaires n'est plus doublé contre les attaques au bâton."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0032",
+        "Name": "Bâtons5",
+        "Description": "Attaquer avec un bâton confère une augmentation gratuite dans le cadre d'une manœuvre de renversement."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0033",
+        "Name": "Bâtons7",
+        "Description": "Les bâtons de grande taille peuvent être apprêtés au prix d'une action simple. Les bâtons de petite taille bénéficient d'un bonus de +1g0 aux jets de dommages."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0040",
+        "Name": "D1",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0041",
+        "Name": "Jo",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0042",
+        "Name": "Machi-Kanshisha",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0043",
+        "Name": "Nunchaku",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0044",
+        "Name": "Sang Kauw",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0045",
+        "Name": "Tonfa",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0015",
+    "Name": "Bâtons",
+    "Description": "Figurant rarement dans les rangs des familles de bushi les plus respectables, on trouve surtout les bâtons (dont la pratique se nomme bojutsu) chez les moines et les paysans, d'autant qu'un support de marche ne passe bien souvent pas pour une arme. Les bâtons permettent idéalement de frapper puissamment dans le but d’assommer ou de neutraliser un adversaire, mais leur nature contondante en fait des armes inadaptées au combat meurtrier sans une formation spécialisée. Les bâtons peuvent également manquer d'efficacité contre les armures, qui encaissent très bien leurs impacts. Le bonus d'armure au ND d'Armure est doublé contre les attaques de bâton."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0034",
+        "Name": "Couteaux3",
+        "Description": "Les malus de main non-directrice ne s'appliquent pas avec un couteau."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0035",
+        "Name": "Couteaux5",
+        "Description": "L'emploi d'un sai ou d'un jitte confère une augmentation gratuite dans le cadre d'une manœuvre de désarmement."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0036",
+        "Name": "Couteaux7",
+        "Description": "L'emploi de tout couteau confère une augmentation gratuite dans le cadre d'une manœuvre d'attaque supplémentaire."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0046",
+        "Name": "Aiguchi",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0047",
+        "Name": "Jitte",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0048",
+        "Name": "Kama",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0049",
+        "Name": "Sai",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0050",
+        "Name": "Tanto",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0016",
+    "Name": "Couteaux",
+    "Description": "L'art du combat au couteau, ou tantojutsu, n'apparaît pas comme une priorité dans les dojo de bushi. Car le katana demeure l'arme principale du samurai et même pour ceux qui décident de se concentrer sur une autre arme, il existe bien des outils plus efficaces et meurtriers qu'un simple couteau. Malgré cela, presque tous les bushi de l'Empire sont formés à l'emploi de cette arme dont ils portent un exemplaire en toute circonstance. Il ne faut jamais pas oublier que les bushi sont des guerriers pragmatiques."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0037",
+        "Name": "EventailsGuerre3",
+        "Description": "Les malus de main non-directrice ne s'appliquent pas quand le personnage attaque avec un éventail de guerre."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0038",
+        "Name": "EventailsGuerre5",
+        "Description": "Quand il se bat avec un éventail de guerre, le porteur voit son ND d'armure augmenter de +1."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0039",
+        "Name": "EventailsGuerre7",
+        "Description": "Quand il se bat avec un éventail de guerre, le porteur voit son ND d'armure augmenter de +3."
+      }
+    ],
+    "Specialisations": [],
+    "Tag": "CPT0017",
+    "Name": "Éventails de guerre",
+    "Description": "Les éventails de guerre, ou tessen, assument un certain nombre de fonctions, dont la moindre n'est pas celle d'armes. Ils furent au départ conçus pour que les différentes unités présentes sur le champ de bataille puissent se transmettre des signaux. Le papier, inadapté au côté imprévisible de la guerre, a rendu la conception métallique presque obligatoire. Bien qu'ils assurent toujours ce rôle, ainsi que les avantages de l'éventail traditionnel en papier, ils sont devenus de véritables armes entre les mains de certains guerriers, notamment du Clan du Lion et certains ronin appelés Tessen établis à Toshi Ranbo."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0040",
+        "Name": "Kenjutsu3",
+        "Description": "Le total de tous les jets de dommages à l'épée augmente de 1g0."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0041",
+        "Name": "Kenjutsu5",
+        "Description": "Une épée peut s'apprêter par une action Gratuite au lieu d'une action simple."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0042",
+        "Name": "Kenjutsu7",
+        "Description": "Les dès de dommages sont ouverts sur un résultat de 9 ou 10 quand le personnage attaque avec une épée."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0051",
+        "Name": "Cimeterre",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0052",
+        "Name": "Katana",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0053",
+        "Name": "Ninja-to",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0054",
+        "Name": "No-dachi",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0055",
+        "Name": "Parangu",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0056",
+        "Name": "Wakizashi",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0018",
+    "Name": "Kenjutsu",
+    "Description": "Le kenjutsu ou voie de l'épée assure une formation essentielle au katana et autres lames que tous les bushi doivent suivre. Cet enseignement se concentre presque toujours sur le katana, arme emblématique du samurai, symbole de l'âme du guerrier. Tous les dojo proposent des formations à d'autres armes pour ceux que cela intéresse mais seul le katana est obligatoire (et l'arc dans certaines contrées)."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "reflexes",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0043",
+        "Name": "Kyujutsu3",
+        "Description": "Garnir un arc d'une corde demande une action simple au lieu d'une action complexe."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0044",
+        "Name": "Kyujutsu5",
+        "Description": "La portée maximale de tous les arcs augmente de 50\u00A0%."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0045",
+        "Name": "Kyujutsu7",
+        "Description": "La force de tout arc utilisé augmente de 1."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0057",
+        "Name": "Dai-Kyu",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0058",
+        "Name": "Han-Jyu",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0059",
+        "Name": "Yumi",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0019",
+    "Name": "Kyujutsu",
+    "Description": "L'art de l'arc fait partie intégrante de la formation de tous les bushi, à l'exception probable d'une poignée de guerriers ésotériques qui placent leurs principes saugrenus au-dessus du sens pratique. Pour tous les autres, la valeur de l'arc pour toucher un ennemi hors de portée de lame est évidente. Il faut d'ailleurs rappeler que la voie du samurai a parfois été appelée la Voie du Cheval et de l'Arc. Le tir à l'arc Rokugani dépend peu de la visée. Ceux qui le pratiquent apprennent à évaluer leur cible, avant d'encocher et de décocher dans le même mouvement fluide où l'arc se tient à hauteur de taille du début à la fin. Comme le dit l'adage, la flèche connaît la voie. Un personnage qui effectue une attaque à distance sur quelqu'un à portée de corps à corps subit un malus de -10 au total de son jet d'attaque."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0046",
+        "Name": "Lances3",
+        "Description": "Durant le premier round d'une escarmouche, le personnage qui attaque avec une arme lance peut passer outre 3 points de réduction contre un adversaire au corps à corps."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0047",
+        "Name": "Lances5",
+        "Description": "Les attaques à distance faites à la lance voient leur portée maximale augmenter de 1,5m."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0048",
+        "Name": "Lances7",
+        "Description": "On peut apprêter une lance au prix d'une action gratuite."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0060",
+        "Name": "Mai Chong",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0061",
+        "Name": "Kumade",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0062",
+        "Name": "Lance",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0063",
+        "Name": "Nage-Yari",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0064",
+        "Name": "Yari",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0020",
+    "Name": "Lances",
+    "Description": "L'art de la lance, yarijutsu, reste une vielle tradition de bien des familles de bushi, notamment les Daidoji du Clan de la Grue. Contrairement aux armes d'hast avant tout tranchantes, les lances sont avant davantage conçues pour frapper d'estoc. Elles peuvent se montrer redoutables contre des cavaliers."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": "reflexes",
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": true,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0049",
+        "Name": "Ninjutsu3",
+        "Description": "Les dés de dommages des armes de Ninjutsu augmentent de +1g0."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0050",
+        "Name": "Ninjutsu5",
+        "Description": "Les dommages de toutes les armes de Ninjutsu deviennent ouverts."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0051",
+        "Name": "Ninjutsu7",
+        "Description": "Les dés de dommages des armes de Ninjutsu augmentent de +0g1."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0065",
+        "Name": "Sarbacane",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0066",
+        "Name": "Shuriken",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0067",
+        "Name": "Tsubute",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0021",
+    "Name": "Ninjutsu",
+    "Description": "Pratique déshonorante, le ninjutsu est l'art des armes spécialement conçues pour les assassins et guerriers de l'ombre appelés ninja. Nul guerrier honorable ne saurait s'humilier ainsi que ses ancêtres en affichant une connaissance aussi honteuse. Beaucoup de samurai ont d'ailleurs bien du mal à comprendre comment fonctionnent les étranges ustensiles des ninja quand ils en découvrent. Ces armes leurs apparaissent rudimentaires et inefficaces."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "perception",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0052",
+        "Name": "ArtGuerre5",
+        "Description": "Dans le cadre d'une escarmouche, le personnage ajoute son rang d'art de la guerre à son score d'initiative."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0068",
+        "Name": "Combat de masse",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0069",
+        "Name": "Escarmouche",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0022",
+    "Name": "Art de la guerre",
+    "Description": "Le samurai répond à l'appel de la guerre, que ce soit sur le champ de bataille acier en main, au sein des cours de l'Empire à confondre les ennemis de son seigneur, ou derrière les lignes armées à invoquer les kami afin de châtier l'adversaire pour ses pêchés. L'étude de la guerre jouit d'une aura de prestige à tous les échelons de la caste des samurai et de nombreux débats animent les cours et les temples, traitant des tactiques, stratégies, manœuvres et autres subtilités."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "force",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0053",
+        "Name": "Athlétisme3",
+        "Description": "Les terrains médiocres n'affectent plus les déplacements du personnage, tandis que les terrains difficiles réduisent son anneau d'eau de 1 et non de 2."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0054",
+        "Name": "Athlétisme5",
+        "Description": "Le personnage ne subit plus de malus de déplacement, quel que soit le terrain."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0055",
+        "Name": "Athlétisme7",
+        "Description": "Le personnage peut ajouter 1,5m au total d'une action de mouvement par round (cela n'augmente en rien son déplacement maximal par round."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0070",
+        "Name": "Course",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0071",
+        "Name": "Escalade",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0072",
+        "Name": "Lancer",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0073",
+        "Name": "Natation",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0023",
+    "Name": "Athlétisme",
+    "Description": "La formation reçue par chaque élève bushi fait intervenir une préparation physique très poussée. Pour certains, cela encourage une existence athlétique. Comme on peut l'attendre de personnages menant une vie régulée par la guerre, certains bushi consacrent leurs heures libres à participer à des concours ou à se lancer des défis pour éprouver leurs limites physiques.\nAthlétisme regroupe de nombreux domaines normalement gérés par des Jets de Trait. Un personnage au vécu athlétique peut toutefois s'adonner à ces activités (notamment l'escalade, la course et la nage) avec beaucoup plus d'aisance que la plupart. Athlétisme peut également faciliter les mouvements, y compris pour un personnage en armure lourde. La Spécialisation Lancer permet de jeter des objets avec une précision accrue, notamment certaines armes comme les couteaux, voire les wakizashi (Cf la rubrique équipement pour plus de renseignements sur les armes que l'on peut lancer). L'utilisation d'Athlétisme pour lancer une arme de façon offensive est considérée comme un jet d'attaque.\nLes Spécialisations Course, Escalade et Natation sont associées à la Force, tandis que Lancer est associé à l'Agilité."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "perception",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0056",
+        "Name": "Chasse5",
+        "Description": "Le personnage reçoit un bonus de +1g0 au total de tous les jets de discretion effectués dans un environnement sauvage."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0074",
+        "Name": "Eclaireur",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0075",
+        "Name": "Pistage",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0076",
+        "Name": "Survie",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0024",
+    "Name": "Chasse",
+    "Description": "La chasse est une activité prisée des guerriers, même si les membres de la caste des samurai consomment très rarement le gibier. Les bêtes que l'on chasse à Rokugan peuvent en revanche s'avérer très dangereuses et la connaissance de la nature devient donc primordiale dans ce loisir. La chasse ne se pratique jamais avec le daisho\u00A0; généralement on utilise l'arc et la flèche ou, dans le cas du gibier le plus gros, des lances.\nLa Spécialisation Survie permet de s'alimenter en fourrageant et de s'abriter en pleine nature, le ND dépendant des conditions (la forêt est plus propice que la montagne, qui l'est plus que le désert, etc.). La Spécialisation Pistage permet de trouver la trace d'une proie et de la suivre en zone rurale, même si plusieurs Jets de Compétence peuvent s'avérer nécessaires pour les longues distances. Éclaireur permet de tracer un sentier en pleine nature pour que d'autres le suivent et perdent moins de temps et d'énergie à atteindre une destination."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "reflexes",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0057",
+        "Name": "Défense3",
+        "Description": "Le personnage peut garder le résultat d'un précédent jet de défense/Réflexes plutôt que de le relancer, s'il maintient la manœuvre d'esquive durant les rounds suivants."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0058",
+        "Name": "Défense5",
+        "Description": "Le ND d'armure du personnage est considéré comme supérieur de +3 quand il adopte la manoeuvre de défense ou d'esquive"
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0059",
+        "Name": "Défense7",
+        "Description": "Le personnage peut entreprendre une action simple quand il adopte la manœuvre d'esquive (pas d'attaque possible)."
+      }
+    ],
+    "Specialisations": [],
+    "Tag": "CPT0025",
+    "Name": "Défense",
+    "Description": "Un guerrier ne sachant pas se défendre ne sert pas à grand-chose, car il ne servira son seigneur qu'une fois avant de tomber et de nécessiter un remplaçant. La conception rokugani de la bataille n'autorise pas ce que d'autres appellent parades et ripostes, demandant plutôt que l'on place sa lame et son corps de manière à ce que le katana et l'armure détournent les coups.\nDéfense est une Compétence essentielle, nécessaire pour adopter les Postures de Défense et d'Esquive, qui augmentent chacune le ND d'Armure et rendent l'intéressé plus difficile à toucher dans le cadre d'un duel ou d'une escarmouche. Vous trouverez plus de renseignements sur l'application de Défense dans le Livre de la Terre."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0060",
+        "Name": "Equitation3",
+        "Description": "Le personnage peut recourir à la manœuvre d'esquive quand il monte un cheval."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0061",
+        "Name": "Equitation5",
+        "Description": "Enfourcher un cheval demande une action simple au lieu d'une action complexe, tandis que descendre de cheval demande une action gratuite au lieu d'une action simple."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0062",
+        "Name": "Equitation7",
+        "Description": "Enfourcher un cheval demande une action gratuite au lieu d'une action simple."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0077",
+        "Name": "Cheval de selle Gaijin",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0078",
+        "Name": "Destrier Utaku",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0079",
+        "Name": "Poneu Rokugani",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0026",
+    "Name": "Équitation",
+    "Description": "Savoir monter à cheval  est essentiel pour qui veut intégrer une unité de cavalerie et voyager rapidement à travers l'Empire. Il s'agit d'une compétence utilitaire enseignée dans la plupart des écoles de bushi de l'Empire, sans prestige particulier (sauf au sein du Clan de la Licorne, qui considère l’incapacité de monter à cheval comme une infirmité). En général, tout samurai chevauchant sur un terrain normal à vitesse normale n'a pas besoin d'effectuer un Jet d’Équitation. La Compétence n'est requise que dans les situations particulières ou peu propices (tonnerre, combat, grande vitesse, terrain difficile).\nLes divers types de chevaux réagissent différemment aux circonstances et certains peuvent s'avérer plus délicats à maîtriser en situation stressante comme le combat. Les profil des chevaux couramment rencontrés à Rokugan apparaît dans le Livre du Vide, notamment les ND permettant de les maîtriser dans les diverses circonstances."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "reflexes",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0063",
+        "Name": "Iaijutsu3",
+        "Description": "Apprêter un katana de mande une action gratuite au lieu d'une action simple."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0064",
+        "Name": "Iaijutsu5",
+        "Description": "Au cours d'un duel Iaijutsu, le personnage reçoit une augmentation gratuite à son jet de Iaijutsu(Concentration)/Vide durant l'étape de concentration."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0065",
+        "Name": "Iaijutsu7",
+        "Description": "Durant l'étape d'évaluation d'un duel de Iaijutsu, le personnage reçoit un bonus de +2g2 (au lieu du +1g1 habituel) au total de tous ses jets de concentration à condition que son jet d'évaluation dépasse celui de son adversaire d'au moins 10."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0080",
+        "Name": "Concentration",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0081",
+        "Name": "Evaluation",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0027",
+    "Name": "Iaijutsu",
+    "Description": "Le Iaijutsu n'est autre que le système de duel officiel de Rokugan, une tradition ancestrale et vénérée qu'aucun bushi, même le plus irrévérent, n'imaginera bafouer. Quand deux parties doivent régler un différent et qu'aucune autre manière ne permet de résoudre la situation, on recourt souvent au duel dont la forme presque systématique est celle du Iaijutsu. On donne alors raison au vainqueur du duel et tort au vaincu. Nulle contestation du résultat du duel n'est possible, sauf conduite déshonorante de la part du vainqueur pendant le duel."
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0066",
+        "Name": "Jiujutsu3",
+        "Description": "les dommages de toutes les attaques à mains nues augmentent de +1g0."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0067",
+        "Name": "Jiujutsu5",
+        "Description": "Le recours à Jiujutsu confère une augmentation gratuite quand on déclenche une empoignade."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0068",
+        "Name": "Jiujutsu7",
+        "Description": "Les dommages de toutes les attaques à mains nues augmentent de +0g1."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0082",
+        "Name": "Armes Improvisées",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0083",
+        "Name": "Arts Martiaux",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0084",
+        "Name": "Lutte",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0028",
+    "Name": "Jiujutsu",
+    "Description": "L'art du combat à mains nues est apprécié de tous les bushi, même si tous ne s'y consacrent pas au dojo. Beaucoup comptent pour se défendre sur les techniques armées qu'ils apprennent de leur sensei, même quand ils n'ont pas d'arme. Cela peut s'avérer efficace, mais l'étude du combat à mains nues se montre bien plus profitable. Ce sont surtout les moines qui se consacrent à cet art, estimant qu'ils affûtent par là leur corps tout en l'harmonisant avec l'esprit.\nLe Jiujutsu peur servir comme Compétence d'Armes, auquel cas on lance Jiujutsu/Agilité contre le ND d'Armure de l'adversaire avant de lancer un nombre de dés égal à la Force du personnage pour en garder un, ce qui détermine les dommages (un personnage qui dispose de Force 3 lance donc 3g1 pour ses dommages d'attaques à mains nues). Le Jiujutsu sert aussi de Compétence pour engager l'Empoignade et la maintenir, voir le détail dans le Livre de la Terre.\nLa Spécialisation Armes Improvisées permet d'utiliser à peu près tout ce qui peut tomber sous la main pour accroître les dommages que l'on peut infliger. Le MJ reste arbitre des dommages infligés par une arme improvisée, mais en général cela se traduit par un ou plusieurs dés lancés ou gardés (pas les deux)."
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0069",
+        "Name": "Commerce5",
+        "Description": "Le personnage peut faire augmenter ou diminuer le prix d'un objet qu'il achète ou vend (Jusqu'à 20%)."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0085",
+        "Name": "Estimation",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0086",
+        "Name": "Mathématiques",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0029",
+    "Name": "Commerce",
+    "Description": "La caste des samurai répugne à se consacrer à des activités ayant trait à l'argent. Sans être foncièrement déshonorant, puisqu'il est vital que le samurai les gère afin de s'assurer que son Clan et sa famille ne manquent de rien, le commerce et surtout celui qui s'y consacre entièrement se voit peu considéré d’un point de vue social. La routine des affaires est généralement confiée à des vassaux marchands, mais il arrive que des samurai reçoivent une formation en la matière. On fait référence à ces individus sous le terme de «\u00A0bienfaiteurs commerciaux\u00A0».\nSa Spécialisation Estimation permet de rapidement déterminer la valeur d'un objet sur un marché donné. Celle-ci varie selon la qualité de conception de l'objet, sa nature éventuellement exotique et son intérêt pratique. Les objets les plus rares ne sont pas seulement chers mais également difficiles à estimer correctement. La Spécialisation Mathématiques sert généralement à calculer les droits de douane et les taxes, mais peut bien entendu avoir bien des applications non commerciales."
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0070",
+        "Name": "Elevage3",
+        "Description": "Les animaux domestiques les plus courants, tels que les chiens, les chevaux et les faucons peuvent être dressés pour servir d'autres personnes."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0071",
+        "Name": "Elevage5",
+        "Description": "Les animaux dressés se trouvant avec leur maitre peuvent attaquer la cible de son choix. L'animal se sauvera s'il est grièvement blessé, quelque soient les ordres reçus."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0072",
+        "Name": "Elevage7",
+        "Description": "Les animaux dressés par le personnage peuvent recevoir des instructions non-verbales."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0087",
+        "Name": "Chiens",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0088",
+        "Name": "Chevaux",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0089",
+        "Name": "Faucons",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0030",
+    "Name": "Élevage",
+    "Description": "Les animaux jouent un rôle majeur dans un certain nombre d'activités, notamment les loisirs, les transports et la guerre. Chevaux et faucons sont les animaux le plus souvent dressés par des samurai, mais il en existe d'autres\u00A0: le Clan du Lion forme des félins de guerre, celui de la Licorne recourt à des chiens de guerre et de nombreuses familles se servent de pigeons pour correspondre.\nLa difficulté du dressage et de la domestication d'un animal varie grandement selon l'espèce. Vous trouverez dans le bestiaire du Livre du Vide des détails sur une sélection d'animaux ainsi que quelques généralités sur ce qu'il peuvent faire avec un bon dressage."
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0073",
+        "Name": "Ingénierie5",
+        "Description": "Le personnage reçoit un bonus de +5 au total de tout jet d'Ingénierie intervenant dans un jet coopératif ou cumulatif de compétence."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0090",
+        "Name": "Construction",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0091",
+        "Name": "Siège",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0031",
+    "Name": "Ingénierie",
+    "Description": "Bien plus complexe qu'une simple Compétence d'Artisanat, l’ingénierie reste un talent rare parmi la population de Rokugan, même chez les samurai. Elle demande de comprendre comment les choses se construisent et, par voie de conséquence, comment on peut les démanteler au mieux. Les ingénieurs de siège de la famille Kaiu règnent en maître dans ce domaine, mais on trouve parmi les autres Clans des individus versés dans ces secrets.\nLa Spécialisation Construction concerne l'établissement de plans que d'autres vont suivre pour concevoir une simple tour ou un véritable palais. Au contraire de la Spécialisation Siège qui traite de la meilleur manière de détruire les structures au combat."
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": "agilite",
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0074",
+        "Name": "Navigation5",
+        "Description": "Le personnage reçoit un bonus de +5 au total de tout jet de Navigation intervenant dans un jet coopératif ou cumulatif de compétence."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0092",
+        "Name": "Noeuds",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0093",
+        "Name": "Orientation",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0032",
+    "Name": "Navigation",
+    "Description": "Rokugan est un pays au vaste littoral et les mers qui l'entourent connaissent la majorité de l'année une grande activité. Les navires de commerce et de pêche voguent sur les bas-fonds côtiers durant le printemps, l'été et l'automne, et les vaisseaux les plus robustes du Clan de la Mante osent même le long périple entre le continent et les îles de la Soie et des Épices au cœur de l'hiver.\nLa Spécialisation Orientation peut servir à déterminer sa position approximativement en scrutant les astres et à estimer la direction d'une destination (il faut savoir où se trouve géographiquement cette destination pour pouvoir s'orienter). Orientation peut également servir sur terre, mais le ND augmente alors de +10. La Spécialisation Nœuds s'emploie pour manipuler les cordes et les voiles des navires rokugani."
+  },
+  {
+    "Groupe": "degradante",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0075",
+        "Name": "Contrefaçon3",
+        "Description": "Le personnage reçoit un bonus de +1g0 à son jet de contrefaçon pour déterminer le ND des jets d'Enquête/Perception visant à déceler une fraude."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0076",
+        "Name": "Contrefaçon5",
+        "Description": "Le personnage reçoit un bonus de +1g0 à tout jet visant à déceler une contrefaçon réalisée par quelqu'un d'autre."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0077",
+        "Name": "Contrefaçon7",
+        "Description": "Le personnage reçoit un bonus de +0g1 à son jet de contrefaçon pour déterminer le ND des jets d'Enquête/Perception visant à déceler une fraude."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0094",
+        "Name": "Documents",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0095",
+        "Name": "Oeuvres d'art",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0096",
+        "Name": "Sceau",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0033",
+    "Name": "Contrefaçon",
+    "Description": "Les documents ont une grande importance à Rokugan, des informations concernant la lignée des individus aux papiers de voyage délivrés par les magistrats, en passant par les Décrets Impériaux signé de l'Empereur en personne. Certaines personnes à l’œil acéré, la main qui ne tremble pas et un honneur pour le moins vacillant peuvent tirer profit de ce système en falsifiant ces documents, soit pour leur propre usage soit pour les vendre à d'autres.\nLors de la conception d'un objet contrefait, il convient de noter le résultat du Jet de Contrefaçon/Agilité correspondant qui devient le ND que devront atteindre les observateurs qui cherchent à déceler la supercherie par le biais d'un Jet d'Enquête/Perception."
+  },
+  {
+    "Groupe": "degradante",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 3,
+        "Tag": "MAI0078",
+        "Name": "Discretion3",
+        "Description": "Les actions simples de mouvement du personnage quand il recourt à discrétion lui permettent de se déplacer d'une distance égale à son Eau x 1,5m."
+      },
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0079",
+        "Name": "Discretion5",
+        "Description": "Les actions simples de mouvement du personnage quand il recourt à discrétion lui permettent de se déplacer d'une distance égale à son Eau x3m."
+      },
+      {
+        "RangRequis": 7,
+        "Tag": "MAI0080",
+        "Name": "Discretion7",
+        "Description": "Le personnage peut recourir à Discretion pour effectuer normalement des actions gratuites de mouvement."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0097",
+        "Name": "Embuscade",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0098",
+        "Name": "Filature",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0099",
+        "Name": "Furtivité",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0100",
+        "Name": "Incantation",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0034",
+    "Name": "Discrétion",
+    "Description": "Bien qu'agir à la dérobée soit généralement déshonorant, la discrétion peut s'avérer utile dans certaines situations comme la chasse ou le repérage en phase militaire. Pour la plupart des samurai il s'agir d'un mal nécessaire dans ces situations, mais nulle âme honorable n'osera en d'autres circonstances se vautrer dans la disgrâce en se faufilant dans les ombres comme un vulgaire criminel ou refuser d'affronter ses adversaires comme un véritable samurai.\nUn personnage qui se dissimule par cette Compétence peut entreprendre des Actions de Mouvement. Le cas échéant, il ne peut effectuer que des Actions Simples de Mouvement ne lui permettant de se déplacer que d'une distance égale à 30 cm fois son Anneau d'Eau (les Capacités de Maîtrise peuvent accroître cette valeur). La Spécialisation Embuscade permet d'effectuer un Jet de Discrétion(Embuscade)/Agilité opposé à Enquête(Sens de l'Observation)/Perception d'un adversaire afin de bénéficier d'un avantage sur lui durant le premier Round de combat s'il n'est pas conscient de la présence du personnage. La Spécialisation Incantation permet d'effectuer un Jet d'Opposition contre Enquête(Sens de l'Observation)/Perception d'un adversaire lorsque l'on lance un Sort. Si le personnage l'emporte, l'adversaire ne peut pas déterminer d'où le sort a été lancé. On ne perd pas d'Honneur en recourant à Discrétion(Furtivité), mais les autres Spécialisation entraînent généralement une perte d'Honneur selon la règle habituelle."
+  },
+  {
+    "Groupe": "degradante",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0081",
+        "Name": "Intimidation5",
+        "Description": "Le personnage reçoit un bonus de +5 au total de tous les jets d'opposition recourant à Intimidation."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0101",
+        "Name": "Brimades",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0102",
+        "Name": "Contrôle",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0103",
+        "Name": "Torture",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0035",
+    "Name": "Intimidation",
+    "Description": "La manipulation d'autrui par le biais de menaces, aussi bien explicites qu'implicites, s'emploie fréquemment par ceux qui ont renoncé à l'honneur. Il arrive aussi que des bushi au comportement honorable mais eux-même un peu trop pragmatiques renoncent aux convenances pour menacer ceux qui refusent de coopérer. C'est un acte indigne que beaucoup sont néanmoins prêts à commettre (et à oublier aussitôt) pour accomplir leur devoir.\nLa Spécialisation Brimades est le forme la plus simple\u00A0: elle fait appel à des menaces de violence à court terme visant à inciter autrui à effectuer quelque action. Contrôle, à l'inverse, fait référence à une tentative plus durable pour modeler un comportement à sa guise\u00A0; les courtisans y recourent pour manipuler des individus plus modestes et influençables. Torture, sujet qui ne saurait figurer dans une conversation bienséante, est utilisée par les hinin à la solde de magistrats, de manière à soutirer confessions et informations aux criminels. Nul samurai digne de ce nom n'ira souiller son âme en pratiquant lui-même la torture.\nL'utilisation d'Intimidation se fait généralement par le biais d'un Jet d'Opposition contre l’Étiquette(Courtoisie)/Intuition de la cible. Le MJ peut faire appel à une autre Compétence ou un autre Trait pour résister à la tentative d'intimidation si cela est possible. Le Rang d'Honneur du personnage essayant de résister est ajouté au résultat de son jet."
+  },
+  {
+    "Groupe": "degradante",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0082",
+        "Name": "Passe-passe5",
+        "Description": "Le personnage peut employer la spécialisation Dissimulation pour cacher des petites armes."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0104",
+        "Name": "Contorsion",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0105",
+        "Name": "Dissimulation",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0106",
+        "Name": "Prestidigitation",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0107",
+        "Name": "Vol à la Tire",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0036",
+    "Name": "Passe-passe",
+    "Description": "La manipulation adroite de petits objets pour tromper ou cacher n'a rien d'honorable pour la plupart des samurai. Le Code du Bushido exige sans ambiguïté la sincérité dans le geste, la parole et la pensée, tandis que ces tours de salon empestent la supercherie et la malhonnêteté, ce que nul samurai honorable ne peut tolérer.\nLa Spécialisation Dissimulation permet de cacher de petits objets (tout ce qui peut tenir dans la main) sur soi, par le biais d'un Jet d'Opposition Passe-passe/Agilité et Enquête/Perception. La Spécialisation Contorsion permet de se défaire de liens. Le ND de cette opération est très variable, allant de ND 15 pour les cordes les plus simples à ND 25 ou 30 pour les chaînes et entraves de qualité. Il peut également s'agir d'un Jet d'Opposition contre Navigation (Nœuds) de la partie opposée. Vol à la Tire parle de soi, faisant intervenir le même genre de Jet d'Opposition que Dissimulation pour qui veut éviter d'être repérer, tandis que prestidigitation permet de recourir à la Compétence pour divertir ou distraire l'assistance par le biais de tours."
+  },
+  {
+    "Groupe": "degradante",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": null,
+    "Maitrises": [
+      {
+        "RangRequis": 5,
+        "Tag": "MAI0083",
+        "Name": "Tentation5",
+        "Description": "Le personnage reçoit un bonus de +5 au total de tous les jets d'opposition recourant à Tentation."
+      }
+    ],
+    "Specialisations": [
+      {
+        "Tag": "SPC0108",
+        "Name": "Corruption",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC0109",
+        "Name": "Séduction",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT0037",
+    "Name": "Tentation",
+    "Description": "L'art qui consiste à offrir à autrui quelque chose qu'il désire pour obtenir quelque chose en retour set aussi vieux que la civilisation et son exercice n'a guère évolué. Les deux plus grandes tentations oscillent pour la plupart des gens entre l'appât du gain et le plaisir physique, et animent tous deux les cours de l'Empire pour servir les intérêts des Clans.\nTentation se montre particulièrement efficace contre des personnes affligées de certains Désavantages, comme Joli Cœur, Fascination, Cupide, voire Sombre Secret. Lorsque l'on a affaire à individu dont on peut combler les besoins, on peut tenter un Jet d'Opposition de Tentation/Intuition contre Étiquette/Intuition. Tout comme pour Intimidation, le MJ peut décider de modifier Compétence et/ou Trait du jet de résistance à la tentative de tentation."
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1001",
+    "Name": "Bonsai",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1002",
+    "Name": "Ikebana",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1003",
+    "Name": "Jardinage",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1004",
+    "Name": "Origami",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1005",
+    "Name": "Peinture",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1006",
+    "Name": "Poésie",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1007",
+    "Name": "Sculpture",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0001",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT1008",
+    "Name": "Tatouage",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2001",
+    "Name": "Anatomie",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2002",
+    "Name": "Architecture",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2003",
+    "Name": "Augures",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2004",
+    "Name": "Bushido",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2005",
+    "Name": "Clan du Crabe",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2006",
+    "Name": "Clan du Dragon",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2007",
+    "Name": "Clan de la Grue",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2008",
+    "Name": "Clan de la Licorne",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2009",
+    "Name": "Clan du Lion",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2010",
+    "Name": "Clan de la Mante",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2011",
+    "Name": "Clan du Phénix",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2012",
+    "Name": "Clan du Scorpion",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2013",
+    "Name": "Clan de l'Araignée",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2014",
+    "Name": "Culture Gaijin",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2015",
+    "Name": "Culture non-humaine",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2016",
+    "Name": "Eléments",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2017",
+    "Name": "Fantômes",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2018",
+    "Name": "Guerre",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2019",
+    "Name": "Héraldique",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [
+      {
+        "Tag": "SPC5201",
+        "Name": "Clan du Crabe",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5202",
+        "Name": "Clan du Dragon",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5203",
+        "Name": "Clan de la Grue",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5204",
+        "Name": "Clan de la Licorne",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5205",
+        "Name": "Clan du Lion",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5206",
+        "Name": "Clan de la Mante",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5207",
+        "Name": "Clan du Phénix",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5208",
+        "Name": "Clan du Scorpion",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5209",
+        "Name": "Clan de l'Araignée",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5210",
+        "Name": "Culture Gaijin",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5211",
+        "Name": "Culture non-humaine",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT2020",
+    "Name": "Histoire",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2021",
+    "Name": "Maho",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2022",
+    "Name": "Nature",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2023",
+    "Name": "Outremonde",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2024",
+    "Name": "Pègre",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2025",
+    "Name": "Royaumes spirituels",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2026",
+    "Name": "Shugenja",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [
+      {
+        "Tag": "SPC5212",
+        "Name": "Shintao",
+        "Degradante": false
+      },
+      {
+        "Tag": "SPC5213",
+        "Name": "Fortunes",
+        "Degradante": false
+      }
+    ],
+    "Tag": "CPT2027",
+    "Name": "Théologie",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2028",
+    "Name": "Empire",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2029",
+    "Name": "Shourido",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2030",
+    "Name": "Mer",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2031",
+    "Name": "Droit",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2032",
+    "Name": "Ancêtres",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0002",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT2033",
+    "Name": "Kolat",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3001",
+    "Name": "Vents et Fortunes",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3002",
+    "Name": "Go",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3003",
+    "Name": "Kemari",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3004",
+    "Name": "Missives",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3005",
+    "Name": "Sadane",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0003",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT3006",
+    "Name": "Shogi",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4001",
+    "Name": "Biwa",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4002",
+    "Name": "Chant",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4003",
+    "Name": "Art du conteur",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4004",
+    "Name": "Danse",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "intuition",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": true,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4005",
+    "Name": "Eloquence",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4006",
+    "Name": "Flûte",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4007",
+    "Name": "Marionettes",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4008",
+    "Name": "Samisen",
+    "Description": null
+  },
+  {
+    "Groupe": "noble",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0004",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT4009",
+    "Name": "Tambours",
+    "Description": null
+  },
+  {
+    "Groupe": "bugei",
+    "TraitAssocie": "reflexes",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0005",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT5001",
+    "Name": "Arbalète",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6001",
+    "Name": "Brasserie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "intelligence",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6002",
+    "Name": "Cartographie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6003",
+    "Name": "Charpenterie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": true,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6004",
+    "Name": "Concoction de Poisons",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6005",
+    "Name": "Construction Navale",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6006",
+    "Name": "Cordonnerie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6007",
+    "Name": "Couture",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6008",
+    "Name": "Cuisine",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6009",
+    "Name": "Fabrication d'Arcs",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6010",
+    "Name": "Fabrication d'Armes",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": true,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6011",
+    "Name": "Fabrication d'Armures",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6012",
+    "Name": "Forge",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6013",
+    "Name": "Maçonnerie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6014",
+    "Name": "Pêche",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6015",
+    "Name": "Poterie",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "agilite",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6016",
+    "Name": "Tissage",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "force",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6017",
+    "Name": "Travail de la mine",
+    "Description": null
+  },
+  {
+    "Groupe": "marchand",
+    "TraitAssocie": "constitution",
+    "TraitAlternatif": null,
+    "Degradante": false,
+    "Sociale": false,
+    "Martiale": false,
+    "Noble": false,
+    "Global_Tag": "GPC0006",
+    "Maitrises": [],
+    "Specialisations": [],
+    "Tag": "CPT6018",
+    "Name": "Travaux de la ferme",
+    "Description": null
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "Name": "Cornes",
+    "Toucher": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 6,
+      "Keep": 3
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0001"
+  },
+  {
+    "Name": "Piétinement",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 6,
+      "Keep": 4
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0001"
+  },
+  {
+    "Name": "Sabots",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 5,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0002"
+  },
+  {
+    "Name": "Sabots",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 6,
+      "Keep": 2
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT0003"
+  },
+  {
+    "Name": "Piétinement",
+    "Toucher": {
+      "Roll": 6,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 6,
+      "Keep": 4
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0003"
+  },
+  {
+    "Name": "Sabots",
+    "Toucher": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0004"
+  },
+  {
+    "Name": "Morsure",
+    "Toucher": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 2,
+      "Keep": 1
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0005"
+  },
+  {
+    "Name": "Morsure",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT0006"
+  },
+  {
+    "Name": "Serres/Bec",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT0007"
+  },
+  {
+    "Name": "Morsure",
+    "Toucher": {
+      "Roll": 6,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 4,
+      "Keep": 4
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0008"
+  },
+  {
+    "Name": "Griffes",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT0008"
+  },
+  {
+    "Name": "Morsure",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 5,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT0009"
+  },
+  {
+    "Name": "Griffes",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1002"
+  },
+  {
+    "Name": "Attaque",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 3
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT1003"
+  },
+  {
+    "Name": "Lance Grossière",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1004"
+  },
+  {
+    "Name": "Griffes",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT1005"
+  },
+  {
+    "Name": "Gourdin",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 8,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1006"
+  },
+  {
+    "Name": "Griffes",
+    "Toucher": {
+      "Roll": 7,
+      "Keep": 4
+    },
+    "Degats": {
+      "Roll": 9,
+      "Keep": 3
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT1007"
+  },
+  {
+    "Name": "Poing",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 1
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1008"
+  },
+  {
+    "Name": "Sabre",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 5,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1008"
+  },
+  {
+    "Name": "Griffes",
+    "Toucher": {
+      "Roll": 5,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "simple",
+    "Figurant_Tag": "CRT1009"
+  },
+  {
+    "Name": "Lame Tsuno",
+    "Toucher": {
+      "Roll": 7,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 6,
+      "Keep": 3
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1010"
+  },
+  {
+    "Name": "Mains Nues",
+    "Toucher": {
+      "Roll": 6,
+      "Keep": 3
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1010"
+  },
+  {
+    "Name": "Poing",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 1
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1011"
+  },
+  {
+    "Name": "Gourdin",
+    "Toucher": {
+      "Roll": 4,
+      "Keep": 2
+    },
+    "Degats": {
+      "Roll": 3,
+      "Keep": 2
+    },
+    "Action": "complexe",
+    "Figurant_Tag": "CRT1011"
+  }
+]

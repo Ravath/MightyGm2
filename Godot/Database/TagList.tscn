@@ -1,0 +1,39 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Godot/Database/TagList.cs" type="Script" id=1]
+
+[node name="VBoxContainer" type="VBoxContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LineEdit" type="LineEdit" parent="."]
+margin_right = 1024.0
+margin_bottom = 24.0
+placeholder_text = "Tag Filter...."
+
+[node name="TagList" type="ItemList" parent="."]
+margin_top = 28.0
+margin_right = 1024.0
+margin_bottom = 600.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+select_mode = 1
+allow_rmb_select = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TagPopupMenu" type="PopupMenu" parent="TagList"]
+margin_right = 20.0
+margin_bottom = 20.0
+items = [ "Rename", null, 0, false, false, 0, 0, null, "", false, "Merge", null, 0, false, false, 1, 0, null, "", false, "Remove", null, 0, false, false, 2, 0, null, "", false ]
+[connection signal="text_changed" from="LineEdit" to="." method="_on_LineEdit_text_changed"]
+[connection signal="item_activated" from="TagList" to="." method="_on_TagList_item_activated"]
+[connection signal="item_rmb_selected" from="TagList" to="." method="_on_TagList_item_rmb_selected"]
+[connection signal="rmb_clicked" from="TagList" to="." method="_on_TagList_rmb_clicked"]
+[connection signal="focus_exited" from="TagList/TagPopupMenu" to="." method="_on_TagPopupMenu_focus_exited"]
+[connection signal="index_pressed" from="TagList/TagPopupMenu" to="." method="_on_TagPopupMenu_index_pressed"]

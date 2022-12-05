@@ -1,0 +1,287 @@
+[
+  {
+    "Tag": "CON0001",
+    "Name": "FireMin",
+    "Description": "Feu {0} ou plus."
+  },
+  {
+    "Tag": "CON0002",
+    "Name": "AirMin",
+    "Description": "Air {0} ou plus."
+  },
+  {
+    "Tag": "CON0003",
+    "Name": "EarthMin",
+    "Description": "Terre {0} ou plus."
+  },
+  {
+    "Tag": "CON0004",
+    "Name": "WaterMin",
+    "Description": "Eau {0} ou plus."
+  },
+  {
+    "Tag": "CON0005",
+    "Name": "VoidMin",
+    "Description": "Vide {0} ou plus."
+  },
+  {
+    "Tag": "CON0006",
+    "Name": "ReflexesMin",
+    "Description": "Reflexes {0} ou plus."
+  },
+  {
+    "Tag": "CON0007",
+    "Name": "AwarenessMin",
+    "Description": "Intuition {0} ou plus."
+  },
+  {
+    "Tag": "CON0008",
+    "Name": "AgilityMin",
+    "Description": "Agilité {0} ou plus."
+  },
+  {
+    "Tag": "CON0009",
+    "Name": "IntelligenceMin",
+    "Description": "Intelligence {0} ou plus."
+  },
+  {
+    "Tag": "CON0010",
+    "Name": "PerceptionMin",
+    "Description": "Perception {0} ou plus."
+  },
+  {
+    "Tag": "CON0011",
+    "Name": "StrengthMin",
+    "Description": "Force {0} ou plus."
+  },
+  {
+    "Tag": "CON0012",
+    "Name": "WillpowerMin",
+    "Description": "Volonté {0} ou plus."
+  },
+  {
+    "Tag": "CON0013",
+    "Name": "StaminaMin",
+    "Description": "Constitution {0} ou plus."
+  },
+  {
+    "Tag": "CON0014",
+    "Name": "BushiNeed",
+    "Description": "Doit être issu d'une école de Bushi."
+  },
+  {
+    "Tag": "CON0015",
+    "Name": "CourtisanNeed",
+    "Description": "Doit être issu d'une école de Courtisan."
+  },
+  {
+    "Tag": "CON0016",
+    "Name": "ShugenjaNeed",
+    "Description": "Doit être issu d'une école de Shigenja."
+  },
+  {
+    "Tag": "CON0017",
+    "Name": "NinjaNeed",
+    "Description": "Doit être issu d'une école de Ninja."
+  },
+  {
+    "Tag": "CON0018",
+    "Name": "MoineNeed",
+    "Description": "Doit être issu d'une école de Moine."
+  },
+  {
+    "Tag": "CON0019",
+    "Name": "ArtisanNeed",
+    "Description": "Doit être issu d'une école d'Artisan."
+  },
+  {
+    "Tag": "CON0020",
+    "Name": "CompetenceNeed",
+    "Description": "Doit maitriser la compétence {0} au rang {1}."
+  },
+  {
+    "Tag": "CON0021",
+    "Name": "KenshinzenVictory",
+    "Description": "Pour devenir membre des Kenshinzen, vous devez vaincre un Kenshinzen confirmé lors d’un duel Iaijutsu licite. Le combat n’est pas nécessairement à mort (c’est d’ailleurs rarement le cas), mais le candidat doit le remporter à la loyale."
+  },
+  {
+    "Tag": "CON0022",
+    "Name": "DeathLordFan",
+    "Description": "Doit être un fidèle adorateur des Seigneurs de la Mort. Cette condition est écartée si la campagne se déroule avant l’an 1160."
+  },
+  {
+    "Tag": "CON0023",
+    "Name": "HonnorMin",
+    "Description": "Honneur {0} ou plus."
+  },
+  {
+    "Tag": "CON0024",
+    "Name": "GloryMin",
+    "Description": "Gloire {0} ou plus."
+  },
+  {
+    "Tag": "CON0025",
+    "Name": "StatusMin",
+    "Description": "Status {0} ou plus."
+  },
+  {
+    "Tag": "CON0026",
+    "Name": "TaintMin",
+    "Description": "Souillure{0} ou plus."
+  },
+  {
+    "Tag": "CON0027",
+    "Name": "WomenOnly",
+    "Description": "Doit être de sexe féminin."
+  },
+  {
+    "Tag": "CON0028",
+    "Name": "MenOnly",
+    "Description": "Doit être de sexe masculin."
+  },
+  {
+    "Tag": "CON0029",
+    "Name": "ClanNeed",
+    "Description": "Doit appartenir à un clan : {0}."
+  },
+  {
+    "Tag": "CON0030",
+    "Name": "FamilyNeed",
+    "Description": "Doit appartenir à une famille : {0}."
+  },
+  {
+    "Tag": "CON0031",
+    "Name": "AvantageNeed",
+    "Description": "Doit posséder l'avantage {0}."
+  },
+  {
+    "Tag": "CON0032",
+    "Name": "DesavantageNeed",
+    "Description": "Doit posséder le désavantage {0}."
+  },
+  {
+    "Tag": "CON0033",
+    "Name": "FireCastMin",
+    "Description": "Doit pouvoir lancer des Sorts de Feu de Rang {0}."
+  },
+  {
+    "Tag": "CON0034",
+    "Name": "AirCastMin",
+    "Description": "Doit pouvoir lancer des Sorts de l'Air de Rang {0}."
+  },
+  {
+    "Tag": "CON0035",
+    "Name": "EarthCastMin",
+    "Description": "Doit pouvoir lancer des Sorts de Terre de Rang {0}."
+  },
+  {
+    "Tag": "CON0036",
+    "Name": "WateCastMin",
+    "Description": "Doit pouvoir lancer des Sorts de l'Eau de Rang {0}."
+  },
+  {
+    "Tag": "CON0037",
+    "Name": "VoidCastMin",
+    "Description": "Doit pouvoir lancer des Sorts de Vide de Rang {0}."
+  },
+  {
+    "Tag": "CON0038",
+    "Name": "InstigatorSecret",
+    "Description": "Tous les instigateurs doivent posséder au moins un Sombre Secret et le divulguer à leur sensei en rejoignant l’organisation."
+  },
+  {
+    "Tag": "CON0039",
+    "Name": "ObsidianSurvival",
+    "Description": "Doit survivre à une escarmouche avec un sensei des Guerriers d’Obsidienne."
+  },
+  {
+    "Tag": "CON0040",
+    "Name": "NominationNeed",
+    "Description": "Necessite d'être nommé à ce poste par une autorité légitime."
+  },
+  {
+    "Tag": "CON0041",
+    "Name": "CastMin",
+    "Description": "Doit être en mesure de lancer des sorts de l’Element choisi d’un Niveau de Maitrise minimal de {0}."
+  },
+  {
+    "Tag": "CON0042",
+    "Name": "RingMin",
+    "Description": "Un Anneau au moins doit atteindre une valeur minimum de {0}."
+  },
+  {
+    "Tag": "CON0043",
+    "Name": "ElementalGardNeed",
+    "Description": "Doit être en mesure de lancer des Sorts d'un Niveau de Maitrise de 4 dans un élément dont l’Anneau est au Rang 6 au moins."
+  },
+  {
+    "Tag": "CON0044",
+    "Name": "ScorpionInstigatorNeed1",
+    "Description": "Chantage sur 4 individus différents au moins."
+  },
+  {
+    "Tag": "CON0045",
+    "Name": "ScorpionInstigatorNeed2",
+    "Description": "Tous les instigateurs doivent posséder au moins un Sombre Secret et le divulguer à leur sensei en rejoignant l’organisation."
+  },
+  {
+    "Tag": "CON0046",
+    "Name": "LionPrideSkillNeed",
+    "Description": "Doit maitriser 4 compétences d’arme au Rang 4."
+  },
+  {
+    "Tag": "CON0047",
+    "Name": "WeaponSkillMin",
+    "Description": "Doit maitriser au moins une compétence d'arme au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0048",
+    "Name": "BugeiSkillMin",
+    "Description": "Doit maitriser au moins une compétence de bugei au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0049",
+    "Name": "NobleSkillMin",
+    "Description": "Doit maitriser au moins une compétence noble au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0050",
+    "Name": "TraderSkillMin",
+    "Description": "Doit maitriser au moins une compétence marchande au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0051",
+    "Name": "CraftSkillMin",
+    "Description": "Doit maitriser au moins une compétence d'artisanat au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0052",
+    "Name": "ArtSkillMin",
+    "Description": "Doit maitriser au moins une compétence artistique au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0053",
+    "Name": "ArtOrCraftSkillMin",
+    "Description": "Doit maitriser au moins une compétence artistique ou d'artisanat au rang {0} ou plus."
+  },
+  {
+    "Tag": "CON0054",
+    "Name": "EmpressGardNeed",
+    "Description": "Bushi Kakita 3 ou Guerrier de Fer Daidoji 4."
+  },
+  {
+    "Tag": "CON0055",
+    "Name": "SchoolNeed",
+    "Description": "Doit être issu de l'école {0}."
+  },
+  {
+    "Tag": "CON0056",
+    "Name": "BushiOrShugenja",
+    "Description": "Doit être issu d'une école de Bushi ou de Shugenja."
+  },
+  {
+    "Tag": "CON0057",
+    "Name": "Tournament",
+    "Description": "Doit remporter un tournoi pour recevoir ce poste."
+  }
+]

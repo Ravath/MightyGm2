@@ -1,0 +1,7 @@
+ - Utiliser police qui accepte accents et autres
+ - data & display : Avantages : add cost reductions (for specific clans and such)
+ - Objects : implement cost range for objects (use special, or add to datamodel?)
+ - control & display : Katas : conditions d'admission(écoles)
+ - display : Tableaux de gains, gloire, honneur, status
+ - data & display : Héritages
+ - data & dislay : intrigues

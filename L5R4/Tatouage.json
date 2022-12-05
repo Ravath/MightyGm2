@@ -1,0 +1,102 @@
+[
+  {
+    "Tag": "TAT0001",
+    "Name": "Aigle",
+    "Description": "Vous pouvez vous parer de l'essence de l'aigle et parcourir de grandes distances avec facilité. Au prix d'une Action Complexe, vous pouvez sauter d'une distance égale à votre Anneau d'Eau x 7,50m."
+  },
+  {
+    "Tag": "TAT0002",
+    "Name": "Araignée",
+    "Description": "L'araignée, rapide et habile, fuit les prédateurs avec grâce et agilité. Quand ce Tatouage est actif, vous pouvez vous déplacer sur les surfaces verticales et inversées (comme les murs et les plafonds) tout en entreprenant des Actions de Mouvement. Dans ce cas, vous vous déplacez à la moitié de votre vitesse habituelle."
+  },
+  {
+    "Tag": "TAT0003",
+    "Name": "Bambou",
+    "Description": "le bambou prospère dans tout l'Empire. On le connait non seulement pour la vitesse à laquelle il pousse, mais aussi pour sa solidité. Quand ce Tatouage est actif, votre ND d'Armure croît d'un nombre égal au double de votre Rang de Maîtrise + 5."
+  },
+  {
+    "Tag": "TAT0004",
+    "Name": "Crabe",
+    "Description": "Le petit crabe est très résistant malgré sa taille. Une fois ce Tatouage actif, vous gagnez un niveau de Réduction égal à votre niveau de Terre."
+  },
+  {
+    "Tag": "TAT0005",
+    "Name": "Dragon",
+    "Description": "Le dragon est un Tatouage redoutable qui renferme des pouvoirs effrayants. Au prix d\"une Axtion Complexe, vous pouvez cracher des flammes sous la forme d'un cône long de votre Rang de Maîtrise + 3m, et large de 1,50m en son extrémité. Ces flammes infligent des dommages à tous ceux qui se situent dans la zone d'effet, avec une VD égale à votre Anneau du Feu. Vous subissez de votre côté des dommages égaux à votre Anneau du Feu à chaque utilisation."
+  },
+  {
+    "Tag": "TAT0006",
+    "Name": "Embrasement",
+    "Description": "Ce Tatouage déchaîne le pouvoir du feu. Une fois activé, vos attaques à mains nues s'accompagnent de flammes dansantes qui infligent des dommages de feu supplémentaires égaux à votre Anneau du Feu plus votre Rang de Maîtrise."
+  },
+  {
+    "Tag": "TAT0007",
+    "Name": "Équilibre",
+    "Description": "Ce Tatouage représentant le symbole du yin et du yang apaise l'esprit. Lorsque vous l'activez, le ND des Jets d'Incantation des Sorts dont vous êtes la cible croît ou décroît d'un nombre égal au double de votre Rang de Maîtrise + 5. À vous de déterminer s'il s'agit d'une augmentation ou d'une réduction lorsque vous vous servez de votre Tatouage."
+  },
+  {
+    "Tag": "TAT0008",
+    "Name": "Grue",
+    "Description": "La grue est le symbolise la chance et la beauté. Quand vous activez ce Tatouage, vous gagnez un nombre de dés de bonus égal à votre Rang de Maîtrise + votre Anneau d'Air qui peuvent servir dans le cadre de Jets de Compétence Sociale. Chaque dé offre ainsi un bonus de +1g0. Si vous ne les utilisez pas dans l'heure, ils sont perdus. La limite de dés de bonus applicables à un même jet est égale à votre Anneau du Vide. Les effets de ce Tatouage persistent durant une heure mais si vous activez un autre Tatouage, les dés inutilisés sont perdus."
+  },
+  {
+    "Tag": "TAT0009",
+    "Name": "Ki-Rin",
+    "Description": "Peu de bons présages revêtent davantage d'importance que celui de la ki-rin sacrée. En activant ce Tatouage, vous pouvez rejouer un jet par Rounds, et garder le meilleur résultat des deux."
+  },
+  {
+    "Tag": "TAT0010",
+    "Name": "Lion",
+    "Description": "Le lion est un fier et noble guerrier. En activant ce Tatouage, vous gagnez des Rangs égaux à votre Rang de Maîtrise dans une Compétence de Bugei de votre choix."
+  },
+  {
+    "Tag": "TAT0011",
+    "Name": "Loup",
+    "Description": "Le loup est le meilleur pisteur naturel. Quand vous activez ce Tatouge, vos sens deviennent particulièrement affûtés, ce qui vous permet de percevoir les oindres détails et même les odeurs. Vous gagnez un nombre d'Augmentations Gratuites aux Jets de Chasse (Pistage) égal à votre Rang de Maîtrise. Cet effet dure un nombre d'heures égal à votre Rang de Maîtrise."
+  },
+  {
+    "Tag": "TAT0012",
+    "Name": "Mante",
+    "Description": "La mante est une guerrière farouche et intrépide malgré sa minuscule taille. En recevant ce Tatouage, vous êtes immunisé contre les effets de Peur. Ce tatouage demeure actif en permanence et ne vous empêche pas de recourir à d'autres Tatouages."
+  },
+  {
+    "Tag": "TAT0013",
+    "Name": "Mille-pattes",
+    "Description": "Le minuscule mille-pattes a des centaines de pattes qui s'agitent à l'unisson et ce pouvoir sert aux moines tatoués à son image. Quand vous activez ce tatouage, vous pouvez entreprendre une Action de Mouvement Complexe qui vous permet de vous déplacer d'une distance égale à votre Anneau d'Eau x 30 mètres. L'effet dure une journée entière, ce qui vous laisse le temps de traverser l'Empire. Si vous vous arrêtez plus de 1 minute, l'effet prend fin. Une fois l'effet terminé, vous vous effondrez, totalement épuisé, et ne pouvez entreprendre la moindre action physique pendant 12 heures."
+  },
+  {
+    "Tag": "TAT0014",
+    "Name": "Montagne",
+    "Description": "La montagne est éternelle et inébranlable. Quand vous activez ce Tatouage, tous vos Malus de Blessure se réduisent d'un chiffre égal à votre Rang de Maîtrise +2."
+  },
+  {
+    "Tag": "TAT0015",
+    "Name": "Océan",
+    "Description": "Les profondeurs insondables de l'océan renferment le secret de la vie et de la jouvence. En recevant ce tatouage, vous n'avez plus besoin de manger ni boire, mais pouvez le faire si tel est votre souhait. Lorsque vous activez ce tatouage, vous êtes frais et dispo, comme si vous aviez dormi 8 heures, et vous regagnez tous vos Points de Vide. Ce tatouage ne peut être utilisé que tous les 3 jours."
+  },
+  {
+    "Tag": "TAT0016",
+    "Name": "Orage",
+    "Description": "L'orage symbolise toute la fureur de la nature et nul ne peut résister à sa puissance. Quand ce tatouage est actif, vos attaques à mains nues n'ont besoin que d'une Augmentation Gratuite pour exploiter la Manoeuvre de Renversement."
+  },
+  {
+    "Tag": "TAT0017",
+    "Name": "Phénix",
+    "Description": "Le phénix ne saurait être vaincu et renaît systématiquement de ses cendres. Vous devez disposer d'au moins un Point de Vide pour activer ce tatouage. Si vous tombez au Niveau de Blessure Epuisé ou en dessous, ce Tatouage s'active automatiquement. Tous les Points de Vide inutilisés sont perdus et vous soignez aussitôt un nombre de Blessures égal à votre Rang de Maîtrise x 10. Ce tatouage ne peut être activé plus d'une fois par semaine."
+  },
+  {
+    "Tag": "TAT0018",
+    "Name": "Scorpion",
+    "Description": "Le Scorpion est silencieux et mortel. Lorsque ce tatouage est actif, vous lancez un nombre de dés supplémentaire aux jets de Discrétion égal à votre Rang de Maîtrise. Par ailleurs, vos attaques à mains nues Hébètent automatiquement votre adversaire si vous avez lancé au moins un dé ouvert au jet de dommages."
+  },
+  {
+    "Tag": "TAT0019",
+    "Name": "Vent",
+    "Description": "Le vent est rapide et se déplace sans entrave. Tant que ce tatouage est actif, vous gagnez une Action Simple supplémentaire par Round, inutilisable cependant pour effectuer une attaque. Votre déplacement maximal ne se limite plus à votre Anneau d'Eau x 6m."
+  },
+  {
+    "Tag": "TAT0020",
+    "Name": "Vide",
+    "Description": "Ce kanji d'un noir d'encre incarne l'unité en toute chose. Si vous activez ce tatouage, vous prenez conscience de toute forme de vie qui vous entoure. Vous connaissez la localisation et le type des créatures vivantes situées dans un rayon égal à votre Rang de Mapitrise x 3m, même si vous ne les voyez pas. Vous n'avez accès qu'aux grandes lignes, comme \"deux guerriers\" ou \"deux lapins\", jamais aux identités. Toutefois, vous reconnaissez les individus qui vous sont familiers."
+  }
+]

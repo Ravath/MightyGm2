@@ -1,0 +1,818 @@
+[
+  {
+    "Element": "feu",
+    "Maitrise": 1,
+    "Portee": "contact",
+    "ZoneEffet": "objet",
+    "Duree": "instantane",
+    "FacteurPortee": 0,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0040"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0041"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6001",
+    "Name": "Ecrit dans le Sang",
+    "Description": "Les maho-tsukai utilisent ce Sort pour laisser des messages cachés, communiquer entre eux ou intimider leurs victimes. Le message, écrit en lettres de sang sur une surface plane, peut compter jusqu'à dix mots (des Augmentations permettront cependant de le rallonger). Une fois le message terminé, la surface absorbe l'encre qui disparaît, pour réapparaitre ensuite une fois remplies les conditions fixées par le lanceur. Ces dernières peuvent être aussi simples ou complexes que le souhaite le lanceur, mais le kansen doit pouvoir les comprendre (à la discrétion du MJ). Tant que le message ne réapparaît pas, on ne peut le détecter physiquement, mais des Sorts comme Sensation ou Lumière de Lune montreront quelque chose caché magiquement sous la surface.\nSi la durée du Sort expire avant que les conditions de déclenchement aient été remplies, le sang caché réapparaît sans former le message."
+  },
+  {
+    "Element": "feu",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "indefinie",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0005"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6002",
+    "Name": "Hémorragie",
+    "Description": "Ce Sort afflige une personne blessée d'un kansen malin. La cible doit déjà être blessée (en d'autres termes, avoir subi au moins 1 Blessure) pour que le Sort fasse effet. La plaie se met à saigner, infligeant 1 Blessure par Round au début du Tour de la victime. L'effet s'applique indéfiniment à chaque Round, jusqu'à ce que la plaie soit bandée au moyen d'un Jet de Médecine (Traitement des Blessures)/Intelligence contre un ND 20. Des soins magiques effaçant toutes les Blessures de la cible mettent aussi fin à l'hémorragie."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "rounds",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 5,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      },
+      {
+        "Complement": "1;Vide",
+        "Model_Tag": "AGS0023"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6003",
+    "Name": "Héritage du Sombre Seigneur",
+    "Description": "Ce Sort subtil attire près de la cible des kansen chargés de la distraire et de rompre le lien qu'elle entretient avec le véritable Vide. La cible perd aussitôt un Point de Vide qu'elle ne peut regagner tant que dure le Sort."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 60,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "10",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6004",
+    "Name": "Inspirer la Peur",
+    "Description": "Ce Sort impose à la cible une Phobie au choix du lanceur. Pour toute la durée du Sort, la victime reçoit une Phobie à 3 Points (cf. Désavantage du même nom dans le Livre du Feu) choisie par le lanceur. Les maho-tsukai se servent généralement de ce Sort pour que leurs victimes aient peur de leurs propres armes et alliés, pour que les shugenja aient peur de leurs parchemins, et autres ruses cruelles."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "cadavre",
+    "Duree": "heures",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "6",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6005",
+    "Name": "Invoquer un Champion Mort-Vivant",
+    "Description": "Les maho-tsukai qui souhaitent s'entourer de morts-vivants pour se protéger ou décimer leurs ennemis utilisent ce Sort. Il doit être jeté sur un cadavre situé à portée (et non sur une créature vivante). Le cadavre s'anime sous l'action d'un kansen, se relève et sert son maître au mieux. D'un point de vue purement mécanique, le cadavre animé devient un zombie (cf p331 du Livre du Vide). Il obéit aux ordres simples (comme « Tue-les » ou « Attend là ») du maho-tsukai qui l'a créé. Les ordres complexes ou liés à des conditions ne peuvent être compris. Le zombi restera donc à ne rien faire jusqu'à ce qu'il reçoive un ordre suffisamment simple. Une fois créé, le mort-vivant peut sortir du périmètre du Sort. Détruit ou décapité, le zombi ne pourra être réanimé que si on lance le Sort une nouvelle fois. Au terme de la durée, le kansen s'en va et le mort-vivant s'effondre pour redevenir un simple cadavre."
+  },
+  {
+    "Element": "eau",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "membre",
+    "Duree": "rounds",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6006",
+    "Name": "Membre Neutralisé",
+    "Description": "Ce Sort frappe les muscles d'un membre de la cible (un bras ou une jambe, au choix du lanceur) de douleur, de faiblesse et de tremblements. Tous les jets des actions physiques entreprises avec ce membre subissent un malus de +15. Par ailleurs, si le membre visé est une jambe, on considère la victime comme sous l'effet du Désavantage Estropié pendant toute la durée du Sort."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 1,
+    "Portee": "contact",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 0,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "1g0",
+        "Model_Tag": "AGS0005"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6007",
+    "Name": "Rite Sanglant",
+    "Description": "Ce Sort permet à de nombreux maho-tsukai de se faire passer pour de nobles prêtres désireux de soigner les blessés. Ce Sort convainc les kansen de se ruer dans le corps de la cible, de faire mine de refermer ses blessures et de lui permettre de reprendre du poil de la bête. La cible regagne aussitôt 1g1 Blessures et on considère qu'un de ses Traits (au choix du lanceur) augmente de 1 Rang pour la durée du Sort (cela peut même engendre un accroissement temporaire des Blessures si l'Anneau de Terre augmente, mais elles reviennent à la normale une fois le Sort terminé, ce qui peut la tuer si elle a subi trop de coups). Toutefois, le prix à payer pour cette assistance n'a rien d'enviable: la cible du Sort gagne 1g1 Points de Souillure de l'Outremonde."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 1,
+    "Portee": "personnel",
+    "ZoneEffet": "metres",
+    "Duree": "rounds",
+    "FacteurPortee": 0,
+    "FacteurZone": 9,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1.5",
+        "Model_Tag": "AGS0003"
+      },
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6008",
+    "Name": "Sang et Ténèbres",
+    "Description": "Ce Sort crée autour du lanceur une sorte de périmètre noir ou rouge sang (au choix), les kansen bouchant ainsi la vue de tous les individus présents dans la zone. Tous ceux qui restent ou entrent dans la zone d'effet du Sort sont Aveuglés (à l'exception du lanceur) jusqu'à ce qu'ils la quittent. Le lanceur voit tout à fait normalement car les kansen reconnaissent leur maître et ne lui bouchent pas la vue. Une fois créée, la zone de ténèbres ne se déplace pas.\nLes effets magiques et pouvoirs de l'Outremonde qui surmontent la cécité permettent de voir normalement. Pour tout le reste, il n'y a rien à faire jusqu'à la fin du Sort."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 1,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "heures",
+    "FacteurPortee": 90,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0043"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6009",
+    "Name": "Songes Pêcheurs",
+    "Description": "A cause de ce Sort sinistre et subtil, la cible fait des cauchemars au cours desquels elle commet des actes déshonorants. Il ne peut être lancé que sur une personne qui dort ou se trouve dans une situation où elle pourrait facilement s'endormir (repos, méditation, etc.). Le lanceur n'a pas besoin de savoir précisément où se trouve la cible. Tant qu'elle se trouve à portée, le Sort fonctionne.\nEn raison de l'impact très troublant de ces rêves, la victime du Sort devient vulnérable aux manipulations ultérieures du lanceur. Pendant les 24 heures qui suivent la fin du Sort, le lanceur gagne une Augmentation Gratuite aux Jets de Tentation et d'Intimidation contre la victime. Le lanceur peut déclarer des Augmentations pour accroître le nombre d'Augmentations Gratuites en question."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0044"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6010",
+    "Name": "Absorber l'Âme",
+    "Description": "Ce Sort attire des kansen de Terre malveillants vers la cible, qui absorbent sa Terre et la rendent malade. Pour toute la durée du Sort, le Rang de Constitution de la victime baisse de 1 (pour un minimum de 1). Cela peut bien évidemment réduire son Anneau de Terre et ses Rangs de Blessures, la rendant ainsi plus vulnérable."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "objet",
+    "Duree": "instantane",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6011",
+    "Name": "Caresse de Fu Leng",
+    "Description": "Ce Sort invoque des kansen chargés de dévorer et de détruire la substance la plus dangereuse à leurs yeux : le jade. Le lanceur peut viser n'importe quel objet en jade (y compris une arme) situé à portée, mais il doit être en mesure de le voir. Le jade se corrompt aussitôt, ses propriétés sacrées anéanties par une véritable saturation de Souillure. Il ne reste alors de lui qu'une substance noire et visqueuse.\nCe Sort ne peut pas affecter un nemuranai (artefact magique) éveillé qui contient du jade."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "rounds",
+    "FacteurPortee": 9,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "1.5",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6012",
+    "Name": "Douleur",
+    "Description": "Ce Sort provoque une douleur atroce qui parcourt les membres de la cible avant de converger vers le torse. La victime tombe Au Sol, terrassée par la douleur, et ne peut agir à son Tour suivant. Par ailleurs, elle doit réussir un Jet de Volonté contre un ND de 20 pour éviter de hurler, ce qui pourrait lui valoir une perte d'Honneur ou de Gloire."
+  },
+  {
+    "Element": "eau",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "rounds",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6013",
+    "Name": "Malédiction de Faiblesse",
+    "Description": "Forme plus puissante de Membre Neutralisé, ce Sort projette une véritable nuée de kansen d'Eau courroucés sur la cible, qui lui infligent alors des maux de crâne, un état de faiblesse, de la fatigue et des spasmes musculaires. Pour la durée du Sort, la victime subit un malus de +10 au ND des activités physiques et mentales s'appuyant sur un Jet de Compétence ou de Trait (ce qui inclut les Jets d'Incantation). La cible subit également un malus de -10 au ND d'Armure car le handicap l'empêche d'éviter les coups."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "jours",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 2,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6014",
+    "Name": "Malédicion de l'Oeil qui ne Cille Pas",
+    "Description": "Ce Sort génère autour de la cible des kansen d'Air malveillants qui l'empêchent de dormir. Pour toute la durée du Sort, la victime ne peut pas trouver le sommeil et ne peut donc pas récupérer de Points de Vide ou d'emplacements de Sort grâce au repos. Par ailleurs, pour chaque jour passé sans dormir, la victime doit réussir un Jet de Constitution contre un ND 5 + (5 x le nombre de nuits sans sommeil) sous peine d'être Fatiguée."
+  },
+  {
+    "Element": "feu",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "mortVivant",
+    "Duree": "heures",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 4,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "6",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6015",
+    "Name": "Marionnettiste",
+    "Description": "Ce Sort permet au maho-tsukai d'exercer sa volonté sur les morts-vivants présents dans la zone, d'en prendre le contrôle et de les obliger à lui obéir. Si le Sort vise une créature inintelligente incontrôlée (comme un zombie), le lanceur en prend automatiquement le contrôle. S'il vise un mort-vivant doué de libre arbitre (comme un pennagolan), le lanceur doit réussir un Jet d'Opposition de Volonté contre la créature. De même, s'il vise un mort-vivant contrôlé par quelqu'un (un autre maho-tsukai, un Seigneur Oni, etc.), le lanceur doit réussir un Jet d'Opposition de Volonté contre celui-ci.\nUne fois contrôlé, le mort-vivant obéit aux ordres pour la durée du Sort, dans la limite de son intelligence. En bref, les zombies ne saisissent que les ordres les plus simples (« Tue-le »). Au terme du Sort, les morts-vivants repassent sous le contrôle de leur maître précédent (le cas échéant) ou retrouvent leur libre arbitre."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 2,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "permanent",
+    "FacteurPortee": 9,
+    "FacteurZone": 2,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6016",
+    "Name": "Répandre les Ténèbres",
+    "Description": "Cette malédiction sinistre est utilisée par les maho-tsukai qui souhaitent contrôler leur Souillure tout en propageant le don de Jigoku. Le Sort vise deux personnes, l'une d'entre elles au moins devant avoir la Souillure de l'Outremonde. Une partie de cette Souillure quitte cette créature pour passer à l'autre, les kansen réalisant l'opération avec joie. Le nombre maximum de Points deSouillure pouvant être transféré de cette manière égale le Rang de Réputation + Anneau de Terre du lanceur. Toutefois, il ne peut priver la cible de son dernier Point de Souillure (lorsque la Souillure tient quelqu'un, elle ne le lâche jamais de son plein gré).\nSi la personne qui reçoit la Souillure n'est pas consentante, le lanceur doit réussir un jet d'Opposition de Volonté contre la cible, sans quoi le Sort échoue."
+  },
+  {
+    "Element": "feu",
+    "Maitrise": 3,
+    "Portee": "contact",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 0,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0045"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6017",
+    "Name": "Armure d'Obsidienne",
+    "Description": "Ce Sort couvre la cible d'un bouclier invisible de kansen. Si la cible se voit frappée ou affectée par un Sort accompagné du mot-clef Jade, les kansen interviennent et annulent l'effet. La cible se couvre brièvement d'un nuage de flammes noires et muettes qui de toute évidence absorbent et dévorent le Sort, ce qui rend l'effet très spectaculaire. L'armure magique ne fonctionne normalement qu'une fois, mais un maho-tsukai de talent peut la rendre assez puissante pour qu'elle résiste à de multiples Sorts."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 3,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "rounds",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 3,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6018",
+    "Name": "Coeur de Haine",
+    "Description": "La cible de ce Sort est assaillie de kansen d'Air qui lui inspirent une violente rage meurtrière contre celui qu'elle regarde ou à qui elle parle au moment où le Sort prend effet (les maho-tsukai les plus malins se cachent avant de lancer ce Sort pour ne pas être victimes de l'accès de colère). Pour toute la durée du Sort, une rage meurtrière incontrôlable dévore la victime qui ne songe qu'à tuer l'objet de sa haine. Elle s'en prend donc à lui au mieux de ses capacités.\nAu début de chaque Tour, la victime fait un Jet d'Honneur contre un ND 30 afin de contrôler sa rage pour le Round. Consacrant une bonne partie de son énergie à contenir sa colère, elle ne peut alors entreprendre que des Actions Simples ou Gratuites pour le Round."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 3,
+    "Portee": "metres",
+    "ZoneEffet": "cadavre",
+    "Duree": "indefinie",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "6",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1;3",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6019",
+    "Name": "Essence de la Fausse Vie",
+    "Description": "Ce Sort anime un cadavre pour en faire un guerrier mort-vivant. Contrairement aux zombies temporaires créés par Invoquer un Champion Mort-Vivant, ce Sort lie un kansen à un cadavre, créant un puissant revenant Souillé qui sert le lanceur au mieux. La créature en question, un revenant, est décrite page 328 du Livre du Vide. Le monstre reste indéfiniment (du moins jusqu'à sa destruction) et la Souillure qui l'imprègne l'empêche de se décomposer davantage. Il ne peut parler, mais comprend les ordres verbaux et y obéit. Enfin, il sert le maho-tsukai qui l'a invoqué jusqu'à être détruit physiquement."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 3,
+    "Portee": "metres",
+    "ZoneEffet": "invocation",
+    "Duree": "indefinie",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1g0",
+        "Model_Tag": "AGS0024"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0048"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6020",
+    "Name": "Invoquer un Oni",
+    "Description": "Comptant parmi les Sorts les plus périlleux du répertoire des maho-tsukai, ce Sort invoque un oni de Jigoku. Le monstre apparaît où le laceur le souhaite dans les limites de portée mais il faut aussitôt lui donner un nom : celui du lanceur ou d'une personne étroitement liée au lanceur (un ami proche, un parent direct, ou un individu à qui le lanceur doit la vie), sans quoi il repart sur-le-champ à Jigoku. Le nom retient en fait l'oni à Ningen-do et lui permet de rester dans le royaume des mortels.\nUne fois l'oni baptisé, le lanceur effectue un Jet d'Opposition de Volonté contre lui. S'il lui a donné son propre nom, il gagne un bonus de +3g2 au jet, sachant qu'il peut également déclarer des Augmentations lorsqu'il lance le Sort pour gagner des dés lancés (mais non gardés) supplémentaires en vue de ce jet. Le MJ doit bien évidemment déterminer la Volonté de l'oni : un oni puissant aura une volonté élevée. Si le lanceur remporte le jet, le monstre obéit à ses ordres, du moins pour l'instant. Dans le cas contraire, l'oni recouvre la liberté et cède habituellement à une rage meurtrière jusqu'à la complète destruction de celui qui l'a invoqué.\nLe baptême d'un oni reste une affaire périlleuse, car le monstre va tenter de voler le nom en question pour recouvrer son libre arbitre et évoluer en toute liberté dans le royaume des mortels. Ces créatures deviennent des Seigneurs Oni, des monstres surpuissants capables de produire des copies mineures d'eux-mêmes. Ainsi, un oni invoqué ne s'en prendra habituellement pas tout de suite à la personne qui lui a donné son nom, mais cherchera à la garder en vie jusqu'à ce qu'elle parvienne à lui voler totalement son nom.\nUne personne qui partage son nom avec un oni acquiert une Marque d'Oni, qui prend la forme d'une légère décoloration de la peau. Chaque jour, le porteur d'une telle marque doit réussir un Jet de Terre pour ne pas gagner de Souillure de l'Outremonde dûe au lien corrupteur qu'il entretient avec l'oni (pour plus de détails, reportez-vous aux règles traitant de la Souillure). Chaque semaine, il doit faire un autre Jet d'Opposition de Volonté, semblable au premier, contre l'oni pour ne pas lui céder son nom. L'oni gagne +1g1 à ce jet pour chaque Rang de Souillure de l'Outremonde que la Marque a infligée au porteur. Si le porteur du nom et la personne ayant convoqué l'oni ne font qu'une seule et même personne, il gagne toujours le bonus de +3g2 au jet, sans oublier les bonus des Augmentations du Sort d'origine.\nSi l'oni remporte ce jet, il vole le nom de sa victime et devient un Seigneur Oni, se libérant de son invocateur (même si ce dernier diffère de celui ayant la Marque d'Oni). Désormais privée de son nom, la victime de la Marque d'Oni devient l'esclave du monstre et doit obéir à ses ordres.\nSi l'oni est détruit ou renvoyé à Jigoku, il perd son lien avec la personne dont il porte le nom, et la Marque d'Oni disparaît."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 3,
+    "Portee": "contact",
+    "ZoneEffet": "individu",
+    "Duree": "heures",
+    "FacteurPortee": 0,
+    "FacteurZone": 1,
+    "FacteurDuree": 24,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "24",
+        "Model_Tag": "AGS0002"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6021",
+    "Name": "Mort Par-Delà la Vie",
+    "Description": "Ce maléfice compte parmi les Sorts les plus secrets des chefs du culte des Adeptes du Sang et ne s'apprend que rarement chez les maho-tsukai qui n'appartiennent pas à cet ordre d'élite. Il permet au lanceur de tromper la mort, pour son propre compte ou celui d'autrui. Le Sort doit être lancé sur une cible vivante et ses effets protecteurs durent 24 heures, même si des lanceurs de sort de talent sauront les prolonger. Si la cible meurt alors que le Sort agit encore, de puissants kansen emportent son âme et l'empêchent de passer à Meido pour y être jugée. Huit heures après la mort, ils rapportent l'âme et la réincarnent dans son corps, puis la cible revient à la vie au Rang de Blessure Epuisé. En revenant ainsi d'entre les morts, la cible subit un Rang de Souillure, tout simplement parce que son âme est restée entre les mains de kansen pendant 8 heures.\nCette résurrection blasphématoire fonctionne tant que le cadavre de la cible reste intact. Si on tranche des membres ou la tête, elle se ressoude au retour des kansen. La seule façon d'empêcher la résurrection consiste à disperser le corps aux quatre vents ou le réduire en cendres."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 4,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "5",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1g0",
+        "Model_Tag": "AGS0024"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6022",
+    "Name": "Chaînes de Jigoku",
+    "Description": "Noir pendant des Sorts de Coercition des shugenja de Terre, ce maléfice invoque des kansen censés lier et piéger des créatures vivantes (il ne peut donc pas affecter des morts-vivants). Une fois le Sort lancé, des menottes de fer noires et rouillées jaillissent du sol pour emprisonner la cible, qui se retrouve alors clouée sur place. La cible immobilisée et sans défense, devient incapable d'entreprendre la moindre action physique, si ce n'est tenter de se libérer (elle peut tout de même parler). La victime ne peut se libérer qu'en réussissant un Jet d'Opposition de Force contre l'Anneau de Terre du maho-tsukai (ce dernier pouvant déclarer des Augmentations pour gagner des dés lancés, mais non gardés, supplémentaires). Une fois le Sort arrivé à terme, les menottes se dissolvent en une sorte de boue noirâtre dégoûtante."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 4,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "instantane",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1g0",
+        "Model_Tag": "AGS0005"
+      },
+      {
+        "Complement": "6",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6023",
+    "Name": "Souffle Impur",
+    "Description": "Comptant parmi les plus redoutables Sorts de Maho, Souffle Impur transforme l'air que contiennent les poumons de la cible en kansen Souillés qui ressortent violemment de son corps en lui ravageant les voies respiratoires, au point qu'elle saigne du nez, de la bouche et des oreilles. Le Sort a une VD égale à l'Anneau d'Air de la cible en terme de dés gardés. Par ailleurs, les dommages sont tels que le simple fait de respirer devient douloureux. La victime subit donc un malus au ND continu de +10 à toutes ses actions. Cet effet ne saurait s'achever naturellement, même si l'on soigne les Blessures. Toutefois, les soins magiques (Sorts, Kiho et autres effets surnaturels) apaisent les poumons et mettent fin au malus au ND."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 4,
+    "Portee": "kilometres",
+    "ZoneEffet": "individu",
+    "Duree": "jours",
+    "FacteurPortee": 1.5,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0047"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6024",
+    "Name": "Vol d'Âme",
+    "Description": "Contrairement à la plupart des Sorts de Mahou, ce maléfice peut être lacé en qualité de rituel (plusieurs lanceurs peuvent donc y participer). On sait le culte des Adeptes du Sang spécialiste de ce Sort dans le but d'affaiblir et d'estropier ses ennemis. Pour le lancer, le maho-tsukai doit disposer d'un fétiche ou objet appartenant à la cible (une mèche de cheveux, une goutte de sang, un objet personnel, etc.).\nLe Sort attire un kansen hostile et affamé vers la cible, qui voit ses facultés mentales ou physiques drainées. La victime perd 1 Rang dans un Trait au choix du lanceur. On peut la priver de plusieurs Rangs en prenant des Augmentations, mais le Trait ne peut descendre à moins de 1. Pour chaque maho-tsukai supplémentaire participant au Sort, un Trait en plus peut-être drainé d'autant.\nSi ce Sort réduit l'Anneau de Terre de la cible, il diminue également ses Blessures à chaque Rang, provoquant la mort si les dommages déjà subis sont importants."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 4,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "minutes",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6025",
+    "Name": "La Vérité est un Fléau",
+    "Description": "Comptant parmi les plus subtils et les plus destructeurs psychologiquement de l'arsenal des maho-tsukai, ce Sort pousse un kansen à modifier les pensées de la cible, au point que celle-ci ne peut plus mentir. Quoi qu'elle tente de dire, la cible du Sort n'exprimera que vérité, aussi dommageable soit-elle pour elle, sa famille, son seigneur ou son Clan. En fait, elle avouera même de dangereux secrets. Pour cacher la vérité lorsque l'on est victime de ce Sort, il faut réussir un Jet de Volonté contre un ND de 30."
+  },
+  {
+    "Element": "feu",
+    "Maitrise": 5,
+    "Portee": "contact",
+    "ZoneEffet": "individu",
+    "Duree": "rounds",
+    "FacteurPortee": 0,
+    "FacteurZone": 1,
+    "FacteurDuree": 10,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": null,
+        "Model_Tag": "AGS0048"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6026",
+    "Name": "Force des Ténèbres",
+    "Description": "Ce Sort imprègne la cible du pouvoir de la Souillure et bonifie très brièvement ses facultés physiques, ce qui lui permet d'accomplir des exploits de rapidité, de force et de vigueur surhumains. Le bénéficiaire voit son Anneau de Terre augmenter de 1, et ses trois autres Traits Physiqes gagner 1 Rang pour toute la durée du Sort (le lanceur peut déclarer des Augmentations pour accroître les Traits, mais pas l'Anneau de Terre). Il gagne aussi le pouvoir de voir malgré les gênes visuelles : brouillard, fumée ou obscurité. Les signes physiques de cette amélioration apparaissent autant visibles que grotesques : la peau de la cible enfle et ses yeux prennent une teinte rouge sang.\nCe Sort augmente le nombre de Blessures par Rang de Blessure de la cible afin qu'elles correspondent à son Anneau de Terre. Une fois le Sort expiré, l'Anneau de Terre retombe à la normale, tout comme les Blessures de la cible, ce qui peut la tuer si elle a subit de graves dommages alors qu'elle jouissait du Sort."
+  },
+  {
+    "Element": "air",
+    "Maitrise": 5,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "jours",
+    "FacteurPortee": 30,
+    "FacteurZone": 1,
+    "FacteurDuree": 1,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0002"
+      },
+      {
+        "Complement": "7.5",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1g0",
+        "Model_Tag": "AGS0024"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6027",
+    "Name": "Possession",
+    "Description": "Ce Sort redoutable permet au maho-tsukai de posséder une personne, d'introduire son âme dans le corps possédé pour en prendre le contrôle tel un pantin. Le lanceur doit connaître le nom de la victime choisie et disposer d'une goutte de sang ou d'une mèche de cheveux de celle-ci. Une fois le Sort lancé, le maho-tsukai doit faire un Jet d'Opposition de Volonté contre la cible (le lanceur doit déclarer des Augmentations pour gagner des dés lancés, mais non gardés au jet)/ Si la cible le remporte, la possession échoue et le lanceur subit 2g1 Blessures, car les kansen courroucés s'en prennent à celui qui les a appelés. Mais si le lanceur l'emporte, il possède le corps de la victime et peut en faire ce qu'il veut. Toutefois, il n'a pas accès à ses souvenirs, ses connaissances ou son instinct. En termes de jeu, le corps possédé a ses Traits et Avantages physiques, mais les Traits Mentaux, Avantages Mentaux/Spirituels, Techniques d'École et Compétences de maho-tsukai.\nLa victime du Sort sait ce qui lui arrive, comme si elle vivait une sorte de rêve éveillé. Une fois le Sort expiré, l'âme du lanceur repart vers son corps et la victime recouvre son libre arbitre (elle doit alors faire face aux conséquences de ses actes).\nTant que dure la possession, le corps du lanceur est plongé dans une sorte de coma. Il ne peut mettre un terme à la possession prématurément ou retourner dans son corps comme bon lui semble. Si l'hôte meurt, le maho-tsukai réintègre aussitôt son corps. Si le corps du lanceur est tué, il n'a aucun endroit où aller au moment où le Sort expire et meurt donc quand le maléfice prend fin."
+  },
+  {
+    "Element": "terre",
+    "Maitrise": 5,
+    "Portee": "metres",
+    "ZoneEffet": "individu",
+    "Duree": "instantane",
+    "FacteurPortee": 15,
+    "FacteurZone": 1,
+    "FacteurDuree": 0,
+    "PorteeXRang": false,
+    "ZoneXRang": false,
+    "DureeXRang": false,
+    "Augmentations": [
+      {
+        "Complement": "3",
+        "Model_Tag": "AGS0001"
+      },
+      {
+        "Complement": "1;2",
+        "Model_Tag": "AGS0004"
+      }
+    ],
+    "MotClefs": null,
+    "Concentration": false,
+    "Tag": "SRT6028",
+    "Name": "Toucher de Mort",
+    "Description": "Toucher de Mort, le plus redoutable des Sorts de Maho, noircit et pourrit la cible. La peau de ce dernier se ratatine et prend une teinte noirâtre, ses cheveux virent au gris avant de tomber, et son corps est perclus de douleur. La victime vieillit physiquement de 1à ans et subit 7g7 Blessures. Ces dernières peuvent être soignées normalement, mais le vieillissement ne peut être inversé et un personnage qui a le malheur d'être touché plusieurs fois par ce Sort deviendra rapidement un vieillard décrépit (s'il ne meurt pas tout bonnement)."
+  }
+]
